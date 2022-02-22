@@ -1,0 +1,28 @@
+## Eschew #flashcard 
+ \ e-ˈshü, i-; es-ˈchü \
+
+_Verb_
+
+1.  to avoid habitually especially on moral or practical grounds
+___
+##### Similar
+[[avoid]]
+[[dodge]]
+[[duck]]
+[[elude]]
+[[escape]]
+[[evade]]
+[[finesse]]
+[[get around]]
+[[scape]]
+[[shake]]
+[[shirk]]
+[[shun]]
+
+##### References 
+(https://www.merriam-webster.com/dictionary/eschew)
+
+##### Metadata
+Status: #☀️ 
+Type: #🔵/Vocabulary 
+Tags: 
