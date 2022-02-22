@@ -7,11 +7,8 @@
         "id": "336ac8911a87a652",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -35,7 +32,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#🔵/Vocabulary",
+            "query": "Untitled",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -57,7 +54,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,6 +70,7 @@
   "active": "336ac8911a87a652",
   "lastOpenFiles": [
     "Untitled.md",
+    "staggering.md",
     "Untitled 1.md",
     "README.md",
     "Ambiguous.md",
@@ -81,8 +78,6 @@
     "Appeal to Authority.md",
     "Ad Hominem.md",
     "C.R.A.A.P Test.md",
-    "Countenance.md",
-    "Eschew.md",
-    "Indolent.md"
+    "Countenance.md"
   ]
 }
