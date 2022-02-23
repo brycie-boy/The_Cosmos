@@ -1,5 +1,4 @@
-## 🎯 TODO
-[[🎯 TODO]]:
+## 🎯 ToDo/Goals
 - [ ] DMV appointment
 - [ ] Automate obsidian sync
 - [ ] Set up workout routine
@@ -11,7 +10,7 @@
 
 ## 🤓 Learning
 ##### Learning today?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 ##### Inboxes
@@ -30,12 +29,12 @@ Add new source:
 > - 📝 = Digesting
 > - 3 Max!
 .
-- [ ] **1.** 
+- [x] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words: An Anthology of Discourses from the Pali Canon
 - Author: 
-- Stage: 📖
+- Stage: 📖 [[In The Buddha’s Words Chapter V. THE WAY TO A FORTUNATE REBIRTH]]
 .
 - [ ] **2**
 
@@ -48,11 +47,12 @@ Add new source:
 ##### Free time activities
 - [ ] TODO
 - [ ] Watch TV 
-	- Ergo Proxy
+	- [ ] Paranoid agent
 - [ ] Watch movie
-	- Ghost in a shell
-	- Akira
-	- Fallen angles
+	- [x] Yung lean Doc
+	- [ ] Ghost in a shell
+	- [ ] Akira
+	- [ ] Fallen angles
 - [ ] Listen to podcast
 - Listen to music
 	- [ ] By itself
