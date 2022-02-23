@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tumult.md",
+            "file": "✏️ Journal/🗓 Daily Planner.md",
             "mode": "preview"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tumult.md",
+            "file": "✏️ Journal/🗓 Daily Planner.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -72,10 +72,10 @@
   },
   "active": "336ac8911a87a652",
   "lastOpenFiles": [
-    "Tumult.md",
-    "Tranquil.md",
     "✏️ Journal/🗓 Daily Planner.md",
+    "Tumult.md",
     "✏️ Journal/📃 Source List.md",
+    "Tranquil.md",
     "D1E888B9-D680-4824-A1FA-9C02947937C9.jpeg",
     "shirk.md",
     "Ambiguous.md",

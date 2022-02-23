@@ -43,8 +43,6 @@
 - [ ] Watch TV 
 	- [ ] Paranoid agent
 - [ ] Watch movie
-	- [x] Yung lean Doc
-	- [ ] Ghost in a shell
 	- [ ] Akira
 	- [ ] Fallen angles
 - [ ] Listen to podcast

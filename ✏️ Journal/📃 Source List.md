@@ -15,6 +15,14 @@
 - Source: The Dhammapada
 - Author: The Buddha
 
+![[442BC5D6-B981-4DF1-AE15-7B27842FBD80.jpeg|80]]
+- Source: Self Reliance
+- Author: Ralph Waldo Emerson
+
+![[826B467D-A0D3-4E48-8708-5086A8457838.jpeg|80]]
+- Source: Solitude: A Return to the Self
+- Author: Anthony Storr
+
 ## **Self improvement:**
 ##### **Productivity / Health / Finance:**.
 
