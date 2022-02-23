@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eschew.md",
-            "mode": "preview"
+            "file": "Delphic.md",
+            "mode": "source"
           }
         }
       }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eschew.md",
+            "file": "Delphic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,15 +73,15 @@
   },
   "active": "336ac8911a87a652",
   "lastOpenFiles": [
-    "Eschew.md",
-    "Untitled.md",
-    "staggering.md",
-    "Untitled 1.md",
-    "README.md",
-    "Ambiguous.md",
-    "In The Buddha’s Words Chapter V. THE WAY TO A FORTUNATE REBIRTH.md",
-    "Appeal to Authority.md",
-    "Ad Hominem.md",
-    "C.R.A.A.P Test.md"
+    "Delphic.md",
+    "arcane.md",
+    "enigmatic.md",
+    "portentous.md",
+    "Placid.md",
+    "Countenance.md",
+    "Idle.md",
+    "Dubious.md",
+    "Processed Foods.md",
+    "reprimand.md"
   ]
 }

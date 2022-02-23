@@ -10,9 +10,9 @@ ___
 
 
 ##### References 
-
+https://www.merriam-webster.com/dictionary/exonerate
 
 ##### Metadata
-Status:
-Type:
+Status: #☀️ 
+Type: #🔵/Vocabulary 
 Tags:
