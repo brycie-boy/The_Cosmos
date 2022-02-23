@@ -15,20 +15,14 @@
 
 ##### Inboxes
 
-- [[📝 Note Pad]] max:
-	- Words: ❗️
-	- Terms:
-- Raindrop.Io max:
+- Words: ❗️
 
 ##### Choose Today’s Source
-
-Add new source:
-[[📃 Source List]]
 
 > - 📖 = Ingesting
 > - 📝 = Digesting
 > - 3 Max!
-.
+
 - [x] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
