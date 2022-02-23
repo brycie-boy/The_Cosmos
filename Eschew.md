@@ -13,9 +13,7 @@ ___
 [[escape]]
 [[evade]]
 [[finesse]]
-[[get around]]
 [[scape]]
-[[shake]]
 [[shirk]]
 [[shun]]
 
