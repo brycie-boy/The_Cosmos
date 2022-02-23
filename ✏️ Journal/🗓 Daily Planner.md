@@ -1,7 +1,7 @@
 ## 🎯 TODO
 [[🎯 TODO]]:
 - [ ] DMV appointment
-- [x] sync obsidian
+- [ ] Automate obsidian sync
 - [ ] Set up workout routine
 - [ ] Work on GED
 - [x] Change passwords and emails
