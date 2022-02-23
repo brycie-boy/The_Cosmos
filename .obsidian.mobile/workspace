@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Delphic.md",
+            "file": "✏️ Journal/🗓 Daily Planner.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Delphic.md",
+            "file": "✏️ Journal/🗓 Daily Planner.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,7 @@
   },
   "active": "336ac8911a87a652",
   "lastOpenFiles": [
+    "✏️ Journal/🗓 Daily Planner.md",
     "Delphic.md",
     "arcane.md",
     "enigmatic.md",
@@ -81,7 +82,6 @@
     "Countenance.md",
     "Idle.md",
     "Dubious.md",
-    "Processed Foods.md",
-    "reprimand.md"
+    "Processed Foods.md"
   ]
 }
