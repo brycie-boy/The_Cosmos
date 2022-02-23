@@ -1,7 +1,4 @@
-Status: #☀️ 
-Type: #🔵/Vocabulary
-
-# sub·lime #flashcard 
+## sub·lime #flashcard 
 \ sə-ˈblīm \
 
 1.
@@ -9,7 +6,7 @@ Type: #🔵/Vocabulary
 a: lofty, grand, or exalted in thought, expression, or manner
 
 b: of outstanding spiritual, intellectual, or moral worth
-
+___
 ##### Similar
 [[amazing]]
 [[astonishing]]
@@ -20,7 +17,6 @@ b: of outstanding spiritual, intellectual, or moral worth
 [[fabulous]]
 [[marvelous]]
 [[miraculous]]
-[[portentous]]
 [[prodigious]]
 [[staggering]]
 [[stunning]]
@@ -30,3 +26,7 @@ b: of outstanding spiritual, intellectual, or moral worth
 
 ##### References
 - https://www.merriam-webster.com/dictionary/sublime
+
+##### Metadata
+Status: #☀️ 
+Type: #🔵/Vocabulary

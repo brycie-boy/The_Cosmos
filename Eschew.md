@@ -13,8 +13,6 @@ ___
 [[escape]]
 [[evade]]
 [[finesse]]
-[[scape]]
-[[shirk]]
 [[shun]]
 
 ##### References 

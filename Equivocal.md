@@ -1,14 +1,9 @@
-Status: #☀️ 
-Type: #🔵/Vocabulary
-
 ## equiv·o·cal #flashcard 
 \ i-ˈkwi-və-kəl \
 
 _Adjective_
 
-1.
-
-subject to two or more interpretations and usually used to mislead or confuse
+1. subject to two or more interpretations and usually used to mislead or confuse
 
 ##### Similar:
 [[Dodgy]]
@@ -20,6 +15,10 @@ subject to two or more interpretations and usually used to mislead or confuse
 
 ##### References
 https://www.merriam-webster.com/dictionary/equivocal
+
+##### Metadata
+Status: #☀️ 
+Type: #🔵/Vocabulary
 
 
 

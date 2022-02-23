@@ -3,12 +3,9 @@
 ___
 ##### Similar
 -   [[apologetic]]
--   [[compunctious]]
--   [[penitent]]
 -   [[regretful]]
 -   [[remorseful]]
 -   [[repentant]]
--   [[rueful]]
 -   [[sorry]]
 
 ##### References 

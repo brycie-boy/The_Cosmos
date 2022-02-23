@@ -15,7 +15,6 @@ _adjective_
 [[Peaceful]]
 [[Still]]
 [[Serene]]
-[[Placid]] 
 
 ##### References
 - https://www.merriam-webster.com/dictionary/tranquil
