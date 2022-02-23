@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Tum",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -45,7 +45,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "373ec0db4b626b12",
@@ -68,8 +68,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "active": "336ac8911a87a652",
   "lastOpenFiles": [
