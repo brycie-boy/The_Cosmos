@@ -15,7 +15,6 @@
 
 10 Words max -> [[🗓 Daily Planner]]
 
-11. tumultuous
 12. Evanescence
 13.  pedagogic
 14. impersonal

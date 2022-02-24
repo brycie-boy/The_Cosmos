@@ -30,4 +30,4 @@ ___
 ##### Metadata
 Status: #☀️ 
 Type: #🔵/Vocabulary 
-Tags:
+Tags: [[Vocabulary]]

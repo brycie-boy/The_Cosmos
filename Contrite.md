@@ -13,5 +13,5 @@ https://www.merriam-webster.com/dictionary/contrite
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵/Vocabulary 
-Tags:
+Type: #🔵
+Tags: [[Vocabulary]]
