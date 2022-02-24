@@ -1,5 +1,6 @@
 ## 🎯 ToDo/Goals
-- [ ] DMV appointment
+- [x] DMV appointment
+- [x] Fix ethereum miner error
 - [ ] Automate obsidian sync
 - [ ] Set up workout routine
 - [ ] Work on GED
@@ -40,12 +41,11 @@
 ## Free time
 ##### Free time activities
 - [ ] TODO
-- [ ] Watch TV 
+- Watch TV 
 	- [ ] Paranoid agent
-- [ ] Watch movie
+- Watch movie
 	- [ ] Akira
 	- [ ] Fallen angles
-- [ ] Listen to podcast
 - Listen to music
 	- [ ] By itself
 	- [ ] While playing video games
@@ -53,6 +53,8 @@
 	- [ ] While doing chores
 	- [ ] While cooking
 	- [ ] While driving
+- [ ] Listen to podcast
+- [ ] Make music
 
 ___
 
