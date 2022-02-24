@@ -20,5 +20,5 @@ ___
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵/Vocabulary 
-Tags: 
+Type: #🔵
+Tags: [[Vocabulary]]

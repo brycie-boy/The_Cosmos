@@ -1,11 +1,9 @@
 ## sub·lime #flashcard 
 \ sə-ˈblīm \
 
-1.
+1. a: lofty, grand, or exalted in thought, expression, or manner
 
-a: lofty, grand, or exalted in thought, expression, or manner
-
-b: of outstanding spiritual, intellectual, or moral worth
+	b: of outstanding spiritual, intellectual, or moral worth
 ___
 ##### Similar
 [[amazing]]
@@ -29,4 +27,5 @@ ___
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵/Vocabulary
+Type: #🔵
+Tags: [[Vocabulary]]

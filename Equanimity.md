@@ -14,9 +14,6 @@ ___
 [[Cool]]
 [[Serene]]
 [[Tranquil]]
-[[Countenance]]
-[[Placid]]
-[[Repose]]
 
 ##### References
 - https://www.merriam-webster.com/dictionary/equanimity
@@ -24,7 +21,7 @@ ___
 ##### Metadata
 Status: #☀️ 
 Type: #🔵
-
+Tags: [[Vocabulary]]
 
 
 

@@ -14,5 +14,5 @@ https://www.merriam-webster.com/dictionary/exonerate
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵/Vocabulary 
-Tags:
+Type: #🔵
+Tags: [[Vocabulary]]

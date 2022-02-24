@@ -4,6 +4,7 @@
 _Adjective_
 
 1. subject to two or more interpretations and usually used to mislead or confuse
+___
 
 ##### Similar:
 [[Dodgy]]
@@ -18,7 +19,7 @@ https://www.merriam-webster.com/dictionary/equivocal
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵/Vocabulary
-
+Type:  #🔵 
+Tags: [[Vocabulary]]
 
 
