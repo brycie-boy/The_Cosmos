@@ -1,4 +1,4 @@
-## Eschew #flashcard 
+## eschew #flashcard 
  \ e-ˈshü, i-; es-ˈchü \
 
 _Verb_

@@ -1,4 +1,4 @@
-## Exonerate #flashcard 
+## exonerate #flashcard 
 _Verb_
 
 1. to relieve of a responsibility, obligation, or hardship

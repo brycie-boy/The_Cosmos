@@ -7,10 +7,10 @@ _adjective_
 ___
 
 ##### Similar
-[[Calm]]
-[[Peaceful]]
-[[Still]]
-[[Serene]]
+[[calm]]
+[[peaceful]]
+[[still]]
+[[serene]]
 
 ##### References
 - https://www.merriam-webster.com/dictionary/tranquil

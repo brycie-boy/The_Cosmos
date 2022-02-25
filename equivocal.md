@@ -7,12 +7,12 @@ _Adjective_
 ___
 
 ##### Similar:
-[[Dodgy]]
-[[Shady]]
-[[Dubious]]
-[[Questionable]]
-[[Suspicious]]
-[[Ambiguous]] 
+[[dodgy]]
+[[shady]]
+[[dubious]]
+[[questionable]]
+[[suspicious]]
+[[ambiguous]] 
 
 ##### References
 https://www.merriam-webster.com/dictionary/equivocal

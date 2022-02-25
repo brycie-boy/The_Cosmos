@@ -8,12 +8,12 @@ _noun_
 ___
 
 ##### Similar:
-[[Calm]]
-[[Collected]]
-[[Composed]]
-[[Cool]]
-[[Serene]]
-[[Tranquil]]
+[[calm]]
+[[collected]]
+[[composed]]
+[[cool]]
+[[serene]]
+[[tranquil]]
 
 ##### References
 - https://www.merriam-webster.com/dictionary/equanimity

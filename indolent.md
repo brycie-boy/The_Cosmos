@@ -9,11 +9,11 @@ _adjective_
 ___
 
 ##### Similar
-[[Idle]]
-[[Lazy]] 
-[[Slothful]]
-[[Sluggish]]
-[[Lethargic]]
+[[idle]]
+[[lazy]] 
+[[slothful]]
+[[sluggish]]
+[[lethargic]]
 
 ##### References
 - (https://www.merriam-webster.com/dictionary/indolent#synonyms)

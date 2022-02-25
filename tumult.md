@@ -1,4 +1,4 @@
-## Tumult #flashcard 
+## tumult #flashcard 
 _noun_
 
 1. a turbulent uprising
