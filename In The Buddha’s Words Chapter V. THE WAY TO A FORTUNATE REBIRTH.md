@@ -103,6 +103,18 @@ The practice of meditation is not only the heart of the path to liberation but a
 - Highlight(pink) - Location 2739
 “divine abodes” (brahmavih̄ra) or “immeasurable states” (appamaññ̄): the development of loving-kindness, compassion, altruistic joy, and equanimity, which are to be extended boundlessly to all sentient beings.
 
+- Highlight(pink) - Location 2741
+loving-kindness (mett̄) is the wish for the welfare and happiness of all beings;
+
+- Highlight(pink) - Location 2742
+compassion (karuṇā), the feeling of empathy for all those afflicted with suffering;
+
+- Highlight(pink) - Location 2742
+altruistic joy (muditā), the feeling of happiness at the success and good fortune of others;
+
+- Highlight(pink) - Location 2743
+equanimity (upekkh̄), a balanced reaction to joy and misery, which protects one from emotional agitation.
+
 
 # 4.
 
