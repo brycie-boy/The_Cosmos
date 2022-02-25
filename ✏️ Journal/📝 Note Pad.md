@@ -6,10 +6,6 @@
 
 10 Words max -> [[🗓 Daily Planner]]
 
-12. Evanescence
-13.  pedagogic
-14. impersonal
-15. proclivities
 16. subterfuge
 17.  Niggardliness
 18. Conceit 
