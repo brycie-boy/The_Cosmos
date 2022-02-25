@@ -88,17 +88,13 @@ the Buddha is supreme among persons, the Dhamma among teachings, and the Saṅgh
 - Highlight(pink) - Location 2702
 giving serves to break down the egocentric frame of mind on the basis of which we habitually interact with others.
 
-# 4.
-
 - Highlight(pink) - Location 2723
 “moral discipline” (sīla),
 
 - Highlight(pink) - Location 2724
 five precepts, the training rules to abstain from taking life, stealing, sexual misconduct, false speech, and the use of intoxicants.
 
-
-
-# 5.
+# 4.
 
 - Highlight(pink) - Location 2625
 The twin doctrines of kamma and rebirth enable us to see that the world in which we live is, in important respects, an external reflection of the internal cosmos of the mind. This does not mean that the external world can be reduced to a mental projection in the way proposed by certain types of philosophical idealism. However, taken in conjunction, these two doctrines do show that the conditions under which we live closely correspond to the karmic tendencies of our minds.
@@ -107,7 +103,7 @@ The twin doctrines of kamma and rebirth enable us to see that the world in which
 The reason why a living being is reborn into a particular realm is because in a previous life that being has generated the kamma, or volitional action, that leads to rebirth into that realm. Thus, in the final analysis, all the realms of existence have been formed, fashioned, and sustained by the mental activity of living beings.
 
 
-# 6.
+# 5.
 
 - Highlight(pink) - Location 2645
 The Buddhist cosmos is divided into three broad realms—the sense-sphere realm (kāmadhātu), the form realm (rūpadh̄tu ), and the formless realm (arūpadhātu)—each comprising a range of subsidiary planes.
