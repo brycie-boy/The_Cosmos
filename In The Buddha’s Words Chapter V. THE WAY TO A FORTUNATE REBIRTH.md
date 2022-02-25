@@ -14,11 +14,13 @@ According to the Buddha’s teaching, the cosmos, with its many realms of sentie
 
 - Highlight(pink) - Location 2585
 The governing factor in this process, the factor that makes the entire process a lawful one, is a force called kamma
+
 - Highlight(pink) - Location 2586
 The word “kamma” literally means action, but technically it refers to volitional action. As the Buddha says: “It is volition (cetanā) that I call kamma; for having willed (cetayitvā), one acts by body, speech, and mind.”
 
 - Highlight(pink) - Location 2589
 Such volition may remain purely mental, generating mental kamma that occurs as thoughts, plans, and desires; or it may come to expression outwardly through manifest bodily and verbal actions.
+
 - Highlight(pink) - Location 2592
 all morally determinate volitional actions create a potential to bring forth results (vipāka) or fruits (phala) that correspond to the ethical quality of those actions. This capacity of our deeds to produce the morally appropriate results is what is meant by kamma. Our deeds generate kamma, a potential to produce fruits that correspond to their own intrinsic tendencies. Then, when internal and external conditions are suitable, the kamma ripens and produces the appropriate fruits.
 
@@ -63,10 +65,40 @@ four kinds of verbal misconduct: lying, malicious speech, harsh speech, and idle
 - Highlight(pink) - Location 2639
 three kinds of mental misconduct: covetousness, ill will, and wrong view.
 
+ Highlight(pink) - Location 2641
+the ten types of unwholesome kamma are the reason that beings are reborn in the bad destinations after death; the ten types of wholesome kamma are the reason that beings are reborn in the good destinations after death.
+
+# 4.
+
+- Highlight(pink) - Location 2687
+merit (puñña), wholesome kamma capable of yielding favorable results within the cycle of rebirths.
+
+- Highlight(pink) - Location 2688
+Merit produces mundane benefits, such as a good rebirth, wealth, beauty, and success. It also serves as an enhancing condition for supramundane benefits, that is, for attaining the stages along the path to enlightenment. Hence, as seen in Text V,2(1), the Buddha urges his disciples to cultivate merit, referring to his own cultivation of merit over many previous lives as an example.
+
+- Highlight(pink) - Location 2690
+The Nikāyas concisely organize the types of merit into three “bases of meritorious deeds” (puññakiriyavatthu): giving, moral discipline, and meditation.
+
+- Highlight(pink) - Location 2692
+In the Indian religious context, the practice of meritorious deeds revolves around faith in certain objects regarded as sacred and spiritually empowering, capable of serving as a support for the acquisition of merit. For followers of the Buddha’s teaching these are the Three Jewels: the Buddha, the Dhamma, and the Saṅgha.
+
+- Highlight(pink) - Location 2695
+the Buddha is supreme among persons, the Dhamma among teachings, and the Saṅgha among religious communities.
+
+- Highlight(pink) - Location 2702
+giving serves to break down the egocentric frame of mind on the basis of which we habitually interact with others.
+
+
 # 3.
 
-- Highlight(pink) - Location 2641
-the ten types of unwholesome kamma are the reason that beings are reborn in the bad destinations after death; the ten types of wholesome kamma are the reason that beings are reborn in the good destinations after death.
+ Highlight(pink) - Location 2625
+The twin doctrines of kamma and rebirth enable us to see that the world in which we live is, in important respects, an external reflection of the internal cosmos of the mind. This does not mean that the external world can be reduced to a mental projection in the way proposed by certain types of philosophical idealism. However, taken in conjunction, these two doctrines do show that the conditions under which we live closely correspond to the karmic tendencies of our minds.
+
+- Highlight(pink) - Location 2628
+The reason why a living being is reborn into a particular realm is because in a previous life that being has generated the kamma, or volitional action, that leads to rebirth into that realm. Thus, in the final analysis, all the realms of existence have been formed, fashioned, and sustained by the mental activity of living beings.
+
+
+# 4.
 
 - Highlight(pink) - Location 2645
 The Buddhist cosmos is divided into three broad realms—the sense-sphere realm (kāmadhātu), the form realm (rūpadh̄tu ), and the formless realm (arūpadhātu)—each comprising a range of subsidiary planes.
@@ -77,12 +109,42 @@ The sense-sphere realm, our realm, is so called because the beings reborn here a
 - Highlight(pink) - Location 2648
 The realm is divided into two levels, the bad destinations and the good destinations.
 
-# 4. 
-- Highlight(pink) - Location 2625
-The twin doctrines of kamma and rebirth enable us to see that the world in which we live is, in important respects, an external reflection of the internal cosmos of the mind. This does not mean that the external world can be reduced to a mental projection in the way proposed by certain types of philosophical idealism. However, taken in conjunction, these two doctrines do show that the conditions under which we live closely correspond to the karmic tendencies of our minds.
+- Highlight(pink) - Location 2648
+The bad destinations or “states of misery” (apāya) are three in number: the hells, states of intense torment (see MN 129 and 130, not included in this anthology); the animal kingdom; and the sphere of spirits (pettivisaya ), beings afflicted with incessant hunger, thirst, and other sufferings.
 
-- Highlight(pink) - Location 2628
-The reason why a living being is reborn into a particular realm is because in a previous life that being has generated the kamma, or volitional action, that leads to rebirth into that realm. Thus, in the final analysis, all the realms of existence have been formed, fashioned, and sustained by the mental activity of living beings.
+- Highlight(pink) - Location 2652
+The good destinations in the sense-sphere realm are the human world and the six sensual heavenly planes.
+
+- Highlight(pink) - Location 2653
+The latter are: the devas in the heaven of the Four Great Kings, who are presided over by four powerful devas (namely, the Four Great Kings); the Tāvatiṃsa devas presided over by Sakka, a devotee of the Buddha who is faithful but prone to negligence (see the Sakkasaṃyutta, SN chapter 11); the Yāma devas; the devas of the Tusita heaven, the abode of a bodhisatta before his final birth; the Nimmānaratī devas (“the gods who delight in creating”); and the Paranimmitavasavattī devas (“the gods who control what is created by others”).
+
+- Highlight(pink) - Location 2657
+In the form realm the grosser types of material form are absent. Its denizens, known as brahmās, enjoy bliss, power, luminosity, and vitality far superior to the beings in the sense-sphere realm
+
+- Highlight(pink) - Location 2659
+The form realm consists of sixteen planes. These are the objective counterparts of the four jhānas.
+
+- Highlight(pink) - Location 2659
+Attainment of the first jhāna leads to rebirth among Brahmā’s assembly, the ministers of Brahmā, and the Mahābrahmās, according to whether it is developed to an inferior, middling, or superior degree.
+
+- Highlight(pink) - Location 2661
+The second jhāna, attained in the same three degrees, leads respectively to rebirth among the devas of limited radiance, of measureless radiance, and of streaming radiance.
+
+- Highlight(pink) - Location 2662
+The third jhāna, attained in the same three degrees, leads respectively to rebirth among the devas of limited glory, of measureless glory, and of refulgent glory.
+
+- Highlight(pink) - Location 2663
+The fourth jhāna ordinarily leads to rebirth among the devas of great fruit, but if developed with a feeling of disgust for perception, it will conduce to rebirth among the “nonpercipient beings,” beings who lack perception.
+
+- Highlight(pink) - Location 2665
+The form realm also comprises five planes reserved exclusively for the rebirth of nonreturners called the pure abodes: aviha, atappa, sudassa, sudassī, and akaniṭṭha. In each of the subtle form planes, the lifespan is said to be of enormous duration and to increase significantly with each higher plane.
+
+- Highlight(pink) - Location 2668
+In the third realm of existence, material form is nonexistent and bare mental processes exist; hence it is called the formless realm.
+
+- Highlight(pink) - Location 2669
+This realm consists of four planes, which are the objective counterparts of the four formless meditative attainments, after which they are named: the base of the infinity of space, the base of the infinity of consciousness, the base of nothingness, and the base of neither-perception-nor-nonperception
+
 
 ##### Cited Refrences
 

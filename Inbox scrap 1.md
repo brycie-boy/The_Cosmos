@@ -120,7 +120,7 @@ Highlight(pink) - Location 2647
 
 The sense-sphere realm, our realm, is so called because the beings reborn here are strongly driven by sensual desire.
 
-Highlight(pink) - Location 2648 *
+Highlight(pink) - Location 2648 
 
 The realm is divided into two levels, the bad destinations and the good destinations.
 
