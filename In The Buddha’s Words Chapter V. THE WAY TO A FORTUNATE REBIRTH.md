@@ -38,7 +38,7 @@ On the basis of its ethical quality, the Buddha distinguishes kamma into two maj
 - Highlight(pink) - Location 2600
 Unwholesome kamma is action that is spiritually detrimental to the agent, morally reprehensible, and potentially productive of an unfortunate rebirth and painful results.
 
-Highlight(pink) - Location 2757
+- Highlight(pink) - Location 2757
 “And what, monks, is dark kamma with dark results? Here, monks, someone generates an afflictive volitional formation of body, speech, or mind. Having done so, he is reborn in an afflictive world. When he is reborn in an afflictive world, afflictive contacts touch him. Being touched by afflictive contacts, he experiences an afflictive feeling, extremely painful, as for example the beings in hell experience.
 (Four Kinds of Kamma - Location 2754, AN 4:232; II 230–32)
 
@@ -48,9 +48,12 @@ The criterion for judging an action to be unwholesome is its underlying motives,
 - Highlight(pink) - Location 2605
 Wholesome kamma, on the other hand, is action that is spiritually beneficial and morally commendable; it is action that ripens in happiness and good fortune.
 
-Highlight(pink) - Location 2761
-“And what, monks, is bright kamma with bright results? Here, monks, someone generates a non-afflictive volitional formation of body, speech, or mind.
+- Highlight(pink) - Location 2761
+“And what, monks, is bright kamma with bright results? Here, monks, someone generates a non-afflictive volitional formation of body, speech, or mind. Having done so, he is reborn in a non-afflictive world. Being touched by non-afflictive contacts, he experiences a non-afflictive feeling, extremely pleasant, as for example the devas of refulgent glory experience. 9
 (Four Kinds of Kamma - Location 2754, AN 4:232; II 230–32)
+
+- Highlight(pink) - Location 7717
+9 Subhakiṇhā devā. These are the deities inhabiting the highest plane of rebirth corresponding to the third jhāna.
 
 - Highlight(pink) - Location 2606
 Its underlying motives are the three wholesome roots: nongreed, nonhatred, and nondelusion, which may be expressed more positively as generosity, loving-kindness, and wisdom.
