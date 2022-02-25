@@ -260,6 +260,9 @@ In the third realm of existence, material form is nonexistent and bare mental pr
 - Highlight(pink) - Location 2669
 This realm consists of four planes, which are the objective counterparts of the four formless meditative attainments, after which they are named: the base of the infinity of space, the base of the infinity of consciousness, the base of nothingness, and the base of neither-perception-nor-nonperception
 
+- Highlight(pink) - Location 2857
+‘Oh, that on the breakup of the body, after death, may I be reborn in the company of the devas of the realm of the Four Great Kings!… in the company of the Tāvatiṃsa devas … the Yāma devas … the Tusita devas … the devas who delight in creating … the devas who wield power over others’ creations … the devas of Brahmā’s company ... the devas of radiance12 ... the devas of limited radiance ... the devas of immeasurable radiance … the devas of streaming radiance … the devas of glory … the devas of limited glory … the devas of immeasurable glory ... the devas of refulgent glory ... the devas of great fruit ... the aviha devas ... the atappa devas ... the sudassa devas … the sudassī devas … the akaniṭṭha devas … the devas of the base of the infinity of space ... the devas of the base of the infinity of consciousness … the devas of the base of nothingness … the devas of the base of neither-perception-nor-non-perception!’ it is possible that on the breakup of the body, after death, he will be reborn in the company of the devas of the base of neither-perception-nor-non-perception.
+(Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
 ##### Cited Refrences
 
