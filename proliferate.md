@@ -3,7 +3,7 @@
 _verb_
 
 1. a. to increase in number
-     b. to grow by rapid production
+	b. to grow by rapid production
 
 ___
 ##### Similar

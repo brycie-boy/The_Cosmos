@@ -1,4 +1,4 @@
-## Contrite #flashcard 
+## contrite #flashcard 
 1. feeling or showing regret for bad behavior
 ___
 ##### Similar
