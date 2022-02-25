@@ -120,19 +120,19 @@ idle chatter;
 - Highlight(pink) - Location 2639
 three kinds of mental misconduct: covetousness, ill will, and wrong view.
 
-Highlight(pink) - Location 2813
+- Highlight(pink) - Location 2813
 there three kinds of unrighteous mental conduct,
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
-Highlight(pink) - Location 2813
+- Highlight(pink) - Location 2813
 covetous;
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
  
-Highlight(pink) - Location 2814
+- Highlight(pink) - Location 2814
 ill will and intentions of hate
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
-Highlight(pink) - Location 2815
+- Highlight(pink) - Location 2815
 wrong view, distorted vision,
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
@@ -143,6 +143,9 @@ the ten types of unwholesome kamma are the reason that beings are reborn in the 
 it is by reason of such unrighteous conduct, such conduct not in accordance with the Dhamma, that some beings here on the breakup of the body, after death, are reborn in a state of misery, in a bad destination, in the lower world, in hell.
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
+- Highlight(pink)
+it is by reason of such righteous conduct, such conduct in accordance with the Dhamma that some beings here, on the breakup of the body, after death, are reborn in a good destination, even in a heavenly world.
+(Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
 # 3.
 
