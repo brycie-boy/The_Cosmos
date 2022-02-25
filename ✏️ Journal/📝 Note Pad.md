@@ -1,14 +1,5 @@
-[[🎯 TODO]]
-
 ## Ideas
-- self love is the ultimate freedom
-- Education doesn’t end when you leave school, you must eventually take it on yourself
-- School makes people think that learning is a boring chore and isn’t meant to be fun. They associate learning with school and therefor avoid it
 
-##### Short term
-
-
-##### Long term
 
 
 ## Words

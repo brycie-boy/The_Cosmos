@@ -56,8 +56,3 @@
 - [ ] Listen to podcast
 - [ ] Make music
 
-___
-
-##### Metadata
-Type: #📆 
-
