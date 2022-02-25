@@ -100,8 +100,8 @@ While the Buddha enjoins observance of the five precepts upon lay followers as a
 - Highlight(pink) - Location 2735
 The practice of meditation is not only the heart of the path to liberation but a source of merit in its own right. Wholesome meditation practices, even those that do not directly lead to insight, help to purify the grosser levels of mental defilement and uncover deeper dimensions of the mind’s potential purity and radiance.
 
-- Highlight(pink) - Location 2739
-“divine abodes” (brahmavih̄ra) or “immeasurable states” (appamaññ̄): the development of loving-kindness, compassion, altruistic joy, and equanimity, which are to be extended boundlessly to all sentient beings.
+- Highlight(pink) - Location 2738
+Text V,5(1) declares that the type of meditation that is most fruitful for the production of mundane merit is the development of loving-kindness (mettābhāvanā). The practice of loving-kindness, however, is only one among a set of four meditations called the “divine abodes” (brahmavih̄ra) or “immeasurable states” (appamaññ̄): the development of loving-kindness, compassion, altruistic joy, and equanimity, which are to be extended boundlessly to all sentient beings.
 
 - Highlight(pink) - Location 2741
 loving-kindness (mett̄) is the wish for the welfare and happiness of all beings;
