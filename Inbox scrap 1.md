@@ -250,10 +250,6 @@ Highlight(pink) - Location 2754
 
 (1) Four Kinds of Kamma
 
-Highlight(pink) - Location 2754
-
-four kinds of kamma
-
 Highlight(pink) - Location 2755
 
 “There is dark kamma with dark results; there is bright kamma with bright results; there is kamma that is dark and bright with dark and bright results; there is kamma that is neither dark nor bright, with neither dark nor bright results, which leads to the destruction of kamma.
