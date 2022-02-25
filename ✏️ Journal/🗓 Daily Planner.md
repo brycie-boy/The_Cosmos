@@ -50,4 +50,5 @@
 	- [ ] While playing video games
 - [ ] Listen to podcast
 - [ ] Make music
+	- [ ] Watch tutorials
 
