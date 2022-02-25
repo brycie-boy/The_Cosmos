@@ -1,4 +1,5 @@
 ## 🎯 ToDo/Goals
+- [ ] Get some drum kits and plugins
 - [ ] DMV road test appointment
 - [ ] Automate obsidian sync
 - [ ] Set up workout routine
@@ -40,6 +41,7 @@
 ## Free time
 ##### Free time activities
 - [ ] TODO
+- [ ] Make music
 - Watch TV 
 	- [x] Paranoid agent
 - Watch movie (Every Saturday)
@@ -49,6 +51,4 @@
 	- [ ] By itself
 	- [ ] While playing video games
 - [ ] Listen to podcast
-- [ ] Make music
-	- [ ] Watch tutorials
 
