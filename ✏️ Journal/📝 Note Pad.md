@@ -6,16 +6,10 @@
 
 10 Words max -> [[🗓 Daily Planner]]
 
-16. subterfuge
-17.  Niggardliness
-18. Conceit 
 19. Exigency
-20. Mired
 21. Taint
 22. Taxonomy
 23. proliferation,
-24. Vacancy
-25. negligence
 26. Rapture
 27. Ardent
 28. Resolute
