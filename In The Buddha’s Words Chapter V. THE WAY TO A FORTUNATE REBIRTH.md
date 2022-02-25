@@ -97,6 +97,9 @@ five precepts, the training rules to abstain from taking life, stealing, sexual 
 - Highlight(pink) - Location 2729 
 While the Buddha enjoins observance of the five precepts upon lay followers as a full-time obligation, he recommends a more stringent type of moral practice for the uposatha, the observance days determined by the lunar calendar: the full-moon day, the new-moon day, and the two half-moon days. (Of the four, in Buddhist countries today it is the full-moon day that is given priority.) On these occasions, devout lay Buddhists undertake eight precepts: the usual five, but with the third changed to complete sexual abstinence, augmented by three other precepts that emulate the training rules of a novice monk or nun. The eight precepts, enumerated in Text V,4(2), augment the training in sīla as a moral observance with a training in self-restraint, simplicity, and contentment. In this respect they prepare the disciple for the training of the mind undertaken in the practice of meditation, the third base of merit.
 
+- Highlight(pink) - Location 2735
+The practice of meditation is not only the heart of the path to liberation but a source of merit in its own right. Wholesome meditation practices, even those that do not directly lead to insight, help to purify the grosser levels of mental defilement and uncover deeper dimensions of the mind’s potential purity and radiance.
+
 - Highlight(pink) - Location 2739
 “divine abodes” (brahmavih̄ra) or “immeasurable states” (appamaññ̄): the development of loving-kindness, compassion, altruistic joy, and equanimity, which are to be extended boundlessly to all sentient beings.
 
