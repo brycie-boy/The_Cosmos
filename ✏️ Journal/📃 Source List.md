@@ -7,6 +7,10 @@
 - Source: The Secret Teachings of All Ages
 - Author: Manly P. Hall
 
+![[8F60F881-BBD1-4510-9A2B-F1DB961FD39E.jpeg|80]]
+- Source: Prometheus Rising
+- Author: Robert Anton Wilson
+
 ![[3C937D61-1CC6-4462-BD8C-28E2EA561CDF.jpeg|80]]
 - Source: Archetypes and the Collective Unconscious
 - Author: Carl jung
@@ -22,6 +26,19 @@
 ![[826B467D-A0D3-4E48-8708-5086A8457838.jpeg|80]]
 - Source: Solitude: A Return to the Self
 - Author: Anthony Storr
+
+![[07A0E8BA-CDDC-46D7-A089-A517731DDF72.jpeg|80]]
+- Source: The Mind Illuminated 
+- Author: John Yates
+
+![[584E77F8-F084-4C7C-BD83-2156DBC93EAF.jpeg|80]]
+- Source: Mycelium Running
+- Author: Paul Staments
+
+![[57F86B09-11C3-4722-A38B-4084AD64F7CF.jpeg|80]]
+- Source: The Master and His Emissery
+- Author: Iain McGilchrist
+
 
 ## **Self improvement:**
 ##### **Productivity / Health / Finance:**.
@@ -46,21 +63,11 @@
 - Sources: Deep Work
 - Author: Cal Newport
 
+![[DDBE241D-12DA-4768-A310-B33DD25FB159.jpeg|80]]
+- Source: Getting Things Done
+- Author: David Allen
+
 ## **Psychology / Sociology:**
 
-![[B37F5B1E-6D6A-4011-81B7-583694F01708.jpeg|80]]
-- Source: The Crowd
-- Author: Gustave Le Bon
-
-![[57F86B09-11C3-4722-A38B-4084AD64F7CF.jpeg|80]]
-- Source: The Master and His Emissery
-- Author: Iain McGilchrist
-
-![[7F0EB988-0E6F-4786-B505-25ACEA548E74.jpeg|80]]
-- Source: Misdiagnosis and Dual Diagnoses of Gifted Children and Adults
-
-![[B5FDCB4F-EFD9-42AA-855C-EC3FF9D05F9D.jpeg|80]]
-- Source: ADHD Does Not Exist
-- Author: Richard Saul
 
 ## **Science / Math / Tech:**

@@ -6,11 +6,6 @@
 
 10 Words max -> [[🗓 Daily Planner]]
 
-19. Exigency
-21. Taint
-22. Taxonomy
-23. proliferation,
-26. Rapture
 27. Ardent
 28. Resolute
 29. covetousness,

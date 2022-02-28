@@ -2,8 +2,7 @@
 
 ❗️: Important item
 
-Notes:
-- if you setting a weekly grocery budget, it needs to be revolving. to find budget, add up what you spent each week and divide by 4
+> Only spend extra money on supplements!
 
 Look for:
 - Grass fed
@@ -107,7 +106,7 @@ Optional:
 - [x] Greek or Bulgarian yogurt ❗️
 - [ ] Cottage cheese
 	- Brand: Good Culture
-- [ ] Goat cheese
+- [x] Goat cheese
 	- [ ] Parm/Romano
 	- [ ] Aged white cheddar
 - [x] Coconut cream ❗️
@@ -152,27 +151,39 @@ Optional:
 
 ### Supplements 
 - [x] Magnesium❗️
-	- Dimagnesium Malate
-- [x] Fish oil / Omega 3s❗️
-	- Krill Oil
+	- Pure Therapo Magnesium 120 servings $32
+- [x] Fish oil / Omega 3s
+	- Bulksupplements krill oil capsules 150 servings $29
 - [x] Vitamin D3 / K2
-- [ ] Host defense stamets 7
-- [ ] Host defense brain
-- [ ] Ashwagandha Complex - Organic Ashwagandha Root Powder + Rhodiola Rosea + Turmeric
-- [x] Psilocybin
-- [ ] Isopure protein powder
+	- [ ] Now Supplements d3 K2 capsules 120 servings $10 
+- [ ] Lions mane ❗️
+	- [ ] Host defense brain 30 servings $23
+	- [ ] Double Wood lions Man Capsules 60 servings $20
+- [ ] Psilocybin ❗️
+	- [ ] THCqueen Psilocybin Capsules 30 servings $55
+	- [ ] THCqueen Psilocybin Capsules 50 servings $100
+- [ ] Rhodiola Rosea 
+	- [ ] Bronson Rhodiola Rosea Capsules 120 servings $15
+- [ ] Ginko
+	- [ ] Host defense brain 30 servings $23
+	- [ ] Bronson Ginko Capsules 60 servings $10
+
+❗️:
+- Total: $110
+- 1 month items: $78
+	
 
 ___
 ### Hygiene
 
 Avoid:
-- Parabens ❗️
-- Triclosan❗️
+- Parabens 
+- Triclosan
 	- DP 3000
 	- Cloxifenolum
-- Hydroquinone❗️
-- Methylisothiazolinone [MIT]❗️
-- Butylated Hydroxytoluene [BHT]❗️
+- Hydroquinone
+- Methylisothiazolinone [MIT]
+- Butylated Hydroxytoluene [BHT]
 - Sulfate
 
 ### List

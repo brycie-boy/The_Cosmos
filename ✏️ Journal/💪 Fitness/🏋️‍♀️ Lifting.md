@@ -1,4 +1,19 @@
 ## Lifting
+
+- [x] Squat
+- [x] Deadlift
+- [x] Bench
+- [ ] Vertical press
+- [ ] Horizontal pull
+- [ ] Curl
+- [ ] Hamstring curl
+- [ ] Standing raise
+- [ ] Reverse pec deck
+- [ ] Pressdown / extension 
+- [ ] Bent over reverse fly
+- [ ] crunch 
+- [ ] Plank
+
 ### Warmup
 https://youtu.be/E81GN-3A8XM
 
@@ -166,8 +181,86 @@ ___
 ![[AC40405D-0D8B-4F91-9BEC-4B14DC06545B.jpeg]]
 - generally you want to grab the bar with arms straight down unless your hands hit your quads
 
+![[7C390097-3619-45AB-9AD6-3FBD59945103.jpeg]]
+- pull bar back towards you to prevent the bar from drifting in front of you as you lift
+
+![[745CDC1E-33AC-4589-BDBC-E78C066972C6.jpeg]]
+- Pull back in to neutral position stretching hamstrings. Try to maintain straight back
+
+![[4CDA7D07-EE76-4ED6-A985-0BA2794016E7.jpeg]]
+![[DBB1C684-E695-47E2-AA82-E2B898F1FD8E.jpeg]]
+- take deep breath into gut
+- lean body weight slightly in front the bar. You should be able to draw a straight line from to scapula, the bar, and the middle of your foot
+
+![[F9787732-0E12-4CDE-B57F-97DAC51F1222.jpeg]]
+- Pull slack out of bar by applying a small amount of upward tension into the bar so that it rises up around 1mm and softly comes up against the plate hole
+
+![[7BDBE54A-C7F5-448E-B500-A2EA56AE1029.jpeg]]
+- Pull the weight up with explosive power leading with your chest on the way up
+
+![[A5DDA516-AB35-47FB-845E-BD6CB2B310E5.jpeg]]
+- Finish the lift thrusting your hips forward
+
 #### Back
 #### Chest
+###### Bench
+![[152BAD11-E3E6-4F2E-9211-234180DFE3D5.jpeg]]
+- Lie flat on the bench with your head behind the bar
+- Feet on the bench
+
+![[54215150-038E-4646-AD00-E75692BB202A.jpeg]]
+- Squeeze shoulder blades together and keep them in this retracted position through the whole execution 
+
+![[E731F676-83A7-4BA8-A461-B4388754288C.jpeg]]
+- set up arch by putting hands at shoulder width
+
+![[A1FC5CDC-9100-4CE8-9783-A43FBC424BEF.jpeg]]
+![[0062096D-2BD4-4C57-8995-7FADEBBD1450.jpeg]]
+![[8AD45CBE-8E61-40E2-95D7-6B32F20D0D16.jpeg]]
+- lift hips up high
+- pull shoulder blades to your butt
+- Push your upper body forward while keeping your feet in place. Go on your toes if your can find you can get more arch that way
+
+![[1C113ECE-1AE3-49DE-8C60-058EC1C93F63.jpeg]]
+- back planted in the bench with eyes directly under bar
+
+![[F5B5609F-3836-43C9-8989-060062FFE2CC.jpeg]]
+- position lower body for leg drive by lowering one foot at a time
+- Position feet as far back at you comfortably can
+
+![[162F2743-6075-4211-9CC9-A3BC914D3534.jpeg]]
+- keep legs close to the bench when viewed from front
+
+![[16C4BF12-9922-4E17-A56D-7E15C17257D8.jpeg]]
+- heals planted in the ground. Rotate feet
+
+![[7764C0AF-2932-4FC4-95F1-B2C39EC65A39.jpeg]]
+- drop hips so butt is touching the bench
+
+![[0F41B4B3-9389-495A-AB05-BEB5EB889426.jpeg]]
+- widen grip
+
+![[4859840D-E5CB-4BD7-987B-C437BC091DFC.jpeg]]
+![[C8C66614-BF0F-422E-838F-6B364598F536.jpeg]]
+- wrists should line up with knuckles. Avoid excessive hyper extension 
+
+![[353C0835-02DA-4B72-87A7-B2E2B25A0EF7.jpeg]]
+- Deep breath into gut
+
+![[091EAFBF-6887-427F-A790-9A74E1DBA139.jpeg]]
+- Drop bar 45 degrees relative to torso when viewed from the top
+
+![[E25D07CD-AB00-44E5-9391-03FC1A9E3668.jpeg]]
+- touch just below nipple level
+- Pause on chest for a couple seconds 
+
+![[30E1DCF7-A021-4DD2-B262-3DCCE95A5B4F.jpeg]]
+![[025E947D-F3A2-4644-87A6-F399A0E44444.jpeg]]
+- explode bar off of chest driving heels into the ground
+
+![[296C0607-BF44-4297-9842-7678FFE5CDE7.jpeg]]
+- think about pressing the bar back toward your face and off your chest rather than straight up
+
 #### Shoulders
 ### Isolation
 #### Biceps 

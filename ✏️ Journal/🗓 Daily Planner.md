@@ -1,49 +1,60 @@
 ## 🎯 ToDo/Goals
-- [ ] Get some drum kits and plugins
-- [ ] DMV road test appointment
-- [ ] Automate obsidian sync
-- [ ] Set up workout routine
-- [ ] Work on GED
-- [x] Change passwords and emails
-- [x] Organize music library
-- [ ] Delete photos
-- [ ] Delete safari favorites
+
+> ‼️: Do during learning time and free time
+> ❗️: Just do during free time
+
+- [ ] Figure out how much supplements will cost to maintain‼️
+- [ ] Figure out raindrop.io workflow ‼️
+- [ ] Work on shopping list ❗️
+- [ ] Get some drum kits and plugins ❗️
+- [ ] DMV road test appointment ‼️
+- [ ] Look for jobs‼️
+- [x] Set up workout routine ❗️
+- [ ] Make health reading list❗️
+- [x] Change passwords and emails ❗️
+- [x] Organize music library ❗️
+- [ ] Delete photos❗️
+- [ ] Delete safari favorites❗️
 
 ## 🤓 Learning
-##### Learning today?
-- [x] Yes
+#### Learning today?
+- [ ] Yes
 - [ ] No
 
-##### Inboxes
+#### Inboxes
 
 - Words: ❗️
 
-##### Choose Today’s Source
+#### Choose Today’s Source
 
-> - 📖 = Ingesting
-> - 📝 = Digesting
-> - 3 Max!
+> - 3 Things Max!
 
-- [x] **1.** 
+- [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
-- Source: In the Buddha's Words: An Anthology of Discourses from the Pali Canon
-- Author: 
-- Stage: 📖 [[In The Buddha’s Words Chapter V. THE WAY TO A FORTUNATE REBIRTH]]
+- Source: In the Buddha's Words Chapter V. The Way To Fortunate rebirth
+- Author: Bhikku Bodhi
+-  Inbox Note: [[In The Buddha’s Words Chapter V. THE WAY TO A FORTUNATE REBIRTH]]
 .
-- [ ] **2**
+- [ ] **2.**
 
-![[7EEBAA7E-69BB-44A7-99C6-1F1575F7608F.jpeg|80]]
-- Source: Prometheus Rising
-- Author: Robert Anton Wilson
-- Stage: 📖
+![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
+- Source: In the Buddha's Words Chapter IX. The Shining Light Of Wisdom
+- Author: Bhikku Bodhi
+.
+- [ ] **3.**
 
-## Free time
-##### Free time activities
-- [ ] TODO
+
+## 🎮🎨 Free time
+
+#### Create
+
 - [ ] Make music
+
+#### Consume
+
 - Watch TV 
-	- [x] Paranoid agent
+	- [ ] Paranoid agent
 - Watch movie (Every Saturday)
 	- [ ] Akira
 	- [ ] Fallen angles
