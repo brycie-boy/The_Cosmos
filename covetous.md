@@ -11,10 +11,8 @@ ___
 -   [[grasping]]
 -   [[greedy]]
 
-
 ##### References 
 https://www.merriam-webster.com/dictionary/covetousness
-
 
 ##### Metadata
 Status: #☀️ 

@@ -16,10 +16,8 @@ ___
 -   [[unseasonable]] 
 -   [[untimely]]
 
-
 ##### References 
 - https://www.merriam-webster.com/dictionary/precociousness
-
 
 ##### Metadata
 Status: #☀️ 

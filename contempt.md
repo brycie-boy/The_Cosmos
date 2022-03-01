@@ -13,10 +13,8 @@ ___
 -   [[despite]]
 -   [[disdain]]
 
-
 ##### References 
 - https://www.merriam-webster.com/dictionary/contempt
-
 
 ##### Metadata
 Status: #☀️ 

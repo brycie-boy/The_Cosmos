@@ -12,10 +12,8 @@ ___
 -   [[cocky]]
 -   [[sassy]]
 
-
 ##### References 
 - https://www.merriam-webster.com/dictionary/insolent
-
 
 ##### Metadata
 Status: #☀️ 
