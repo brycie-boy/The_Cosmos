@@ -11,7 +11,7 @@ ___
 ##### Similar
 -   [[despise]]
 -   [[despite]]
--   [[]disdain]]
+-   [[disdain]]
 
 
 ##### References 
