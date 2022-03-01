@@ -1,7 +1,5 @@
 ## Ideas
 
-
-
 ## Words
 
 10 Words max -> [[🗓 Daily Planner]]
