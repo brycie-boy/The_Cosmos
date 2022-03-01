@@ -1,23 +1,29 @@
+# 🗓 Daily Planner
+
 ## 🎯 ToDo/Goals
 
-> ‼️: Do during learning time and free time
-> ❗️: Just do during free time
+#### Do during learning and free time
 
-- [ ] Figure out raindrop.io workflow ❗️
-- [ ] Work on shopping list ❗️
-- [ ] Get some drum kits and plugins ❗️
-- [ ] DMV road test appointment ‼️
-- [ ] Look for jobs‼️
-- [x] Set up workout routine ❗️
-- [ ] Make health reading list❗️
-- [x] Change passwords and emails ❗️
-- [x] Organize music library ❗️
-- [ ] Delete photos❗️
-- [ ] Delete safari favorites❗️
+- [ ] DMV written test
+- [ ] Schedule DMV road test appointment
+- [ ] Look for jobs
+
+#### Just do during free time
+
+- [ ] Set up workout routine 
+- [ ] Figure out raindrop.io workflow 
+- [ ] Work on the letters in the vocabulary moc
+- [ ] Work on shopping list 
+- [ ] Get some drum kits and plugins 
+- [ ] Make health reading list
+- [x] Change passwords and emails 
+- [x] Organize music library 
+- [ ] Delete photos
+- [ ] Delete safari favorites
 
 ## 🤓 Learning
 #### Learning today?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 #### Inboxes
@@ -28,7 +34,7 @@
 
 > - 3 Things Max!
 
-- [ ] **1.** 
+- [x] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words Chapter V. The Way To Fortunate rebirth
@@ -53,12 +59,11 @@
 #### Consume
 
 - Watch TV 
-	- [x] Paranoid agent
 - Watch movie (Every Saturday)
 	- [ ] Akira
 	- [ ] Fallen angles
 - Listen to music
-	- [ ] By itself
 	- [ ] While playing video games
+	- [ ] By itself
 - [ ] Listen to podcast
 
