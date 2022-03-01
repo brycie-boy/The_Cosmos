@@ -3,8 +3,7 @@
 > ‼️: Do during learning time and free time
 > ❗️: Just do during free time
 
-- [ ] Figure out how much supplements will cost to maintain‼️
-- [ ] Figure out raindrop.io workflow ‼️
+- [ ] Figure out raindrop.io workflow ❗️
 - [ ] Work on shopping list ❗️
 - [ ] Get some drum kits and plugins ❗️
 - [ ] DMV road test appointment ‼️
@@ -54,7 +53,7 @@
 #### Consume
 
 - Watch TV 
-	- [ ] Paranoid agent
+	- [x] Paranoid agent
 - Watch movie (Every Saturday)
 	- [ ] Akira
 	- [ ] Fallen angles
