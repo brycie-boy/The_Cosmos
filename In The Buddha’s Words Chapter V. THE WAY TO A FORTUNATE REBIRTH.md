@@ -1,11 +1,10 @@
-[[Inbox scrap 1]]
-
 ## In The Buddha’s Words Chapter V. THE WAY TO A FORTUNATE REBIRTH
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
 Author: The Buddha, Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
 Status: #⛅️
+Tags: 
 ___
 
 # 1.
@@ -27,9 +26,15 @@ all morally determinate volitional actions create a potential to bring forth res
 - Highlight(pink) - Location 2595
 In ripening, the kamma rebounds upon us for good or for harm depending on the moral quality of the original action. This may happen either later in the same life in which the action was done, in the next life, or in some distant future life.
 
+- Highlight(pink) - Location 2625
+The twin doctrines of kamma and rebirth enable us to see that the world in which we live is, in important respects, an external reflection of the internal cosmos of the mind. This does not mean that the external world can be reduced to a mental projection in the way proposed by certain types of philosophical idealism. However, taken in conjunction, these two doctrines do show that the conditions under which we live closely correspond to the karmic tendencies of our minds.
+
+- Highlight(pink) - Location 2628
+The reason why a living being is reborn into a particular realm is because in a previous life that being has generated the kamma, or volitional action, that leads to rebirth into that realm. Thus, in the final analysis, all the realms of existence have been formed, fashioned, and sustained by the mental activity of living beings.
+
 - Highlight(pink) - Location 2631
 “For beings obstructed by ignorance and hindered by craving, kamma is the field, consciousness the seed, and craving the moisture, for consciousness to be established in a new realm of existence—either inferior, middling, or superior”
-(AN 3:76; I 223).4
+(AN 3:76; I 223)
 
 # 2. 
 - Highlight(pink) - Location 2599
@@ -49,11 +54,11 @@ The criterion for judging an action to be unwholesome is its underlying motives,
 Wholesome kamma, on the other hand, is action that is spiritually beneficial and morally commendable; it is action that ripens in happiness and good fortune.
 
 - Highlight(pink) - Location 2761
-“And what, monks, is bright kamma with bright results? Here, monks, someone generates a non-afflictive volitional formation of body, speech, or mind. Having done so, he is reborn in a non-afflictive world. Being touched by non-afflictive contacts, he experiences a non-afflictive feeling, extremely pleasant, as for example the devas of refulgent glory experience. 9
+“And what, monks, is bright kamma with bright results? Here, monks, someone generates a non-afflictive volitional formation of body, speech, or mind. Having done so, he is reborn in a non-afflictive world. Being touched by non-afflictive contacts, he experiences a non-afflictive feeling, extremely pleasant, as for example the devas of refulgent glory experience. 
 (Four Kinds of Kamma - Location 2754, AN 4:232; II 230–32)
 
 - Highlight(pink) - Location 7717
-9 Subhakiṇhā devā. These are the deities inhabiting the highest plane of rebirth corresponding to the third jhāna.
+Subhakiṇhā devā. These are the deities inhabiting the highest plane of rebirth corresponding to the third jhāna.
 
 - Highlight(pink) - Location 2606
 Its underlying motives are the three wholesome roots: nongreed, nonhatred, and nondelusion, which may be expressed more positively as generosity, loving-kindness, and wisdom.
@@ -74,6 +79,9 @@ it is by reason of unrighteous conduct, conduct not in accordance with the Dhamm
 
 - Highlight(pink) - Location 2636
 they are usually known as the ten pathways of unwholesome and wholesome kamma.5 The ten are subdivided by way of the three “doors of action”—body, speech, and mind.
+
+- Highlight(pink) - Location 2589
+Such volition may remain purely mental, generating mental kamma that occurs as thoughts, plans, and desires; or it may come to expression outwardly through manifest bodily and verbal actions.
 
 - Highlight(pink) - Location 2638
 Taking the unwholesome first, there are three kinds of bodily misconduct: killing, stealing, and sexual misconduct;
@@ -149,6 +157,65 @@ it is by reason of such righteous conduct, such conduct in accordance with the D
 
 # 3.
 
+- Highlight(pink)
+You want long life, health, beauty, power, riches, high birth, wisdom? Or even some of these things? They do not appear by chance. It is not someone's luck that they are healthy, or another's lack of it that he is stupid. Though it may not be clear to us now, all such inequalities among human beings (and all sorts of beings) come about because of the kamma they have made individually. Each person reaps his own fruits. So if one is touched by short life, sickliness, ugliness, insignificance, poverty, low birth or stupidity and one does not like these things, no need to just accept that that is the way it is. The future need not be like that provided that one makes the right kind of kamma now. Knowing what kamma to make and what not to make is the mark of a wise man. It is also the mark of one who is no longer drifting aimlessly but has some direction in life and some control over the sort of events that will occur.
+(Introduction by Bhikkhu Khantipalo https://accesstoinsight.org/tipitaka/mn/mn.135.nymo.html)
+
+- Highlight(pink) - Location 2883
+“Student, beings are owners of their actions, heirs of their actions; they originate from their actions, are bound to their actions, have their actions as their refuge. It is action that distinguishes beings as inferior and superior.”
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+- Highlight(pink) - Location 2888
+“Here, student, some man or woman kills living beings and is murderous, bloody-handed, given to blows and violence, merciless to living beings. Because of performing and undertaking such action, on the breakup of the body, after death, he is reborn in a state of misery, in a bad destination, in the lower world, in hell.
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+- Highlight(pink) - Location 2892
+but instead comes back to the human state, then wherever he is reborn he is short-lived.
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+- Highlight(pink) - Location 2901
+“Here, student, some man or woman is given to injuring beings with the hand, with a clod, with a stick, or with a knife. Because of performing and undertaking such action, on the breakup of the body, after death, he is reborn in a state of misery.…
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+- Highlight(pink) - Location 2903
+But if instead he comes back to the human state, then wherever he is reborn he is sickly.
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+- Highlight(pink) - Location 2908
+“Here, student, some man or woman is of an angry and irritable character; even when criticized a little, he is offended, becomes angry, hostile, and resentful, and displays anger, hate, and bitterness. Because of performing and undertaking such action ... he is reborn in a state of misery.…
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+- Highlight(pink) - Location 2910
+But if instead he comes back to the human state, then wherever he is reborn he is ugly.
+(Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
+
+Highlight(pink) - Location 2916
+“Here, student, some man or woman is envious, one who envies, resents, and begrudges the gains, honor, respect, reverence, salutations, and veneration received by others. Because of performing and undertaking such action … he is reborn in a state of misery.…
+
+- Highlight(pink) - Location 2918
+But if instead he comes back to the human state, then wherever he is reborn he is without influence.
+
+- Highlight(pink) - Location 2924
+“Here, student, some man or woman does not give food, drink, clothing, carriages, garlands, scents, unguents, beds, dwelling, and lamps to ascetics or brahmins. Because of performing and undertaking such action ... he is reborn in a state of misery....
+
+- Highlight(pink) - Location 2926
+But if instead he comes back to the human state, then wherever he is reborn he is poor.
+
+- Highlight(pink) - Location 2931
+“Here, student, some man or woman is obstinate and arrogant; he does not pay homage to one who should receive homage,
+
+- Highlight(pink) - Location 2934
+But if instead he comes back to the human state, then wherever he is reborn he is low born.
+
+- Highlight(pink) - Location 2942
+“Here, student, some man or woman does not visit an ascetic or a brahmin and ask: ‘Venerable sir, what is wholesome? What is unwholesome? What is blamable? What is blameless? What should be cultivated? What should not be cultivated? What kind of action will lead to my harm and suffering for a long time? What kind of action will lead to my welfare and happiness for a long time?’ Because of performing and undertaking such action … he is reborn in a state of misery.…
+
+- Highlight(pink) - Location 2945
+But if instead he comes back to the human state, then wherever he is reborn he is stupid.
+
+
+# 4.
+
 - Highlight(pink) - Location 2687
 merit (puñña), wholesome kamma capable of yielding favorable results within the cycle of rebirths.
 
@@ -158,14 +225,42 @@ Merit produces mundane benefits, such as a good rebirth, wealth, beauty, and suc
 - Highlight(pink) - Location 2690
 The Nikāyas concisely organize the types of merit into three “bases of meritorious deeds” (puññakiriyavatthu): giving, moral discipline, and meditation.
 
+- Highlight(pink) - Location 2974
+three ways of making merit.
+(Three Bases of Merit Location 2973, AN 8:33; IV 236–37)
+
+- Highlight(pink) - Location 2974
+by giving, by moral discipline, and by the development of meditation.
+(Three Bases of Merit Location 2973, AN 8:33; IV 236–37)
+
 - Highlight(pink) - Location 2692
 In the Indian religious context, the practice of meritorious deeds revolves around faith in certain objects regarded as sacred and spiritually empowering, capable of serving as a support for the acquisition of merit. For followers of the Buddha’s teaching these are the Three Jewels: the Buddha, the Dhamma, and the Saṅgha.
+
+- Highlight(pink) - Location 3075
+“Here, monks, a noble disciple has gone for refuge to the Buddha.
+(The Five Precepts Location 3073, AN 8:39; IV 245–47)
+
+- Highlight(pink) - Location 3078
+“Further, a noble disciple has gone for refuge to the Dhamma.
+
+- Highlight(pink) - Location 3079
+“Further, a noble disciple has gone for refuge to the Saṅgha.
 
 - Highlight(pink) - Location 2695
 the Buddha is supreme among persons, the Dhamma among teachings, and the Saṅgha among religious communities.
 
+- Highlight(pink) - Location 3009
+3. GIVING
+
 - Highlight(pink) - Location 2702
 giving serves to break down the egocentric frame of mind on the basis of which we habitually interact with others.
+
+- Highlight(pink) - Location 3018
+‘By giving this gift, I shall be reborn in a good destination, in a heavenly world, after death’; or with the thought, ‘When giving this gift, my heart will be glad, and happiness and joy will arise in me’; or one gives because it ennobles and adorns the mind.”
+(Reasons for Giving Location 3015, AN 8:33; IV 236–37)
+
+- Highlight(pink) - Location 3072
+4. MORAL DISCIPLINE
 
 - Highlight(pink) - Location 2723
 “moral discipline” (sīla),
@@ -173,8 +268,49 @@ giving serves to break down the egocentric frame of mind on the basis of which w
 - Highlight(pink) - Location 2724
 five precepts, the training rules to abstain from taking life, stealing, sexual misconduct, false speech, and the use of intoxicants.
 
+- Highlight(pink) - Location 3083
+a noble disciple gives up the destruction of life
+
+- Highlight(pink) - Location 3087
+a noble disciple gives up the taking of what is not given and abstains from it.
+
+- Highlight(pink) - Location 3089
+noble disciple gives up sexual misconduct and abstains from it.
+
+- Highlight(pink) - Location 3091
+noble disciple gives up false speech and abstains from it.
+
+= Highlight(pink) - Location 3093
+a noble disciple gives up wines, liquors, and intoxicants,
+
+- Highlight(pink) - Location 3083
+a noble disciple gives up the destruction of life
+
+- Highlight(pink) - Location 3103
+they are conscientious and merciful and dwell compassionate toward all living beings.
+(The Uposatha Observance Location 309, AN 8:41; IV 248–51)
+
+- Highlight(pink) - Location 3099
+The Uposatha Observance
+
 - Highlight(pink) - Location 2729 
 While the Buddha enjoins observance of the five precepts upon lay followers as a full-time obligation, he recommends a more stringent type of moral practice for the uposatha, the observance days determined by the lunar calendar: the full-moon day, the new-moon day, and the two half-moon days. (Of the four, in Buddhist countries today it is the full-moon day that is given priority.) On these occasions, devout lay Buddhists undertake eight precepts: the usual five, but with the third changed to complete sexual abstinence, augmented by three other precepts that emulate the training rules of a novice monk or nun. The eight precepts, enumerated in Text V,4(2), augment the training in sīla as a moral observance with a training in self-restraint, simplicity, and contentment. In this respect they prepare the disciple for the training of the mind undertaken in the practice of meditation, the third base of merit.
+
+- Highlight(pink) - Location 3108
+“‘As long as they live the arahants abandon sexual relations and observe celibacy, living apart, refraining from the coarse practice of sexual intercourse.
+(The Uposatha Observance Location 309, AN 8:41; IV 248–51)
+
+- Highlight(pink) - Location 3114
+“‘As long as they live the arahants eat only one meal a day and refrain from eating at night, outside the proper time.
+(The Uposatha Observance Location 309, AN 8:41; IV 248–51)
+
+- Highlight(pink) - Location 3117
+“‘As long as they live the arahants abstain from dancing, singing, instrumental music, and unsuitable shows, and from adorning themselves by wearing garlands and applying scents and ointments.
+(The Uposatha Observance Location 309, AN 8:41; IV 248–51)
+
+- Highlight(pink) - Location 3119
+“‘As long as they live the arahants abandon the use of high and luxurious beds and seats and abstain from using them; they make use of low resting places, either small beds or straw mats.
+(The Uposatha Observance Location 309, AN 8:41; IV 248–51)
 
 - Highlight(pink) - Location 2735
 The practice of meditation is not only the heart of the path to liberation but a source of merit in its own right. Wholesome meditation practices, even those that do not directly lead to insight, help to purify the grosser levels of mental defilement and uncover deeper dimensions of the mind’s potential purity and radiance.
@@ -203,17 +339,7 @@ While the brahmins regarded the brahma world as the highest attainment, for the 
 - Highlight(pink) - Location 2746
 The concentration arisen from these meditations, however, can also be used as a basis for cultivating the wisdom of insight, and insight culminates in liberation.
 
-
-# 4.
-
-- Highlight(pink) - Location 2625
-The twin doctrines of kamma and rebirth enable us to see that the world in which we live is, in important respects, an external reflection of the internal cosmos of the mind. This does not mean that the external world can be reduced to a mental projection in the way proposed by certain types of philosophical idealism. However, taken in conjunction, these two doctrines do show that the conditions under which we live closely correspond to the karmic tendencies of our minds.
-
-- Highlight(pink) - Location 2628
-The reason why a living being is reborn into a particular realm is because in a previous life that being has generated the kamma, or volitional action, that leads to rebirth into that realm. Thus, in the final analysis, all the realms of existence have been formed, fashioned, and sustained by the mental activity of living beings.
-
-
-# 5.
+# 6.
 
 - Highlight(pink) - Location 2645
 The Buddhist cosmos is divided into three broad realms—the sense-sphere realm (kāmadhātu), the form realm (rūpadh̄tu ), and the formless realm (arūpadhātu)—each comprising a range of subsidiary planes.
