@@ -65,10 +65,7 @@
 - Watch movie 
 	- [ ] Akira
 	- [ ] Fallen angles
-- Listen to music
-	- [ ] While playing video games
-	- [ ] By itself
-- [ ] Listen to podcast
+
 
 ##### SOcial medias 
 
