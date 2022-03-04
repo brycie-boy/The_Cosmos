@@ -41,6 +41,5 @@
 ___
 
 ##### Metadata
-Status: 
-Type: 
-Tags:
+Status: #⛅️ 
+Type: #🗺

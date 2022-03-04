@@ -11,9 +11,11 @@
 
 #### Inboxes
 
-- Words: 
-- Ideas: ❗️
-- Raindrop.io: 
+- [ ] Words: 
+- [ ] Ideas: ❗️
+- [ ] Raindrop.io: 
+- [ ] ⛅️ stellar nursery: ❗️
+
 
 #### Choose Today’s Source
 
@@ -22,15 +24,11 @@
 - [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
-- Source: In the Buddha's Words Chapter V. The Way To Fortunate Rebirth
+- Source: In the Buddha's Words Chapter IX. The Shining Light Of Wisdom
 - Author: Bhikku Bodhi
-.
-- [x] **2.**
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
-- Source: In the Buddha's Words Chapter 
-- Author: Bhikku Bodhi
-.
+- [ ] **2.**
+
 - [ ] **3.**
 
 ## 🎮🎨 Free time
