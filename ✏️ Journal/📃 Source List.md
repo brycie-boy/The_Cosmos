@@ -1,7 +1,6 @@
 
 # Categories
 ## **Spiritual / Philosophy**
-##### Spirituality:
 
 ![[F6767D3B-E3D1-4B39-911B-42782768E1CD.jpeg|80]]
 - Source: The Secret Teachings of All Ages
@@ -39,6 +38,12 @@
 - Source: The Master and His Emissery
 - Author: Iain McGilchrist
 
+## **Science / Math / Tech:**
+
+![[4DB250C5-A511-4DEF-815C-A15F37950606.jpeg|150]]
+- Source: C++ Programming
+- Author: Engineering4free
+- Link: https://www.engineer4free.com/cplusplus.html
 
 ## **Self improvement:**
 ##### **Productivity / Health / Finance:**.
@@ -67,7 +72,30 @@
 - Source: Getting Things Done
 - Author: David Allen
 
+![[017E1654-4530-4791-8A11-89372B7D0056.jpeg|80]]
+- Source: Metabolical
+- Author: Robert Lustig
+
 ## **Psychology / Sociology:**
 
+![[7041D5D0-DE64-4EC8-85E9-856303D1B430.jpeg|80]]
+- Source: ADHD does Not Exist
+- Author: Richard Saul
 
-## **Science / Math / Tech:**
+![[DE936BCA-2B46-4903-863B-01F3B00B1FE3 1.jpeg|80]]
+- Source: The Misdiagnosis Of Gifted Children
+- Author: James Webb
+
+## Politics
+
+![[D56166C8-2673-4F94-B290-CE7FF7749548 1.jpeg|80]]
+- Source: Dumbing Us Down
+- Author: John Taylor Gatto
+
+![[3ECFAC9E-D576-4B02-A9B1-7FB5004D7982 1.jpeg|80]]
+- Source: Manufacturing Consent
+- Author: Noam Chomsky 
+
+
+
+

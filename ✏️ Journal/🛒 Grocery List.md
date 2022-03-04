@@ -123,7 +123,7 @@ Optional:
 - [x] Walnuts
 - [ ] Hemp seeds
 - [ ] Flax / chia
-- [ ] Butters
+- [x] Nut Butters
 	- [ ] Almond butter
 	- [x] Sunflower butter
 	- [ ] Mac nut butter

@@ -1,5 +1,4 @@
-## equa·nim·i·ty #flashcard
-\ ˌē-kwə-ˈni-mə-tē \
+## equanimity #flashcard
 
 _noun_
 

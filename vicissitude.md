@@ -1,5 +1,4 @@
-## vi·cis·si·tude #flashcard 
- \ və-ˈsi-sə-ˌtüd \
+## vicissitude #flashcard 
 
 _noun_
 

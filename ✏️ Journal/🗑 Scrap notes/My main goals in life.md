@@ -1,0 +1,3 @@
+## My main goals in life
+1. Help people understand the symbolism of spiritual teachings, teach them that it’s not meant to be taken literally and show them what it really means. When people stop taking a materialistic look at art, they can understand it’s meaning and be able to express themselves in the same way
+3. Then I want to show people that many traditions aren’t actually as different as we think they are and once we stop taking the symbolism literally then we can see this. I feel that since we do this. It creates unnecessary division between traditions

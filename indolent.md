@@ -1,5 +1,4 @@
-## in·do·lent #flashcard 
-\ ˈin-də-lənt \
+## indolent #flashcard 
 
 _adjective_
 

@@ -1,5 +1,4 @@
-## equiv·o·cal #flashcard 
-\ i-ˈkwi-və-kəl \
+## equivocal #flashcard 
 
 _Adjective_
 

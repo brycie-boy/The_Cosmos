@@ -1,4 +1,7 @@
 ## Shopping list
+Ideas:
+- bamboo pillow cases
+
 ### 1. Crypto and stocks
 ### 2. Clothes 
 ##### Jeans/Pants
@@ -29,6 +32,9 @@
 	![[57B9A29B-E7CE-40E5-A40C-95AE9FC3A9EB.webp|200]]
 	White and beige plaid pants $24 https://m.aliexpress.com/item/1005002282183999.html?spm=a2g0n.wishlist-amp.item.1005002282183999&aff_trace_key=&aff_platform=msite&m_page_id=7061amp-SCDjq3cy6awRNLagYU6AuQ1645925497658&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
 
+- ![[BC6B54DD-2812-4CD1-993B-4ECE7A792FF4 1.jpeg|200]]
+	Red Leather Pants $73  https://www.shoedazzle.com/products/FAUX-LEATHER-WIDE-LEG-TROUSER-PT2149580-6943?psrc=pdp_ymal
+
 ##### Shorts
 	
 - ![[24B0EACA-422D-43A3-9E17-AC288019B2F7.webp|200]]
@@ -43,6 +49,17 @@
 - ![[1268DDE1-309C-49D9-85FB-CA920D73AA98.jpeg|200]]
 	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-black
 
+- ![[B0910848-8591-4DF5-B68B-03B09B2B27C5.webp|200]]
+	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
+- ![[98D3D0A0-721A-4723-B4F8-7E9FB150535C.webp|200]]
+	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
+- ![[E8D84186-A1DB-499A-8BA2-F370BD9F8A4E 1.webp|200]]
+	Blonde merch pink white $11 https://m.intl.taobao.com/detail/detail.html?id=612486455411
+
+- ![[7AC4363E-216D-4364-8C12-E5BB31ACBAFD.webp|200]]
+	Blonde merch black green $11 https://m.intl.taobao.com/detail/detail.html?id=612486455411
 
 - ![[5730CA77-3ADF-47E5-979A-8413F55C4ADB.webp|200]]
 Seditionaries DESTROY T-Shirt $25 https://www.etsy.com/listing/994199231/seditionaries-destroy-t-shirt-read?ref=user_profile&frs=1&variation1=1930383659
@@ -59,6 +76,9 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 
 - ![[5673EEC1-9DE8-40D1-BEA4-3FA270CD2FEA.webp|200]]
 	Radiohead t shirt $10 https://m.aliexpress.com/item/1005003126097764.html?spm=a2g0n.productlist.0.0.138eWzJZWzJZtc&browser_id=41d9ab361d594a1686081b72428c09ba&aff_trace_key=&aff_platform=msite&m_page_id=17f37d09769fd16a9bb10636f0b217a01c26352f01&gclid=
+
+- ![[09C36EDA-239E-4069-AA61-9E3499E2F531.jpeg|200]]
+	Yin Yang fire tee $52 https://www.unifclothing.com/products/fire-yin-yang-tee?variant=30992192831563
 
 - ![[5932DA07-1106-4EA1-B823-0F91740170CC.webp|200]]
 	![[C6992B79-69E6-45BD-BF6A-0CBF8C9C6177.webp|200]]
@@ -128,8 +148,33 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 - ![[7F812DE3-8181-4B5E-94D0-533FF0C3BC10.webp|200]]
 	Sky blue puffer $24 https://m.aliexpress.com/item/1005001618330851.html?spm=a2g0n.wishlist-amp.item.1005001618330851&aff_trace_key=&aff_platform=msite&m_page_id=2208amp-SCDjq3cy6awRNLagYU6AuQ1645921208873&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
 
+- ![[ED3EECBC-1FEB-470D-8801-884784D6C42E.webp|200]]
+	Shiny puffer black $25 https://m.aliexpress.com/item/1005003314947421.html?browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=00117f4bf887b41bf46ed7cbf86ed1942a223e8c4d&gclid=
+
+- ![[B65FF18D-6B44-4040-A27D-43486AD6CC0A.webp|200]]
+	Shiny puffer red $25 https://m.aliexpress.com/item/1005003314947421.html?browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=00117f4bf887b41bf46ed7cbf86ed1942a223e8c4d&gclid=
+
+- ![[821A1202-4576-42C0-8233-B5E64E36DC74.webp|200]]
+	Shiny Puffer Silver $25 https://m.aliexpress.com/item/1005003314947421.html?browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=00117f4bf887b41bf46ed7cbf86ed1942a223e8c4d&gclid=
+
+- ![[702E26A2-4921-4259-9DC9-325EDAC25756.webp|200]]
+	![[D354EA8D-A426-4AF1-9BB3-BF21EACDDA45.webp|200]]
+	Wool coats $100 https://m.aliexpress.com/item/4000740089502.html?spm=a2g0n.detail.0.0.26e3777caOSkdg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=c240d8d5-a98d-48c0-8e9e-22749ab88f94&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:c240d8d5-a98d-48c0-8e9e-22749ab88f94,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B49.1%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
+- ![[E7D3E23B-D229-4208-BB8D-E60134EFDD9F 1.webp|200]]
+	Windbreaker $11 https://m.aliexpress.com/item/1005003099475830.html?spm=a2g0n.detail.0.0.136a63b1k4f73C&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=7047ce30-d153-4126-b3c4-12b5f5214070&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:7047ce30-d153-4126-b3c4-12b5f5214070,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B11.01%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
+- ![[9827B0FD-E66E-4EDE-9DAC-8353573809AB 1.webp|200]]
+	Windbreaker $18 https://m.aliexpress.com/item/1005001609224971.html?spm=a2g0n.detail.0.0.133847c9VKHkZC&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=4529a31e-e28e-4054-b0bd-eac53331ba70&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:4529a31e-e28e-4054-b0bd-eac53331ba70,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B17.9%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
+- ![[A567B9F6-2528-45D3-BDE2-BFBD160B26FA.jpeg|200]]
+	Pastel windbreaker $35 https://m.aliexpress.com/item/4000740089502.html?spm=a2g0n.detail.0.0.26e3777caOSkdg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=c240d8d5-a98d-48c0-8e9e-22749ab88f94&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:c240d8d5-a98d-48c0-8e9e-22749ab88f94,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B49.1%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
 - ![[DE81B579-DE93-48CB-AEA6-0AFC0CD88F21.webp|200]]
 	Leather jacket $20 https://m.aliexpress.com/item/4000939505887.html?spm=a2g0n.detail.0.0.5465431dejvJqB&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=09ee9471-3ba4-4855-99a5-0b5bb4859247&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:09ee9471-3ba4-4855-99a5-0b5bb4859247,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B19.59%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+
+- ![[F6C9BE96-C180-4A1A-A89D-62BBBF1778DC.jpeg|200]]
+	Faux fur jacket $21 https://www2.hm.com/en_us/productpage.0837360001.html
 
 ##### Shoes
 
@@ -142,12 +187,20 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 	![[8C004426-EF04-4FCD-8929-5F8B937D0B92.webp|200]]
 	Red and black Beanies $4 https://m.shein.com/us/Men-Solid-Knit-Hat-p-7412932-cat-2136.html?scici=Search~~EditSearch~~1~~Red%20beanie~~~~0
 
+- ![[637DF77B-0AF7-4ECA-8020-98CAC0DF0589.jpeg|200]]
+	Crochet ski mask $25 https://www.etsy.com/listing/1180652155/crochet-ski-mask?plkey=6e94d413fb4b17802a686795bd2a24959f64d3b2%3A1180652155&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=ski+mask&ref=sc_gallery-2-1
 
 - ![[C424BB29-775E-425F-A9E8-A741A929A4D5.webp|200]]
 	Cross pendant and chain $25 https://www.etsy.com/listing/998352158/mens-cross-necklace-silver-cross?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cross+pendant&ref=sr_gallery-1-11&organic_search_click=1&frs=1&bes=1&variation0=1998570329&variation1=1978363982
 
 - ![[BAEF59C7-2728-4E2D-AF12-0CA385B4A507.jpeg|200]]
 	Oval sunglasses $12 https://www.amazon.com/gp/aw/d/B07C1LWSL3/ref=cm_cr_othr_mb_bdcrb_top?ie=UTF8#cm_cr_carousel_images_section
+
+- ![[C444E951-0B11-4FFE-AAF0-0B27CBED471C 1.jpeg|200]]
+	White sunglasses $11.20 https://www.asos.com/us/jeepers-peepers/jeepers-peepers-white-marble-effect-sunglasses/prd/24008514?clr=white&colourWayId=60530990&SearchQuery=white+sunglasses
+
+- ![[C4E81EC6-738E-4D71-BA9D-A2F507F968D3 1.jpeg|200]]
+	Round sunglasses $20 https://www.urbanoutfitters.com/shop/jax-round-sunglasses?color=007&size=0000
 
 ### 3. Furniture
 

@@ -3,7 +3,10 @@
 ![[95D1A4EA-0FA8-429B-A81E-B33355A07D10.jpeg]]
 
 # ☯️ The Flow
-“The Tao of the sage is work without effort” 
+
+“The Tao of the sage is working without effort”
+
+The goal I have for this learning workflow is to create one that requires no excessive effort, no straining to remember things, no clinging to ideas in fear of forgetting, and also forcing myself to try and think of something. If I can’t develope a note further then I just move on to another one and come back to it later. In short plan to build a stress free and seamless learning and thinking environment.
 
 There are 3 stages to The Flow
 
@@ -25,7 +28,7 @@ Tid bits can be deliberately sought out to expand upon a specific thing when a b
 
 **📚 Books**
 
-**⏯ Video (lectures)**
+**⏯ Lectures**
 
 **👨‍🏫 Courses**
 
@@ -36,7 +39,7 @@ These types of sources are for gaining smaller bits of insight from commentaries
 **🌐 Articles / blogposts / social media posts**
 
 
-**⏯ Video (commentaries)**
+**⏯ Video**
 
 **🎙 Podcasts**
 

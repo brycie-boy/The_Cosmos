@@ -1,9 +1,10 @@
-## sub·lime #flashcard 
-\ sə-ˈblīm \
+## sublime #flashcard 
+
+_adjective_
 
 1. a: lofty, grand, or exalted in thought, expression, or manner
-
 	b: of outstanding spiritual, intellectual, or moral worth
+	
 ___
 ##### Similar
 [[amazing]]
