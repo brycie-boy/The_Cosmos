@@ -1,5 +1,7 @@
 # Vocabulary
 
+- reminder: link present tense words to the words of other tenses
+
 ## A
 
 ### AA
@@ -12,7 +14,100 @@
 
 ### AE
 
-## B
+### AF
+
+### AG
+
+### AI
+
+### AJ
+
+### AK
+
+### AL
+
+### AN
+
+### AM
+
+### AO
+
+### AP
+
+### AQ
+
+### AR
+
+### AS
+
+### AT
+
+### AU
+
+### AV
+
+### AW
+
+### AX
+
+### AY
+
+### AZ
+
+## B 
+
+### BA
+
+### BB
+
+### BC
+
+### BD
+
+### BE
+
+### BF
+
+### BG
+
+### BH
+
+### BI
+
+### BJ
+
+### BK
+
+### BL
+
+### BM
+
+### BN
+
+### BO
+
+### BP
+
+### BQ
+
+### BR
+
+### BS
+
+### BT
+
+### BU
+
+### BV
+
+### BW
+
+### BS
+
+### BY
+
+### BZ
+
 ## C
 ## D
 ## E

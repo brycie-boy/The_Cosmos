@@ -1,27 +1,28 @@
 # 🗓 Daily Planner
 
-#### ToDo during learning and free time
+### Important ToDos
+
+> Do during both learning time and free time
 
 - [ ] Schedule DMV written test appointment 
 - [ ] Schedule DMV road test appointment
 - [ ] Look for jobs
-- [ ] Link present tense words
 
 ## 🤓 Learning
 
-#### Inboxes
+> Only do 2 things at a time
 
-- [ ] Words: 
-- [ ] Ideas: ❗️
-- [ ] Raindrop.io: 
-- [ ] ⛅️ stellar nursery: ❗️
+### Inboxes
+
+- [ ] Words:  [[📝 Note Pad]]
+- [ ] Ideas: ❗️[[📝 Note Pad]]
+- [ ] Raindrop.io:  
+- [ ] Stellar Nursery: ❗️ #⛅️
 
 
-#### Choose Today’s Source
+### Choose Source
 
-> - 3 Things Max!
-
-- [ ] **1.** 
+- [x] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words Chapter IX. The Shining Light Of Wisdom
@@ -29,43 +30,44 @@
 
 - [ ] **2.**
 
-- [ ] **3.**
-
 ## 🎮🎨 Free time
 
-#### ToDo during free time
+### Unimportant ToDos
 
-- [ ] Set up workout routine 
-- [ ] Leave review for pillow on Amazon
-- [x] Change passwords and emails 
-- [x] Organize music library 
+> Just do during free time
+
+#### Quick tasks
+- [ ] check shipping price for stuffs ;)
+- [x] Look for new barber
+- [x] Make a raindrop imbed note and add to inbox section
 - [ ] Put tags on Raindrop.io entrees 
-- [ ] Work on the letters in the vocabulary moc
-- [ ] Work on shopping list 
-- [ ] Download minecraft on computer
-- [ ] Type 100 words per minute
-- [ ] Delete photos
-- [ ] Delete safari favorites 
 
-#### Continue learning?
+#### Slow tasks
+- [x] Set up workout routine 
+	- [ ] Adjust eating habits according to workout
+- [ ] Work on shopping list 
+- [ ] Change passwords and emails 
+- [x] Organize music library 
+- [ ] Type 100 words per minute
+- [ ] Delete safari favorites 
+- [ ] Delete photos
+
+### Continue learning?
 
 - [ ] Yes
-- [ ] No
+- [x] No
 
-#### Create
+### Create
 
-- [x] Make music
+- [ ] Make music
 - [ ] Draw
 
-#### Consume
+### Consume
 
 - Watch TV 
 - Watch movie 
-	- [ ] Akira
-	- [ ] Fallen angles
 
-
-##### SOcial medias 
+#### Social medias 
 
 - [ ] Instagram
 - [ ] Pinterest

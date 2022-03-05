@@ -1,6 +1,7 @@
 ## Shopping list
 Ideas:
 - bamboo pillow cases
+- Yeezy season 6 sweat suits from AliExpress
 
 ### 1. Crypto and stocks
 ### 2. Clothes 

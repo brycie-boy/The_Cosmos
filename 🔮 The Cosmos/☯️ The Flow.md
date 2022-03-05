@@ -1,3 +1,5 @@
+#⛅️ 
+
 <- [[🫀 The Core]]
 
 ![[95D1A4EA-0FA8-429B-A81E-B33355A07D10.jpeg]]
@@ -94,7 +96,12 @@ When capturing annotations, don’t worry about what the best things to annotate
 ___
 
 # Digestion 
+
 ### The Note Making Process
+If my system is called The Cosmos, then, of course, it’s makes sense to liken my notes to the birth of a star. Each idea in my head is a star in the universe that is my mind. 
+
+The process consists of 6 stages, as shown below.
+
 
 ##### 1. ☁️ Stellar Nursery
 
@@ -106,6 +113,7 @@ The Stellar Nursery is where my inbox notes are stored. All of the annotations f
 ##### 2. ⛅️ Proto
 
 ![[05247EF8-7C83-4E59-BB86-FBA95A151ABE.jpeg|300]]
+“Then god said let there be be light, and it was so”
 
 The chaos of the Stellar Nursery is beginning to condense. An idea is beginning to emerge from the clouds, but it’s still veiled in ambiguity.
 

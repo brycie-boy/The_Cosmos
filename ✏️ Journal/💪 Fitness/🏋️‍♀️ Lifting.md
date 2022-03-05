@@ -1,3 +1,5 @@
+- when it comes to health. Don’t study anything until you see results
+
 ## Lifting
 
 - [x] Squat

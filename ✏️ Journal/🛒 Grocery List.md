@@ -1,16 +1,10 @@
 # Grocery List
 
-❗️: Important item
+- When it comes to Health. Don’t study anything until you see results
 
-> Only spend extra money on supplements!
+## Ideas
 
-Look for:
-- Grass fed
-- Grass Finished
-- Pasture raised
-- No antibiotics ever
-
-### Things to Watch For On Labels
+## Things to Watch For On Labels
 1. Serving size
 
 2. Servings / container
@@ -60,123 +54,97 @@ Look for:
 - Potasium sorbate
 - Sodium benzoate
 
-### Meat/Protein
+## Meat/Protein
 - [x] Lean Chicken ❗️ 
-- [x] Samon❗️
 - [x] Ground beef❗️
-	- [ ] Steak
-- [ ] Shellfish
-	- [ ] Shrimp
-- [ ] Canned fish: S.M.A.S.H
-	- [ ] Sardines
-	- [ ] Mackerel
-	- [ ] Anchovies 
-	- [ ] Salmon 
-	- [ ] Herring
+	- [x] Steak
+- [x] Samon
+	- [x] Shellfish
+	- [x] Shrimp
 - [x] Eggs ❗️ 
-
-Optional:
 - [x] Bacon
+- [ ] Canned fish: S.M.A.S.H
+	- Sardines
+	- Mackerel
+	- Anchovies 
+	- Salmon 
+	- Herring
 
-### Veggies
-- [x] Broccoli ❗️
+## Veggies
+- [x] Broccoli 
 - [x] Cauliflower
 	- Riced Cauliflower
-- [x] Baby spinach or arugula ❗️
-- [ ] Baby kale
+- [x] Baby spinach or arugula 
 - [x] Avocado ❗️
 	- Guacamole
-- [x] Asparagus ❗️
+- [x] Asparagus 
 	- Artichoke 
+- [ ] Baby kale
 - [ ] Berries
 
-### Fats and Oils
-- [x] Coconut oil ❗️
-- [x] Avocado oil ❗️
-- [x] Grass fed butter ❗️
-- [ ] Ghee
-- [x] Extra virgin olive oil ❗️
+## Fats and Oils
+- [x] Coconut oil 
+- [x] Avocado oil 
+- [x] Grass fed butter 
+- [x] Ghee
+- [x] Extra virgin olive oil 
 - [x] MCT Oil
-	- [ ] Red Palm
+	- Red Palm
 
-Optional:
-- [ ] Mac nut oil
-
-### Cheese/Dairy
-- [x] Greek or Bulgarian yogurt ❗️
-- [ ] Cottage cheese
-	- Brand: Good Culture
+## Cheese/Dairy
+- [x] Greek or Bulgarian yogurt 
+- [x] Coconut cream 
+	- Heavy cream
+- [x] Almond milk
 - [x] Goat cheese
-	- [ ] Parm/Romano
-	- [ ] Aged white cheddar
-- [x] Coconut cream ❗️
-	- [ ] Heavy Cream
+	- Parm/Romano
+	- Aged white cheddar
+- [ ] Cottage Cheese
 - [ ] 1/3 less fat cream cheese
 
-Optional:
-- [x] Almond milk
-
-### Nuts and Seeds
-- [x] Pili nuts ❗️
+## Nuts and Seeds
+- [x] Pili nuts 
 	- Mac nuts 
 	- Pecans
-- [x] Walnuts
+- [x] Walnuts 
+- [x] Nut Butters 
+	- Sunflower butter
+	- Almond butter
+	- Mac nut butter
 - [ ] Hemp seeds
 - [ ] Flax / chia
-- [x] Nut Butters
-	- [ ] Almond butter
-	- [x] Sunflower butter
-	- [ ] Mac nut butter
 
 Optional:
 
 
-### Other
-- [ ] Mayo
-	- made with avocado oil
-- [x] Cacao
-- [ ] Canned coconut milk
-- [x] Coffee / Tea ❗️
-- [x] Cayenne 
-- [x] Redmond / pink salt❗️
+## Other
+- [x] Coffee / Tea 
+- [x] Redmond / pink salt
 - [x] Stevia / Monkfruit
-	- try to avoid arithrotol
+- [x] Cacao 
+- [x] Apple cider vinegar 
+- [x] Ginger 
+- [x] Cayenne 
 - [x] Cinnamon 
-- [x] Ginger ❗️
-	- lemon
-- [x] Apple cider vinegar ❗️
-- [ ] Porkrinds
-	- Try to get baked
+- [ ] Avocado Mayo
+- [ ] Baked Porkrinds
 - [ ] Jerky
 
-### Supplements 
-- [x] Magnesium❗️
-	- Pure Therapo Magnesium 120 servings $32
+## Supplements 
+- [x] Magnesium
 - [x] Fish oil / Omega 3s
-	- Bulksupplements krill oil capsules 150 servings $29
 - [x] Vitamin D3 / K2
-	- [ ] Now Supplements d3 K2 capsules 120 servings $10 
-- [ ] Lions mane ❗️
-	- [ ] Host defense brain 30 servings $23
-	- [ ] Double Wood lions Man Capsules 60 servings $20
-- [ ] Psilocybin ❗️
-	- [ ] THCqueen Psilocybin Capsules 30 servings $55
-	- [ ] THCqueen Psilocybin Capsules 50 servings $100
-- [ ] Rhodiola Rosea 
-	- [ ] Bronson Rhodiola Rosea Capsules 120 servings $15
+- [ ] Lions mane 
+- [ ] Psilocybin 
 - [ ] Ginko
-	- [ ] Host defense brain 30 servings $23
-	- [ ] Bronson Ginko Capsules 60 servings $10
+- [ ] Rhodiola Rosea 
 
-❗️:
-- Total: $110
-- 1 month items: $78
-	
 
 ___
-### Hygiene
+## Hygiene
 
-Avoid:
+### Avoid
+
 - Parabens 
 - Triclosan
 	- DP 3000

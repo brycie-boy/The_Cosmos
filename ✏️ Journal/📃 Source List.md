@@ -2,14 +2,6 @@
 # Categories
 ## **Spiritual / Philosophy**
 
-![[F6767D3B-E3D1-4B39-911B-42782768E1CD.jpeg|80]]
-- Source: The Secret Teachings of All Ages
-- Author: Manly P. Hall
-
-![[8F60F881-BBD1-4510-9A2B-F1DB961FD39E.jpeg|80]]
-- Source: Prometheus Rising
-- Author: Robert Anton Wilson
-
 ![[3C937D61-1CC6-4462-BD8C-28E2EA561CDF.jpeg|80]]
 - Source: Archetypes and the Collective Unconscious
 - Author: Carl jung
@@ -26,6 +18,15 @@
 - Source: Solitude: A Return to the Self
 - Author: Anthony Storr
 
+![[F6767D3B-E3D1-4B39-911B-42782768E1CD.jpeg|80]]
+- Source: The Secret Teachings of All Ages
+- Author: Manly P. Hall
+
+![[91CBFF83-B309-49CF-9CD3-12B197B9D86E.jpeg|80]]
+![[8F60F881-BBD1-4510-9A2B-F1DB961FD39E.jpeg|80]]
+- Source: Prometheus Rising
+- Author: Robert Anton Wilson
+
 ![[07A0E8BA-CDDC-46D7-A089-A517731DDF72.jpeg|80]]
 - Source: The Mind Illuminated 
 - Author: John Yates
@@ -37,6 +38,7 @@
 ![[57F86B09-11C3-4722-A38B-4084AD64F7CF.jpeg|80]]
 - Source: The Master and His Emissery
 - Author: Iain McGilchrist
+
 
 ## **Science / Math / Tech:**
 
@@ -64,17 +66,10 @@
 - Source: Hyper Focus
 - Author: Chris Bailey
 
-![[35FF1FA9-E583-4059-BC63-E6C51C0E84C9.jpeg|80]]
-- Sources: Deep Work
-- Author: Cal Newport
-
 ![[DDBE241D-12DA-4768-A310-B33DD25FB159.jpeg|80]]
 - Source: Getting Things Done
 - Author: David Allen
 
-![[017E1654-4530-4791-8A11-89372B7D0056.jpeg|80]]
-- Source: Metabolical
-- Author: Robert Lustig
 
 ## **Psychology / Sociology:**
 
