@@ -17,7 +17,7 @@
 - [ ] Words:  [[📝 Note Pad]]
 - [ ] Ideas: [[📝 Note Pad]]
 - [ ] Raindrop.io:  
-- [ ] Stellar Nursery: ❗️ #⛅️
+- [x] Stellar Nursery: ❗️ #⛅️
 
 
 ### Choose Source
