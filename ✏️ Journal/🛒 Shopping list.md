@@ -2,6 +2,8 @@
 Ideas:
 - bamboo pillow cases
 - Yeezy season 6 sweat suits from AliExpress
+- Raf Simmons ski mask
+- Military boots green and beige
 
 ### 1. Crypto and stocks
 ### 2. Clothes 
@@ -9,10 +11,7 @@ Ideas:
 
 - ![[90BBB219-D1E7-437F-ADA9-915E1979953F.webp|200]]
 	![[45955F0E-BB0D-4275-A475-FAF770759D40.webp|200]]
-	blue and light blueJeans $36 https://m.aliexpress.com/item/1005003122702771.html?spm=a2g0n.detail.0.0.12f214417aytzV&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=449f9a33-4f44-4172-8eea-c003b35a828c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:449f9a33-4f44-4172-8eea-c003b35a828c,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B17.63%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
-
-- ![[8F05A4C5-7FDE-4D01-AA4B-F216DBB3CADA.webp|200]]
-	Grey sweatpants $14 https://m.aliexpress.com/item/1005002212010431.html?spm=a2g0n.wishlist-amp.item.1005002212010431&aff_trace_key=&aff_platform=msite&m_page_id=7096amp-SCDjq3cy6awRNLagYU6AuQ1645937758028&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
+	blue and light blueJeans $36 https://m.aliexpress.com/item/1005003122702771.html?spm=a2g0n.detail.0.0.12f214417aytzV&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=449f9a33-4f44-4172-8eea-c003b35a828c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:449f9a33-4f44-4172-8eea-c003b35a828c,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B17.63%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
 	
 - ![[95B53E91-96B0-4265-99BD-472AAE39F006.webp|200]]
 	Green Cargos $32 https://m.aliexpress.com/item/1005003297342194.html?gatewayAdapt=Pc2Msite&spm=a2g0n.store_m_allProduct.allProducts_359073432.1005003297342194
@@ -40,21 +39,30 @@ Ideas:
 	
 - ![[24B0EACA-422D-43A3-9E17-AC288019B2F7.webp|200]]
 	![[0AC180E2-51A4-42D3-B3CC-7C9ACC39FF39.webp|200]]	
-		gym shorts black and white $20 https://m.aliexpress.com/item/1005001300217984.html?spm=a2g0n.wishlist-amp.item.1005001300217984&aff_trace_key=&aff_platform=msite&m_page_id=8014amp-SCDjq3cy6awRNLagYU6AuQ1645922084401&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
+		gym shorts black and white $20 https://m.aliexpress.com/item/1005001300217984.html?spm=a2g0n.wishlist-amp.item.1005001300217984&aff_trace_key=&aff_platform=msite&m_page_id=8014amp-SCDjq3cy6awRNLagYU6AuQ1645922084401&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y ❗️
 
 ##### Tshirts
 
 - ![[F9AFB908-541A-4DB7-8243-E6D795F8D083.jpeg|200]]
-	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-white
+	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-white ❗️
 
 - ![[1268DDE1-309C-49D9-85FB-CA920D73AA98.jpeg|200]]
-	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-black
+	black $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-black 
+
+- ![[2E6072CE-FD28-4E9C-88EC-B99E1E426214.jpeg|200]]
+	Grey tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-heather-grey
+
+- ![[B60D7655-E047-4C75-AD28-994013E29C83.jpeg|200]]
+	Dark grey vintage tee $35 https://rueporter.com/collections/consumer-sample-store/products/premium-vintage-tee?variant=30901553102945
+
+- ![[6C4A641D-84E4-4F22-95E5-2135E4F96DA1.jpeg|200]]
+	Cream tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-heather-grey
 
 - ![[B0910848-8591-4DF5-B68B-03B09B2B27C5.webp|200]]
-	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
 
 - ![[98D3D0A0-721A-4723-B4F8-7E9FB150535C.webp|200]]
-	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
+	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
 
 - ![[E8D84186-A1DB-499A-8BA2-F370BD9F8A4E 1.webp|200]]
 	Blonde merch pink white $11 https://m.intl.taobao.com/detail/detail.html?id=612486455411
@@ -95,9 +103,12 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 
 - ![[36D1499E-E833-4667-A123-C55DFBAF5A0F.webp|200]]
 	![[FFD791BC-4AD0-4517-9CE8-0C2CF305628F.webp|200]]
-	Charcoal and grey tank top $32 https://m.aliexpress.com/item/1005002081647422.html?spm=a2g0n.wishlist-amp.item.1005002081647422&aff_trace_key=&aff_platform=msite&m_page_id=9522amp-SCDjq3cy6awRNLagYU6AuQ1645923449113&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
+	Charcoal and grey tank top $32 https://m.aliexpress.com/item/1005002081647422.html?spm=a2g0n.wishlist-amp.item.1005002081647422&aff_trace_key=&aff_platform=msite&m_page_id=9522amp-SCDjq3cy6awRNLagYU6AuQ1645923449113&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y ❗️
 
 ##### Sweatshirts/Sweaters
+
+- ![[C6D13649-9AA8-4A64-A81F-D5FCC2767498.jpeg|200]]
+	Grey Nike crewneck sweatshirt $45 https://www.ebay.com/itm/275191626231?_trkparms=ispr%3D1&hash=item4012b2f9f7:g:R3sAAOSwAs5iH~Ba&amdata=enc%3AAQAGAAACoPYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsSlHY%252FYTip4QFVjNQrCEJt6s%252FiOFxZ4ceJ20NiXq%252FAb8YR9b1KmekiRTCKvCBm77%252FZSqZSwP6XHFUVVTtwyWSM3oRjlWWw7%252Fhjjqvhutbbx%252BuzVfJBva9w9iZStHnx20wiXTa8bMwT0nP%252BT23%252FaPOQGIOs5%252BF%252FOCxRoxkcUMWfZWRPxtrFf6EPGe7yrBTNQyNd5zkdW4R54hm1tqtbkeQxLmrm0CL5iv9jCfzuSupR6GquyhhRnSKX1577boRmhFyQ%252Fe5Trfu%252FifvXr5v1zbYLIXsF8T%252FiK17pW1uBRmMIsMverW197t2GphnWU9SuWj75iC%252BpBVDT5OKc0QHkcDHuDTf0AmwkvDp0EnZvqAEaMcYHu84wZpHDTZjO6G3Uxfnydc0zxYI2wCSPTCdKGqHys8rqJQRfD4x%252F26d6wvo6GMCqiGxVUpNE860JblJfdVKov8f8f0sRu9%252BUG%252FhlDUzEyM1wiUN4PUawcVBCzhyWi7XyDdXttwj0Gg6lDF3cVWRpnr4DknGYnNEoylvUZ3J03LzfajuYWihwHrD%252BmNGRiutZZVeqeAbL5q0vbVxRm1p8CvdcikTfwNuJCoZBLIDS3wdftNmzOowgENhRdY6YTF2SvLhY3fEZE8tIXbMoRbh7b%252ByPyzi50dujeXIz3Afq5l3nE1lrlM%252B9WDRInPIHDvNmRi9u9OpBv3ppmijEGp3sDiPtY4Pzm4igiedQoH8anrC6IqYfhPEr2EY0MIyiGBsOMMQI9Yy%252BrrQFbVlbM%252Fy%252FFS2HGNFrjHsENZ9ZbnMhT5Ec1fI9V7anm2GnRbzBh%252F0PPeldanR%252BWkgkr8BUeyDrOjb55y17u06IEHsM%252B0KiOw%253D%253D%7Cclp%3A2334524%7Ctkp%3ABFBMytqyjuxf
 
 - ![[64B79B9A-2253-4C4F-8645-FBC4E686C899.jpeg|200]]
 	oversized turtle neck sweater black $23 https://www.asos.com/us/asos-design/asos-design-oversized-funnel-neck-sweater-in-black/prd/20380986?clr=black&colourWayId=60049009&SearchQuery=roll+neck+sweater+oversized
@@ -190,6 +201,13 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 
 - ![[637DF77B-0AF7-4ECA-8020-98CAC0DF0589.jpeg|200]]
 	Crochet ski mask $25 https://www.etsy.com/listing/1180652155/crochet-ski-mask?plkey=6e94d413fb4b17802a686795bd2a24959f64d3b2%3A1180652155&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=ski+mask&ref=sc_gallery-2-1
+
+
+- ![[A3B22C7F-82A9-40A5-8EEC-D2EA2DE7E820.webp|200]]
+	crotchet ski mask gilly $50 https://www.etsy.com/listing/1180982409/crochet-ski-mask-messy-loopy-reversible?ref=sim_strv-2
+
+- ![[10B7DE0E-EA3C-400D-A0C5-974522415DAB.webp|200]]
+	White Crochet ski mask $60 https://www.etsy.com/listing/1103873988/white-knit-ski-mask-balaclava-crochet?ref=lp_rv-1&sef=1
 
 - ![[C424BB29-775E-425F-A9E8-A741A929A4D5.webp|200]]
 	Cross pendant and chain $25 https://www.etsy.com/listing/998352158/mens-cross-necklace-silver-cross?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cross+pendant&ref=sr_gallery-1-11&organic_search_click=1&frs=1&bes=1&variation0=1998570329&variation1=1978363982

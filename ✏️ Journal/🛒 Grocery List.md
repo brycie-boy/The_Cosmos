@@ -1,6 +1,6 @@
 # Grocery List
 
-- When it comes to Health. Don’t study anything until you see results
+> Go through whole list
 
 ## Ideas
 
@@ -55,13 +55,13 @@
 - Sodium benzoate
 
 ## Meat/Protein
-- [x] Lean Chicken ❗️ 
-- [x] Ground beef❗️
+- [x] Lean Chicken 
+- [x] Ground beef
 	- [x] Steak
 - [x] Samon
 	- [x] Shellfish
 	- [x] Shrimp
-- [x] Eggs ❗️ 
+- [x] Eggs 
 - [x] Bacon
 - [ ] Canned fish: S.M.A.S.H
 	- Sardines
@@ -95,7 +95,7 @@
 - [x] Greek or Bulgarian yogurt 
 - [x] Coconut cream 
 	- Heavy cream
-- [x] Almond milk
+- [ ] Almond milk
 - [x] Goat cheese
 	- Parm/Romano
 	- Aged white cheddar
@@ -103,7 +103,7 @@
 - [ ] 1/3 less fat cream cheese
 
 ## Nuts and Seeds
-- [x] Pili nuts 
+- [ ] Pili nuts 
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
@@ -118,6 +118,7 @@ Optional:
 
 
 ## Other
+- [ ] Water
 - [x] Coffee / Tea 
 - [x] Redmond / pink salt
 - [x] Stevia / Monkfruit
@@ -126,6 +127,7 @@ Optional:
 - [x] Ginger 
 - [x] Cayenne 
 - [x] Cinnamon 
+- [ ] Seaweed chips
 - [ ] Avocado Mayo
 - [ ] Baked Porkrinds
 - [ ] Jerky

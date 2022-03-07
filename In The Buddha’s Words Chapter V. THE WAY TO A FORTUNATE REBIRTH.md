@@ -5,9 +5,9 @@ Publish Date: 2005-6-28
 Review Date: 2022-2-9
 Status: #⛅️
 Tags: 
+
 ___
 
-# 1.
 - Highlight(pink) - Location 2581
 According to the Buddha’s teaching, the cosmos, with its many realms of sentient existence, is governed at all levels by immutable laws, physical, biological, psychological, and ethical. The process by which sentient beings migrate from one state of existence to another is likewise lawful.
 
@@ -36,7 +36,8 @@ The reason why a living being is reborn into a particular realm is because in a 
 “For beings obstructed by ignorance and hindered by craving, kamma is the field, consciousness the seed, and craving the moisture, for consciousness to be established in a new realm of existence—either inferior, middling, or superior”
 (AN 3:76; I 223)
 
-# 2. 
+___
+
 - Highlight(pink) - Location 2599
 On the basis of its ethical quality, the Buddha distinguishes kamma into two major categories: the unwholesome (akusala) and the wholesome (kusala).
 
@@ -155,7 +156,7 @@ it is by reason of such unrighteous conduct, such conduct not in accordance with
 it is by reason of such righteous conduct, such conduct in accordance with the Dhamma that some beings here, on the breakup of the body, after death, are reborn in a good destination, even in a heavenly world.
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
-# 3.
+___
 
 - Highlight(pink)
 You want long life, health, beauty, power, riches, high birth, wisdom? Or even some of these things? They do not appear by chance. It is not someone's luck that they are healthy, or another's lack of it that he is stupid. Though it may not be clear to us now, all such inequalities among human beings (and all sorts of beings) come about because of the kamma they have made individually. Each person reaps his own fruits. So if one is touched by short life, sickliness, ugliness, insignificance, poverty, low birth or stupidity and one does not like these things, no need to just accept that that is the way it is. The future need not be like that provided that one makes the right kind of kamma now. Knowing what kamma to make and what not to make is the mark of a wise man. It is also the mark of one who is no longer drifting aimlessly but has some direction in life and some control over the sort of events that will occur.
@@ -189,7 +190,7 @@ But if instead he comes back to the human state, then wherever he is reborn he i
 But if instead he comes back to the human state, then wherever he is reborn he is ugly.
 (Kamma and Its Fruits Location 2877, MN 135: Cūḷakammavibhaṅga Sutta; III 202–6)
 
-Highlight(pink) - Location 2916
+- Highlight(pink) - Location 2916
 “Here, student, some man or woman is envious, one who envies, resents, and begrudges the gains, honor, respect, reverence, salutations, and veneration received by others. Because of performing and undertaking such action … he is reborn in a state of misery.…
 
 - Highlight(pink) - Location 2918
@@ -213,8 +214,7 @@ But if instead he comes back to the human state, then wherever he is reborn he i
 - Highlight(pink) - Location 2945
 But if instead he comes back to the human state, then wherever he is reborn he is stupid.
 
-
-# 4.
+___
 
 - Highlight(pink) - Location 2687
 merit (puñña), wholesome kamma capable of yielding favorable results within the cycle of rebirths.
@@ -339,7 +339,7 @@ While the brahmins regarded the brahma world as the highest attainment, for the 
 - Highlight(pink) - Location 2746
 The concentration arisen from these meditations, however, can also be used as a basis for cultivating the wisdom of insight, and insight culminates in liberation.
 
-# 6.
+___
 
 - Highlight(pink) - Location 2645
 The Buddhist cosmos is divided into three broad realms—the sense-sphere realm (kāmadhātu), the form realm (rūpadh̄tu ), and the formless realm (arūpadhātu)—each comprising a range of subsidiary planes.

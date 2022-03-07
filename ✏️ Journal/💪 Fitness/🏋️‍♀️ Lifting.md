@@ -7,6 +7,7 @@
 - [x] Bench
 - [ ] Vertical press
 - [ ] Horizontal pull
+- [ ] Vertical pull
 - [ ] Curl
 - [ ] Hamstring curl
 - [ ] Standing raise
@@ -204,6 +205,16 @@ ___
 - Finish the lift thrusting your hips forward
 
 #### Back
+
+![[8A1AF5AD-B6FA-48BD-A7BD-548A26DF9430.jpeg]]
+___
+
+![[902965D7-E042-432F-AB5B-E068E6349053.jpeg]]
+- Shoulder width stance
+
+![[28F8AC81-7D2D-4E68-A01E-108F4F9694E0.jpeg]]
+- Pick up the bar by pushing the hips back so that shins are kept vertical
+
 #### Chest
 ###### Bench
 ![[152BAD11-E3E6-4F2E-9211-234180DFE3D5.jpeg]]

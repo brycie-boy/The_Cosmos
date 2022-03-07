@@ -12,3 +12,5 @@
 1. Inhibition
 2. Aggregate 
 3. Expository
+4. quiescent
+5. extirpate

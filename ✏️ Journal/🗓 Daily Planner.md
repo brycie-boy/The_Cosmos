@@ -37,17 +37,16 @@
 > Just do during free time
 
 #### Quick tasks
-- [ ] check shipping price for stuffs ;)
-- [x] Look for new barber
-- [x] Make a raindrop imbed note and add to inbox section
+- [ ] Make a raindrop imbed note and add to inbox section
 - [ ] Put tags on Raindrop.io entrees 
 
 #### Slow tasks
-- [x] Set up workout routine 
-	- [ ] Adjust eating habits according to workout
-- [ ] Work on shopping list 
-- [ ] Change passwords and emails 
+- [ ] Buy the goods
+- [x] create plays lists for form vids
+- [ ] Look into adjusting diet for workout
 - [x] Organize music library 
+- [ ] Change passwords and emails 
+- [ ] Work on shopping list 
 - [ ] Type 100 words per minute
 - [ ] Delete safari favorites 
 - [ ] Delete photos
