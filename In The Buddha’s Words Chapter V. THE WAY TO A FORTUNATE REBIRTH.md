@@ -24,7 +24,9 @@ Such volition may remain purely mental, generating mental kamma that occurs as t
 all morally determinate volitional actions create a potential to bring forth results (vipāka) or fruits (phala) that correspond to the ethical quality of those actions. This capacity of our deeds to produce the morally appropriate results is what is meant by kamma. Our deeds generate kamma, a potential to produce fruits that correspond to their own intrinsic tendencies. Then, when internal and external conditions are suitable, the kamma ripens and produces the appropriate fruits.
 
 - Highlight(pink) - Location 2595
-In ripening, the kamma rebounds upon us for good or for harm depending on the moral quality of the original action. This may happen either later in the same life in which the action was done, in the next life, or in some distant future life.
+In ripening, the kamma rebounds upon us for good or for harm depending on the moral quality . This may happen either later in the same life in which the action was done, in the next life, or in some distant future life.
+
+___
 
 - Highlight(pink) - Location 2625
 The twin doctrines of kamma and rebirth enable us to see that the world in which we live is, in important respects, an external reflection of the internal cosmos of the mind. This does not mean that the external world can be reduced to a mental projection in the way proposed by certain types of philosophical idealism. However, taken in conjunction, these two doctrines do show that the conditions under which we live closely correspond to the karmic tendencies of our minds.
