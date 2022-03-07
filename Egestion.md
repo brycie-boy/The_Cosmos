@@ -1,7 +1,6 @@
+![[564C2EFB-A5E9-4733-8B20-8FB498E26A86.webp]]
 
 # Egestion
-
-![[D2470CD5-12BE-4BA7-8384-F5BDD1999E79.jpeg|300]]
 
 “As above. So below.”
 

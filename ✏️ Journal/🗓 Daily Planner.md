@@ -37,11 +37,11 @@
 > Just do during free time
 
 #### Quick tasks
-- [ ] Make a raindrop imbed note and add to inbox section
+- [x] Make a raindrop imbed note and add to inbox section
 - [ ] Put tags on Raindrop.io entrees 
 
 #### Slow tasks
-- [ ] Buy the goods
+- [x] Buy the goods
 - [x] create plays lists for form vids
 - [ ] Look into adjusting diet for workout
 - [x] Organize music library 
@@ -53,8 +53,8 @@
 
 ### Continue learning?
 
-- [ ] Yes
-- [x] No
+- [x] Yes
+- [ ] No
 
 ### Create
 

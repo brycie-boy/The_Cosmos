@@ -1,3 +1,5 @@
+![[16E9D99B-9581-4A27-8E03-C6A909AB1B29.webp]]
+
 # Ingestion
 
 ### Sources
@@ -6,7 +8,7 @@
 
 These source types provide a broad context on a topic. These are good for expanding upon with tid bit sources, rather than jumping across tid bit sources and putting them together to understand a topic.
 
-Tid bits can be deliberately sought out to expand upon a specific thing when a broad source isn’t elaborate enough on it. Or  it can be added within an inbox in which sources that seem interesting can be added and managed.
+Tid bits can be deliberately sought out to expand upon a specific thing when a broad source isn’t elaborate enough on it. Or  it can be added within an inbox where sources that seem interesting can be added and managed.
 
 **📚 Books**
 
