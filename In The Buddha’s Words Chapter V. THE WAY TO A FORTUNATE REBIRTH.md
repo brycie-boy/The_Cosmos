@@ -1,4 +1,4 @@
-## In The Buddha’s Words Chapter V. THE WAY TO A FORTUNATE REBIRTH
+## In The Buddha’s Words: An Anthology of Discorces from the Pali Canon Chapter V. THE WAY TO A FORTUNATE REBIRTH
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
 Author: The Buddha, Bhikkhu Bodhi
 Publish Date: 2005-6-28
