@@ -6,7 +6,6 @@ _noun_
 ___
 ##### Similar
 -  [[cheapskate]]
--  [[hunks]] 
 -  [[penny-pincher]]
 -  [[scrooge]]
 -  [[tightwad]]
@@ -14,7 +13,6 @@ ___
 
 ##### References 
 - https://www.merriam-webster.com/dictionary/niggard
-
 
 ##### Metadata
 Status: #☀️ 

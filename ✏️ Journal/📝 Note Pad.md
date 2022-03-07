@@ -2,8 +2,7 @@
 
 > - 5 Ideas Max  [[🗓 Daily Planner]]
 
-- Thinking isn’t something you do, thoughts just happen
-- Depending on others makes you there prisoner 
+
 
 ## Words
 

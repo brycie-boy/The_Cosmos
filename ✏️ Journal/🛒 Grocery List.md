@@ -57,10 +57,10 @@
 ## Meat/Protein
 - [x] Lean Chicken 
 - [x] Ground beef
-	- [x] Steak
+	- Steak
 - [x] Samon
-	- [x] Shellfish
-	- [x] Shrimp
+	- Shellfish
+	- Shrimp
 - [x] Eggs 
 - [x] Bacon
 - [ ] Canned fish: S.M.A.S.H
@@ -95,7 +95,7 @@
 - [x] Greek or Bulgarian yogurt 
 - [x] Coconut cream 
 	- Heavy cream
-- [ ] Almond milk
+- [x] Almond milk
 - [x] Goat cheese
 	- Parm/Romano
 	- Aged white cheddar
@@ -103,7 +103,7 @@
 - [ ] 1/3 less fat cream cheese
 
 ## Nuts and Seeds
-- [ ] Pili nuts 
+- [x] Pili nuts 
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
@@ -136,9 +136,9 @@ Optional:
 - [x] Magnesium
 - [x] Fish oil / Omega 3s
 - [x] Vitamin D3 / K2
-- [ ] Lions mane 
 - [ ] Psilocybin 
-- [ ] Ginko
+- [x] Lions mane 
+- [x] Ginko
 - [ ] Rhodiola Rosea 
 
 

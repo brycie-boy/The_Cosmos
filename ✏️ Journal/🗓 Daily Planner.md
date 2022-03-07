@@ -15,14 +15,14 @@
 ### Inboxes
 
 - [ ] Words:  [[📝 Note Pad]]
-- [ ] Ideas: ❗️[[📝 Note Pad]]
+- [ ] Ideas: [[📝 Note Pad]]
 - [ ] Raindrop.io:  
 - [ ] Stellar Nursery: ❗️ #⛅️
 
 
 ### Choose Source
 
-- [x] **1.** 
+- [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words Chapter IX. The Shining Light Of Wisdom
