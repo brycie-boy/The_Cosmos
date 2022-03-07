@@ -60,9 +60,6 @@ Wholesome kamma, on the other hand, is action that is spiritually beneficial and
 “And what, monks, is bright kamma with bright results? Here, monks, someone generates a non-afflictive volitional formation of body, speech, or mind. Having done so, he is reborn in a non-afflictive world. Being touched by non-afflictive contacts, he experiences a non-afflictive feeling, extremely pleasant, as for example the devas of refulgent glory experience. 
 (Four Kinds of Kamma - Location 2754, AN 4:232; II 230–32)
 
-- Highlight(pink) - Location 7717
-Subhakiṇhā devā. These are the deities inhabiting the highest plane of rebirth corresponding to the third jhāna.
-
 - Highlight(pink) - Location 2606
 Its underlying motives are the three wholesome roots: nongreed, nonhatred, and nondelusion, which may be expressed more positively as generosity, loving-kindness, and wisdom.
 
@@ -73,6 +70,8 @@ Whereas actions springing from the unwholesome roots are necessarily bound to th
 “And what, monks, is kamma that is neither dark nor bright, with neither dark nor bright results, which leads to the destruction of kamma? The volition to abandon this dark kamma with dark results, and to abandon the bright kamma with bright results, and to abandon the dark and bright kamma with dark and bright results
 (Four Kinds of Kamma - Location 2754, AN 4:232; II 230–32)
 
+___
+
 - Highlight(pink) - Location 2633
 The next selection, Text V,1(2), draws a finer distinction among the types of unwholesome and wholesome kamma. The text enumerates ten primary instances of each class. Here they are called respectively “unrighteous conduct, conduct not in accordance with the Dhamma” and “righteous conduct, conduct in accordance with the Dhamma”
 
@@ -82,9 +81,6 @@ it is by reason of unrighteous conduct, conduct not in accordance with the Dhamm
 
 - Highlight(pink) - Location 2636
 they are usually known as the ten pathways of unwholesome and wholesome kamma.5 The ten are subdivided by way of the three “doors of action”—body, speech, and mind.
-
-- Highlight(pink) - Location 2589
-Such volition may remain purely mental, generating mental kamma that occurs as thoughts, plans, and desires; or it may come to expression outwardly through manifest bodily and verbal actions.
 
 - Highlight(pink) - Location 2638
 Taking the unwholesome first, there are three kinds of bodily misconduct: killing, stealing, and sexual misconduct;
@@ -109,12 +105,13 @@ sexual misconduct;
 those already engaged.
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
 
-- Highlight(pink) - Location 2638
-four kinds of verbal misconduct: lying, malicious speech, harsh speech, and idle chatter (or gossip);
 
 - Highlight(pink) - Location 2802
 there four kinds of unrighteous verbal conduct,
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
+
+- Highlight(pink) - Location 2638
+lying, malicious speech, harsh speech, and idle chatter (or gossip);
 
 - Highlight(pink) - Location 2803
 speaks falsehood;
@@ -146,6 +143,8 @@ ill will and intentions of hate
 - Highlight(pink) - Location 2815
 wrong view, distorted vision,
 (Why Beings Fare as They Do After Death - Location 2776, MN 41: Sāleyyaka Sutta; I 286–90)
+
+___
 
 - Highlight(pink) - Location 2641
 the ten types of unwholesome kamma are the reason that beings are reborn in the bad destinations after death; the ten types of wholesome kamma are the reason that beings are reborn in the good destinations after death.
