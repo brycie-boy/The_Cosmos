@@ -260,6 +260,15 @@ giving serves to break down the egocentric frame of mind on the basis of which w
 ‘By giving this gift, I shall be reborn in a good destination, in a heavenly world, after death’; or with the thought, ‘When giving this gift, my heart will be glad, and happiness and joy will arise in me’; or one gives because it ennobles and adorns the mind.”
 (Reasons for Giving Location 3015, AN 8:33; IV 236–37)
 
+- Highlight(pink) - location 2704
+“giving” for Early Buddhism does not mean simply philanthropic charity directed toward the poor and disadvantaged. While it includes this, the practice of giving has a more context-specific
+
+- Highlight(pink) - Location 2705
+rooted in the social structure of Indian religiosity.
+
+- Highlight(pink) - Location 2709
+Such homeless wanderers, known as samaṇas (“ascetics”) or paribbājakas (“wanderers”), did not perform any remunerative services but depended upon the charity of householders for their livelihood. The lay devotees provided them with their material requisites—robes, food, lodgings, and medicines—doing so in the confidence that such services were a source of merit that would help them advance a few steps farther in the direction of final emancipation.
+
 - Highlight(pink) - Location 3072
 4. MORAL DISCIPLINE
 
@@ -285,7 +294,7 @@ noble disciple gives up sexual misconduct and abstains from it.
 noble disciple gives up false speech and abstains from it.
 (Anguttara Nikaya 8:39; IV 245-47)
 
-= Highlight(pink) - Location 3093
+- Highlight(pink) - Location 3093
 a noble disciple gives up wines, liquors, and intoxicants,
 (Anguttara Nikaya 8:39; IV 245-47)
 
@@ -321,20 +330,43 @@ The eight precepts, enumerated in Text V,4(2), augment the training in sīla as 
 - Highlight(pink) - Location 2735
 The practice of meditation is not only the heart of the path to liberation but a source of merit in its own right. Wholesome meditation practices, even those that do not directly lead to insight, help to purify the grosser levels of mental defilement and uncover deeper dimensions of the mind’s potential purity and radiance.
 
+- Highlight(pink) - Location 3156
+The Four Divine Abodes
+ 
 - Highlight(pink) - Location 2738
 Text V,5(1) declares that the type of meditation that is most fruitful for the production of mundane merit is the development of loving-kindness (mettābhāvanā). The practice of loving-kindness, however, is only one among a set of four meditations called the “divine abodes” (brahmavih̄ra) or “immeasurable states” (appamaññ̄): the development of loving-kindness, compassion, altruistic joy, and equanimity, which are to be extended boundlessly to all sentient beings.
+
+- Highlight(pink) - Location 3114
+“Monks, whatever grounds there are for making merit productive of a future birth, all these do not equal a sixteenth part of the liberation of mind by loving-kindness.
+(The Development of Loving-Kindness location 3143, It 27; 19–21)
 
 - Highlight(pink) - Location 2741
 loving-kindness (mett̄) is the wish for the welfare and happiness of all beings;
 
+- Highlight(pink) - Location 3171
+loving-kindness
+(The Four Devine Abodes location 3156, MN 99: Subha Sutta; II 206–8)
+
 - Highlight(pink) - Location 2742
 compassion (karuṇā), the feeling of empathy for all those afflicted with suffering;
+
+- Highlight(pink) - Location 3177
+compassion
+(The Four Devine Abodes location 3156, MN 99: Subha Sutta; II 206–8)
 
 - Highlight(pink) - Location 2742
 altruistic joy (muditā), the feeling of happiness at the success and good fortune of others;
 
+- Highlight(pink) - Location 3177
+altruistic joy
+(The Four Devine Abodes location 3156, MN 99: Subha Sutta; II 206–8)
+
 - Highlight(pink) - Location 2743
 equanimity (upekkh̄), a balanced reaction to joy and misery, which protects one from emotional agitation.
+
+- Highlight(pink) - Location 3178
+equanimity
+(The Four Devine Abodes location 3156, MN 99: Subha Sutta; II 206–8)
 
 - Highlight(pink) - Location 2744
 These meditations are said to be the means to rebirth in the brahma world;
@@ -344,6 +376,9 @@ While the brahmins regarded the brahma world as the highest attainment, for the 
 
 - Highlight(pink) - Location 2746
 The concentration arisen from these meditations, however, can also be used as a basis for cultivating the wisdom of insight, and insight culminates in liberation.
+
+- Highlight(pink) - Location 2479
+Then, at the very end, it declares that the most fruitful deed among them all is the perception of impermanence. The perception of impermanence, however, belongs to a different order. It is so fruitful not because it yields pleasant mundane results within the round of rebirths, but because it leads to the wisdom of insight that cuts the chains of bondage and brings the realization of complete emancipation, Nibbāna.
 
 ___
 
