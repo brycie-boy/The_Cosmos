@@ -1,6 +1,6 @@
 ## Wholesome and unwholsome kamma  #flashcard 
 
-On the basis of ethical qualilty, kamma is distinguished into two major catagories. the wholesome and the unwholesome. Unwholesome kamma is an action that is afflictive to the agent, morally reprehensible, and brings painful results, or a hellish experience. Iy is kamma that ripens into misery and bad fortune.  The criterion for judging an action as unwholesome is its underlying motives, or "roots". There are three unwholesome roots:  
+On the basis of ethical qualilty, kamma is distinguished into two major catagories. the wholesome and the unwholesome. Unwholesome kamma is an action that is afflictive to the agent, morally reprehensible, and brings painful results, or a hellish experience. It is kamma that ripens into misery and bad fortune.  The criterion for judging an action as unwholesome is its underlying motives, or "roots". There are three unwholesome roots:  
 
 - greed
 - hatred

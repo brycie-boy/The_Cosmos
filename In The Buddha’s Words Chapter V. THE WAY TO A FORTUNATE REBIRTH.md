@@ -234,21 +234,7 @@ three ways of making merit.
 by giving, by moral discipline, and by the development of meditation.
 (Three Bases of Merit Location 2973, AN 8:33; IV 236–37)
 
-- Highlight(pink) - Location 2692
-In the Indian religious context, the practice of meritorious deeds revolves around faith in certain objects regarded as sacred and spiritually empowering, capable of serving as a support for the acquisition of merit. For followers of the Buddha’s teaching these are the Three Jewels: the Buddha, the Dhamma, and the Saṅgha.
-
-- Highlight(pink) - Location 3075
-“Here, monks, a noble disciple has gone for refuge to the Buddha.
-(The Five Precepts Location 3073, AN 8:39; IV 245–47)
-
-- Highlight(pink) - Location 3078
-“Further, a noble disciple has gone for refuge to the Dhamma.
-
-- Highlight(pink) - Location 3079
-“Further, a noble disciple has gone for refuge to the Saṅgha.
-
-- Highlight(pink) - Location 2695
-the Buddha is supreme among persons, the Dhamma among teachings, and the Saṅgha among religious communities.
+___
 
 - Highlight(pink) - Location 3009
 3. GIVING
@@ -268,6 +254,8 @@ rooted in the social structure of Indian religiosity.
 
 - Highlight(pink) - Location 2709
 Such homeless wanderers, known as samaṇas (“ascetics”) or paribbājakas (“wanderers”), did not perform any remunerative services but depended upon the charity of householders for their livelihood. The lay devotees provided them with their material requisites—robes, food, lodgings, and medicines—doing so in the confidence that such services were a source of merit that would help them advance a few steps farther in the direction of final emancipation.
+
+___
 
 - Highlight(pink) - Location 3072
 4. MORAL DISCIPLINE
@@ -298,9 +286,7 @@ noble disciple gives up false speech and abstains from it.
 a noble disciple gives up wines, liquors, and intoxicants,
 (Anguttara Nikaya 8:39; IV 245-47)
 
-- Highlight(pink) - Location 3103
-they are conscientious and merciful and dwell compassionate toward all living beings.
-(The Uposatha Observance Location 309, AN 8:41; IV 248–51)
+___
 
 - Highlight(pink) - Location 3099
 The Uposatha Observance
@@ -326,6 +312,8 @@ While the Buddha enjoins observance of the five precepts upon lay followers as a
 
 - Highlight(pink) - Location 2733
 The eight precepts, enumerated in Text V,4(2), augment the training in sīla as a moral observance with a training in self-restraint, simplicity, and contentment. In this respect they prepare the disciple for the training of the mind undertaken in the practice of meditation, the third base of merit.
+
+___
 
 - Highlight(pink) - Location 2735
 The practice of meditation is not only the heart of the path to liberation but a source of merit in its own right. Wholesome meditation practices, even those that do not directly lead to insight, help to purify the grosser levels of mental defilement and uncover deeper dimensions of the mind’s potential purity and radiance.
@@ -379,6 +367,24 @@ The concentration arisen from these meditations, however, can also be used as a 
 
 - Highlight(pink) - Location 2479
 Then, at the very end, it declares that the most fruitful deed among them all is the perception of impermanence. The perception of impermanence, however, belongs to a different order. It is so fruitful not because it yields pleasant mundane results within the round of rebirths, but because it leads to the wisdom of insight that cuts the chains of bondage and brings the realization of complete emancipation, Nibbāna.
+
+___
+
+- Highlight(pink) - Location 2692
+In the Indian religious context, the practice of meritorious deeds revolves around faith in certain objects regarded as sacred and spiritually empowering, capable of serving as a support for the acquisition of merit. For followers of the Buddha’s teaching these are the Three Jewels: the Buddha, the Dhamma, and the Saṅgha.
+
+- Highlight(pink) - Location 3075
+“Here, monks, a noble disciple has gone for refuge to the Buddha.
+(The Five Precepts Location 3073, AN 8:39; IV 245–47)
+
+- Highlight(pink) - Location 3078
+“Further, a noble disciple has gone for refuge to the Dhamma.
+
+- Highlight(pink) - Location 3079
+“Further, a noble disciple has gone for refuge to the Saṅgha.
+
+- Highlight(pink) - Location 2695
+the Buddha is supreme among persons, the Dhamma among teachings, and the Saṅgha among religious communities.
 
 ___
 
