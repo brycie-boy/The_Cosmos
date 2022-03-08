@@ -8,7 +8,7 @@ ___
 
 ##### References
  
- - Bodhi, Bhikkhu. (2005). In The Buddha’s Words: An Anthology of Discorces from the Pali Canon. Location 2586. Somerville, MA: _Wisdom Publications_.
+ - Bodhi, Bhikkhu. (2005). In The Buddha’s Words: An Anthology of Discorces from the Pali Canon (Location 2586) Somerville, MA: _Wisdom Publications_.
 
 ##### Metadata
 Status: #⛅️ 

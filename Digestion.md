@@ -18,13 +18,13 @@ The Stellar Nursery is where my inbox notes are stored. All of the annotations f
 ##### 2. ⛅️ Proto
 
 ![[05247EF8-7C83-4E59-BB86-FBA95A151ABE.jpeg|300]]
-“Then god said let there be be light, and it was so”
 
 The chaos of the Stellar Nursery is beginning to condense. An idea is beginning to emerge from the clouds, but it’s still veiled in ambiguity.
 
 ##### 3. ☀️ Main-Sequence
 
 ![[8E99C919-531E-4490-BF66-0632708BC7C8.jpeg|300]]
+“Then god said let there be be light, and it was so”
 
 The dust has now cleared and condensed into an clear, distinct, cohesive thought. The growing pains are over and the note is ina stable state. The note has now entered the main sequence stafe and has evolved into a fully matured star. Capable of spreading its light across The Cosmos. Main-sequence notes are densely interconnected, fully fleshed out, permanently useful, distinct ideas.
 

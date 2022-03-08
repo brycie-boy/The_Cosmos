@@ -13,3 +13,4 @@
 3. Expository
 4. quiescent
 5. extirpate
+6. presumption
