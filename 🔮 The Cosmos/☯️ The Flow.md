@@ -7,6 +7,12 @@
 
 The goal I have for this learning workflow is to create a frictionless, stress free, and seamless learning and thinking experience.
 
+- no more clinging to ideas in fear of forgetting them
+- No more trying it hard to think about something, simply love in to another note
+- No more thinking about things through the day, this is reserved for the learning period
+- No more worrying about putting things in the right category
+- No more worrying about if a note is compete or not because notes are constantly evolving
+
 There are 3 stages to The Flow
 
 1. [[Ingestion]]

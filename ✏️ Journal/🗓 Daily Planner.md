@@ -7,6 +7,7 @@
 - [ ] Schedule DMV written test appointment 
 - [ ] Schedule DMV road test appointment
 - [ ] Look for jobs
+- [x] Check the status of da goods
 
 ## 🤓 Learning
 
@@ -37,22 +38,20 @@
 > Just do during free time
 
 #### Quick tasks
-- [x] Buy the goods
 
 #### Slow tasks
-- [ ] create playlists for workout vids
-- [ ] Look into adjusting diet for workout
+- [ ] Create weekly workout routine 
+- [ ] Create meals for workout routine
 - [x] Organize music library 
 - [ ] Change passwords and emails 
-- [ ] Put tags on Raindrop.io entrees 
 - [ ] Work on shopping list 
 - [ ] Type 100 words per minute
 - [ ] Delete safari favorites 
 - [ ] Delete photos
 
-### Continue learning?
+ ### Continue learning?
 
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 ### Create
