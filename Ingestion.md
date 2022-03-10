@@ -2,13 +2,15 @@
 
 # Ingestion
 
-### Sources
+### Source Types
 
 ##### 1. Broad Sources
 
-These source types provide a broad context on a topic. These are good for expanding upon with tid bit sources, rather than jumping across tid bit sources and putting them together to understand a topic.
+-  add workflows for each type of source
 
-Tid bits can be deliberately sought out to expand upon a specific thing when a broad source isn’t elaborate enough on it. Or  it can be added within an inbox where sources that seem interesting can be added and managed.
+Broad sources provide a broad overview of a topic. These are good for expanding upon with small sources, rather than jumping across small sources and putting them together to understand a broad topic.
+
+There are 3 types of broad sources that the Cosmos consumes
 
 **📚 Books**
 
@@ -16,24 +18,20 @@ Tid bits can be deliberately sought out to expand upon a specific thing when a b
 
 **👨‍🏫 Courses**
 
-##### 2. Tid Bits
+##### 2. Small Sources
 
-These types of sources are for gaining smaller bits of insight from commentaries on a topic. These can be used for short introductions to topics but shouldn’t have notes taken on them until the broad source types are used.
+These types of sources are for gaining smaller bits of insight on a broader topic. These can  be used as short introductions to topics, but small sources shouldn’t be studied until the broad source types are used. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing when a broad source isn’t elaborate enough on it. Or  it can be added within an inbox where sources that seem interesting can be added and managed to read later
 
-**🌐 Articles / blogposts / social media posts**
+There are 4 types of small sources that The Cosmos consumes
 
+🌐 
+Articles / blogposts / social media posts
 
 **⏯ Video**
 
 **🎙 Podcasts**
 
-**✏️ Note Pad**
-
-Used when on the go
-
-- Jot down ideas that come to mind
-- Jot down things you want to look further into but don’t have the time
-- Jot down things I want to write about later
+**Thoughts**
 
 ### Annotating System / Note Types
 The things listed below are usually what I look for when consuming information. When capturing insights, I’m looking for what can be turned into notes.  I see these things as building blocks for content. Hence why they’re congruent with my notes types.
@@ -71,10 +69,6 @@ When capturing annotations, don’t worry about what the best things to annotate
 
 ##### Other
 - Unknown Words
-	- rather than being marked or highlighted, words are written down on a note or sheet of paper
-	- Rather than adding random words from a dictionary, add words you come across though things you enjoy. These words will be if more use.
-- Correlations
-	- If any annotations might correlate with existing notes, jot it down in the annotation notes as a reminder
 
 
 ___
