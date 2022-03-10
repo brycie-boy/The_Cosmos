@@ -3,7 +3,7 @@
 Author: The Buddha, Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
-Status: #☀️ 
+Status: #☁️
 Tags:  [[Philosphy]] | [[Spirituality]] | [[Religion]] | [[Ethics]]
 
 ___
