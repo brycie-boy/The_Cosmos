@@ -1,12 +1,12 @@
 ## The ten pathways of wholesome and unwholsome kamma #flashcard 
 
-There are ten types of each class of [[kamma]], also known as the ten pathways of [[Unwholsome kamma]]. The ten are subdivided into the three goups called the "three doors of action", that is, body, speech, and mind. Wholesome kamma is refered to as "righteous conduct, conduct in accordance with the [[Dhamma]]" while unwholesome kamma is refered to as “unrighteous conduct, conduct not in accordance with the [[Dhamma]]”
+There are ten types of each class of [[kamma]], also known as the ten pathways of [[Wholesome kamma]] and [[Unwholsome kamma]]. The ten are subdivided into the three goups called the "three doors of action", that is, body, speech, and mind. Wholesome kamma is refered to as "righteous conduct, conduct in accordance with the [[Dhamma]]" while unwholesome kamma is refered to as “unrighteous conduct, conduct not in accordance with the [[Dhamma]]”
 
 There are three types of bodily misconduct:
 
 - killing
 - stealing
-- and sexual misconduct
+- sexual misconduct
 
 There are four types of verbal misconduct:
 
@@ -27,11 +27,11 @@ ___
 
 ##### References
 
-- Bodhi, Bhikkhu. (2005). In The Buddha’s Words: An Anthology of Discorces from the Pali Canon (Location 2633). Somerville, MA: _Wisdom Publications_.
+- Bodhi, Bhikkhu. (2005). [[In The Buddha’s Words An Anthology of Discorces from the Pali Canon Chapter V. THE WAY TO A FORTUNATE REBIRTH]] (Location 2633). Somerville, MA: _Wisdom Publications_.
 
 - Majjhima Nikaya 41: Sāleyyaka Sutta; I 286–90
 
 ##### Metadata
-Status: #⛅️ 
+Status: #☀️ 
 Type: #🔵 
 Tags: [[Philosophy]] | [[Spirituality]] | [[Ethics]]

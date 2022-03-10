@@ -12,11 +12,11 @@ ___
 
 ##### References
 
-- Bodhi, Bhikkhu. (2005). In The Buddha’s Words: An Anthology of Discorces from the Pali Canon (Location 2605). Somerville, MA: _Wisdom Publications_.
+- Bodhi, Bhikkhu. (2005). [[In The Buddha’s Words An Anthology of Discorces from the Pali Canon Chapter V. THE WAY TO A FORTUNATE REBIRTH]] (Location 2605). Somerville, MA: _Wisdom Publications_.
 
 - Anguttara Nikaya. 4:232; II 230–32
 
 ##### Metadata
-Status: #⛅️ 
+Status: #☀️ 
 Type: #🔵 
 Tags: [[Philosophy]] | [[Spirituality]] | [[Ethics]]

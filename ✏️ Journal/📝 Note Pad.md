@@ -16,3 +16,4 @@
 4. quiescent
 5. extirpate
 6. presumption
+7. intrinsic
