@@ -1,6 +1,6 @@
 ## Merit #flashcard 
 
-Merit is wholesome kamma capable of yielding favorable results within the cycle of rebirths. Merit produces mundane benefits such as a good rebirth, wealth, beauty, and success. It also serves as an enhancing condition for supramundane benefits, that is, for attaining the stages along the path to enlightenment. Merit is organized into the groups known as "the three bases of merit", which consist of:
+Merit is [[Wholesome kamma]] capable of yielding favorable results within the cycle of rebirths. Merit produces mundane benefits such as a good rebirth, wealth, beauty, and success. It also serves as an enhancing condition for supramundane benefits, that is, for attaining the stages along the path to enlightenment. Merit is organized into the groups known as "the three bases of merit", which include:
 
 - [[Giving]]
 - [[Moral Disipline]]
