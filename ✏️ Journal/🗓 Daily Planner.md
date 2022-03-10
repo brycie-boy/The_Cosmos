@@ -7,7 +7,8 @@
 - [ ] Schedule DMV written test appointment 
 - [ ] Schedule DMV road test appointment
 - [ ] Look for jobs
-- [x] Check the status of da goods
+- [x] Check for the post office thing
+- [x] Check mail for da goods
 
 ## 🤓 Learning
 

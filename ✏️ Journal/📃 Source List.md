@@ -17,15 +17,16 @@
 ![[826B467D-A0D3-4E48-8708-5086A8457838.jpeg|80]]
 - Source: Solitude: A Return to the Self
 - Author: Anthony Storr
+- Note: contains a little psychoanalysis so I would read a little Jung first
 
-![[F6767D3B-E3D1-4B39-911B-42782768E1CD.jpeg|80]]
-- Source: The Secret Teachings of All Ages
-- Author: Manly P. Hall
+![[F1286E80-56BB-41D5-943D-72D64F55EF38.jpeg|80]]
+- Source: The Denial of Death
+- Author: Ernest Becker
+- Note: Also contains a little psychoanalysis so I would read a little Jung first
 
-![[91CBFF83-B309-49CF-9CD3-12B197B9D86E.jpeg|80]]
-![[8F60F881-BBD1-4510-9A2B-F1DB961FD39E.jpeg|80]]
-- Source: Prometheus Rising
-- Author: Robert Anton Wilson
+![[57F86B09-11C3-4722-A38B-4084AD64F7CF.jpeg|80]]
+- Source: The Master and His Emissery
+- Author: Iain McGilchrist
 
 ![[07A0E8BA-CDDC-46D7-A089-A517731DDF72.jpeg|80]]
 - Source: The Mind Illuminated 
@@ -35,10 +36,14 @@
 - Source: Mycelium Running
 - Author: Paul Staments
 
-![[57F86B09-11C3-4722-A38B-4084AD64F7CF.jpeg|80]]
-- Source: The Master and His Emissery
-- Author: Iain McGilchrist
+![[91CBFF83-B309-49CF-9CD3-12B197B9D86E.jpeg|80]]
+![[8F60F881-BBD1-4510-9A2B-F1DB961FD39E.jpeg|80]]
+- Source: Prometheus Rising
+- Author: Robert Anton Wilson
 
+![[F6767D3B-E3D1-4B39-911B-42782768E1CD.jpeg|80]]
+- Source: The Secret Teachings of All Ages
+- Author: Manly P. Hall
 
 ## **Science / Math / Tech:**
 
