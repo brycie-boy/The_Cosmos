@@ -3,7 +3,7 @@
 
 # 🫀 The Core
 
-Welcome Travler. This is the heart of The Cosmos. Where all streams flow. Here, you shall choose the path in which you wish to embark upon. A vast journey awaits you here. Have fun!
+Welcome Travler. This is the heart of The Cosmos. Where all streams flow. It is from here that you shall choose the path in which you wish to embark upon. A vast journey awaits you. 
 
 ___
 
