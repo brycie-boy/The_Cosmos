@@ -128,7 +128,7 @@ sensual pleasures seem to be pleasurable only through a distortion of perception
 
 Note - Location 3301
 
-- They only seem to be satisfactory through distirtion - but when relied on, are actually suffering - realizing the the shortcoming of instant intense gratification can allow you to prioritize longer lasting and less intense pleasures
+They only seem to be satisfactory through distirtion - but when relied on, are actually suffering - realizing the the shortcoming of instant intense gratification can allow you to prioritize longer lasting and less intense pleasures
 
 Highlight(pink) - Location 3303
 
@@ -136,7 +136,7 @@ Buddhist literature frequently advises us to contemplate the certainty of death 
 
 Note - Location 3305
 
-- this can also help you realize that since death is inevitable, then it’s better to focus on things that don’t bring immediate and intense pleasure but instead benefit you long term satisfaction - this also applies to acknowledging the fleeting nature of short term pleasure
+this can also help you realize that since death is inevitable, then it’s better to focus on things that don’t bring immediate and intense pleasure but instead benefit you long term satisfaction - this also applies to acknowledging the fleeting nature of short term pleasure
 
 Highlight(pink) - Location 3306
 
