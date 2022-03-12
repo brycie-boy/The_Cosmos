@@ -8,7 +8,9 @@ Status: #💥/💭
 Tags:
 ___
 
-One thing of learned through out my life were there short comings of fear based teaching. When people are taught what to do through fear, they don’t actually learn why what they do is bad. Their ideas of good and bad are just arbitrary. They only do things because they fear punishment. Wether in the microcosmic scale like the household or the macrocosmic scale like national politics. Fear based teaching is the same. It doesn’t matter what’s scale, it’s never justified.
+One thing of learned through out my life were there short comings of fear based teaching. When people are taught what to do through fear, they don’t actually learn why what they do is bad or good. Their ideas of good and bad are just arbitrary. They only do things because they fear punishment from others. 
+
+Wether in the microcosmic scale like the household or the macrocosmic scale like national politics. Fear based teaching is the same. It doesn’t matter what’s scale, it’s never justified.
 
 Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have ideas and rules in which they wish to impose upon others for the sake of there personal safety. This is hidden behind the veil of "doing the right thing." As if they know whats right for everyone or even the world.
 
@@ -20,13 +22,13 @@ I feel like it’s pretty prideful that we decide to intervene and punish people
 
 ___
 
-Laws are a poor place to base your values on. Laws teach you what you have to do, not what you should do. Politics doesn’t teach ethics or reasoning. It only teaches laws. It doesn’t teach the reasoning behind why you should follow these guidelines. law only says that you should do it or else. Your morals would be based on fear, not understanding. When people base there morals and values on law, they’re easily manipulated because they don’t really understand why they do what they do 
+Laws are a poor place to base your values on. Politics doesn’t teach ethics or reasoning. It only teaches laws. Laws teach you what you have to do, not what you should do. It doesn’t teach the reasoning behind why you should follow these guidelines. law only says that you should do it or else. Your morals would be based on fear, not understanding. When people base there morals and values on law, they’re easily manipulated because they don’t really understand why they do what they do 
 
-Things like philosophy and psychology actually teach these things. They talk about how the world works and how people work, why they do the things they do. Through this you can establish your values. And any moral guidelines they provide actually have reasoning behind them
+Things like philosophy and psychology actually teach these things. They talk about how the world works and how people work,  or why they do the things they do. Through this you can establish your values. And any moral guidelines they provide actually have reasoning behind them
 
 ___
 
-People have to start looking internally for answers rather than externally. As long as people are rotten on the inside, every system will eventually be corrupted. There’s no perfect political system that will fix everything. You can’t force people to do anything it never works out. When people don’t actually understand the consequences of there actions. The urges are only suppressed through force, not eliminated. This will backfire because these people will eventually break and they’ll want to let these urges out. I think that’s why we see so much chaos lately.
+People have to start looking internally for answers rather than externally. As long as people are rotten on the inside, every system will eventually be corrupted. There’s no perfect political system that will fix everything. You can’t force people to do anything it never works out. Fear based teaching only suppresses desires, it does not iradicate them. Eventually theyll come out one way or another, though psychotaic breaks, riots, etc. the only way to do this is to remove the motivation to do these things in the first place. that is done through learning the consequances of your actions. 
 
 ___
 
