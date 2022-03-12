@@ -285,6 +285,9 @@ having understood as they really are the origin, the passing away, the gratifica
 - Highlight(pink) - Location 3562
 I see other people who are not free from lust for sensual pleasures being devoured by craving for sensual pleasures, burning with the fever of sensual pleasures,
 
+- Highlight(pink) Location 3564
+a delight apart from sensual pleasures, apart from unwholesome states, which surpasses even divine bliss.
+
 
 ___
 

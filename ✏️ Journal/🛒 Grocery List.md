@@ -55,14 +55,14 @@
 - Sodium benzoate
 
 ## Meat/Protein
-- [x] Lean Chicken 
-- [x] Ground beef
+- [ ] Lean Chicken (only 1)
+- [ ] Ground beef
 	- Steak
 - [x] Samon
 	- Shellfish
 	- Shrimp
-- [x] Eggs 
-- [x] Bacon
+- [ ] Eggs 
+- [ ] Bacon
 - [ ] Canned fish: S.M.A.S.H
 	- Sardines
 	- Mackerel
@@ -71,13 +71,13 @@
 	- Herring
 
 ## Veggies
-- [x] Broccoli 
+- [x] Broccoli (frozen)
 - [x] Cauliflower
 	- Riced Cauliflower
 - [x] Baby spinach or arugula 
-- [x] Avocado ❗️
+- [ ] Avocado 
 	- Guacamole
-- [x] Asparagus 
+- [ ] Asparagus (frozen)
 	- Artichoke 
 - [ ] Baby kale
 - [ ] Berries
@@ -92,7 +92,7 @@
 	- Red Palm
 
 ## Cheese/Dairy
-- [x] Greek or Bulgarian yogurt 
+- [ ] Greek or Bulgarian yogurt (only 1)
 - [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk

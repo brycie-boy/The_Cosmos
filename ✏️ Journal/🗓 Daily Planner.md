@@ -41,7 +41,7 @@ Add: [[📚 Broad Source List]]
 
 #### Slow tasks (Over 5 min)
 
-- [ ] Organize music library 
+- [x] Organize music library 
 - [ ] Create meals for workout routine
 - [ ] shopping list 
 
@@ -56,7 +56,7 @@ Add: [[📚 Broad Source List]]
 
  ### Continue learning?
 
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 ### Create

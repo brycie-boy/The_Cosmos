@@ -28,11 +28,17 @@ Things like philosophy and psychology actually teach these things. They talk abo
 
 ___
 
-People have to start looking internally for answers rather than externally. As long as people are rotten on the inside, every system will eventually be corrupted. There’s no perfect political system that will fix everything. You can’t force people to do anything it never works out. Fear based teaching only suppresses desires, it does not iradicate them. Eventually theyll come out one way or another, though psychotaic breaks, riots, etc. the only way to do this is to remove the motivation to do these things in the first place. that is done through learning the consequances of your actions. 
+People have to start looking internally for answers rather than externally. As long as people are rotten on the inside, every system will eventually be corrupted. There’s no perfect political system that will fix everything as long as force is involved. 
+
+Fear based teaching only suppresses desires, it does not iradicate them. This is why people become rebellious. Eventually theyll come out one way or another, though psychotaic breaks, riots, etc. the only way to do this is to remove the motivation to do these things in the first place. that is done through learning the consequances of your actions. 
 
 ___
 
-With democracy, I feel like it gives you the illusion of choice, because if your in a political minority, then it’s pointless to vote. You’re vote will always be vastly outweighed by the majority which are motivated through fear, so you realy have no choice. The majority are usually influenced by fear based propaganda. People vote for certain systems because they want others to be forced to do things because they’re want to feel a sense of safety. Yes most votes are emotional, not logical. The person who usually gets elected on the one who gets the most funding because they have the most widespread and effective advertising. In order to really make a difference politically you’d have to have a lot of money.
+With democracy, I feel like it gives you the illusion of choice, because if your in a political minority, then it’s pointless to vote. You’re vote will always be vastly outweighed by the majority 
+
+Considering that 
+
+People vote for certain systems because they want others to be forced to do things because they’re want to feel a sense of safety. Yes most votes are emotional, not logical. The person who usually gets elected on the one who gets the most funding because they have the most widespread and effective advertising. In order to really make a difference politically you’d have to have a lot of money.
 
 I’ve realized that I have no control over any worldly affairs and I’m better off using the time I worry about politics on focusing on my own self improvement, which os something I actually can control. I think I should only care about anything political when it directly interferes with something I’m trying to accomplish, which the majority of the time it isn’t. Im better off making the best out of the political state of the world rather than trying to change it in anyway.
 
