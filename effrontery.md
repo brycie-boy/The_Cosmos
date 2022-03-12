@@ -1,4 +1,4 @@
-## effrontery #flashcard 
+## effrontery #🧠 
 
 _noun_
 

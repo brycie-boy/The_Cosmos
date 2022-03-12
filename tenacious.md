@@ -1,4 +1,4 @@
-## tenacious #flashcard 
+## tenacious #🧠 
 
 _verb_
 

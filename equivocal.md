@@ -1,4 +1,4 @@
-## equivocal #flashcard 
+## equivocal #🧠 
 
 _Adjective_
 

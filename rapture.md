@@ -1,4 +1,4 @@
-## rapture #flashcard 
+## rapture #🧠 
 
 _noun_
 

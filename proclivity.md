@@ -1,4 +1,4 @@
-## proclivity #flashcard 
+## proclivity #🧠 
 _noun_
 
 1. an inclination or predisposition toward something

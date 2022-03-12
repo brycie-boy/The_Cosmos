@@ -1,4 +1,4 @@
-## evanescent #flashcard 
+## evanescent #🧠  
 _adjective_
 
 1. tending to vanish like vapor

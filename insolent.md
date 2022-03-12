@@ -1,4 +1,4 @@
-## insolent #flashcard 
+## insolent #🧠 
 
 _Adjective_
 

@@ -1,4 +1,4 @@
-## equanimity #flashcard
+## equanimity #🧠 
 
 _noun_
 

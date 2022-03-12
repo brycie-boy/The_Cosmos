@@ -1,4 +1,4 @@
-## denigrate #flashcard 
+## denigrate #🧠 
 
 _verb_
 

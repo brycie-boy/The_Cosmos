@@ -1,4 +1,4 @@
-## Giving #flashcard 
+## Giving  #🧠 
 
 Giving serves to break down the egocentric frame of mind on the basisi of which we habitually interact with others. Or as the Buddha states "enobles and adorns the mind". 
 

@@ -1,4 +1,4 @@
-## The Nobel Eightfold Path #flashcard 
+## The Nobel Eightfold Path # 🧠
 
 
 

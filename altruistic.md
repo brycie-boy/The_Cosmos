@@ -1,4 +1,4 @@
-## altruistic #flashcard 
+## altruistic #🧠 
 
 _adjective_
 

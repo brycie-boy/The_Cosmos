@@ -1,4 +1,5 @@
-## subterfuge #flashcard 
+## subterfuge #🧠 
+
 _noun_
 
 1. deception by artifice or stratagem in order to conceal, escape, or evade

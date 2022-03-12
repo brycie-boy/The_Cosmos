@@ -1,4 +1,4 @@
-## vicissitude #flashcard 
+## vicissitude #🧠 
 
 _noun_
 

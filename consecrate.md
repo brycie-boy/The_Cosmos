@@ -1,4 +1,4 @@
-## consecrate #flashcard 
+## consecrate #🧠 
 
 _Verb_
 

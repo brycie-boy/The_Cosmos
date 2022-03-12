@@ -1,4 +1,4 @@
-## exigent #flashcard 
+## exigent #🧠 
 _adjective_
 
 1. requiring immediate aid or action

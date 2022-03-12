@@ -1,4 +1,4 @@
-## conceit #flashcard 
+## conceit #🧠 
 _noun_
 
 1. favorable opinion.

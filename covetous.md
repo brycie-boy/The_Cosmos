@@ -1,4 +1,4 @@
-## covetous  #flashcard 
+## covetous  #🧠 
 
 _adjective_
 

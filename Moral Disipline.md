@@ -1,4 +1,4 @@
-## Moral Discipline #flashcard 
+## Moral Discipline #🧠 
 
 Moral discipline consisits of five general training rules known as the five precepts, which consists of abstainig from:
 

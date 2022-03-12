@@ -1,4 +1,4 @@
-## effervesce #flashcard 
+## effervesce #🧠 
 
 _verb_
 

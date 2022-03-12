@@ -1,4 +1,4 @@
-## preliminary #flashcard 
+## preliminary #🧠 
 
 _noun_
 

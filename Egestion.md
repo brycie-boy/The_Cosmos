@@ -2,21 +2,28 @@
 
 # Egestion
 
+- Add workflows
+
 “As above. So below.”
 
-People usually see zettelkasten as only a writing tool, but I think it can be used for much more. I think zettels are very versatile, and that’s what I love about zettelkasten. Zettels are like building blocks for all content creation, not just writing. Zettels can be egested in the same ways that the original ideas that they derived from were ingested.  I want to create workflows where I can use zettels to make all kinds of content. In that way, I can reach a wide audience.
+Eventually, my stars must leave my system and burst into the minds of others. Using the fertilizer of my output, they too will create there own stars.
 
-The process can be thought of like a flower which soaks up the nutrients with its roots and blossoms into a beautiful flower
+Rather than using zettelkasten exclusively as a writing tool. I use it as a tool to express my thoughts through any medium. In this way, it can be seen that the ideas leave my mind the same ways they came in. 
+
+Here are some of my outputs with their respective workflows:
 
 **Books**
-- create outlines with zettels
+- create outlines with notes
 
 **Video / Audio / Teaching**
 
-**Music / Art**
+- create scripts or bullet notes with notes
 
 **Spaced Repetition Flashcards**
 
+- Import completed notes into neuracache
+
+With notes being units of knowledge, they can be seen as building blocks for my projects. Creating not only a frictionless learning experience, but a frictionless output experience as well.
 
 ___
 

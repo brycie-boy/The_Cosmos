@@ -1,4 +1,4 @@
-## consummate #flashcard 
+## consummate #🧠 
 
 _adjective_
 

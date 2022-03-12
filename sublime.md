@@ -1,4 +1,4 @@
-## sublime #flashcard 
+## sublime #🧠 
 
 _adjective_
 

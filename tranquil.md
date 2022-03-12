@@ -1,4 +1,4 @@
-## tranquil #flashcard
+## tranquil #🧠 
 
 _adjective_
 

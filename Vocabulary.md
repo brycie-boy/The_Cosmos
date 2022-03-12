@@ -140,4 +140,4 @@ ___
 
 ##### Metadata
 Status: #⛅️ 
-Type: #🗺
+Type: #✨

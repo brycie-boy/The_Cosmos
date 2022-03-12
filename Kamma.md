@@ -1,4 +1,5 @@
-## Kamma  #flashcard 
+
+## Kamma  #🧠
 
 The word kamma translates literally to "action", but it specifically refers to volitional action, As the Buddha says: “It is volition that I call kamma; for having willed, one acts by body, speech, and mind.” Such volition may remain purley mental generating mental kamma in the form of thoughts, plans, and desires; or it may come to expression though bodily and verbal actions. 
 

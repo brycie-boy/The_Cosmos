@@ -1,4 +1,4 @@
-## deference #flashcard 
+## deference #🧠 
  _noun_
  
 1. a readiness or willingness to yield to the wishes of others

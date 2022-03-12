@@ -1,4 +1,4 @@
-## indolent #flashcard 
+## indolent #🧠 
 
 _adjective_
 

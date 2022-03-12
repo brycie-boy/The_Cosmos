@@ -4,13 +4,9 @@
 Author:
 Publish Date:
 Review Date:
-Description: 
-Status:
-Type:
+Status: # 💥
 Tags:
 ___
 
 
-
-##### Cited Refrences
 

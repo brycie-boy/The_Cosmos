@@ -1,4 +1,4 @@
-## contempt #flashcard 
+## contempt #🧠 
 
 _noun_
 

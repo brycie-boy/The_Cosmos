@@ -1,4 +1,4 @@
-## iconoclast #flashcard 
+## iconoclast #🧠 
 _Noun_
 
 1. a person who attacks settled beliefs or institutions

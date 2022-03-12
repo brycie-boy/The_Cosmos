@@ -1,8 +1,6 @@
 ## Shopping list
+
 Ideas:
-- bamboo pillow cases
-- Yeezy season 6 sweat suits from AliExpress
-- Raf Simmons ski mask
 - Military boots green and beige
 
 ### 1. Crypto and stocks
@@ -31,6 +29,9 @@ Ideas:
 - ![[4854FECC-EF39-4D97-9D41-F203D8301B8A.webp|200]]
 	![[57B9A29B-E7CE-40E5-A40C-95AE9FC3A9EB.webp|200]]
 	White and beige plaid pants $24 https://m.aliexpress.com/item/1005002282183999.html?spm=a2g0n.wishlist-amp.item.1005002282183999&aff_trace_key=&aff_platform=msite&m_page_id=7061amp-SCDjq3cy6awRNLagYU6AuQ1645925497658&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
+
+- ![[B195C5F6-6C69-4E33-A1F0-448E66FCAEFF.webp|200]]
+	Brown corduroy pants $28 https://m.aliexpress.com/item/1005002635369809.html?spm=a2g0n.productlist.0.0.317ePVBePVBeHd&browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=17f7b88213a112cf0b0ed4a4ace5eb500a2610b31a&gclid=
 
 - ![[BC6B54DD-2812-4CD1-993B-4ECE7A792FF4 1.jpeg|200]]
 	Red Leather Pants $73  https://www.shoedazzle.com/products/FAUX-LEATHER-WIDE-LEG-TROUSER-PT2149580-6943?psrc=pdp_ymal
@@ -193,6 +194,9 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 - ![[CFEF9C5D-13A2-4138-B4F1-00743BCF279E.jpeg|200]]
 	Topshop Kylie Chunky Chelsea Boot in Black $74 https://www.asos.com/us/topshop/topshop-kylie-chunky-chelsea-boot-in-black/prd/200775219?ctaref=we+recommend+grid_2&featureref1=we+recommend+pers
 
+- ![[695B1F8B-C990-4A86-B109-08B6F18C3C9D.jpeg|200]]
+	Ivory Converse $60 https://m.aliexpress.com/item/1005002635369809.html?spm=a2g0n.productlist.0.0.317ePVBePVBeHd&browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=17f7b88213a112cf0b0ed4a4ace5eb500a2610b31a&gclid=
+
 ##### ECcessorieS 
 
 - ![[4C184511-6913-40D8-B999-49D0346F28D8.webp|200]]
@@ -223,17 +227,23 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 
 ### 3. Furniture
 
+- ![[E527A7D9-8B6C-40EB-82C0-708921BB0A4D.jpeg|200]]
+	Alarm clock $30 https://www.amazon.com/MOSITO-Digital-Wireless-Charging-Weekday/dp/B08H1NJ2N2/ref=mp_s_a_1_15_sspa?crid=O4XLZLKFI0PT&keywords=alarm+clock+wood&qid=1647016585&sprefix=alarm+clock+wood%2Caps%2C189&sr=8-15-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzVTRLRDlESlhEMUtJJmVuY3J5cHRlZElkPUEwMTk1NjY5Mlk2Nk05MjNaOVk5VSZlbmNyeXB0ZWRBZElkPUEwNjI5Nzc2MzEyWU9CNUhOQzNRTSZ3aWRnZXROYW1lPXNwX3Bob25lX3NlYXJjaF9hdGZfbmV4dCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=#aw-udpv3-customer-reviews_feature_div
+
+- ![[FA8760C4-DE62-4DE0-B2D4-662AD019AE6B.jpeg|200]]
+	Bamboo pillow cases 2 pack $18 https://www.amazon.com/Bedsure-Cooling-Pillowcases-Breathable-Moisture/dp/B07JPYCH7F/ref=mp_s_a_1_3?crid=1A20NBKUGK4T0&keywords=bamboo%2Bpillow%2Bcases%2Bstandard%2Bsize&qid=1647046211&sprefix=bamboo%2Bpillow%2Bc%2Caps%2C91&sr=8-3&th=1&psc=1
+
+ - ![[A6F24D49-4E50-4534-B005-B97687D47A38.jpeg|200]]
+	Lamp $26 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
+
 - ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
 	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
 
-- ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
-	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
-
-- ![[A6F24D49-4E50-4534-B005-B97687D47A38.jpeg|200]]
-	Lamp $26 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
-
 - ![[7445976F-3774-4A30-8B08-2A4ED602BB05.jpeg|200]]
 	weighted blanket $78 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
+
+- ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
+	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
 
 - ![[AA76CE35-DC85-45B2-83EE-02A109448DF7.jpeg|200]]
 	Rug $250 https://www.urbanoutfitters.com/shop/looped-geo-rug?color=012&size=2105

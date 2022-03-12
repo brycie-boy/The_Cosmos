@@ -1,4 +1,4 @@
-## proliferate #flashcard 
+## proliferate #🧠 
 
 _verb_
 

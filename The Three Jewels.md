@@ -1,4 +1,4 @@
-## The Three Jewels #flashcard 
+## The Three Jewels #🧠 
 
 In the Indian religious context, the practice of meritorious deeds revolves around faith in certain objects regarded as sacred and spiritually empowering, capable of serving as a support for the aquisition of [[Merit]]. For the followers of the Buddha's teaching these are the Three Jewels:
 

@@ -1,4 +1,4 @@
-## precocious #flashcard 
+## precocious #🧠 
 
 _adjective_
 

@@ -1,4 +1,4 @@
-## ardent #flashcard 
+## ardent #🧠 
 
 _adjective_
 

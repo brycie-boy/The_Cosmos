@@ -1,4 +1,4 @@
-## taint #flashcard 
+## taint #🧠 
 
 _verb_
 

@@ -1,4 +1,4 @@
-## niggard #flashcard 
+## niggard #🧠 
 _noun_
 
 1. a meanly covetous and stingy person

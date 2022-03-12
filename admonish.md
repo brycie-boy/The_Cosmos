@@ -1,4 +1,4 @@
-## admonish #flashcard 
+## admonish #🧠 
 _Verb_
 
 1. a. to indicate duties or obligations to. 

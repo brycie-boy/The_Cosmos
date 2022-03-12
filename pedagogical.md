@@ -1,4 +1,4 @@
-## pedagogical #flashcard 
+## pedagogical #🧠 
 _ adjective_
 
 1. of, relating to, or befitting a teacher or education

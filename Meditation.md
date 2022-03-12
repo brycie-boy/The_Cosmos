@@ -1,4 +1,4 @@
-## Meditation  #flashcard 
+## Meditation  #🧠 
  
 The [[Uposatha Observance]] regards [[Moral Disipline]] as an observance with a training in self restraint, simplicity, and contentment, in this respect they prepare the disciple for the training of the mind undertaken in the practice of of meditation. 
 

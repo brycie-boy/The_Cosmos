@@ -1,4 +1,4 @@
-## Gnosis #flashcard 
+## Gnosis # flashcard 
 
 
 ___
