@@ -10,4 +10,10 @@ Plato
 ## Mind
 
 - Meditation
-- Education
+- Learning
+   - Reading
+   - Writing
+   - Memory
+- Freetime
+   - Create
+   - Consume

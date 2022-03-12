@@ -9,8 +9,9 @@ ___
 
 ### See Also
 -  [[How i came up with the name The Cosmos]]
--  [[☯️ The Flow]]
 -  [[👁 The Monad]]
+-  [[☯️ The Flow]]
+- [[📆 The Day]]
 
 ## The Index
 
