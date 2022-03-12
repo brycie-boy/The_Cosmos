@@ -25,15 +25,14 @@ Don’t try too hard either. If something is vaguely interesting, go ahead and c
 ##### Blue: Things
 
 **Non-fiction**
-- People
-- Places
-- Things
-- Terms
+- 👤 People
+- 🏙 Places
+- 🔵 Things
 
 **Fiction**
-- Characters
-- Settings
-- Symbolism
+- 👤 Characters
+- 🏙 Settings
+- 🎵 Symbolism
 
 ##### Other
 - Unknown Words
