@@ -8,23 +8,21 @@ Status: #💥/💭
 Tags:
 ___
 
-Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have points of view in which they wish to impose upon others for the sake of there safety. 
-
 One thing of learned through out my life were there short comings of fear based teaching. When people are taught what to do through fear, they don’t actually learn why what they do is bad. Their ideas of good and bad are just arbitrary. They only do things because they fear punishment. Wether in the microcosmic scale like the household or the macrocosmic scale like national politics. Fear based teaching is the same. It doesn’t matter what’s scale, it’s never justified.
 
-Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have points of view in which they wish to impose upon others for the sake of there safety. 
+Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have ideas and rules in which they wish to impose upon others for the sake of there personal safety. This is hidden behind the veil of "doing the right thing." As if they know whats right for everyone or even the world.
+
+___
+
+If people genuinely understood consequances and respected each other then there really wouldn’t be a point in laws. People would have no compulsion to steal reason to kill, steal, etc. Maybe we should be teaching people how to understand and respect each rather than teaching them what political system they should support. Maybe then we could eventually transcend laws. 
+
+I feel like it’s pretty prideful that we decide to intervene and punish people ourselves. It’s as if we are so certain of what’s right and wrong with the world that we need to force people to do these things. When we lock people up in jail, or anything else, people don’t actually get to witness the actual consequences of their actions. People face the consequences of there actions through natural causes. What goes around comes around. Maybe we should leave the judging up to nature rather than taking it on ourselves. Nature always seems to balance things. When we intervene with these process, are we not saying we know better than nature?
 
 ___
 
 Laws are a poor place to base your values on. Laws teach you what you have to do, not what you should do. Politics doesn’t teach ethics or reasoning. It only teaches laws. It doesn’t teach the reasoning behind why you should follow these guidelines. law only says that you should do it or else. Your morals would be based on fear, not understanding. When people base there morals and values on law, they’re easily manipulated because they don’t really understand why they do what they do 
 
 Things like philosophy and psychology actually teach these things. They talk about how the world works and how people work, why they do the things they do. Through this you can establish your values. And any moral guidelines they provide actually have reasoning behind them
-
-___
-
-And this is where people tend to scoff at me but, if people genuinely understood consequances and respected each other then there really wouldn’t be a point in laws. Why would people have any reason to kill, steal, etc? Maybe we should be teaching people how to understand and respect each rather than teaching them what political system they should support. Maybe then we could eventually transcend laws. 
-
-I feel like it’s pretty prideful that we decide to intervene and punish people ourselves. It’s as if we are so certain of what’s right and wrong with the world that we need to force people to do these things. When we lock people up in jail, or anything else, people don’t actually get to witness the actual consequences of their actions. People face the consequences of there actions through natural causes. What goes around comes around. Maybe we should leave the judging up to nature rather than taking it on ourselves. Nature always seems to balance things. When we intervene with these process, are we not saying we know better than nature?
 
 ___
 
