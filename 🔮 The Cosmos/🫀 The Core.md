@@ -11,7 +11,7 @@ ___
 -  [[How i came up with the name The Cosmos]]
 -  [[👁 The Monad]]
 -  [[☯️ The Flow]]
-- [[📆 The Day]]
+- [[🌤 The Day]]
 
 ## The Index
 
