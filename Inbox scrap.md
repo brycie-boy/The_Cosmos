@@ -218,7 +218,7 @@ That pleasure is impermanent* not world
 
 Highlight(pink) - Location 3374
 
-(AN 3:101 §§1–2; I 258–59) ❗️
+(AN 3:101 §§1–2; I 258–59) 
 
 Highlight(pink) - Location 3406
 
@@ -267,6 +267,7 @@ Highlight(pink) - Location 3416
 Highlight(pink) - Location 3419
 
 “If property comes to the clansman while he works and strives and makes an effort thus, he experiences pain and grief in protecting it:
+
 
 Highlight(pink) - Location 3421
 

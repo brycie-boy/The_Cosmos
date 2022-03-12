@@ -72,8 +72,8 @@ To follow the Buddha in the direction he wants to lead us, we have to learn to s
 
 - Highlight(pink) - Location 3255
 Ordinarily, we represent things to ourselves through the refractory prism of subjective biases. These biases are shaped by our craving and attachments, which they in turn reinforce. We see things that we want to see; we blot out things that threaten or disturb us, that shake our complacency, that throw into question our comforting assumptions about ourselves and our lives. To undo this process involves a commitment to truth that is often unsettling, but in the long run proves exhilarating and liberating.
-Note: 
-greed hatred delusion
+
+- Note: greed hatred delusion
 
 ___
 
@@ -103,6 +103,29 @@ one begins by recognizing the indubitable fact that such worldly phenomena as se
 ‘Whatever pleasure and joy there is in the world, this is the gratification in the world
 (AN 3:101 §§1–2; I 258–59)
 
+___
+
+- Highlight(pink) - Location 3406
+gratification in the case of sensual pleasures?
+
+- Highlight(pink) - Location 3407
+five cords of sensual pleasure.
+
+- Highlight(pink) - Location 3407
+Forms cognizable by the eye
+
+- Highlight(pink) - Location 3408
+Sounds cognizable by the ear.…
+
+- Highlight(pink) - Location 3408
+Odors cognizable by the nose.…
+
+- Highlight(pink) - Location 3408
+Flavors cognizable by the tongue.…
+
+- Highlight(pink) - Location 3408
+Tactile objects cognizable by the body
+
 ___ 
 
 - Highlight(pink) - Location 3270
@@ -113,9 +136,9 @@ The most pervasive danger lurking behind the innocent façade of our worldly ple
 
 - Highlight(pink) - Location 3366
 that the world is impermanent, bound up with suffering, and subject to change, this is the danger in the world
-Note:
 (AN 3:101 §§1–2; I 258–59
-That pleasure is impermanent* not world
+
+- Note: pleasure* not world
 
 ___
 
@@ -129,8 +152,8 @@ The third moment, the moment of escape,
 Once we see that the objects of our attachment are flawed, beset with hidden dangers, we then realize that the way of escape lies in dropping our attachment to them.
 
 - Highlight(pink) - Location 3366
- the removal and abandoning of desire and lust for the world, this is the escape from the world.’
- (AN 3:101 §§1–2; I 258–59)
+the removal and abandoning of desire and lust for the world, this is the escape from the world.’
+(AN 3:101 §§1–2; I 258–59) 
 
 ___
 
@@ -145,27 +168,40 @@ three major objects of attachment: sensual pleasures, bodily form, and feelings.
 
 ___
 
-- Highlight(pink) - Location 3290
-“Form” is the physical body.
+- Highlight(pink) - Location 3411
+the danger in the case of sensual pleasures?
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
 
-- Highlight(pink) - Location 3291
-consider a beautiful young girl. He then traces the progressive stages of her physical decay, through old age, sickness, death, and the eventual disintegration of the corpse until it is reduced to powdered bone.
+- Highlight(pink) - Location 3412
+Here, monks, on account of the craft by which a clansman makes a living—whether checking, accounting, calculating, farming, trading, husbandry, archery, the royal service, or whatever craft it may be—he has to face cold and heat; he is injured by contact with gadflies, mosquitoes, wind, sun, and creeping things; he risks death by hunger and thirst. Now this is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3416
+“If no property comes to the clansman while he works and strives and makes an effort thus, he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘My work is in vain, my effort is fruitless!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
 ___
 
-- Highlight(pink) - Location 3292
-To show the danger in “feeling,” the Buddha selects the feelings of a meditating monk in the jhānas, the meditative absorptions, the most refined mundane experiences of pleasure and peace. He points out that even these lofty feelings are impermanent, unsatisfactory, and subject to change.
+- Highlight(pink) - Location 3419
+“If property comes to the clansman while he works and strives and makes an effort thus, he experiences pain and grief in protecting it:
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
 
-___
-
-- Highlight(pink) - Location 3300
-sensual pleasures seem to be pleasurable only through a distortion of perception, but when seen rightly are like the fire in a burning charcoal pit—“painful to touch, hot, and scorching.”
+- Highlight(pink) - Location 3421
+as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or unloved heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘I no longer have my property!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
 ___
 
 - Highlight(pink) - Location 3288
 the scope of the examination widens from the personal to the collective, encompassing the broader social and political consequences of this quest. It reaches its climax in striking images of the warfare and human devastation that follow from the frenzied mass drive for sensual gratification.
 
+- Highlight(pink) - Location 3425
+“Again, with sensual pleasures as the cause ... kings quarrel with kings, khattiyas with khattiyas, brahmins with brahmins, householders with householders; mother quarrels with son, son with mother, father with son, son with father; brother quarrels with brother, brother with sister, sister with brother, friend with friend. And here in their quarrels, brawls, and disputes they attack each other with fists, clods, sticks, or knives, whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3438
+“Again, with sensual pleasures as the cause ... men break into houses, plunder wealth, commit burglary, ambush highways, seduce others’ wives, and when they are caught, kings have many kinds of torture inflicted on them ... whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 ___
 
 - Highlight(pink) - Location 3323
@@ -173,6 +209,82 @@ People who cling tenaciously to their own views of a particular situation often 
 
 - Highlight(pink) - Location 3325
 parable of the blind men and the elephant,
+
+___
+
+- Highlight(pink) - Location 3441
+“Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,2
+
+___
+
+- Highlight(pink) - Location 3290
+“Form” is the physical body.
+
+- Highlight(pink) - Location 3291
+consider a beautiful young girl. He then traces the progressive stages of her physical decay, through old age, sickness, death, and the eventual disintegration of the corpse until it is reduced to powdered bone.
+
+- Highlight(pink) - Location 3453
+the gratification in the case of form?
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3453
+Suppose there were a girl of the khattiya class or the brahmin class
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3455
+“Now the pleasure and joy that arise in dependence on that beauty and loveliness are the gratification in the case of form.
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3457
+the danger in the case of form?
+
+- Highlight(pink) - Location 3457
+Later on one might see that same woman here at eighty, ninety, or a hundred years, aged, as crooked as a roof bracket, doubled up, supported by a walking stick, tottering, frail, her youth gone, her teeth broken, gray-haired, scanty-haired, bald, wrinkled, with limbs all blotchy.
+
+- Highlight(pink) - Location 3459
+What do you think, monks? Has her former beauty and loveliness vanished and the danger become evident?”—“Yes, venerable sir.”—“Monks, this is a danger in the case of form.
+
+___
+
+- Highlight(pink) - Location 3292
+To show the danger in “feeling,” the Buddha selects the feelings of a meditating monk in the jhānas, the meditative absorptions, the most refined mundane experiences of pleasure and peace. He points out that even these lofty feelings are impermanent, unsatisfactory, and subject to change.
+
+- Highlight(pink) - Location 3478
+the gratification in the case of feelings?
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3479
+Here, monks, quite secluded from sensual pleasures, secluded from unwholesome states, a monk enters upon and dwells in the first jhāna,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3485
+On that occasion he feels only feeling that is free from affliction.
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3486
+The highest gratification in the case of feelings is freedom from affliction, I say.
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3486
+“And what, monks, is the danger in the case of feelings? Feelings are impermanent, suffering, and subject to change.
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+- Highlight(pink) - Location 3488
+“And what, monks, is the escape in the case of feelings? It is the removal of desire and lust, the abandonment of desire and lust for feelings.
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+___
+
+- Highlight(pink) - Location 3300
+sensual pleasures seem to be pleasurable only through a distortion of perception, but when seen rightly are like the fire in a burning charcoal pit—“painful to touch, hot, and scorching.”
+
+- Highlight(pink) - Location 3560
+having understood as they really are the origin, the passing away, the gratification, the danger, and the escape in the case of sensual pleasures, I abandoned craving for sensual pleasures,
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+- Highlight(pink) - Location 3562
+I see other people who are not free from lust for sensual pleasures being devoured by craving for sensual pleasures, burning with the fever of sensual pleasures,
+
 
 ___
 
