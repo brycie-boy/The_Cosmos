@@ -4,7 +4,7 @@
 Author: Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
-Type: #☁️ 
+Type: #💥 
 Status: 
 Tags:  [[Philosphy]] | [[Spirituality]] | [[Religion]] | [[Ethics]]
 
@@ -330,6 +330,54 @@ In the Indian religious context, the practice of meritorious deeds revolves arou
 - Highlight(pink) - Location 2695
 the Buddha is supreme among persons, the Dhamma among teachings, and the Saṅgha among religious communities.
 
+___
+
+❗️
+
+- Highlight(blue) - Location 2645
+The Buddhist cosmos is divided into three broad realms—the sense-sphere realm (kāmadhātu), the form realm (rūpadh̄tu ), and the formless realm (arūpadhātu)—each comprising a range of subsidiary planes.
+
+- Highlight(blue) - Location 2647
+The sense-sphere realm, our realm, is so called because the beings reborn here are strongly driven by sensual desire.
+
+- Highlight(blue) - Location 2648
+The bad destinations or “states of misery” (apāya) are three in number: the hells, states of intense torment (see MN 129 and 130, not included in this anthology); the animal kingdom; and the sphere of spirits (pettivisaya ), beings afflicted with incessant hunger, thirst, and other sufferings.
+
+- Highlight(blue) - Location 2652
+The good destinations in the sense-sphere realm are the human world and the six sensual heavenly planes.
+
+- Highlights(blue) - Location 2653
+The latter are: the devas in the heaven of the Four Great Kings, who are presided over by four powerful devas (namely, the Four Great Kings); the Tāvatiṃsa devas presided over by Sakka, a devotee of the Buddha who is faithful but prone to negligence (see the Sakkasaṃyutta, SN chapter 11); the Yāma devas; the devas of the Tusita heaven, the abode of a bodhisatta before his final birth; the Nimmānaratī devas (“the gods who delight in creating”); and the Paranimmitavasavattī devas (“the gods who control what is created by others”).
+
+- Highlight(blue) - Location 2657
+In the form realm the grosser types of material form are absent. Its denizens, known as brahmās, enjoy bliss, power, luminosity, and vitality far superior to the beings in the sense-sphere realm.
+
+- Highlight(blue) - Location 2659
+The form realm consists of sixteen planes. These are the objective counterparts of the four jhānas.
+
+- Highlight(blue) - Location 2659
+Attainment of the first jhāna leads to rebirth among Brahmā’s assembly, the ministers of Brahmā, and the Mahābrahmās, according to whether it is developed to an inferior, middling, or superior degree.
+
+- Highlight(blue) - Location 2661
+The second jhāna, attained in the same three degrees, leads respectively to rebirth among the devas of limited radiance, of measureless radiance, and of streaming radiance.
+
+- Highlight(blue) - Location 2662
+The third jhāna, attained in the same three degrees, leads respectively to rebirth among the devas of limited glory, of measureless glory, and of refulgent glory.
+
+- Highlight(blue) - Location 2663
+The fourth jhāna ordinarily leads to rebirth among the devas of great fruit, but if developed with a feeling of disgust for perception, it will conduce to rebirth among the “nonpercipient beings,” beings who lack perception.
+
+- Highlight(blue) - Location 2665
+The form realm also comprises five planes reserved exclusively for the rebirth of nonreturners
+
+- Highlight(blue) - Location 2665
+called the pure abodes: aviha, atappa, sudassa, sudassī, and akaniṭṭha. In each of the subtle form planes, the lifespan is said to be of enormous duration and to increase significantly with each higher plane.
+
+- Highlight(blue) - Location 2665
+In the third realm of existence, material form is nonexistent and bare mental processes exist; hence it is called the formless realm.
+
+- Highlight(blue) - Location 2669
+This realm consists of four planes, which are the objective counterparts of the four formless meditative attainments, after which they are named: the base of the infinity of space, the base of the infinity of consciousness, the base of nothingness, and the base of neither-perception-nor-nonperception.
 
 ##### Cited Refrences
 
