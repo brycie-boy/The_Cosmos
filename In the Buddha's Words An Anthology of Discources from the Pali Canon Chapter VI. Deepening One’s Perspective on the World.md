@@ -127,7 +127,7 @@ Tactile objects cognizable by the body
 
 ___ 
 
-- Highlight(pink) - Location 3270
+- Highlight(pink) - Location 3270 ❗️
 If we address this question with utter honesty, in a dispassionate frame of mind, we will realize that such pleasure and joy are far from satisfactory. To the contrary, they are saddled with drawbacks and defects ranging from the trifling to the catastrophic, defects that we perpetually hide from ourselves so that we can continue unhindered in our quest for gratification. This is their danger, the second moment or step of observation.
 
 - Highlight(pink) - Location 3273
