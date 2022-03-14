@@ -1,6 +1,6 @@
 # Grocery List
 
-> Go through whole list
+> Go through whole list!
 
 ## Ideas
 
@@ -55,14 +55,14 @@
 - Sodium benzoate
 
 ## Meat/Protein
-- [ ] Lean Chicken (only 1)
-- [ ] Ground beef
+- [x] Lean Chicken (only 1)
+- [x] Ground beef
 	- Steak
 - [x] Samon
 	- Shellfish
 	- Shrimp
-- [ ] Eggs 
-- [ ] Bacon
+- [x] Eggs 
+- [x] Bacon
 - [ ] Canned fish: S.M.A.S.H
 	- Sardines
 	- Mackerel
@@ -75,7 +75,7 @@
 - [x] Cauliflower
 	- Riced Cauliflower
 - [x] Baby spinach or arugula 
-- [ ] Avocado 
+- [x] Avocado 
 	- Guacamole
 - [ ] Asparagus (frozen)
 	- Artichoke 
@@ -92,7 +92,7 @@
 	- Red Palm
 
 ## Cheese/Dairy
-- [ ] Greek or Bulgarian yogurt (only 1)
+- [x] Greek or Bulgarian yogurt
 - [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
@@ -103,8 +103,8 @@
 - [ ] 1/3 less fat cream cheese
 
 ## Nuts and Seeds
-- [x] Pili nuts 
-	- Mac nuts 
+- [ ] Pili nuts 
+	- Mac nuts (only 1)
 	- Pecans
 - [x] Walnuts 
 - [x] Nut Butters 

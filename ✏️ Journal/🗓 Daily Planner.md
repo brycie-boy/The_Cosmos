@@ -1,70 +1,74 @@
 # 🗓 Daily Planner
 
-### Important ToDos
+### ❗️ Important ToDos
 
-> Do immediately during both learning time and free time
+> Do immediately
 
-- [x] Check mail for da goods
+- Ask dad to buy GED practice tests
 
 ##### Later
 
-## 🤓 Learning
+#### 
+___
 
-### Inboxes
+## **📚✏️ Learning**
+
+### ✏️ Inboxes
 
 - [ ] Words: ❗ -> [[📝 Note Pad]]
 - [ ] Ideas:  -> [[📝 Note Pad]]
 - [ ] Raindrop.io: 
 - [x] Stellar Nursery: ❗️
 
+### 📚 Sources
 
-### Sources
-
-Add: [[📚 Broad Source List]]
+> Add: [[📚 Broad Source List]]
 
 - [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VII. The Path to Liberation
 - Author: Bhikku Bodhi
-.
+
 - [ ] **2.**
- .
+
+ ___
  
-## 🎮🎨 Free time
+## **🎮🎨 Free time**
 
-### Unimportant ToDos
-
-> Just do during free time
+### ✅ Unimportant ToDos
 
 #### Quick tasks (Under 5 min)
 
+- Schedule DMV written test appointment
+
 #### Slow tasks (Over 5 min)
 
-- [x] Organize music library 
-- [ ] Create meals for workout routine
-- [ ] shopping list 
+> - 2 Max
+> - Manage on google calendar
 
-##### Later
-- [ ] Schedule DMV written test appointment
+- [ ] **1.** Find a calendar app with tasks, habits, reminders
+
+- [ ] **2.** Change passwords and emails
+
+#### Later
 - [ ] Schedule DMV road test appointment
+- [ ] Create meals for workout routine
+- [ ] rank shopping list
 - [ ] Look for jobs
-- [ ] Change passwords and emails 
+- [ ] Organize music library 
 - [ ] Type 100 words per minute
 - [ ] Delete safari favorites 
 - [ ] Delete photos
 
- ### Continue learning?
-
-- [x] Yes
-- [ ] No
-
-### Create
+### 
+ ___
+### 🎨 Create
 
 - [ ] Make music
 - [ ] Draw
 
-### Consume
+### 🎮 Consume
 
 #### TV:
 
@@ -72,14 +76,9 @@ Add: [[📚 Broad Source List]]
 #### Movie: 
 
 
-#### Videogames
+#### Videogames:
 
-##### Casual:
 
-- [ ] Minecraft
-- [ ] Krunker
-
-##### Campaign:
 
 #### Social medias:
 

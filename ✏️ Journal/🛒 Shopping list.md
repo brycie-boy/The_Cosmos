@@ -45,7 +45,7 @@ Ideas:
 ##### Tshirts
 
 - ![[F9AFB908-541A-4DB7-8243-E6D795F8D083.jpeg|200]]
-	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-white ❗️
+	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-white 
 
 - ![[1268DDE1-309C-49D9-85FB-CA920D73AA98.jpeg|200]]
 	black $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-black 
@@ -60,10 +60,10 @@ Ideas:
 	Cream tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-heather-grey
 
 - ![[B0910848-8591-4DF5-B68B-03B09B2B27C5.webp|200]]
-	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
-
+	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend 
+	
 - ![[98D3D0A0-721A-4723-B4F8-7E9FB150535C.webp|200]]
-	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
+	Striped tee $7 https://m.aliexpress.com/item/1005001375706801.html?spm=a2g0n.detail.0.0.46af3a4dDfrFLg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=75a0ea96-cde7-4651-9e2d-0991ebd2fa64&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:75a0ea96-cde7-4651-9e2d-0991ebd2fa64,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B6.4%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend 
 
 - ![[E8D84186-A1DB-499A-8BA2-F370BD9F8A4E 1.webp|200]]
 	Blonde merch pink white $11 https://m.intl.taobao.com/detail/detail.html?id=612486455411
@@ -225,6 +225,27 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 - ![[C4E81EC6-738E-4D71-BA9D-A2F507F968D3 1.jpeg|200]]
 	Round sunglasses $20 https://www.urbanoutfitters.com/shop/jax-round-sunglasses?color=007&size=0000
 
+
+##### Ranked lIst
+- ![[90BBB219-D1E7-437F-ADA9-915E1979953F.webp|200]]
+	![[45955F0E-BB0D-4275-A475-FAF770759D40.webp|200]]
+blue and light blueJeans $36 https://m.aliexpress.com/item/1005003122702771.html?spm=a2g0n.detail.0.0.12f214417aytzV&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=449f9a33-4f44-4172-8eea-c003b35a828c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:449f9a33-4f44-4172-8eea-c003b35a828c,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B17.63%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
+
+- ![[F9AFB908-541A-4DB7-8243-E6D795F8D083.jpeg|200]]
+	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-white 
+
+- ![[1268DDE1-309C-49D9-85FB-CA920D73AA98.jpeg|200]]
+	Rue Porter tee black $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-black
+
+- ![[E6532DCB-81B5-4771-9886-A491751DD653.webp|200]]
+	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
+
+- ![[95B53E91-96B0-4265-99BD-472AAE39F006.webp|200]]
+	Green Cargos $32 https://m.aliexpress.com/item/1005003297342194.html?gatewayAdapt=Pc2Msite&spm=a2g0n.store_m_allProduct.allProducts_359073432.1005003297342194
+
+- ![[F22A1488-4A38-4334-A818-7235282C7C7B.webp|200]]
+	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
+	
 ### 3. Furniture
 
 - ![[E527A7D9-8B6C-40EB-82C0-708921BB0A4D.jpeg|200]]
@@ -254,3 +275,4 @@ Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-
 - ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
 	Framework Laptop DIY Edition $749.00
 	https://frame.work/products/laptop-diy-edition
+## 5. Ranked List

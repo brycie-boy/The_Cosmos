@@ -10,13 +10,15 @@ Don’t try too hard either. If something is vaguely interesting, go ahead and c
 ##### Red: Points
 
 **Non-fiction**
-- Ideas/points
-- Arguments
-- Facts
-- Evidence
+
+- 💭 Ideas
+- 🗣 Arguments
+- 💯 Facts
+- 🔎 Evidence
 
 **Fiction**
-- Important themes
+
+- Themes
 - Plot
 	- Conflicts
 	- Resolution
