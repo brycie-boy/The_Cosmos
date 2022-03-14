@@ -6,6 +6,8 @@
 
 > - 10 Words max  [[🗓 Daily Planner]]
 
+- Note: complete vocab moc
+
 1. Inhibition
 2. Aggregate 
 3. Expository
@@ -14,3 +16,5 @@
 6. presumption
 7. intrinsic
 8. insatiate
+9. thesis
+10. complacency

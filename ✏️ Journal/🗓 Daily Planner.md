@@ -12,7 +12,7 @@
 
 ### Inboxes
 
-- [ ] Words:  -> [[📝 Note Pad]]
+- [ ] Words: ❗ -> [[📝 Note Pad]]
 - [ ] Ideas:  -> [[📝 Note Pad]]
 - [ ] Raindrop.io: 
 - [x] Stellar Nursery: ❗️

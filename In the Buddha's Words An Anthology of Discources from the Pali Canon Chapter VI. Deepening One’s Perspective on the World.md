@@ -6,7 +6,7 @@ Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-3-11
 Status: #💥/📚 
-Tags: [[Philosphy]] / [[Spirituality]] / [[Religion]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Religion]]
 
 ___
 
@@ -14,15 +14,6 @@ ___
 
 ___
 
-- Highlight(pink) - Location 3208
-those inclined to resign themselves to fate that present effort determines our present quality of life as well as our future destiny.
-
-___
-
-- Highlight(pink) - Location 3209
-those convinced that personal existence ceases with bodily death that living beings survive the breakup of the body and re-arise in accordance with their kamma.
-
-___
 
 - Highlight(pink) - Location 3211
 A blissful heavenly rebirth, however, is not the final purpose for which the Buddha taught the Dhamma. At best it is only a temporary waystation. The ultimate goal is the cessation of suffering, and the bliss of the heavens, no matter how blissful, is not the same as the cessation of suffering.
@@ -30,10 +21,14 @@ A blissful heavenly rebirth, however, is not the final purpose for which the Bud
 - Highlight(pink) - Location 3214
 all states of existence within the round of rebirths, even the heavens, are transient, unreliable, bound up with pain. Thus the ultimate aim of the Dhamma is nothing short of liberation, which means total release from the round of birth and death.
 
- ___
-
 - Highlight(pink) - Location 3216
 What lies beyond the round of rebirths is an unconditioned state called Nibbāna.
+
+- Highlight(pink) - Location 3808
+when he has completed the entire lifespan of those devas, he goes to hell, to the animal realm, and to the domain of spirits. But the Blessed One’s disciple remains there all his life, and when he has completed the entire lifespan of those devas, he attains final Nibbāna in that very same state of existence. This is the difference, the disparity, the distinction between the instructed noble disciple and the uninstructed worldling, that is, with regard to destination and rebirth.
+(AN 4:125; II 128–29)
+
+___
 
 - Highlight(pink) - Location 3216
 Nibbāna transcends the conditioned world, yet it can be attained within conditioned existence, in this very life, and experienced as the extinction of suffering.
@@ -72,8 +67,12 @@ To follow the Buddha in the direction he wants to lead us, we have to learn to s
 
 - Highlight(pink) - Location 3255
 Ordinarily, we represent things to ourselves through the refractory prism of subjective biases. These biases are shaped by our craving and attachments, which they in turn reinforce. We see things that we want to see; we blot out things that threaten or disturb us, that shake our complacency, that throw into question our comforting assumptions about ourselves and our lives. To undo this process involves a commitment to truth that is often unsettling, but in the long run proves exhilarating and liberating.
-
 - Note: greed hatred delusion
+
+- Highlight(pink) - Location 3758
+“Monks, I do not see even one other thing on account of which unarisen unwholesome qualities of mind arise and arisen unwholesome qualities of mind increase and expand so much as on account of wrong view.10
+(AN 1: xvii, 1, 3, 7, 9; I 30–32)
+Note: The three roots: delusion
 
 ___
 
@@ -96,7 +95,7 @@ The three moments are: gratification (ass̄da), danger (ādīnava), and escape (
 
 ___
 
-- Highlight(pink) - Location 3267
+- Highlight(pink) - Location 3267 ❗️
 one begins by recognizing the indubitable fact that such worldly phenomena as sense objects, forms, and feelings give us some degree of gratification. This gratification consists in the pleasure and joy (sukha-somanassa) we experience when we succeed in fulfilling our desires. Once we acknowledge this fact, we can then probe deeper by asking whether such pleasure and joy are entirely satisfactory.
 
 - Highlight(pink) - Location 3366
@@ -202,18 +201,46 @@ the scope of the examination widens from the personal to the collective, encompa
 - Highlight(pink) - Location 3438
 “Again, with sensual pleasures as the cause ... men break into houses, plunder wealth, commit burglary, ambush highways, seduce others’ wives, and when they are caught, kings have many kinds of torture inflicted on them ... whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
 ___
 
 - Highlight(pink) - Location 3323
 People who cling tenaciously to their own views of a particular situation often come into conflict with those who view the same situation in a different light. Views thus give rise to conflicts and disputes.
+(Ud 6:4; 67–69)
 
 - Highlight(pink) - Location 3325
 parable of the blind men and the elephant,
+(Ud 6:4; 67–69)
+
+-  Highlight(pink) - Location 3773
+Now at that time a number of ascetics and brahmins,
+(Ud 6:4; 67–69)
+
+- Highlight(pink) - Location 3774
+held various views, beliefs, and opinions, and propagated various views. And they were quarrelsome, disputatious, wrangling, wounding each other with verbal darts, saying, “The Dhamma is like this, the Dhamma is not like that!
+(Ud 6:4; 67–69)
+
+- Highlight(pink) - Location 3780
+“Formerly, monks, there was a king in Sāvatthī who addressed a man and asked him to round up all the persons in the city who were blind from birth. When the man had done so, the king asked the man to show the blind men an elephant. To some of the blind men he presented the head of the elephant, to some the ear, to others a tusk, the trunk, the body, a foot, the hindquarters, the tail, or the tuft at the end of the tail. And to each one he said, ‘This is an elephant.’
+(Ud 6:4; 67–69)
+
+- Highlight(pink) - Location 3783
+“When he reported to the king what he had done, the king went to the blind men and asked them, ‘Tell me, blind men, what is an elephant like?’
+(Ud 6:4; 67–69)
+
+- Highlight(pink) - Location 3785
+“Those who had been shown the head of the elephant replied, ‘An elephant, your majesty, is just like a water jar.’ Those who had been shown the ear replied, ‘An elephant is just like a winnowing basket.’ Those who had been shown the tusk replied, ‘An elephant is just like a plowshare.’ Those who had been shown the trunk replied, ‘An elephant is just like a plow pole.’ Those who had been shown the body replied, ‘An elephant is just like a storeroom.’ And each of the others likewise described the elephant in terms of the part they had been shown.
+(Ud 6:4; 67–69)
+
+- Highlight(pink) - Location 3789
+“Then, saying, ‘An elephant is like this, an elephant is not like that! An elephant is not like this, an elephant is like that!’ they fought each other with their fists. And the king was delighted. Even so, monks, are the wanderers of other sects blind and sightless, and thus they become quarrelsome, disputatious, and wrangling, wounding each other with verbal darts.”
+(Ud 6:4; 67–69)
 
 ___
 
 - Highlight(pink) - Location 3441
-“Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,2
+“Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
 ___
 
@@ -278,26 +305,126 @@ ___
 - Highlight(pink) - Location 3300
 sensual pleasures seem to be pleasurable only through a distortion of perception, but when seen rightly are like the fire in a burning charcoal pit—“painful to touch, hot, and scorching.”
 
-- Highlight(pink) - Location 3560
-having understood as they really are the origin, the passing away, the gratification, the danger, and the escape in the case of sensual pleasures, I abandoned craving for sensual pleasures,
+- Highlight(pink) - Location 3585
+“Suppose, Māgandiya, there was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, cauterizing his body over a burning charcoal pit. Then his friends and companions, his kinsmen and relatives, would bring a physician to treat him. The physician would make medicine for him, and by means of that medicine the man would be cured of his leprosy and would become well and happy, independent, master of himself, able to go where he likes. Then he might see another leper
 (from MN 75: Māgandiya Sutta; I 504–8)
 
-- Highlight(pink) - Location 3562
-I see other people who are not free from lust for sensual pleasures being devoured by craving for sensual pleasures, burning with the fever of sensual pleasures,
+- Highlight(pink) - Location 3590
+What do you think, Māgandiya? Would that man envy that leper for his burning charcoal pit or his use of medicine?” “No, Master Gotama. Why is that? Because when there is sickness, there is need for medicine, and when there is no sickness there is no need for medicine.”
+(from MN 75: Māgandiya Sutta; I 504–8)
 
-- Highlight(pink) Location 3564
-a delight apart from sensual pleasures, apart from unwholesome states, which surpasses even divine bliss.
+- Highlight(pink) - Location 3594
+“Suppose, Māgandiya, there was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, cauterizing his body over a burning charcoal pit. Then his friends and companions, his kinsmen and relatives, brought a physician to treat him. The physician would make medicine for him, and by means of that medicine the man would be cured of his leprosy and would become well and happy, independent, master of himself, able to go where he likes. Then two strong men would seize him by both arms and drag him toward a burning charcoal pit.
+(from MN 75: Māgandiya Sutta; I 504–8)
 
+- Highlight(pink) - Location 3601
+that fire is now painful to touch, hot, and scorching, and previously too that fire was painful to touch, hot, and scorching. For when that man was a leper with sores and blisters on his limbs,
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+- Highlight(pink) - Location 3603
+his faculties were impaired; thus, though the fire was actually painful to touch, he acquired a mistaken perception of it as pleasant.”
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+= Highlight(pink) - Location 3604
+“So too, Māgandiya, in the past sensual pleasures were painful to touch, hot, and scorching; in the future sensual pleasures will be painful to touch, hot, and scorching; and now at present sensual pleasures are painful to touch, hot, and scorching.
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+- Highlight(pink) - Location 3606
+But these people who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with the fever of sensual pleasures, have faculties that are impaired; thus, though sensual pleasures are actually painful to touch, they acquire a mistaken perception of them as pleasant.9
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+- Highlight(pink) - Location 3609
+“Suppose, Māgandiya, there was a leper with sores and blisters on his limbs,
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+- Highlight(pink) - Location 3610
+the more he scratches the scabs and cauterizes his body, the fouler, more evil-smelling, and more infected the openings of his wounds would become, yet he would find a certain measure of satisfaction and enjoyment in scratching the openings of his wounds.
+(from MN 75: Māgandiya Sutta; I 504–8)
+
+- Highlight(pink) - Location 3612
+So too, Māgandiya, people who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with the fever of sensual pleasures, still indulge in sensual pleasures; the more they indulge in sensual pleasures, the more their craving for sensual pleasures increases and the more they are burned by the fever of sensual pleasures, yet they find a certain measure of satisfaction and enjoyment in dependence on the five cords of sensual pleasure.”
+(from MN 75: Māgandiya Sutta; I 504–8)
 
 ___
 
 - Highlight(pink) - Location 3303
 Buddhist literature frequently advises us to contemplate the certainty of death and the uncertainty of the time of its arrival. This recommendation is not made to induce an attitude of chronic morbidity but to help us break our infatuation with life and develop detachment.
-Note:
-this can also help you realize that since death is inevitable, then it’s better to focus on things that don’t bring immediate and intense pleasure but instead benefit you long term satisfaction - this also applies to acknowledging the fleeting nature of short term pleasure
 
-- Highlight(pink) - Location 3306
-The Buddha elsewhere says that the recollection of death “when developed and cultivated, gains a foothold in the Deathless and culminates in the Deathless”
+- Highlight(pink) - Location 3618
+“‘Short is the life of human beings, O brahmins, limited and brief; it is full of suffering, full of tribulation. This one should wisely understand. One should do good and live a pure life; for none who is born can escape death.
+(AN 7:70; IV 136–39)
+
+- Highlight(pink) - Location 3649
+Meditate, monks, do not be negligent, or else you will regret it later. This is our instruction to you.”
+(AN 7:70; IV 136–39)
+
+___
+
+- Highlight(pink) - Location 3705
+‘[Life in] any world is unstable, it is swept away.’ How should the meaning of that statement be understood?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3706
+“What do you think, great king? When you were twenty or twenty-five years old, were you an expert rider of elephants, an expert horse-man, an expert charioteer, an expert archer, an expert swordsman, strong in thighs and arms, sturdy, capable in battle?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3710
+Now I am old, aged, burdened with years, advanced in life, come to the last stage; my years have turned eighty. Sometimes I mean to put my foot here and I put my foot somewhere else.”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+___
+
+- Highlight(pink) - Location 3717
+Now Master Raṭṭhapāla said: ‘[Life in] any world has no shelter and no protector.’ How should the meaning of that statement be understood?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3719
+“I have a chronic wind ailment, Master Raṭṭhapāla. Sometimes my friends and companions, kinsmen and relatives, stand around me, thinking: ‘Now King Koravya is about to die, now King Koravya is about to die!’”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3722
+All of you present share this painful feeling so that I may feel less pain’? Or do you have to feel that pain yourself alone?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3724
+“I cannot command my friends and companions, my kinsmen and relatives thus, Master Raṭṭhapāla. I have to feel that pain alone.”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+___
+
+- Highlight(pink) - Location 3730
+‘[Life in] any world has nothing of its own; one has to leave all and pass on.’ How should the meaning of that statement be Hunderstood?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3731
+“What do you think, great king? You now enjoy yourself provided and endowed with the five cords of sensual pleasure, but can you be certain that in the life to come you will likewise enjoy yourself provided and endowed with these same five cords of sensual pleasure? Or will others take over this property, while you will have to pass on according to your actions?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3734
+“I cannot be certain of what will happen in the life to come, Master Raṭṭhapāla. On the contrary, others will take over this property while I shall have to pass on according to my actions.”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+___
+
+- Highlight(pink) - Location 3741
+‘[Life in] any world is incomplete, insatiate, the slave of craving.’ How should the meaning of that statement be understood?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3742
+“What do you think, great king? Do you reign over the rich Kuru country?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3743
+“What do you think, great king? Suppose a trustworthy and reliable man came to you from the east and said: ‘Please know, great king, that I have come from the east, and there I saw a large country, powerful and rich,
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3746
+With your present forces you can conquer it. Conquer it then, great king.’ What would you do?”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
+
+- Highlight(pink) - Location 3747
+“We would conquer it and reign over it, Master Raṭṭhapāla.”
+(from MN 82: Raṭṭhapāla Sutta; II 65–82)
 
 ___
 
@@ -307,13 +434,29 @@ eternalism (sassatav̄da) and annihilationism (ucchedav̄da), also called, respe
 - Highlight(pink) - Location 3328
 Eternalism affirms an eternal component in the individual, an indestructible self, and an eternal ground of the world, such as an all-powerful creator God.
 
+- Highlight(pink) - Location 3794
+Devas and human beings delight in existence,
+(It 49; 43–44)
+
+- Highlight(pink) - Location 3795
+When the Dhamma is taught to them for the cessation of existence, their minds do not enter into it, acquire confidence in it,
+(It 49; 43–44)
+
 - Highlight(pink) - Location 3329
 Annihilationism denies that there is any survival beyond death, holding that the individual comes to a complete end with the demise of the physical body.
 
-___
+- Highlight(pink) - Location 3797
+Now some are troubled, ashamed, and disgusted by this very same existence and they rejoice in nonexistence, saying, ‘In as much as this self, good sirs, is annihilated and destroyed with the breakup of the body and does not exist after death, this is peaceful, this is excellent, this is just so!’
+(It 49; 43–44)
 
 - Highlight(pink) - Location 3331
 As we will see below, the Buddha’s teaching of dependent origination avoids both these futile ends
+
+- Highlight(pink) - Location 3800
+a monk sees what has come to be as having come to be. Having seen it thus, he practices the course for disenchantment, for dispassion, for the cessation of what has come to be.
+(It 49; 43–44)
+
+___
 
 - Highlight(pink) - Location 3333
 a particular problem posed by eternalist views. Such views can inspire meditators to attain states of deep meditative bliss, which they interpret as union with a divine reality or realization of an eternal self. From the perspective of the Buddha’s teaching, however, such attainments merely create the karmic potential for rebirth into a realm in which that meditative experience becomes the fundamental condition of consciousness. In other words, the attainment of these states in the human realm generates rebirth into the corresponding planes in the realm of subtle form or the formless realm.
@@ -323,3 +466,21 @@ The text cited here shows that certain meditators attain the four “divine abod
 
 - Highlight(pink) - Location 3341
 say the same respectively about realms of rebirth corresponding to the jhānas and the formless attainments.
+
+- Highlight(pink) - Location 3808
+when he has completed the entire lifespan of those devas, he goes to hell, to the animal realm, and to the domain of spirits. But the Blessed One’s disciple remains there all his life, and when he has completed the entire lifespan of those devas, he attains final Nibbāna in that very same state of existence. This is the difference, the disparity, the distinction between the instructed noble disciple and the uninstructed worldling, that is, with regard to destination and rebirth.
+(AN 4:125; II 128–29)
+
+___
+
+- Highlight(pink) - Location 3838
+this saṃsāra is without discoverable beginning. A first point is not discerned
+(SN 15:3; II 179–80)
+
+- Highlight(pink) - Location 3839
+beings roaming and wandering on hindered by ignorance and fettered by craving.
+(SN 15:3; II 179–80)
+
+- Highlight(pink) - Location 3852
+It is enough to experience revulsion toward all formations,
+(SN 15:3; II 179–80)

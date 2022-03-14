@@ -533,9 +533,9 @@ Highlight(pink) - Location 3729
 
 “Master Raṭṭhapāla, there exist in this court abundant gold coins and bullion stored away in vaults and lofts.
 
-Highlight(pink) - Location 3730
+ighlight(pink) - Location 3730
 
-‘[Life in] any world has nothing of its own; one has to leave all and pass on.’ How should the meaning of that statement be understood?”
+‘[Life in] any world has nothing of its own; one has to leave all and pass on.’ How should the meaning of that statement be Hunderstood?”
 
 Highlight(pink) - Location 3731
 
@@ -585,16 +585,6 @@ Note - Location 3760
 
 - The three roots: delusion
 
-Highlight(pink) - Location 3767
-
-“Monks, for a person of wrong view, whatever bodily, verbal, or mental conduct he undertakes in accordance with that view, and whatever volition, aspiration, wish, and volitional formations he engenders in accordance with that view, all lead to what is undesirable, unwanted, and disagreeable, to harm and suffering.
-
-Highlight(pink) - Location 3769
-
-Just as, when a seed of neem, bitter cucumber, or bitter gourd is planted in moist soil, it transforms any nutriment it obtains from the soil and the water into a fruit with a bitter, harsh, and disagreeable taste,
-
-Highlight(pink) - Location 3771
-
 (AN 1: xvii, 1, 3, 7, 9; I 30–32)
 
 Highlight(pink) - Location 3772
@@ -627,7 +617,7 @@ Highlight(pink) - Location 3789
 
 Highlight(pink) - Location 3792
 
-(Ud 6:4; 67–69)
+(Ud 6:4; 67–69) 
 
 Highlight(pink) - Location 3792
 
