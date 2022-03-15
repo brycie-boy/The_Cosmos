@@ -49,5 +49,5 @@ _noun_
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵 
+Type: #🔵/💬 
 Tags: [[Vocabulary]]

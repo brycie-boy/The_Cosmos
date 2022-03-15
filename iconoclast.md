@@ -14,5 +14,5 @@ https://www.merriam-webster.com/dictionary/iconoclast
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵
+Type: #🔵/💬 
 Tags: [[Vocabulary]]

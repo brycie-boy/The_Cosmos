@@ -41,6 +41,8 @@ ___
 
 #### Quick tasks (Under 5 min)
 
+- Schedule dmv
+
 #### Slow tasks (Over 5 min)
 
 > - 2 Max
@@ -59,6 +61,13 @@ ___
 
 ### 
  ___
+
+#### Continue Learning
+
+> Only if you didn’t get the chance earlier
+
+- [ ] Yes
+
 ### 🎨 Create
 
 - [ ] Make music

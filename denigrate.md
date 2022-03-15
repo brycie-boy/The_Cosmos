@@ -28,6 +28,6 @@ ___
 - https://www.merriam-webster.com/dictionary/denigration
 
 ##### Metadata
-Status: ☀️
-Type: 🔵
+Status: #☀️ 
+Type: #🔵/💬 
 Tags: [[Vocabulary]]

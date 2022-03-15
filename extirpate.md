@@ -26,5 +26,5 @@ ___
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵 
+Type: #🔵/💬 
 Tags: [[Vocabulary]]

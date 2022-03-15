@@ -18,7 +18,7 @@ https://www.merriam-webster.com/dictionary/equivocal
 
 ##### Metadata
 Status: #☀️ 
-Type:  #🔵 
+Type:  #🔵/💬 
 Tags: [[Vocabulary]]
 
 

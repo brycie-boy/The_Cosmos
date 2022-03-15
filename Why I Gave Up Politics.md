@@ -10,15 +10,7 @@ ___
 
 One thing of learned through out my life were there short comings of fear based teaching. When people are taught what to do through fear, they don’t actually learn why what they do is bad or good. Their ideas of good and bad are just arbitrary. They only do things because they fear punishment from others. 
 
-Wether in the microcosmic scale like the household or the macrocosmic scale like national politics. Fear based teaching is the same. It doesn’t matter what’s scale, it’s never justified.
-
-Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have ideas and rules in which they wish to impose upon others for the sake of there personal safety. This is hidden behind the veil of "the greater good" As if they know whats right for everyone else
-
-___
-
-If people genuinely understood consequances and respected each other then there really wouldn’t be a point in laws. People would have no compulsion to steal reason to kill, steal, etc. Maybe we should be teaching people how to understand and respect each rather than teaching them what political system they should support. Maybe then we could eventually transcend laws. 
-
-I feel like it’s pretty prideful that we decide to intervene and punish people ourselves. It’s as if we are so certain of what’s right and wrong with the world that we need to force people to do these things. When we lock people up in jail, or anything else, people don’t actually get to witness the actual consequences of their actions. People face the consequences of there actions through natural causes. What goes around comes around. Maybe we should leave the judging up to nature rather than taking it on ourselves. Nature always seems to balance things. When we intervene with these process, are we not saying we know better than nature?
+This is precisely what politics is about. Politics is not about morality, it about passing laws and laws force people to do things against there own will. Since this is the case, most people who vote are not driven by morality, but through things like fear or greed. People have ideas and rules in which they wish to impose upon others for the sake of there personal goals. The “greater good” is used as an excuse for this, as if the individual knows what is best for the entire collective.
 
 ___
 
@@ -31,6 +23,12 @@ ___
 People have to start looking internally for answers rather than externally. As long as people are rotten on the inside, every system will eventually be corrupted. There’s no perfect political system that will fix everything as long as force is involved. 
 
 Fear based teaching only suppresses desires, it does not iradicate them. This is why people become rebellious. Eventually theyll come out one way or another, though psychotaic breaks, riots, etc. the only way to do this is to remove the motivation to do these things in the first place. that is done through learning the consequances of your actions. 
+
+___
+
+If people genuinely understood consequances and respected each other then there really wouldn’t be a point in laws. People would have no compulsion to steal reason to kill, steal, etc. If we should be trying to understand anything it should be each other rather than teaching them what political system they should support. 
+
+When we lock people up in jail, or anything else, people don’t actually get to witness the actual consequences of their actions. People face the consequences of there actions through natural causes. What goes around comes around. Maybe we should leave the judging up to nature rather than taking it on ourselves. Nature always balances things. When we intervene with these process, are we not saying we know better than nature?
 
 ___
 

@@ -17,5 +17,5 @@ https://www.merriam-webster.com/dictionary/consecrate
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵 
+Type: #🔵/💬 
 Tags: [[Vocabulary]]

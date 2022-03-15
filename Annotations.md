@@ -1,4 +1,4 @@
-## Annotating System / Note Types  # flashcard
+# Annotating System / Note Types  # flashcard
 
 The things listed below are usually what I look for when consuming information. When capturing insights, I’m looking for what can be turned into notes.  I see these things as building blocks for content. Hence why they’re congruent with my notes types. This is important because my notes are also the building blocks to my own creations
 
@@ -7,16 +7,16 @@ When capturing annotations, don’t worry about what things might be important t
 Don’t try too hard either. If something is vaguely interesting, go ahead and capture it. It’s better to annotate to much than too little. Later on within the inbox note, the annotations will be organized or removed.
 
 # 🔴
-##### Red: Points
+## Red: Points
 
-**Non-fiction**
+### Non-fiction
 
 - 💭 Ideas
 - 🗣 Arguments
 - 💯 Facts
 - 🔎 Evidence
 
-**Fiction**
+### Fiction
 
 - Themes
 - Plot
@@ -24,22 +24,25 @@ Don’t try too hard either. If something is vaguely interesting, go ahead and c
 	- Resolution
 
 # 🔵
-##### Blue: Things
+## Blue: Things
 
-**Non-fiction**
+### Non-fiction
+
 - 👤 People
 - 🏙 Places
 - 🔵 Things
 
-**Fiction**
+### Fiction
+
 - 👤 Characters
 - 🏙 Settings
 - 🎵 Symbolism
 
-##### Other
-- Unknown Words
+### Other
 
-### Annotation notes
+- 💬 Words
+
+## Annotation notes
 
 When ever you have an additional thought, or slight disagreement with the author in a certain point that you have annotated, you can add a note on the annotation to remind your self when you start writing. 
 

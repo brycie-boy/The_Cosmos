@@ -24,5 +24,5 @@ https://www.merriam-webster.com/dictionary/admonish
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵
+Type: #🔵/💬 
 Tags:  [[Vocabulary]]
