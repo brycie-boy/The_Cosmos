@@ -20,7 +20,7 @@ The Stellar Nursery is where my inbox notes are stored. Or what I call nebulas. 
 The Stellar Nursery has 2 stages:
 
 - **💥 Supernova**
-	This is the ideas of others burst into my my universe. This starts out as a inbox scrap note, which is just a straight up annotation export. This is the most scattered and chaotic stage of the 
+	This is what i call my incomplete inbox notes. The name represents the ideas of others bursting into my my universe. This is the most scattered and chaotic stage of the 
 
 - **☁️ Nebula**
 	When the chaos subsides, and gravity has condensed all the annotations into fully formed stars, then the inbox note process is complete and is given certified nebula status and recieves the appropriate emoji seen above.
