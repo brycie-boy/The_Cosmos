@@ -243,8 +243,53 @@ blue and light blueJeans $36 https://m.aliexpress.com/item/1005003122702771.html
 - ![[95B53E91-96B0-4265-99BD-472AAE39F006.webp|200]]
 	Green Cargos $32 https://m.aliexpress.com/item/1005003297342194.html?gatewayAdapt=Pc2Msite&spm=a2g0n.store_m_allProduct.allProducts_359073432.1005003297342194
 
+		
+- ![[24B0EACA-422D-43A3-9E17-AC288019B2F7.webp|200]]
+	![[0AC180E2-51A4-42D3-B3CC-7C9ACC39FF39.webp|200]]	
+		gym shorts black and white $20 https://m.aliexpress.com/item/1005001300217984.html?spm=a2g0n.wishlist-amp.item.1005001300217984&aff_trace_key=&aff_platform=msite&m_page_id=8014amp-SCDjq3cy6awRNLagYU6AuQ1645922084401&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y ❗️
+
 - ![[F22A1488-4A38-4334-A818-7235282C7C7B.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
+
+- ![[2E6072CE-FD28-4E9C-88EC-B99E1E426214.jpeg|200]]
+	Grey tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-heather-grey
+	
+- ![[B60D7655-E047-4C75-AD28-994013E29C83.jpeg|200]]
+	Dark grey vintage tee $35 https://rueporter.com/collections/consumer-sample-store/products/premium-vintage-tee?variant=30901553102945
+
+- ![[5932DA07-1106-4EA1-B823-0F91740170CC.webp|200]]
+![[C6992B79-69E6-45BD-BF6A-0CBF8C9C6177.webp|200]]
+	![[A9A23F97-9DF5-4FB7-A18C-C3DA3D696609.webp|200]]
+![[4381D556-9E9D-4B23-8ACD-40D0A02F2999.webp|200]]
+Long Sleeve tee white, black, green, beige $40 https://m.aliexpress.com/item/1005002302284491.html?spm=a2g0n.wishlist-amp.item.1005002302284491&aff_trace_key=&aff_platform=msite&m_page_id=11amp-SCDjq3cy6awRNLagYU6AuQ1645936457342&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
+
+- ![[E8D84186-A1DB-499A-8BA2-F370BD9F8A4E 1.webp|200]]
+	Blonde merch pink white $11 https://m.intl.taobao.com/detail/detail.html?id=612486455411
+
+- ![[7AC4363E-216D-4364-8C12-E5BB31ACBAFD.webp|200]]
+	Blonde merch black green $11 https://m.intl.taobao.com/detail/detail.html?id=612486455411
+
+- ![[5730CA77-3ADF-47E5-979A-8413F55C4ADB.webp|200]]
+Seditionaries DESTROY T-Shirt $25 https://www.etsy.com/listing/994199231/seditionaries-destroy-t-shirt-read?ref=user_profile&frs=1&variation1=1930383659
+
+- ![[31E7FAA2-57AF-4033-89C0-F82A497F4776.jpeg|200]]
+	Nirvana In Utero tshirt $24 https://shop.nirvana.com/collections/unisex/products/in-utero-tee
+
+- ![[80281672-066D-4C63-97F4-3E35C31BE969.jpeg|200]]
+	Nirvana In Utero tshirt $22 https://www.hottopic.com/product/nirvana-in-utero-t-shirt/12813782.html#q=Nirvana%2Bshirt&start=3
+
+- ![[5673EEC1-9DE8-40D1-BEA4-3FA270CD2FEA.webp|200]]
+	Radiohead t shirt $10 https://m.aliexpress.com/item/1005003126097764.html?spm=a2g0n.productlist.0.0.138eWzJZWzJZtc&browser_id=41d9ab361d594a1686081b72428c09ba&aff_trace_key=&aff_platform=msite&m_page_id=17f37d09769fd16a9bb10636f0b217a01c26352f01&gclid=
+
+- ![[09C36EDA-239E-4069-AA61-9E3499E2F531.jpeg|200]]
+	Yin Yang fire tee $52 https://www.unifclothing.com/products/fire-yin-yang-tee?variant=30992192831563
+
+- ![[9BD80029-CE45-47D6-8E7D-BCA60BB38AA2.jpeg|200]]
+	Slayer tee $23 
+	https://www.amazon.com/Slayer-Official-tee-Intourvention-T-Shirt/dp/B07Z4C72ZD/ref=mp_s_a_1_13?crid=F7I8DTB5DL3T&keywords=slayer%2Bt%2Bshirt&qid=1645904348&sprefix=slayer%2Bt%2Bshirt%2Caps%2C82&sr=8-13&th=1&psc=1&customId=B07538GWNZ
+
+- ![[6C4A641D-84E4-4F22-95E5-2135E4F96DA1.jpeg|200]]
+	Cream tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-heather-grey
 	
 ### 3. Furniture
 

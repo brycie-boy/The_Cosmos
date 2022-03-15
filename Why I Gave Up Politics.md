@@ -12,7 +12,7 @@ One thing of learned through out my life were there short comings of fear based 
 
 Wether in the microcosmic scale like the household or the macrocosmic scale like national politics. Fear based teaching is the same. It doesn’t matter what’s scale, it’s never justified.
 
-Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have ideas and rules in which they wish to impose upon others for the sake of there personal safety. This is hidden behind the veil of "doing the right thing." As if they know whats right for everyone or even the world.
+Politics are about passing laws and laws are about forcing people to do things against there own will. Most people who vote are driven through fear. People have ideas and rules in which they wish to impose upon others for the sake of there personal safety. This is hidden behind the veil of "the greater good" As if they know whats right for everyone else
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 With democracy, I feel like it gives you the illusion of choice, because if your in a political minority, then it’s pointless to vote. You’re vote will always be vastly outweighed by the majority 
 
-Considering that 
+
 
 People vote for certain systems because they want others to be forced to do things because they’re want to feel a sense of safety. Yes most votes are emotional, not logical. The person who usually gets elected on the one who gets the most funding because they have the most widespread and effective advertising. In order to really make a difference politically you’d have to have a lot of money.
 

@@ -15,7 +15,7 @@ ___
 
 ### ✏️ Inboxes
 
-- [ ] Words: ❗ -> [[📝 Note Pad]]
+- [x] Words: ❗ -> [[📝 Note Pad]]
 - [ ] Ideas:  -> [[📝 Note Pad]]
 - [ ] Raindrop.io: 
 - [x] Stellar Nursery: ❗️
@@ -32,6 +32,7 @@ ___
 
 - [ ] **2.**
 
+## 
  ___
  
 ## **🎮🎨 Free time**
@@ -40,26 +41,21 @@ ___
 
 #### Quick tasks (Under 5 min)
 
-- Schedule DMV written test appointment
-
 #### Slow tasks (Over 5 min)
 
 > - 2 Max
 > - Manage on google calendar
 
-- [ ] **1.** Find a calendar app with tasks, habits, reminders
+- [x] **1.** Change passwords and emails
 
-- [ ] **2.** Change passwords and emails
+- [x] **2.** Create meals for workout routine and watch deluaer day of fasting
 
 #### Later
-- [ ] Schedule DMV road test appointment
-- [ ] Create meals for workout routine
-- [ ] rank shopping list
-- [ ] Look for jobs
-- [ ] Organize music library 
-- [ ] Type 100 words per minute
-- [ ] Delete safari favorites 
-- [ ] Delete photos
+- Organize music library 
+- Look for jobs
+- Type 100 words per minute
+- Delete safari favorites 
+- Delete photos
 
 ### 
  ___
