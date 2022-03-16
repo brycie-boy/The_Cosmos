@@ -602,5 +602,3 @@
 ___
 
 ##### Metadata
-Status: #⛅️ 
-Type: #✨

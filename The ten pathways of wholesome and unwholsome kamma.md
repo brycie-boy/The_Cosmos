@@ -21,7 +21,7 @@ There are three types of mental misconduct;
 - ill will
 - wrong view
 
-The ten types of wholesome kamma are the reason why beings are born in bad destinations, or a hellish world, after death. The ten types of wholesome kamma are the reason why beings are reborn in good destinations, or a heavenly world after death.
+The ten types of wholesome kamma are the reason why beings are reborn in bad destinations, or a hellish world  after death. The ten types of wholesome kamma are the reason why beings are reborn in good destinations, or a heavenly world after death.
 
 ___
 
