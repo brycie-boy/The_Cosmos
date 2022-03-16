@@ -7,3 +7,6 @@
 > - 10 Words max  [[🗓 Daily Planner]]
 
 1. vanity
+2. refractory
+3. prism
+4. pervasive

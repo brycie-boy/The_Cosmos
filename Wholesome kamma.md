@@ -1,6 +1,6 @@
 ## Wholesome kamma #🧠  
 
-Wholesome [[kamma]] is kamma that is non-afflictive to the agent, morally commendable, and brings pleasant results. It is [[kamma]] that ripens into good fortune and happiness, or a heavenly experience. The criterion for judging [[kamma]] as wholesome or unwholesome is its underlying motives, or "roots". There are three wholesome roots:
+Wholesome [[kamma]] is kamma that is beneficial to the agent, morally commendable, and brings pleasant fruits. It is [[kamma]] that ripens into good fortune and happiness, or a heavenly experience. The criterion for judging [[kamma]] as wholesome or unwholesome is its underlying motives, or "roots". There are three wholesome roots:
 
 - generosity
 - loving-kindness

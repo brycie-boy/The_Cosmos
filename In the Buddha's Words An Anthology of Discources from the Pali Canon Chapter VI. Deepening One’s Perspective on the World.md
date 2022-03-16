@@ -37,20 +37,12 @@ Nibbāna transcends the conditioned world, yet it can be attained within conditi
 The realization of Nibbāna comes with the blossoming of wisdom and brings perfect peace, untarnished happiness, and the stilling of the mind’s compulsive drives.
 
 - Highlight(pink) - Location 3219
-Nibbāna is the destruction of thirst, the thirst of craving. It is also the island of safety amid the raging currents of old age, sickness, and death.
+Nibbāna is the destruction of thirst, the thirst of craving. 
 
 ___
 
 - Highlight(pink) - Location 3221
 To guide his spiritually mature disciples toward Nibbāna, the Buddha had to steer them beyond the blissful rewards that could be won in a future life by performing wholesome deeds. He did so through the “supramundane” facets of his teaching, those aspects designed to lead disciples beyond the “triple world” of sense-sphere existence, form-sphere existence, and formless existence.
-
-- Highlight(pink) - Location 3224
-the dangers inherent in all conditioned states of being. He sounded a clear warning signal that all states of existence are perilous and fraught with pain. He insisted, unambiguously, that the one hope of lasting security lies in complete purification and liberation of the mind.
-
-___
-
-- Highlight(pink) - Location 3234
-Though we sometimes read in the suttas that disciples attained their first experience of awakening merely by listening to the Buddha preach, this does not mean that the Dhamma is easy to understand. Such disciples could penetrate the truth with such apparent ease because their faculties were mature, perhaps too because they had accumulated sufficient supporting conditions from previous lives.
 
 ___
 
@@ -65,25 +57,11 @@ ___
 - Highlight(pink) - Location 3253
 To follow the Buddha in the direction he wants to lead us, we have to learn to see beneath the surface glitter of pleasure, position, and power that usually enthralls us, and at the same time, to learn to see through the deceptive distortions of perception, thought, and views that habitually cloak our vision.
 
+___
+
 - Highlight(pink) - Location 3255
 Ordinarily, we represent things to ourselves through the refractory prism of subjective biases. These biases are shaped by our craving and attachments, which they in turn reinforce. We see things that we want to see; we blot out things that threaten or disturb us, that shake our complacency, that throw into question our comforting assumptions about ourselves and our lives. To undo this process involves a commitment to truth that is often unsettling, but in the long run proves exhilarating and liberating.
 - Note: greed hatred delusion
-
-- Highlight(pink) - Location 3758
-“Monks, I do not see even one other thing on account of which unarisen unwholesome qualities of mind arise and arisen unwholesome qualities of mind increase and expand so much as on account of wrong view.10
-(AN 1: xvii, 1, 3, 7, 9; I 30–32)
-Note: The three roots: delusion
-
-___
-
-- Highlight(pink) - Location 3318
-Craving for sensual pleasures is one trap that keeps beings bound to the round of rebirths. Another major trap is attachment to views.
-
-- Highlight(pink) - Location 3320
-The most dangerous of wrong views are those that deny or undermine the foundations of ethics.
-
-- Highlight(pink) - Location 3321
-a number of perils posed by this type of wrong view; prominent among them is rebirth in the lower realms. Views also lead to one-sided, biased interpretations of reality that we cling to as accurate and complete.
 
 ___
 
@@ -93,41 +71,14 @@ To help us transform our understanding and deepen our perspective on the world, 
 - Highlight(pink) - Location 3262
 The three moments are: gratification (ass̄da), danger (ādīnava), and escape (nissarạa).
 
-___
-
-- Highlight(pink) - Location 3267 ❗️
+- Highlight(pink) - Location 3267 
 one begins by recognizing the indubitable fact that such worldly phenomena as sense objects, forms, and feelings give us some degree of gratification. This gratification consists in the pleasure and joy (sukha-somanassa) we experience when we succeed in fulfilling our desires. Once we acknowledge this fact, we can then probe deeper by asking whether such pleasure and joy are entirely satisfactory.
 
 - Highlight(pink) - Location 3366
 ‘Whatever pleasure and joy there is in the world, this is the gratification in the world
 (AN 3:101 §§1–2; I 258–59)
 
-___
-
-- Highlight(pink) - Location 3406
-gratification in the case of sensual pleasures?
-
-- Highlight(pink) - Location 3407
-five cords of sensual pleasure.
-
-- Highlight(pink) - Location 3407
-Forms cognizable by the eye
-
-- Highlight(pink) - Location 3408
-Sounds cognizable by the ear.…
-
-- Highlight(pink) - Location 3408
-Odors cognizable by the nose.…
-
-- Highlight(pink) - Location 3408
-Flavors cognizable by the tongue.…
-
-- Highlight(pink) - Location 3408
-Tactile objects cognizable by the body
-
-___ 
-
-- Highlight(pink) - Location 3270 ❗️
+- Highlight(pink) - Location 3270 
 If we address this question with utter honesty, in a dispassionate frame of mind, we will realize that such pleasure and joy are far from satisfactory. To the contrary, they are saddled with drawbacks and defects ranging from the trifling to the catastrophic, defects that we perpetually hide from ourselves so that we can continue unhindered in our quest for gratification. This is their danger, the second moment or step of observation.
 
 - Highlight(pink) - Location 3273
@@ -137,15 +88,8 @@ The most pervasive danger lurking behind the innocent façade of our worldly ple
 that the world is impermanent, bound up with suffering, and subject to change, this is the danger in the world
 (AN 3:101 §§1–2; I 258–59
 
-- Note: pleasure* not world
-
-___
-
 - Highlight(pink) - Location 3275
 The third moment, the moment of escape,
-
-- Highlight(pink) - Location 3276
-“Escape” here is not escapism, a word that implies an anxious attempt to avoid facing one’s problems by pretending they don’t exist and losing oneself in distractions. True escape is quite the opposite:
 
 - Highlight(pink) - Location 3279
 Once we see that the objects of our attachment are flawed, beset with hidden dangers, we then realize that the way of escape lies in dropping our attachment to them.
@@ -153,12 +97,6 @@ Once we see that the objects of our attachment are flawed, beset with hidden dan
 - Highlight(pink) - Location 3366
 the removal and abandoning of desire and lust for the world, this is the escape from the world.’
 (AN 3:101 §§1–2; I 258–59) 
-
-___
-
-Highlight(pink) - Location 3282
-
-The Pāli commentators, not surprisingly, connect these three moments with the Four Noble Truths. “Gratification” implies the second noble truth, for pleasure and joy arouse craving, the origin of suffering. “Danger” is the truth of suffering itself. And “escape” is the truth of the cessation of suffering, which also implies the Noble Eightfold Path, the fourth truth, the way to the cessation of suffering.
 
 ___
 
@@ -179,8 +117,6 @@ Here, monks, on account of the craft by which a clansman makes a living—whethe
 “If no property comes to the clansman while he works and strives and makes an effort thus, he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘My work is in vain, my effort is fruitless!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
-___
-
 - Highlight(pink) - Location 3419
 “If property comes to the clansman while he works and strives and makes an effort thus, he experiences pain and grief in protecting it:
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
@@ -188,8 +124,6 @@ ___
 - Highlight(pink) - Location 3421
 as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or unloved heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘I no longer have my property!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-___
 
 - Highlight(pink) - Location 3288
 the scope of the examination widens from the personal to the collective, encompassing the broader social and political consequences of this quest. It reaches its climax in striking images of the warfare and human devastation that follow from the frenzied mass drive for sensual gratification.
@@ -204,7 +138,22 @@ the scope of the examination widens from the personal to the collective, encompa
 
 ___
 
-- Highlight(pink) - Location 3323
+- Highlight(pink) - Location 3441
+“Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,
+(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
+
+___
+
+- Highlight(pink) - Location 3318
+Craving for sensual pleasures is one trap that keeps beings bound to the round of rebirths. Another major trap is attachment to views.
+
+- Highlight(pink) - Location 3320
+The most dangerous of wrong views are those that deny or undermine the foundations of ethics.
+
+- Highlight(pink) - Location 3321
+a number of perils posed by this type of wrong view; prominent among them is rebirth in the lower realms. Views also lead to one-sided, biased interpretations of reality that we cling to as accurate and complete.
+
+- Highlight(pink) - Location 3323 
 People who cling tenaciously to their own views of a particular situation often come into conflict with those who view the same situation in a different light. Views thus give rise to conflicts and disputes.
 (Ud 6:4; 67–69)
 
@@ -235,12 +184,6 @@ held various views, beliefs, and opinions, and propagated various views. And the
 - Highlight(pink) - Location 3789
 “Then, saying, ‘An elephant is like this, an elephant is not like that! An elephant is not like this, an elephant is like that!’ they fought each other with their fists. And the king was delighted. Even so, monks, are the wanderers of other sects blind and sightless, and thus they become quarrelsome, disputatious, and wrangling, wounding each other with verbal darts.”
 (Ud 6:4; 67–69)
-
-___
-
-- Highlight(pink) - Location 3441
-“Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
 ___
 

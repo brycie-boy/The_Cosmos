@@ -1,13 +1,12 @@
-## Heading # flashcard 
+## Samsara
 
+In Buddhism, Samsara is a continuous cycle of of birth, mundane existance, death, and rebirth without a disernable begging or end. It is described as a wandering from one life to the next with no paticular direction. 
 
 ___
 
-##### Similar
-
-
 ##### References 
 
+- https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)
 
 ##### Metadata
 Status: ⛅️
