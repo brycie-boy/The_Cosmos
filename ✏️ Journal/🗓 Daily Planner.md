@@ -15,7 +15,7 @@ ___
 
 ### ✏️ Inboxes
 
-- [x] Words: ❗ -> [[📝 Note Pad]]
+- [ ] Words:  -> [[📝 Note Pad]]
 - [ ] Ideas:  -> [[📝 Note Pad]]
 - [ ] Raindrop.io: 
 - [x] Stellar Nursery: ❗️
@@ -41,16 +41,16 @@ ___
 
 #### Quick tasks (Under 5 min)
 
-- Schedule dmv
+- Bring candle from living room into bedroom
 
 #### Slow tasks (Over 5 min)
 
 > - 2 Max
 > - Manage on google calendar
 
-- [x] **1.** Change passwords and emails
+- [ ] **1.** Change passwords and emails
 
-- [x] **2.** Create meals for workout routine and watch deluaer day of fasting
+- [ ] **2.** Create meals for workout routine
 
 #### Later
 - Organize music library 
@@ -66,7 +66,7 @@ ___
 
 > Only if you didn’t get the chance earlier
 
-- [ ] Yes
+- [x] Yes
 
 ### 🎨 Create
 
@@ -78,11 +78,11 @@ ___
 #### TV:
 
 
+
 #### Movie: 
 
 
 #### Videogames:
-
 
 
 #### Social medias:
