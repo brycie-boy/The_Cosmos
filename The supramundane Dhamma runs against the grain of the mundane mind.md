@@ -1,6 +1,6 @@
 ## The supramundane Dhamma runs against the grain of the mundane mind # 🧠
 
-The [[Supramundane Teachingsa]] run against the grain of the mundane mind which makes it difficult to understand. This is because of its main thesis that happiness is not found in fulfilling ones desires but instead is found by subding them. This thesis runs utterly counter to the way in people fully immersed in the world traditionally think. 
+The [[Supramundane Teachings]] run against the grain of the mundane mind which makes it difficult to understand. This is because of its main thesis that happiness is not found in fulfilling ones desires but instead is found by subding them. This thesis runs utterly counter to the way in people fully immersed in the world traditionally think. 
 
 ___
 

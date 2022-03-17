@@ -77,7 +77,7 @@
 - [x] Baby spinach or arugula 
 - [x] Avocado 
 	- Guacamole
-- [ ] Asparagus (frozen)
+- [x] Asparagus (frozen)
 	- Artichoke 
 - [ ] Baby kale
 - [ ] Berries
@@ -103,7 +103,7 @@
 - [ ] 1/3 less fat cream cheese
 
 ## Nuts and Seeds
-- [ ] Pili nuts 
+- [x] Pili nuts 
 	- Mac nuts (only 1)
 	- Pecans
 - [x] Walnuts 
@@ -114,11 +114,10 @@
 - [ ] Hemp seeds
 - [ ] Flax / chia
 
-Optional:
-
-
 ## Other
-- [ ] Water
+- [x] Water
+- [ ] Love good fats bars
+- [ ] Seaweed chips
 - [x] Coffee / Tea 
 - [x] Redmond / pink salt
 - [x] Stevia / Monkfruit
@@ -127,7 +126,6 @@ Optional:
 - [x] Ginger 
 - [x] Cayenne 
 - [x] Cinnamon 
-- [ ] Seaweed chips
 - [ ] Avocado Mayo
 - [ ] Baked Porkrinds
 - [ ] Jerky

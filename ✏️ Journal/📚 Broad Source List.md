@@ -39,7 +39,7 @@ What is a  “broad source”?: [[Broad Sources]]
 ![[8AB3C452-0FF0-4A32-A802-A6B68596EF71.jpeg|80]]
 
 - Source: Right Concentration A Practical Guide to the Jhanas
-- Author: Leigh Brasingtom
+- Author: Leigh Brasington
 - Tags: Spirituality / Meditation / Neuroscience
 
 ![[AB4EE275-0551-4D7C-96F0-0AC9EE03EDF3.jpeg|80]]
@@ -47,11 +47,15 @@ What is a  “broad source”?: [[Broad Sources]]
 - Author: James Clear
 - Tags: Self Improvement / Productivity
 
+![[D714F924-3ACF-4BAB-911F-8C1C5160A541.jpeg|80]]
+- Source: Fearful Symmetry : A Study of William Blake
+- Author: Northrop Frye
+- Tags: Literary Criticism, Spirituality, Mythology
 
-![[C4E946B3-BB53-444C-BC17-55AF2A2E3C26.jpeg|80]]
-- Source: Three Zen Sutras
-- Author: Red Pine
-- Tags: Spirituality / Philosphy
+![[16875572-B074-4987-A80B-FF80220AE7F0.jpeg|80]]
+- Source: Anatomy of Criticism
+- Author: Northrop Frye
+- Tags: Literary Criticism, Mythology, Spirituality 
 
 ![[9AC1179F-46D0-45F2-B4A6-E5FA3E49D780.jpeg|80]]
 - Source: Range
@@ -67,8 +71,7 @@ What is a  “broad source”?: [[Broad Sources]]
 ![[F6767D3B-E3D1-4B39-911B-42782768E1CD.jpeg|80]]
 - Source: The Secret Teachings of All Ages
 - Author: Manly P. Hall
-- Tags: Occult / Spirituality/ Religion
-
+- Tags: Occult / Spirituality / Religion
 
 
 

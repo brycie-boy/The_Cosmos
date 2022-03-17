@@ -1,6 +1,5 @@
 ## Unwholsome kamma  #🧠 
 
-Unwholesome [[kamma]] is an kamma that is harmful to the agent, morally reprehensible, and brings painful results. It is [[kamma]] that ripens into bad fortune and misery, or a hellish experience.  The criterion for judging [[kamma]] as wholesome or unwholesome is its underlying motives, or "roots". There are three unwholesome roots:  
 Unwholesome [[kamma]] is an kamma that is harmful to the agent, morally reprehensible, and brings painful fruits. It is [[kamma]] that ripens into bad fortune and misery, or a hellish experience. The criterion for judging [[kamma]] as wholesome or unwholesome is its underlying motives, or "roots". There are three unwholesome roots:  
 
 - greed

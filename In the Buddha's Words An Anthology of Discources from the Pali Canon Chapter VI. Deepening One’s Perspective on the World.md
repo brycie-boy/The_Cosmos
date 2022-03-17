@@ -40,6 +40,8 @@ The realization of Nibbāna comes with the blossoming of wisdom and brings perfe
 Nibbāna is the destruction of thirst, the thirst of craving. 
 
 ___
+- Highlight(pink) - Location 3287
+It begins with a close-up view of the tribulations that a “clansman”—a young householder pursuing the ancient Indian counterpart of a professional career—might undergo in his quest for sensual gratification.
 
 - Highlight(pink) - Location 3221
 To guide his spiritually mature disciples toward Nibbāna, the Buddha had to steer them beyond the blissful rewards that could be won in a future life by performing wholesome deeds. He did so through the “supramundane” facets of his teaching, those aspects designed to lead disciples beyond the “triple world” of sense-sphere existence, form-sphere existence, and formless existence.

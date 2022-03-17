@@ -1,4 +1,4 @@
-## The ultimate aim of spiritual practice is liberation  # 🧠
+## The ultimate aim of spiritual practice is complete liberation  # 🧠
 
 A blissful heavenly rebirth is not the final goal of spiritual practice. At best it is only a temporary waystation. All cinditioned states of existance within the round of rebirths are transitory, unreliable, and bound up with pain. Thus the ultimate aim of spiritual practice is liberation, that is total release from the round of rebirths. What lies beyond the round of rebirths is the uncondioned state called [[Nibbana]]. 
 

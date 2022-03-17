@@ -1,8 +1,8 @@
 ## Moral Discipline #🧠 
 
-Moral discipline consisits of five general training rules known as the five precepts, which consists of abstainig from:
+Moral discipline consisits of five general training rules known as the five precepts, which include abstaining from:
 
-- taking life
+- killing
 - stealing
 - sexual misconduct
 - lying

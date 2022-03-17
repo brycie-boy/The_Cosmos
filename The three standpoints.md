@@ -2,7 +2,7 @@
 
 There are three standpoints provided by the Buddha from which we can we can appraise our desires. These three standpoints can also represent three moments or steps in an unfolding process of insight that starts from our common sense attitudes and moves toward higher knowledge, enlightenment, and release. These three moments are the gratification, danger, and escape
 
-There are three major objects of attachment: sensual pleasures, bodily form, feelings. One begins by recognizing the fact that these things give us some degree of gratification. This gratification consists in the pleasure and joy we experience when we succeed in aquiring these objects. 
+There are three major objects of attachment that keep being bound to [[Samsara]]: sensual pleasures, bodily form, feelings. One begins by recognizing the fact that these things give us some degree of gratification. This gratification consists in the pleasure and joy we experience when we succeed in aquiring these objects. 
 
 Once we agknowledge this fact, we can then probe deeper by asking wether such pleasure is entirley satisfactory. If we address this question honestly, in a dispassionate frame of mind, we will realize that such pleasure and joy are far from satisfactory, To the contrary, they hold various drawbacks, or dangers. The most prominent dangers being the fact that such pleasures are imperminent, discontent, and subject to change or decay.
 

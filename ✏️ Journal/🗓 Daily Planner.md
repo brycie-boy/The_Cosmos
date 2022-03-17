@@ -13,7 +13,7 @@ ___
 
 ## **📚✏️ Learning**
 
-### ✏️ Inboxes
+### 📥 Inboxes
 
 - [ ] Words:  -> [[📝 Note Pad]]
 - [ ] Ideas:  -> [[📝 Note Pad]]
@@ -50,7 +50,7 @@ ___
 
 - [ ] **1.** Change passwords and emails
 
-- [ ] **2.** Create meals for workout routine
+- [x] **2.** Create meals for workout routine
 
 #### Later
 - Organize music library 
@@ -66,7 +66,7 @@ ___
 
 > Only if you didn’t get the chance earlier
 
-- [x] Yes
+- [ ] Yes
 
 ### 🎨 Create
 
