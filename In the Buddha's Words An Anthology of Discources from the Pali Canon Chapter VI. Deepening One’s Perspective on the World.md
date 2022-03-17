@@ -107,7 +107,7 @@ three major objects of attachment: sensual pleasures, bodily form, and feelings.
 
 ___
 
-- Highlight(pink) - Location 3411
+- Highlight(pink) - Location 3411 ❗️
 the danger in the case of sensual pleasures?
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
 
