@@ -2,10 +2,9 @@
 
 ![[CB9F53E1-F501-4568-937C-DF4F02D284E8.jpeg]]
 
-# Digestion 
+# 📝 Digestion 
 
-### The Note Making Process
-If my system is called The Cosmos, then, of course, it’s makes sense to compare my notes to the birth of a star. Each idea in my head is a star in the universe that is my mind. 
+Each idea in my head is a star in the universe that is my mind. 
 
 The process consists of 6 stages, as shown below.
 
@@ -13,6 +12,7 @@ The process consists of 6 stages, as shown below.
 ##### 1. ☁️ The Stellar Nursery
 
 ![[967CE5B9-7A18-4BAF-B85F-888A129B8699.png|300]]
+
 “And the earth was void without form”
 
 The Stellar Nursery is where my inbox notes are stored. Or what I call nebulas. All of the annotations I collect from a source have are put into there own nebula. 

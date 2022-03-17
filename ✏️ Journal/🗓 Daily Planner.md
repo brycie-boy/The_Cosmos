@@ -1,82 +1,81 @@
 # 🗓 Daily Planner
 
-### ❗️ Important ToDos
+### ❗️ Urgent ToDos
 
 > Do immediately
 
 - Ask dad to buy GED practice tests
-
-##### Later
+- Delete books in kindle
 
 #### 
 ___
 
 ## **📚✏️ Learning**
 
-### 📥 Inboxes
+> Select one task max!
 
-- [ ] Words:  -> [[📝 Note Pad]]
-- [ ] Ideas:  -> [[📝 Note Pad]]
-- [ ] Raindrop.io: 
-- [x] Stellar Nursery: ❗️
+### 1. 📤 Egestion
 
-### 📚 Sources
+### 2. 📝 Digestion
 
-> Add: [[📚 Broad Source List]]
+- [x] ☁️ Stellar Nursery (0 max): ❗
+- [ ] 💭 Ideas (0 max):  ❗️ -> [[📝 Note Pad]]
+- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
+- [ ] 🌐 Small Source Inbox (5 max):  
+
+### 3. 📥 Ingestion
+
+> - Add: [[📚 Broad Source Inbox]]
+> - 2 Max!
 
 - [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VII. The Path to Liberation
 - Author: Bhikku Bodhi
+>
+- [ ] **2.** 
 
-- [ ] **2.**
+![[C47DD860-D381-4609-A3C7-1804BD3F6710.jpeg|250]]
+- Source: lyt kit and evergreen notes
+- Author: Nick Milo, Andy Matushak
+- Link: https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C , https://notes.linkingyourthinking.com/Umami/LYT+Kit
+- Tags: self improvement / academic 
 
 ## 
  ___
  
 ## **🎮🎨 Free time**
 
+> - Select 2 things max
+
 ### ✅ Unimportant ToDos
 
 #### Quick tasks (Under 5 min)
 
-- Bring candle from living room into bedroom
-
 #### Slow tasks (Over 5 min)
 
-> - 2 Max
-> - Manage on google calendar
+> - Do 2 at a time
+> - Do for 2 days at a time. 1 day break.
 
-- [ ] **1.** Change passwords and emails
+- [ ] **1.**  Change passwords and emails (Day: 0)
 
-- [x] **2.** Create meals for workout routine
+- [ ] **2.** Create meals for workout routine (Day: 0)
 
 #### Later
-- Organize music library 
-- Look for jobs
+- Organize music library
 - Type 100 words per minute
 - Delete safari favorites 
 - Delete photos
 
-### 
- ___
-
-#### Continue Learning
-
-> Only if you didn’t get the chance earlier
-
-- [ ] Yes
-
-### 🎨 Create
+### 🎨 Egestion
 
 - [ ] Make music
 - [ ] Draw
 
-### 🎮 Consume
+### 🎮 Ingestion
 
 #### TV:
-
 
 
 #### Movie: 
@@ -84,10 +83,11 @@ ___
 
 #### Videogames:
 
+- [x] Minecraft
 
 #### Social medias:
 
-- [x] Instagram
+- [ ] Instagram
 - [ ] Pinterest
 - [ ] 4chan
 - [ ] Reddit

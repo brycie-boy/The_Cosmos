@@ -6,7 +6,7 @@
 
 “The Tao of the sage is working without effort”
 
-The goal I have for this learning workflow is to create a frictionless, stress free, and seamless learning and thinking experience.
+The goal I have for this study workflow is to create a frictionless, stress free, and seamless learning, thinking, and teaching experience.
 
 - no more clinging to ideas in fear of forgetting them
 - No more trying it hard to think about something, simply love in to another note
