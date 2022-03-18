@@ -16,9 +16,11 @@
 - Author: Chris Bailey
 - Tags: Self Improvement / Productivity / Mindfulness
 
-![[2B942139-7270-4E0E-8D6A-EABE22A9C21E.jpeg|80]]
+![[ABC83EA9-6829-4D03-A8D5-03E443FB5055.jpeg|80]]
+- Source: Archetypes and the Collective Unconscious
+- Author: Carl Jung
+- Tags: Psychology / Spirituallity
 
-![[B5F015D2-2F71-4A1F-8BDD-0D01BA68430A.jpeg|80]]
 
 
 

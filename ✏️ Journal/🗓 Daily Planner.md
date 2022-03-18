@@ -1,11 +1,10 @@
 # 🗓 Daily Planner
 
-### ❗️ Urgent ToDos
+### Important ToDos
 
 > Do immediately
 
 - Ask dad to buy GED practice tests
-- Delete books in kindle
 
 #### 
 ___
@@ -49,7 +48,7 @@ ___
 
 > - Select 2 things max
 
-### ✅ Unimportant ToDos
+### Unimportant ToDos
 
 #### Quick tasks (Under 5 min)
 
@@ -77,13 +76,14 @@ ___
 
 #### TV:
 
+- [ ] Baccano
 
 #### Movie: 
 
 
 #### Videogames:
 
-- [x] Minecraft
+- [ ] Minecraft
 
 #### Social medias:
 
