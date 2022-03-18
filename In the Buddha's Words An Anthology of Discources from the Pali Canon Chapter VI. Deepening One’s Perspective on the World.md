@@ -107,7 +107,10 @@ three major objects of attachment: sensual pleasures, bodily form, and feelings.
 
 ___
 
-- Highlight(pink) - Location 3411 ❗️
+- Highlight(pink) - Location 3287 ❗️
+It begins with a close-up view of the tribulations that a “clansman”—a young householder pursuing the ancient Indian counterpart of a professional career—might undergo in his quest for sensual gratification.
+
+- Highlight(pink) - Location 3411 
 the danger in the case of sensual pleasures?
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
 
