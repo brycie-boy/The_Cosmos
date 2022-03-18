@@ -107,7 +107,7 @@ three major objects of attachment: sensual pleasures, bodily form, and feelings.
 
 ___
 
-- Highlight(pink) - Location 3287 ❗️
+- Highlight(pink) - Location 3287 
 It begins with a close-up view of the tribulations that a “clansman”—a young householder pursuing the ancient Indian counterpart of a professional career—might undergo in his quest for sensual gratification.
 
 - Highlight(pink) - Location 3411 
@@ -127,7 +127,7 @@ Here, monks, on account of the craft by which a clansman makes a living—whethe
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
 
 - Highlight(pink) - Location 3421
-as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or unloved heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘I no longer have my property!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life
+as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or unloved heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘I no longer have my property!’ Now this too is a danger in the case of sensual pleasures, a mass of  8suffering visible in this present life
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
 - Highlight(pink) - Location 3288
@@ -305,74 +305,6 @@ Buddhist literature frequently advises us to contemplate the certainty of death 
 - Highlight(pink) - Location 3649
 Meditate, monks, do not be negligent, or else you will regret it later. This is our instruction to you.”
 (AN 7:70; IV 136–39)
-
-___
-
-- Highlight(pink) - Location 3705
-‘[Life in] any world is unstable, it is swept away.’ How should the meaning of that statement be understood?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3706
-“What do you think, great king? When you were twenty or twenty-five years old, were you an expert rider of elephants, an expert horse-man, an expert charioteer, an expert archer, an expert swordsman, strong in thighs and arms, sturdy, capable in battle?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3710
-Now I am old, aged, burdened with years, advanced in life, come to the last stage; my years have turned eighty. Sometimes I mean to put my foot here and I put my foot somewhere else.”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-___
-
-- Highlight(pink) - Location 3717
-Now Master Raṭṭhapāla said: ‘[Life in] any world has no shelter and no protector.’ How should the meaning of that statement be understood?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3719
-“I have a chronic wind ailment, Master Raṭṭhapāla. Sometimes my friends and companions, kinsmen and relatives, stand around me, thinking: ‘Now King Koravya is about to die, now King Koravya is about to die!’”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3722
-All of you present share this painful feeling so that I may feel less pain’? Or do you have to feel that pain yourself alone?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3724
-“I cannot command my friends and companions, my kinsmen and relatives thus, Master Raṭṭhapāla. I have to feel that pain alone.”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-___
-
-- Highlight(pink) - Location 3730
-‘[Life in] any world has nothing of its own; one has to leave all and pass on.’ How should the meaning of that statement be Hunderstood?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3731
-“What do you think, great king? You now enjoy yourself provided and endowed with the five cords of sensual pleasure, but can you be certain that in the life to come you will likewise enjoy yourself provided and endowed with these same five cords of sensual pleasure? Or will others take over this property, while you will have to pass on according to your actions?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3734
-“I cannot be certain of what will happen in the life to come, Master Raṭṭhapāla. On the contrary, others will take over this property while I shall have to pass on according to my actions.”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-___
-
-- Highlight(pink) - Location 3741
-‘[Life in] any world is incomplete, insatiate, the slave of craving.’ How should the meaning of that statement be understood?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3742
-“What do you think, great king? Do you reign over the rich Kuru country?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3743
-“What do you think, great king? Suppose a trustworthy and reliable man came to you from the east and said: ‘Please know, great king, that I have come from the east, and there I saw a large country, powerful and rich,
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3746
-With your present forces you can conquer it. Conquer it then, great king.’ What would you do?”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
-
-- Highlight(pink) - Location 3747
-“We would conquer it and reign over it, Master Raṭṭhapāla.”
-(from MN 82: Raṭṭhapāla Sutta; II 65–82)
 
 ___
 

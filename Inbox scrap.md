@@ -268,7 +268,6 @@ Highlight(pink) - Location 3419
 
 “If property comes to the clansman while he works and strives and makes an effort thus, he experiences pain and grief in protecting it:
 
-
 Highlight(pink) - Location 3421
 
 as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or unloved heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘I no longer have my property!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,

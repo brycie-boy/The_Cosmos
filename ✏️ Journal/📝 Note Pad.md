@@ -13,3 +13,5 @@
 2. refractory
 3. prism
 4. pervasive
+5. tribulation
+6. lament
