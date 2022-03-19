@@ -9,5 +9,5 @@ https://thebestschools.org/magazine/15-logical-fallacies-know/#ad-hominem
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵
+Type: #🔵/🔵 
 Tags: [[Fallacies]]

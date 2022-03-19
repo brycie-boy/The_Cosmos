@@ -13,7 +13,7 @@ ___
 ##### Similar
 
 -   [[display]]
--   [[]exhibit]]
+-   [[exhibit]]
 -   [[exhibition]]
 -   [[expo]]
 -   [[show]]

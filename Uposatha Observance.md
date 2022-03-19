@@ -16,5 +16,5 @@ ___
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵 
+Type: #🔵/🔵 
 Tags: [[Philosophy]] | [[Spirituality]] | [[Ethics]]

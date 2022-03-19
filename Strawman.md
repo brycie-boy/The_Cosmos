@@ -11,5 +11,5 @@ https://thebestschools.org/magazine/15-logical-fallacies-know/#strawman
 
 ##### Metadata
 Status: #☀️ 
-Type: #🔵 
+Type: #🔵/🔵 
 Tags: [[Fallacies]]

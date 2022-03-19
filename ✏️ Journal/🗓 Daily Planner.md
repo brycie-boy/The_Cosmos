@@ -54,12 +54,9 @@ ___
 
 #### Slow tasks (Over 5 min)
 
-> - Do 2 at a time
-> - Do for 2 days at a time. 1 day break.
+- [ ] **1.** Change passwords and emails
 
-- [ ] **1.**  Change passwords and emails (Day: 0)
-
-- [ ] **2.** Create meals for workout routine (Day: 0)
+- [ ] **2.** Create meals for workout routine
 
 #### Later
 - Organize music library
@@ -69,7 +66,7 @@ ___
 
 ### 🎨 Egestion
 
-- [ ] Make music
+- [x] Make music
 - [ ] Draw
 
 ### 🎮 Ingestion
@@ -87,7 +84,7 @@ ___
 
 #### Social medias:
 
-- [ ] Instagram
+- [x] Instagram
 - [ ] Pinterest
 - [ ] 4chan
 - [ ] Reddit

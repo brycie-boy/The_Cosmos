@@ -9,5 +9,5 @@ https://www.softschools.com/examples/fallacies/appeal_to_authority_examples/430/
 
 ##### Metadata
 Status: #☀️
-Type: #🔵
+Type: #🔵/🔵 
 Tags: [[Fallacies]]

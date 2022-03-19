@@ -18,10 +18,9 @@ Don’t try too hard either. If something is vaguely interesting, go ahead and c
 
 ### Fiction
 
-- Themes
-- Plot
-	- Conflicts
-	- Resolution
+- 💭 Themes
+- ⚔️ Conflicts
+- 🤝 Resolution
 
 # 🔵
 ## Blue: Things
@@ -36,7 +35,7 @@ Don’t try too hard either. If something is vaguely interesting, go ahead and c
 
 - 👤 Characters
 - 🏙 Settings
-- 🎵 Symbolism
+- 🔵 Symbolism
 
 ### Other
 
