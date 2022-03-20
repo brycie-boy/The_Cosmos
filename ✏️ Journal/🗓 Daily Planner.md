@@ -1,6 +1,6 @@
 # 🗓 Daily Planner
 
-### Important ToDos
+### ❗️Important ToDos
 
 > Do immediately
 
@@ -17,10 +17,13 @@ ___
 
 ### 2. 📝 Digestion
 
-- [x] ☁️ Stellar Nursery (0 max): ❗
-- [ ] 💭 Ideas (0 max):  ❗️ -> [[📝 Note Pad]]
+- [ ] 💭 Ideas (1 max):  -> [[📝 Note Pad]]
+- [x] ☁️ Stellar Nursery (1 max): ❗
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
+
+>
+>
 
 ### 3. 📥 Ingestion
 
@@ -54,9 +57,12 @@ ___
 
 #### Slow tasks (Over 5 min)
 
-- [ ] **1.** Change passwords and emails
+> - 2 max
+> - 2 day limit or an hour a day
 
-- [ ] **2.** Create meals for workout routine
+- [ ] **1.** Organize music library (1 hour)
+
+- [ ] **2.** Create meals for workout routine (day 0)
 
 #### Later
 - Organize music library

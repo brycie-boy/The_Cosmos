@@ -10,7 +10,9 @@ ___
 
 One thing of learned through out my life were there short comings of fear based teaching. When people are taught what to do through fear, they don’t actually learn why what they do is bad or good. Their ideas of good and bad are just arbitrary. They only do things because they fear punishment from others. 
 
-This is precisely what politics is about. Politics is not about morality, it about passing laws and laws force people to do things against there own will. Since this is the case, most people who vote are not driven by morality, but through things like fear or greed. People have ideas and rules in which they wish to impose upon others for the sake of there personal goals. The “greater good” is used as an excuse for this, as if the individual knows what is best for the entire collective.
+This is precisely what politics is about. Politics is not about morality, it about passing laws and laws force people to do things against there own will. Since this is the case, most people who vote are not driven by morality. If they were, they wouldn’t be forcing people to do things.
+
+but through things like there own personal fear or greed. So People have ideas and rules in which they wish to impose upon others for the sake of there personal goals. The “greater good” is used as an excuse for this, as if the individual knows what is best for the entire collective.
 
 ___
 

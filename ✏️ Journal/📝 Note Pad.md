@@ -1,9 +1,10 @@
+# 📝 Note Pad
+
 ## Ideas
 
 > - 5 Ideas Max  [[🗓 Daily Planner]]
 
-- Considering friendships are something that happens by chance, then deliberately looking for friends is contrived. Instead you approach people with a genuine purpose in mind
-- This works the other way around. Don’t show people things who didn’t ask
+- If there is friction that is inhibiting you from performing your tasks, then it is ok to access that friction as long as it is relevant to the present moment
 
 ## Words/Terms
 

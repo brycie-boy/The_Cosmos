@@ -1,4 +1,5 @@
 - neuroscience 
-- Computer science
+- Psychology
+- Biomed
 - Electrical engineering 
 - Computer engineering 

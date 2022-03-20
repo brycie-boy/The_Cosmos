@@ -2,7 +2,7 @@
 
 There are three standpoints provided by the Buddha from which we can we can appraise our goals and desires. These three standpoints can also represent three moments or steps in an unfolding process of insight that starts from our common sense attitudes and moves toward higher wisdom, enlightenment, and [[Nibbana]]. These three moments are the gratification, danger, and escape
 
-Gratification consists in the pleasure and joy we experience when we succeed in achieving our goals and desires. If we take an deeper look, in a dispassionate frame of mind, we will realize that such pleasure and joy are far from satisfactory, To the contrary, they hold various drawbacks, or dangers. The most prominent dangers being the fact that such pleasures are imperminent, subject to change or decay, and discontent. Once we see that our objects of desire are flawed and beset with hidden dangers, we then realize that the way to escape such dangers lies in removing our desire for and attachment to them. 
+Gratification consists in the pleasure and joy we experience when we succeed in achieving our goals and desires. If we take an deeper look, in a dispassionate frame of mind, we will realize that such pleasure and joy are far from satisfactory, To the contrary, they hold various drawbacks, or dangers. The most prominent dangers being the fact that such pleasures are imperminent, and discontent, and subject to change or decay. Once we see that our objects of desire are flawed and beset with hidden dangers, we then realize that the way to escape such dangers lies in removing our desire for and attachment to them. 
 
 ___
 

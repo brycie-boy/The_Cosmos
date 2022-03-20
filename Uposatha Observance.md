@@ -1,6 +1,6 @@
 ## Uposatha Observance #🧠  
 
-There is also a more stringent [[Moral Disipline]] that lay Buddhists undertake for the Uposatha, the observance days determined by the lunar calendar: the full-moon day, the new-moon day, and the two half-moon days. Of the four, in buddhist countries, it is the full-moon day that is given priotity. On these occasions, devout lay Buddhists undertake eight precepts, The additional precepts emulate the training of a novince monk or nun. Other than the usual ones, these include:
+There is a more stringent [[Moral Disipline]] that lay Buddhists undertake for the Uposatha, the observance days determined by the lunar calendar: the full-moon day, the new-moon day, and the two half-moon days. Of the four, it is the full-moon day that is given priotity. On these occasions, devout lay Buddhists undertake eight precepts, The additional precepts emulate the training of a novince monk or nun. Other than the usual ones, these include:
 
 - Complete sexual abstinace
 - One meal a day, refraining from eating at night

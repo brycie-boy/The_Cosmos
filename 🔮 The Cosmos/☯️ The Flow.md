@@ -13,6 +13,8 @@ The goal I have for this study workflow is to create a frictionless, stress free
 - No more thinking about things through the day, this is reserved for the learning period
 - No more worrying about putting things in the right category
 - No more worrying about if a note is compete or not because notes are constantly evolving
+- Inboxes help me Manage my attention and make sure I don’t have too much in my mind
+- Have a designated thinking time so I can have a clear head throughout the rest of the day
 
 There are 3 stages to The Flow
 
