@@ -5,7 +5,7 @@
 Author: Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
-Type: #💥/📚
+Type: #
 Tags:  [[Philosophy]] / [[Spirituality]] / [[Religion]] / [[Ethics]]
 
 ___
@@ -336,9 +336,6 @@ ___
 
 - Highlight(blue) - Location 2645
 The Buddhist cosmos is divided into three broad realms—the sense-sphere realm (kāmadhātu), the form realm (rūpadh̄tu ), and the formless realm (arūpadhātu)—each comprising a range of subsidiary planes.
-
-- Highlight(pink) - In the Buddha's Words An Anthology of Discources from the Pali Canon Chapter VI. Deepening One’s Perspective on the World Location 3221
-...“triple world” of sense-sphere existence, form-sphere existence, and formless existence.
 
 - Highlight(blue) - Location 2647
 The sense-sphere realm, our realm, is so called because the beings reborn here are strongly driven by sensual desire.

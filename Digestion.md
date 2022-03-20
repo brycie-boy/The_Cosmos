@@ -9,13 +9,15 @@ Each idea in my head is a star in the universe that is my mind.
 The process consists of 6 stages, as shown below.
 
 
-##### 1. ☁️ The Stellar Nursery
+## ☁️ The Stellar Nursery
+
+1. Nebulas
 
 ![[967CE5B9-7A18-4BAF-B85F-888A129B8699.png|300]]
 
 “And the earth was void without form”
 
-The Stellar Nursery is where my inbox notes are stored. Or what I call nebulas. All of the annotations I collect from a source have are put into there own nebula. 
+The Stellar Nursery is where my inbox notes are stored. Or what I call nebulas. All of the annotations I collect from a source are put into there own nebula. 
 
 The Stellar Nursery has 2 stages:
 
@@ -34,6 +36,8 @@ Considering that the annotations within an inbox note are very atomized, scatter
 “And god said let there be light!”
 
 The chaos of the Stellar Nursery is beginning to condense. The dust is beginning to clear, and idea is beginning to emerge from the clouds, but it’s still veiled in ambiguity.
+
+Proto notes assist my working memory. here i make sure that my working memory does not fill up with too many thoughts
 
 Liquid stage
 
