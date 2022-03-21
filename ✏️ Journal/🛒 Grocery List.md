@@ -2,8 +2,6 @@
 
 > Go through whole list!
 
-## Ideas
-
 ## Things to Watch For On Labels
 1. Serving size
 
@@ -54,7 +52,11 @@
 - Potasium sorbate
 - Sodium benzoate
 
-## Meat/Protein
+
+## Food
+
+### Meat/Protein
+
 - [x] Lean Chicken (only 1)
 - [x] Ground beef
 	- Steak
@@ -70,7 +72,8 @@
 	- Salmon 
 	- Herring
 
-## Veggies
+### Veggies
+
 - [x] Broccoli (frozen)
 - [x] Cauliflower
 	- Riced Cauliflower
@@ -82,7 +85,8 @@
 - [ ] Baby kale
 - [ ] Berries
 
-## Fats and Oils
+### Fats and Oils
+
 - [x] Coconut oil 
 - [x] Avocado oil 
 - [x] Grass fed butter 
@@ -91,7 +95,8 @@
 - [x] MCT Oil
 	- Red Palm
 
-## Cheese/Dairy
+### Cheese/Dairy
+
 - [x] Greek or Bulgarian yogurt
 - [x] Coconut cream 
 	- Heavy cream
@@ -102,7 +107,8 @@
 - [ ] Cottage Cheese
 - [ ] 1/3 less fat cream cheese
 
-## Nuts and Seeds
+### Nuts and Seeds
+
 - [x] Pili nuts 
 	- Mac nuts (only 1)
 	- Pecans
@@ -114,10 +120,11 @@
 - [ ] Hemp seeds
 - [ ] Flax / chia
 
-## Other
+### Other
+
 - [x] Water
-- [ ] Love good fats bars
-- [ ] Seaweed chips
+- [x] Seaweed chips
+- [x] Salsa
 - [x] Coffee / Tea 
 - [x] Redmond / pink salt
 - [x] Stevia / Monkfruit
@@ -126,19 +133,21 @@
 - [x] Ginger 
 - [x] Cayenne 
 - [x] Cinnamon 
-- [ ] Avocado Mayo
+- [x] Snack bars
+	- Love good fats bars
+	- Quest bars
 - [ ] Baked Porkrinds
 - [ ] Jerky
 
 ## Supplements 
-- [x] Magnesium
+- [ ] Magnesium
 - [x] Fish oil / Omega 3s
 - [x] Vitamin D3 / K2
-- [ ] Psilocybin 
+- [x] Psilocybin 
 - [x] Lions mane 
 - [x] Ginko
-- [ ] Rhodiola Rosea 
 
+Cost to maintain: $166
 
 ___
 ## Hygiene

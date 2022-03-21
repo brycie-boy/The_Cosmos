@@ -6,6 +6,9 @@
 
 - Ask dad to buy GED practice tests
 
+#### Later
+- Get bank account
+
 #### 
 ___
 
@@ -21,9 +24,6 @@ ___
 - [x] ☁️ Stellar Nursery (1 max): ❗
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
-
->
->
 
 ### 3. 📥 Ingestion
 
@@ -51,14 +51,21 @@ ___
 
 > - Select 2 things max
 
-### Unimportant ToDos
+### Nonurgent ToDos
+
+- [ ] Grocery Shopping
 
 #### Quick tasks (Under 5 min)
+
+- Add learning and spaced repetition to habit tracker
+- Buy magnesium on Amazon
+- Select the next hiking location
 
 #### Slow tasks (Over 5 min)
 
 > - 2 max
 > - 2 day limit or an hour a day
+> - Manage on google calendar ❗️
 
 - [ ] **1.** Organize music library (1 hour)
 
@@ -70,16 +77,20 @@ ___
 - Delete safari favorites 
 - Delete photos
 
+
+###
+___
+
 ### 🎨 Egestion
 
-- [x] Make music
+- [ ] Make music
 - [ ] Draw
 
 ### 🎮 Ingestion
 
 #### TV:
 
-- [ ] Baccano
+- [x] Baccano
 
 #### Movie: 
 
