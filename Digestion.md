@@ -39,6 +39,10 @@ The chaos of the Stellar Nursery is beginning to condense. The dust is beginning
 
 Proto notes assist my working memory. here i make sure that my working memory does not fill up with too many thoughts
 
+The mind is a muscle, if it is under exerted, then one never developes the disipline to think. If it is over exerted, then the mind has no time to recover and the results are just as bad. In order to prevent over exertion of my mind, if i get stuck within a certain note, i will switch  to writing another note and come back to the previous note later with a refreshed mind.
+
+
+
 Liquid stage
 
 ##### 3. ☀️ Main-Sequence Note

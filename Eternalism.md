@@ -11,6 +11,6 @@ ___
 - Itivuttaka 49; 43–44
 
 ##### Metadata
-Status: #⛅️ 
+Status: #☀️ 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]]
