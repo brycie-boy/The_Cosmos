@@ -41,8 +41,18 @@ Nibbāna is the destruction of thirst, the thirst of craving.
 
 ___
 
+- Highlight(pink) - Location 3253
+To follow the Buddha in the direction he wants to lead us, we have to learn to see beneath the surface glitter of pleasure, position, and power that usually enthralls us, and at the same time, to learn to see through the deceptive distortions of perception, thought, and views that habitually cloak our vision.
+
+___
+
 - Highlight(pink) - Location 3221
 To guide his spiritually mature disciples toward Nibbāna, the Buddha had to steer them beyond the blissful rewards that could be won in a future life by performing wholesome deeds. He did so through the “supramundane” facets of his teaching, those aspects designed to lead disciples beyond the “triple world” of sense-sphere existence, form-sphere existence, and formless existence.
+
+___
+
+- Highlight(pink) - Location 3255
+Ordinarily, we represent things to ourselves through the refractory prism of subjective biases. These biases are shaped by our craving and attachments, which they in turn reinforce. We see things that we want to see; we blot out things that threaten or disturb us, that shake our complacency, that throw into question our comforting assumptions about ourselves and our lives. To undo this process involves a commitment to truth that is often unsettling, but in the long run proves exhilarating and liberating.
 
 ___
 
