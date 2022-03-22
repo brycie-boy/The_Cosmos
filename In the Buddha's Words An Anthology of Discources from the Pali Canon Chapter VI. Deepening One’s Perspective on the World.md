@@ -41,13 +41,13 @@ Nibbāna is the destruction of thirst, the thirst of craving.
 
 ___
 
-- Highlight(pink) - Location 3253
-To follow the Buddha in the direction he wants to lead us, we have to learn to see beneath the surface glitter of pleasure, position, and power that usually enthralls us, and at the same time, to learn to see through the deceptive distortions of perception, thought, and views that habitually cloak our vision.
+- Highlight(pink) - Location 3221
+To guide his spiritually mature disciples toward Nibbāna, the Buddha had to steer them beyond the blissful rewards that could be won in a future life by performing wholesome deeds. He did so through the “supramundane” facets of his teaching, those aspects designed to lead disciples beyond the “triple world” of sense-sphere existence, form-sphere existence, and formless existence.
 
 ___
 
-- Highlight(pink) - Location 3221
-To guide his spiritually mature disciples toward Nibbāna, the Buddha had to steer them beyond the blissful rewards that could be won in a future life by performing wholesome deeds. He did so through the “supramundane” facets of his teaching, those aspects designed to lead disciples beyond the “triple world” of sense-sphere existence, form-sphere existence, and formless existence.
+- Highlight(pink) - Location 3253
+To follow the Buddha in the direction he wants to lead us, we have to learn to see beneath the surface glitter of pleasure, position, and power that usually enthralls us, and at the same time, to learn to see through the deceptive distortions of perception, thought, and views that habitually cloak our vision.
 
 ___
 
@@ -88,154 +88,6 @@ Once we see that the objects of our attachment are flawed, beset with hidden dan
 - Highlight(pink) - Location 3366
 the removal and abandoning of desire and lust for the world, this is the escape from the world.’
 (AN 3:101 §§1–2; I 258–59) 
-
-___
-
-- Highlight(pink) - Location 3286
-three major objects of attachment: sensual pleasures, bodily form, and feelings.
-
-___
-
-- Highlight(pink) - Location 3287 
-It begins with a close-up view of the tribulations that a “clansman”—a young householder pursuing the ancient Indian counterpart of a professional career—might undergo in his quest for sensual gratification.
-
-- Highlight(pink) - Location 3411 
-the danger in the case of sensual pleasures?
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
-
-- Highlight(pink) - Location 3412
-Here, monks, on account of the craft by which a clansman makes a living—whether checking, accounting, calculating, farming, trading, husbandry, archery, the royal service, or whatever craft it may be—he has to face cold and heat; he is injured by contact with gadflies, mosquitoes, wind, sun, and creeping things; he risks death by hunger and thirst. Now this is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3416
-“If no property comes to the clansman while he works and strives and makes an effort thus, he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘My work is in vain, my effort is fruitless!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3419
-“If property comes to the clansman while he works and strives and makes an effort thus, he experiences pain and grief in protecting it:
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90) 
-
-- Highlight(pink) - Location 3421
-as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or unloved heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘I no longer have my property!’ Now this too is a danger in the case of sensual pleasures, a mass of  8suffering visible in this present life
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3288
-the scope of the examination widens from the personal to the collective, encompassing the broader social and political consequences of this quest. It reaches its climax in striking images of the warfare and human devastation that follow from the frenzied mass drive for sensual gratification.
-
-- Highlight(pink) - Location 3425
-“Again, with sensual pleasures as the cause ... kings quarrel with kings, khattiyas with khattiyas, brahmins with brahmins, householders with householders; mother quarrels with son, son with mother, father with son, son with father; brother quarrels with brother, brother with sister, sister with brother, friend with friend. And here in their quarrels, brawls, and disputes they attack each other with fists, clods, sticks, or knives, whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3438
-“Again, with sensual pleasures as the cause ... men break into houses, plunder wealth, commit burglary, ambush highways, seduce others’ wives, and when they are caught, kings have many kinds of torture inflicted on them ... whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-___
-
-- Highlight(pink) - Location 3441
-“Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-___
-
-- Highlight(pink) - Location 3318
-Craving for sensual pleasures is one trap that keeps beings bound to the round of rebirths. Another major trap is attachment to views.
-
-- Highlight(pink) - Location 3320
-The most dangerous of wrong views are those that deny or undermine the foundations of ethics.
-
-- Highlight(pink) - Location 3321
-a number of perils posed by this type of wrong view; prominent among them is rebirth in the lower realms. Views also lead to one-sided, biased interpretations of reality that we cling to as accurate and complete.
-
-- Highlight(pink) - Location 3323 
-People who cling tenaciously to their own views of a particular situation often come into conflict with those who view the same situation in a different light. Views thus give rise to conflicts and disputes.
-(Ud 6:4; 67–69)
-
-- Highlight(pink) - Location 3325
-parable of the blind men and the elephant,
-(Ud 6:4; 67–69)
-
--  Highlight(pink) - Location 3773
-Now at that time a number of ascetics and brahmins,
-(Ud 6:4; 67–69)
-
-- Highlight(pink) - Location 3774
-held various views, beliefs, and opinions, and propagated various views. And they were quarrelsome, disputatious, wrangling, wounding each other with verbal darts, saying, “The Dhamma is like this, the Dhamma is not like that!
-(Ud 6:4; 67–69)
-
-- Highlight(pink) - Location 3780
-“Formerly, monks, there was a king in Sāvatthī who addressed a man and asked him to round up all the persons in the city who were blind from birth. When the man had done so, the king asked the man to show the blind men an elephant. To some of the blind men he presented the head of the elephant, to some the ear, to others a tusk, the trunk, the body, a foot, the hindquarters, the tail, or the tuft at the end of the tail. And to each one he said, ‘This is an elephant.’
-(Ud 6:4; 67–69)
-
-- Highlight(pink) - Location 3783
-“When he reported to the king what he had done, the king went to the blind men and asked them, ‘Tell me, blind men, what is an elephant like?’
-(Ud 6:4; 67–69)
-
-- Highlight(pink) - Location 3785
-“Those who had been shown the head of the elephant replied, ‘An elephant, your majesty, is just like a water jar.’ Those who had been shown the ear replied, ‘An elephant is just like a winnowing basket.’ Those who had been shown the tusk replied, ‘An elephant is just like a plowshare.’ Those who had been shown the trunk replied, ‘An elephant is just like a plow pole.’ Those who had been shown the body replied, ‘An elephant is just like a storeroom.’ And each of the others likewise described the elephant in terms of the part they had been shown.
-(Ud 6:4; 67–69)
-
-- Highlight(pink) - Location 3789
-“Then, saying, ‘An elephant is like this, an elephant is not like that! An elephant is not like this, an elephant is like that!’ they fought each other with their fists. And the king was delighted. Even so, monks, are the wanderers of other sects blind and sightless, and thus they become quarrelsome, disputatious, and wrangling, wounding each other with verbal darts.”
-(Ud 6:4; 67–69)
-
-___
-
-- Highlight(pink) - Location 3290
-“Form” is the physical body.
-
-- Highlight(pink) - Location 3291
-consider a beautiful young girl. He then traces the progressive stages of her physical decay, through old age, sickness, death, and the eventual disintegration of the corpse until it is reduced to powdered bone.
-
-- Highlight(pink) - Location 3453
-the gratification in the case of form?
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3453
-Suppose there were a girl of the khattiya class or the brahmin class
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3455
-“Now the pleasure and joy that arise in dependence on that beauty and loveliness are the gratification in the case of form.
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3457
-the danger in the case of form?
-
-- Highlight(pink) - Location 3457
-Later on one might see that same woman here at eighty, ninety, or a hundred years, aged, as crooked as a roof bracket, doubled up, supported by a walking stick, tottering, frail, her youth gone, her teeth broken, gray-haired, scanty-haired, bald, wrinkled, with limbs all blotchy.
-
-- Highlight(pink) - Location 3459
-What do you think, monks? Has her former beauty and loveliness vanished and the danger become evident?”—“Yes, venerable sir.”—“Monks, this is a danger in the case of form.
-
-___
-
-- Highlight(pink) - Location 3292
-To show the danger in “feeling,” the Buddha selects the feelings of a meditating monk in the jhānas, the meditative absorptions, the most refined mundane experiences of pleasure and peace. He points out that even these lofty feelings are impermanent, unsatisfactory, and subject to change.
-
-- Highlight(pink) - Location 3478
-the gratification in the case of feelings?
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3479
-Here, monks, quite secluded from sensual pleasures, secluded from unwholesome states, a monk enters upon and dwells in the first jhāna,
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3485
-On that occasion he feels only feeling that is free from affliction.
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3486
-The highest gratification in the case of feelings is freedom from affliction, I say.
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3486
-“And what, monks, is the danger in the case of feelings? Feelings are impermanent, suffering, and subject to change.
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
-
-- Highlight(pink) - Location 3488
-“And what, monks, is the escape in the case of feelings? It is the removal of desire and lust, the abandonment of desire and lust for feelings.
-(MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
 ___
 
@@ -288,7 +140,7 @@ ___
 Buddhist literature frequently advises us to contemplate the certainty of death and the uncertainty of the time of its arrival. This recommendation is not made to induce an attitude of chronic morbidity but to help us break our infatuation with life and develop detachment.
 
 - Highlight(pink) - Location 3618
-“‘Short is the life of human beings, O brahmins, limited and brief; it is full of suffering, full of tribulation. This one should wisely understand. One should do good and live a pure life; for none who is born can escape death.
+“Short is the life of human beings, O brahmins, limited and brief; it is full of suffering, full of tribulation. This one should wisely understand. One should do good and live a pure life; for none who is born can escape death.
 (AN 7:70; IV 136–39)
 
 - Highlight(pink) - Location 3649
@@ -299,6 +151,8 @@ ___
 
 - Highlight(pink) - Location 3326
 eternalism (sassatav̄da) and annihilationism (ucchedav̄da), also called, respectively, the view of existence (bhavadiṭṭhi) and the view of nonexistence (vibhavadiṭṭhi).
+
+___
 
 - Highlight(pink) - Location 3328
 Eternalism affirms an eternal component in the individual, an indestructible self, and an eternal ground of the world, such as an all-powerful creator God.
@@ -311,6 +165,8 @@ Devas and human beings delight in existence,
 When the Dhamma is taught to them for the cessation of existence, their minds do not enter into it, acquire confidence in it,
 (It 49; 43–44)
 
+___
+
 - Highlight(pink) - Location 3329
 Annihilationism denies that there is any survival beyond death, holding that the individual comes to a complete end with the demise of the physical body.
 
@@ -320,25 +176,6 @@ Now some are troubled, ashamed, and disgusted by this very same existence and th
 
 - Highlight(pink) - Location 3331
 As we will see below, the Buddha’s teaching of dependent origination avoids both these futile ends
-
-- Highlight(pink) - Location 3800
-a monk sees what has come to be as having come to be. Having seen it thus, he practices the course for disenchantment, for dispassion, for the cessation of what has come to be.
-(It 49; 43–44)
-
-___
-
-- Highlight(pink) - Location 3333
-a particular problem posed by eternalist views. Such views can inspire meditators to attain states of deep meditative bliss, which they interpret as union with a divine reality or realization of an eternal self. From the perspective of the Buddha’s teaching, however, such attainments merely create the karmic potential for rebirth into a realm in which that meditative experience becomes the fundamental condition of consciousness. In other words, the attainment of these states in the human realm generates rebirth into the corresponding planes in the realm of subtle form or the formless realm.
-
-- Highlight(pink) - Location 3338
-The text cited here shows that certain meditators attain the four “divine abodes” and take rebirth in the corresponding planes of the brahma world, where they might abide even for as long as five hundred great eons. Eventually, however, they must inevitably pass away and may then fall into the unfortunate realms of rebirth.
-
-- Highlight(pink) - Location 3341
-say the same respectively about realms of rebirth corresponding to the jhānas and the formless attainments.
-
-- Highlight(pink) - Location 3808
-when he has completed the entire lifespan of those devas, he goes to hell, to the animal realm, and to the domain of spirits. But the Blessed One’s disciple remains there all his life, and when he has completed the entire lifespan of those devas, he attains final Nibbāna in that very same state of existence. This is the difference, the disparity, the distinction between the instructed noble disciple and the uninstructed worldling, that is, with regard to destination and rebirth.
-(AN 4:125; II 128–29)
 
 ___
 

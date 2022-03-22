@@ -1,4 +1,4 @@
-## Eternalism  # 🧠
+## Eternalism  #🧠
 
 Eternalism is a view proposes the existence of an eternal component of the individual, or an eternal ground of the universe. it is refered to in Buddhism the view of existance.  The teaching of [[Dependant Origination]] avoids this position.
 
