@@ -17,6 +17,6 @@ ___
 - Anguttara Nikaya 3:101 §§1–2; I 258–59
 
 ##### Metadata
-Status: #⛅️ 
+Status: #☀️ 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]]
