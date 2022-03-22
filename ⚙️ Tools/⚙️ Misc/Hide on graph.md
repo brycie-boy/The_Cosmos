@@ -1,0 +1,1 @@
+- #🔵/💬 - ✏️Journal - ❤️ Favorites - 🍄 Psychedelic Journal - ✏️ Misc - ⚙️ Tools - 📸Images - 🛠 Templates - ⚙️ Misc

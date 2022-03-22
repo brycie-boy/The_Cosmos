@@ -4,7 +4,7 @@
 
 > Do immediately
 
-
+- Check Mail for magnesium 
 
 #### Later ❗️
 

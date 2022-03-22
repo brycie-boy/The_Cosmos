@@ -1,7 +1,4 @@
 ## ambiguous #🧠 
-
-_adjective_
-
 1. doubtful or uncertain especially from obscurity or indistinctness
 	 “eyes of an _ambiguous_ color”
 
@@ -25,7 +22,3 @@ ___
 
 ##### References
 - https://www.merriam-webster.com/dictionary/ambiguous
-
-##### Metedata
-Type: #🔵/💬 
-Status: #☀️ 
