@@ -16,8 +16,6 @@ ___
 -   [[overfamiliar]]
 -   [[presuming]]
 
-##### References 
-
 - https://www.merriam-webster.com/dictionary/presumptuous
 
 ##### Metadata

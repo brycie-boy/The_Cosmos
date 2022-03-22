@@ -17,7 +17,6 @@ ___
 -   [[lethargic]]
 -   [[sleepy]]
 -   [[sluggish]]
--   [[torpid]]
 
 ##### References 
 
@@ -26,4 +25,3 @@ ___
 ##### Metadata
 Status: #☀️ 
 Type: #🔵/💬 
-Tags: [[Vocabulary]]

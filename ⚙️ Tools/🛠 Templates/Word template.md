@@ -12,5 +12,4 @@ ___
 
 ##### Metadata
 Type:
-Tags:
 Status:

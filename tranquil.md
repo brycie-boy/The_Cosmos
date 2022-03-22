@@ -20,5 +20,4 @@ ___
 ##### Metadata
 State: #☀️ 
 Type: #🔵/💬 
-Tags [[Vocabulary]]
 
