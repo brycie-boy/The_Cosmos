@@ -17,7 +17,6 @@ ___
 -   [[lethargic]]
 -   [[sleepy]]
 -   [[sluggish]]
--   [[torpid]]
 
 ##### References 
 
