@@ -4,7 +4,14 @@
 
 > - 5 Ideas Max  [[🗓 Daily Planner]]
 
+### ✏️ Learning
 
+### 🎨 Freetime
+
+- The wheel of samsara as the rat race
+	- The wheel being a hamster wheel
+	- Surrounded by a cage
+	- A hamster tube leading outside to the buddha
 
 ## Words/Terms
 

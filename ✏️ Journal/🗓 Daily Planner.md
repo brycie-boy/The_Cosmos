@@ -1,12 +1,13 @@
 # 🗓 Daily Planner
 
-### ❗️Important ToDos
+### ✅❗Urgent ToDos
 
 > Do immediately
 
-- Ask dad to buy GED practice tests
 
-#### Later
+
+#### Later ❗️
+
 - Get bank account
 
 #### 
@@ -46,42 +47,43 @@ ___
 
 ## 
  ___
- 
-## **🎮🎨 Free time**
 
-> - Select 2 things max
+### ✅ Nonurgent ToDos
 
-### Nonurgent ToDos
+#### Weekly tasks
 
 - [ ] Grocery Shopping
 
 #### Quick tasks (Under 5 min)
 
-- Add learning and spaced repetition to habit tracker
-- Buy magnesium on Amazon
 - Select the next hiking location
 
 #### Slow tasks (Over 5 min)
 
 > - 2 max
-> - 2 day limit or an hour a day
-> - Manage on google calendar ❗️
+> - 2 day limit or an hour limit depending on length of task
+> - 1 day break
+> - Manage on google calendar 
 
 - [ ] **1.** Organize music library (1 hour)
 
-- [ ] **2.** Create meals for workout routine (day 0)
+- [x] **2.** Create meals for workout routine (day 1)
 
-#### Later
+#### Later ❗️
+ 
 - Organize music library
 - Type 100 words per minute
 - Delete safari favorites 
 - Delete photos
 
-
 ###
 ___
 
+## **🎮🎨 Free time**
+
 ### 🎨 Egestion
+
+Ideas: ❗️  -> [[📝 Note Pad]]
 
 - [ ] Make music
 - [ ] Draw
@@ -90,7 +92,7 @@ ___
 
 #### TV:
 
-- [x] Baccano
+- [ ] Baccano
 
 #### Movie: 
 

@@ -19,10 +19,10 @@
 ### 🧠 Mind
 
 - Meditation
-- Learning
+- Learning (left brain)
    - Reading
    - Writing
    - Memory
-- Freetime
+- Free time (right brain)
    - Create
    - Consume

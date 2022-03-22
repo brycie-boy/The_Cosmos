@@ -1,3 +1,0 @@
-So me and my mom were at a Chinese restaurant. I was talking to her about the astrotheology of Christianity and Christmas, and the symbolism of evergreen trees and pinecones symbolizing eternal life. She then noticed a picture of pinecones with this message on it written in Chinese. Then this Christmas song started playing, mind you it was July, and in a Chinese restaurant. I then get my fortune cookie and it includes the word fruit which is also in the message.
-
-What I wonder is how did I have a synchronicity that I didn’t fully understand and as I advance my knowledge it makes more and more sense.

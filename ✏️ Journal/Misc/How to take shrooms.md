@@ -1,1 +1,0 @@
-I need to make sure I have enough. As long as I keep stock, I can use them how ever I need. Wether that’s microdosing, or occasionally taking big trips. What ever I feel like I need.
