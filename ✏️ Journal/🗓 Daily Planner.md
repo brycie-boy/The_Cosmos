@@ -1,14 +1,15 @@
 # 🗓 Daily Planner
 
-### ✅❗Urgent ToDos
+### Urgent ToDos
 
 > Do immediately
 
-- Check Mail for magnesium 
+
 
 #### Later ❗️
 
 - Get bank account
+- DMV drivers test
 
 #### 
 ___
@@ -22,7 +23,7 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas (1 max):  -> [[📝 Note Pad]]
-- [x] ☁️ Stellar Nursery (1 max): ❗
+- [ ] ☁️ Stellar Nursery (1 max): ❗
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
@@ -37,7 +38,7 @@ ___
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VII. The Path to Liberation
 - Author: Bhikku Bodhi
 >
-- [ ] **2.** 
+- [x] **2.** 
 
 ![[C47DD860-D381-4609-A3C7-1804BD3F6710.jpeg|250]]
 - Source: lyt kit and evergreen notes
@@ -48,7 +49,7 @@ ___
 ## 
  ___
 
-### ✅ Nonurgent ToDos
+### Nonurgent ToDos
 
 #### Weekly tasks
 
@@ -56,7 +57,7 @@ ___
 
 #### Quick tasks (Under 5 min)
 
-- Select the next hiking location
+- Buy GED practice tests
 
 #### Slow tasks (Over 5 min)
 
@@ -67,11 +68,11 @@ ___
 
 - [ ] **1.** Organize music library (1 hour)
 
-- [x] **2.** Create meals for workout routine (day 1)
+- [ ] **2.** Create meals for workout routine (day: 0)
 
 #### Later ❗️
- 
-- Organize music library
+
+- Create traveling list
 - Type 100 words per minute
 - Delete safari favorites 
 - Delete photos

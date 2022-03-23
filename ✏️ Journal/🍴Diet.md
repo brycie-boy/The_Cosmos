@@ -1,6 +1,9 @@
 
 ## Meal Plan
 
+Notes:
+- Figure out maintenance calories for this too
+
 ### STANDARD KETO DAY 
 
 **Breakfast:**
@@ -67,16 +70,17 @@
 ### Meal 1
 
 - Coffee/tea + 1 tbsp ghee OR coconut oil
-- 2 whole eggs + (optional 2 oz lox) 
-- ½ medium avocado 
+- 3 whole eggs
+- optional 2 oz lox or 2 slices of bacon
+- 1 medium avocado 
 
 ### Meal 2
 
-- 6 oz lean ground beef
+- 8 oz lean ground beef
 - 1 cup broccoli/asparagus/brussel sprout 
-- 2 tbsp olive oil or mayo 
+- 3 tbsp olive oil or mayo 
 - 1 oz goat cheese or feta 
-- 1 tbsp coconut butter 
+- 1.2 tbsp coconut butter 
 
 ### Fast
 
@@ -92,26 +96,26 @@
 
 - Salt Water ACV + Lemon + cayenne OK Lower cortisol before breaking fast.
 - 8 oz bone broth
-- 6-8 oz very lean fish, chicken, or shake
-- Optional 5 oz red potato
+- 8 oz very lean fish, chicken, or shake
+- 6 oz red potato
 
 ### Meal 2
 
--   10-12 oz *lean* meat / steak / ground beef
+-   12 oz *lean* meat / steak / ground beef
 -   2 cups veg of choice with 2 tbsp olive oil (optional 1 can oysters if you like them)
 
 #### Opt. Mid P.M. snack:
 
 - 30-50g pea or whey protein shake with almond milk 
 
-### Meal 3 ❗️(Reminder: Receies are done, add in cronometer and adjust calories)
+### Meal 3 
 
-- 10-12 oz filet, flank, sockeye, scallops
-- Butter sauce: 1 tbsp ghee or butter + 1 tbsp heavy cream 
+- 11 oz filet, flank, sockeye, scallops
+- Butter sauce: 2 tbsp ghee or butter + 1 tbsp heavy cream 
 - Asparagus or other prebiotic veg 
-- Optional: 6 oz yogurt + pea protein (Supplements: fish oil, Mg, CoQ10, enzymes/probiotics) 
+- Optional: 6 oz yogurt + pea protein 
 
-## Tuesday
+## Tuesday ❗️
 
 ### Meal 1
 
@@ -226,5 +230,5 @@
 - 2 tbsp Ghee with protein 
 - 1 oz macadamia nuts (supplements fish oil, Mg, CoQ10) 
 
-Calories per week: 10336
-Calories per meal: around 574
+Calories per week: 16331
+Calories per meal: around 907

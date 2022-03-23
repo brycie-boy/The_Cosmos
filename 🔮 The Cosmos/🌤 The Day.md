@@ -5,7 +5,7 @@
 
 [[🗓 Daily Planner]]
 
-### 🫀 Body
+### Body 🫀
 
 - Nutrients
 	- Food
@@ -16,7 +16,7 @@
 	- Cardio
 - Sleep!
 
-### 🧠 Mind
+### Mind 🧠
 
 - Meditation
 - Learning (left brain)
