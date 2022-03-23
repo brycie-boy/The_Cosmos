@@ -1,4 +1,4 @@
-## [Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
+## [Andy’s Notes](https://notes.andymatuschak.org/About_these_notes)
 
 Author: Andy Matushak
 Publish Date: No date
