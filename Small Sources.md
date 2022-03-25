@@ -1,17 +1,19 @@
 ## Small Sources # flashcard 
 
-These types of sources are for gaining smaller bits of insight on a broader topic. These can  be used as short introductions to topics, but small sources shouldn’t be studied until the broad source types are used. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing during study when the broad source isn’t elaborate enough on it. Or  it can be added within an inbox where sources that seem interesting can be added and managed to read later
+Small sources are for gaining smaller bits of insight on a broader topic. These can aslo be used as short introductions to get a feel for a new topic, but shouldn’t be studied until the [[Broad Sources]] have been consumed. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing that you feel the  [[broad sources]] didnt elabortate well on. Or it can be added within an inbox for small sources that i come across which seem interesting and can be managed later.
 
-There are 4 types of small sources that The Cosmos consumes
+There are 4 types of small sources that The Cosmos consumes:
 
-🌐 
-Articles / blogposts / social media posts
+🌐 **Texts**
+
+This includes things like:
+- Articles
+- Blog posts
+- Social media posts
 
 **⏯ Video**
 
 **🎙 Podcasts**
-
-**Thoughts**
 
 ___
 

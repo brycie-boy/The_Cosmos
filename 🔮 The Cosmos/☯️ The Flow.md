@@ -4,21 +4,9 @@
 
 # ☯️ The Flow
 
-“The Tao of the sage is working without effort”
+“The Tao of the sage is work without effort”
 
-The Cosmos is my thinking enviorment.
-
-The goal I have for The Cosmos is to create a frictionless, stress free, and seamless learning, thinking, and teaching experience.
-
-- no more clinging to ideas in fear of forgetting them
-- No more trying it hard to think about something, simply love in to another note
-- No more thinking about things through the day, this is reserved for the learning period
-- No more worrying about putting things in the right category
-- No more worrying about if a note is compete or not because notes are constantly evolving
-- Inboxes help me Manage my attention and make sure I don’t have too much in my mind
-- Have a designated thinking time so I can have a clear head throughout the rest of the day
-
-There are 3 stages to The Flow
+The goal I have for [[The Cosmos]] is to create a seamless and stress free learning, thinking, and teaching ecperience. To accomplish this, I established an evergreen notes writing practice. My workflow for this practice consists of 3 stages.
 
 1. [[Ingestion]]
 2. [[Digestion]]
