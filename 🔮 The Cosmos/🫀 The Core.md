@@ -12,11 +12,6 @@ ___
 -  The first note of The Cosmos: [[👁 The Monad]]
 -  [[How i came up with the name The Cosmos]]
 
-##### My Routines
-
--  [[☯️ The Flow]]
-- [[🌤 The Day]]
-
 ## The Index
 
 

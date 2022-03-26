@@ -1,4 +1,4 @@
-## Title (link/file)
+## [Title](link/file)
 
 Author:
 Publish Date:

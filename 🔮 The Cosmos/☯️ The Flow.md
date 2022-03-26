@@ -1,4 +1,3 @@
-<- [[🫀 The Core]]
 
 ![[95D1A4EA-0FA8-429B-A81E-B33355A07D10.jpeg]]
 
@@ -20,4 +19,4 @@ ___
 ##### Metadata
 Status:  #⛅️ 
 Type: #🔵 
-Tags:
+Tags:  [[PKM]]

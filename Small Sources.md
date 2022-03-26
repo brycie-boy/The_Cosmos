@@ -1,19 +1,27 @@
-## Small Sources # flashcard 
+## Small Sources 
 
-Small sources are for gaining smaller bits of insight on a broader topic. These can aslo be used as short introductions to get a feel for a new topic, but shouldn’t be studied until the [[Broad Sources]] have been consumed. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing that you feel the  [[broad sources]] didnt elabortate well on. Or it can be added within an inbox for small sources that i come across which seem interesting and can be managed later.
+Small sources are for gaining smaller bits of insight on a broader topic. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing that I feel the  [[broad sources]] didnt elabortate well on. Or they can be added to an inbox where i can manage them at a later time. These can also be used as short introductions to get a feel for a new topic, but shouldn’t be studied until [[Broad Sources]] have been consumed.
 
-There are 4 types of small sources that The Cosmos consumes:
+There are 4 types of small sources that The Cosmos consumes. Included are their respective workflows:
 
-🌐 **Texts**
+### 🌐 Text: Articles, Blog Posts, Social Media Posts
 
-This includes things like:
-- Articles
-- Blog posts
-- Social media posts
+1. The text is added to raindrop.io
+2. The text is reviewed along side an inbox note within obsidian
+3. The annotations are copied straight from the text to the inbox note
 
-**⏯ Video**
+### ⏯ Video
 
-**🎙 Podcasts**
+1. Videos are treated like texts and are also placed within raindrop.io
+2. To annotate a video, i use the transcript feature on Youtube
+3. The video are reviewed along side an inbox note within Obsidian
+4. The annotations are copied straight into an inbox note
+
+### 🎙 Podcasts
+
+1. My podcasts are managed within the Airr app on IOS
+2. Annotations are taken as i listen with the qotations feature
+3. When the podcast is over, i copy my annotations into an Inboc note within Obsidian
 
 ___
 
@@ -22,5 +30,5 @@ ___
 
 ##### Metadata
 Status: ⛅️
-Type: 
-Tags:
+Type: #🔵/🔵 
+Tags: [[PKM]] / [[Ingestion]] / [[Learning]]
