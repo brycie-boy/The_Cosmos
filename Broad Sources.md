@@ -1,17 +1,26 @@
 ## Broad Sources 
 
-Broad sources provide a broad overview of a topic. They are a great frame work for deciding what small sources you want to find. [[Small sources]] are very fragmented, making broad sources are superior for gaining a broad overview of a topic 
+Broad sources are sources that provide a broad overview of a topic or subject. They're a give a good foundation for deciding what [[small sources]] you want to find and use to build upon what has been learned through the broad source. [[Small Sources]] within the internet are very scattered and atomized, usually starting in the middle of a topic without context, which makes it difficult to develop a cohesive understanding, leaving you trying to put these fragmented bits together, something you wouldn't have to deal with the structured frame work that a broad source would provide. I usually try to look for these types of sources when i want to dive deeper into a new subject.
 
-There are 3 types of broad sources that the Cosmos consumes
+There are 3 types of broad sources that the Cosmos consumes with there respective workflows:
 
-**📚 Books**
+### 📚 Books
 
-**⏯ Lectures**
+#### Ebooks
 
-**👨‍🏫 Courses**
+#### PDFs
 
-As well as any other large source that can’t be read through and studies quickly
+### ⏯ Lectures
 
+#### Online
+
+#### In Person
+
+### 👨‍🏫 Courses
+
+#### Online
+
+#### In Person
 
 ___
 
@@ -20,5 +29,5 @@ ___
 
 ##### Metadata
 Status: ⛅️
-Type: 
-Tags:
+Type: #🔵/🔵 
+Tags: [[PKM]] / [[Ingestion]] / [[Learning]]
