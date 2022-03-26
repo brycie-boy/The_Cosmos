@@ -28,6 +28,6 @@ ___
 
 
 ##### Metadata
-Status: ⛅️
+Status: #⛅️ 
 Type: #🔵/🔵 
-Tags: [[PKM]] / [[Ingestion]] / [[Learning]]
+Tags:  [[Learning]] / [[PKM]] / [[Ingestion]]

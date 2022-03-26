@@ -8,10 +8,6 @@ Tags:
 
 ___
 
-[[Inbox scrap]]
-
-___
-
 - _Evergreen notes_ are written and organized to evolve, contribute, and accumulate over time, across projects.
 
 - This is an unusual way to think about writing notes: Most people take only transient notes
