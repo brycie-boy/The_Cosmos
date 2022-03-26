@@ -5,20 +5,14 @@
 
 ### Source Types
 
-The types of sources that The Cosmos consumes are divided into 2 groups:
+The types of sources that The Cosmos consumes are divided into 2 types:
 
 1. [[Broad Sources]]
 2. [[Small Sources]]
 
-### Annotations
-
-[[Annotations]]
 ___
 
-##### References
-
-
 ##### Metadata
-Status:  #⛅️ 
 Type: #🔵 
-Tags: [[PKM]] / [[☯️ The Flow]]
+Tags: [[Learning]] / [[PKM]] / [[☯️ The Flow]]
+Status:  #⛅️ 
