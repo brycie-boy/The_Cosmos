@@ -1,10 +1,10 @@
 
-## Heading  # 🧠
+## Heading  # 
 
 
 ___
 
-##### Similar
+##### Synonyms
 
 
 ##### References 

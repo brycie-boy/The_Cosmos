@@ -6,11 +6,6 @@
 
 
 
-#### Later ❗️
-
-- Get bank account
-- DMV drivers test
-
 #### 
 ___
 
@@ -29,8 +24,7 @@ ___
 
 ### 3. 📥 Ingestion
 
-> - Add: [[📚 Broad Source Inbox]]
-> - 2 Max!
+> - 2 Max
 
 - [ ] **1.** 
 
@@ -46,6 +40,25 @@ ___
 - Link: https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C , https://notes.linkingyourthinking.com/Umami/LYT+Kit
 - Tags: self improvement / academic 
 
+#### 📚 Broad source Inbox
+
+> - 3 Max
+
+![[ABC83EA9-6829-4D03-A8D5-03E443FB5055.jpeg|80]]
+- Source: Archetypes and the Collective Unconscious
+- Author: Carl Jung
+- Tags: Psychology / Psychoanalysis / Spirituallity / occult
+
+![[07A0E8BA-CDDC-46D7-A089-A517731DDF72.jpeg|80]]
+- Source: The Mind Illuminated 
+- Author: John Yates
+- Tags: Philosophy / Spirituality / Mindfulness / Neuroscience
+
+![[545C211F-13E5-4636-958B-5061AD8B7903.jpeg|80]]
+- Source: Hyper Focus How to Manage Your Attention in a Distracted World
+- Author: Chris Bailey
+- Tags: Self Improvement / Productivity / Mindfulness
+
 ## 
  ___
 
@@ -57,7 +70,9 @@ ___
 
 #### Quick tasks (Under 5 min)
 
-- Buy GED practice tests
+#### Later 
+
+- [ ] But GED Practice Tests
 
 #### Slow tasks (Over 5 min)
 
@@ -66,7 +81,7 @@ ___
 > - 1 day break
 > - Manage on google calendar 
 
-- [ ] **1.** Organize music library (1 hour)
+- [x] **1.** Organize music library (1 hour)
 
 - [ ] **2.** Create meals for workout routine (day: 0)
 
@@ -84,7 +99,7 @@ ___
 
 ### 🎨 Egestion
 
-Ideas: ❗️  -> [[📝 Note Pad]]
+Ideas:  -> [[📝 Note Pad]]
 
 - [ ] Make music
 - [ ] Draw
@@ -93,19 +108,17 @@ Ideas: ❗️  -> [[📝 Note Pad]]
 
 #### TV:
 
-- [ ] Baccano
+- [ ] Mushi Shi
 
 #### Movie: 
 
 
 #### Videogames:
 
-- [ ] Minecraft
+- [x] Minecraft
 
 #### Social medias:
 
-- [x] Instagram
-- [ ] Pinterest
+- [ ] Instagram
+- [x] Pinterest
 - [ ] 4chan
-- [ ] Reddit
-

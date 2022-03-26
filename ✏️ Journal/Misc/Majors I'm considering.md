@@ -1,5 +1,3 @@
-- neuroscience 
+- Biochem
+- Neurobiology
 - Psychology
-- Biomed
-- Electrical engineering 
-- Computer engineering 
