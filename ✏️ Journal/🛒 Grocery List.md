@@ -57,10 +57,10 @@
 
 ### Meat/Protein
 
-- [x] Lean Chicken (only 1)
+- [x] Lean Chicken 
 - [x] Ground beef
 	- Steak
-- [x] Samon
+- [ ] Samon
 	- Shellfish
 	- Shrimp
 - [x] Eggs 
@@ -140,14 +140,15 @@
 - [ ] Jerky
 
 ## Supplements 
-- [ ] Magnesium
+- [x] Magnesium
 - [x] Fish oil / Omega 3s
 - [x] Vitamin D3 / K2
+- [ ] Protein
 - [x] Psilocybin 
 - [x] Lions mane 
 - [x] Ginko
 
-Cost to maintain: $166
+Cost to maintain: $225
 
 ___
 ## Hygiene

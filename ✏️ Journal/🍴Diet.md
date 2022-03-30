@@ -65,21 +65,23 @@ Notes:
 - Optional shake pre-bed 
 - (supplements 2x fish oil, Mg, CoQ10, probiotics)
 
-## Sunday ❗️
+## Sunday 
 
-### Meal 1
+### Meal 1 
 
-- Coffee/tea + 1 tbsp ghee OR coconut oil
-- 3 whole eggs
-- 2 oz lox or 2 slices of bacon
+🔴
+- Coffee/tea + 1.5 tbsp ghee OR coconut oil
+- 4 whole eggs
+- 3 oz lox or 3 slices of bacon
 - 1 medium avocado 
 
 ### Meal 2
 
-- 6 oz shrimp, scallops OR lean chicken 
+🟡
+- 8 oz shrimp, scallops OR lean chicken 
 - Asparagus with nutritional yeast 
-- 2 tbsp Ghee with protein 
-- 1 oz macadamia nuts (supplements fish oil, Mg, CoQ10) 
+- 2 tbsp Ghee with 1.5 scoop protein 
+- 1 oz macadamia nuts
 
 ### Fast
 
@@ -93,6 +95,7 @@ Notes:
 
 ### Meal 1
 
+🟢
 - Salt Water ACV + Lemon + cayenne OK Lower cortisol before breaking fast.
 - 8 oz bone broth
 - 8 oz very lean fish, chicken, or shake
@@ -100,6 +103,7 @@ Notes:
 
 ### Meal 2
 
+⚪️
 -   12 oz *lean* meat / steak / ground beef
 -   2 cups veg of choice with 2 tbsp olive oil (optional 1 can oysters if you like them)
 
@@ -109,6 +113,7 @@ Notes:
 
 ### Meal 3 
 
+🟤
 - 11 oz filet, flank, sockeye, scallops
 - Butter sauce: 2 tbsp ghee or butter + 1 tbsp heavy cream 
 - Asparagus or other prebiotic veg 
@@ -118,23 +123,24 @@ Notes:
 
 ### Meal 1
 
+🔵
+- Coffee/tea + 1.5 tbsp ghee OR coconut oil
 -   10 oz lean chicken (ground or breast) (optional, reduce chicken and add egg white) 
 -   2 cup spinach with apple cider vinegar 
 -   1 scoop protein powder
 
 ### Meal 2
 
-- 8 oz lean ground beef or turkey
-- 1 cup broccoli/asparagus/brussel sprout 
-- 3 tbsp olive oil or mayo 
-- 1 oz goat cheese or feta 
-- 1.5 tbsp coconut butter 
+🔴
+- 4 whole eggs
+- optional 4 oz lox or 4 slices of bacon
+- 1 medium avocado 
 
 ### Fast
 
 ### Cardio
 
-## Wednesday ❗️
+## Wednesday 
 
 - Coffee (Black)
 
@@ -142,6 +148,7 @@ Notes:
 
 ### Meal 1
 
+🟢
 - Salt Water ACV + Lemon + cayenne OK Lower cortisol before breaking fast.
 - 8 oz bone broth
 - 8 oz very lean fish, chicken, or shake
@@ -149,8 +156,9 @@ Notes:
 
 ### Meal 2
 
+🟠
 - 8 oz lean ground beef
-- 1 cup broccoli/asparagus/brussel sprout 
+- 1 cup broccoli/brussel sprout 
 - 3 tbsp olive oil or mayo 
 - 1 oz goat cheese or feta 
 - 1.5 tbsp coconut butter 
@@ -158,6 +166,7 @@ Notes:
 
 ### Meal 3
 
+🟡
 - 8 oz shrimp, scallops OR lean chicken 
 - 4 Asparagus spears with nutritional yeast 
 - 2.5 tbsp Ghee with 1 scoop protein 
@@ -167,18 +176,20 @@ Notes:
 
 ### Meal 1
 
-- Coffee/tea + 1 tbsp ghee OR coconut oil
-- 3 whole eggs
-- optional 2 oz lox or 2 slices of bacon
+🔴
+- Coffee/tea + 1.5 tbsp ghee OR coconut oil
+- 4 whole eggs
+- optional 3 oz lox or 3 slices of bacon
 - 1 medium avocado 
 
 ### Meal 2
 
+🟠
 - 8 oz lean ground beef
-- 1 cup broccoli/asparagus/brussel sprout 
+- 1 cup broccoli/brussel sprout 
 - 3 tbsp olive oil or mayo 
 - 1 oz goat cheese or feta 
-- 1.2 tbsp coconut butter 
+- 1.5 tbsp coconut butter 
 
 ### Fast
 
@@ -192,44 +203,52 @@ Notes:
 
 ### Meal 1
 
+🟢
+- Salt Water ACV + Lemon + cayenne OK Lower cortisol before breaking fast.
 - 8 oz bone broth
-- 6-8 oz very lean fish, chicken, or shake
-- Optional 5 oz red potato
+- 8 oz very lean fish, chicken, or shake
+- 6 oz red potato
 
 ### Meal 2
 
--   10-12 oz lean meat/steak
+⚪️
+-   12 oz *lean* meat / steak / ground beef
 -   2 cups veg of choice with 2 tbsp olive oil (optional 1 can oysters if you like them)
 
 ### Meal 3
 
-- 10-12 oz filet, flank, sockeye, scallops
-- Butter sauce: 1 tbsp ghee or butter + 1 tbsp heavy cream 
+🟤
+- 11 oz filet, flank, sockeye, scallops
+- Butter sauce: 2 tbsp ghee or butter + 1 tbsp heavy cream 
 - Asparagus or other prebiotic veg 
-- Optional: 6 oz yogurt + pea protein (Supplements: fish oil, Mg, CoQ10, enzymes/probiotics) 
+- Optional: 6 oz yogurt + pea protein
 
 ## Saturday
 
 ### Meal 1
 
--   6-10 oz lean chicken (ground or breast) (optional, reduce chicken and add egg white) 
--   1.5 cup spinach with apple cider vinegar 
--   If training, add ½ scoop protein powder
+🔵
+-   10 oz lean chicken (ground or breast) (optional, reduce chicken and add egg white) 
+-   2 cup spinach with apple cider vinegar 
+-   1 scoop protein powder
 
 ### Meal 2
 
+🟠
 - 8 oz lean ground beef
-- 1 cup broccoli/asparagus/brussel sprout 
+- 1 cup broccoli/brussel sprout 
 - 3 tbsp olive oil or mayo 
 - 1 oz goat cheese or feta 
-- 1.2 tbsp coconut butter 
+- 1.5 tbsp coconut butter 
 
 ### Meal 3
 
-- 6 oz shrimp, scallops OR lean chicken 
+🟡
+- 8 oz shrimp, scallops OR lean chicken 
 - Asparagus with nutritional yeast 
-- 2 tbsp Ghee with protein 
-- 1 oz macadamia nuts (supplements fish oil, Mg, CoQ10) 
+- 2 tbsp Ghee with 1.5 scoop protein 
+- 1 oz macadamia nuts
 
 Calories per week: 16331
 Calories per meal: around 907
+Total price (besides non parishables): $111.74

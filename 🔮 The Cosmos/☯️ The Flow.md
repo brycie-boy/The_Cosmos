@@ -5,7 +5,7 @@
 
 _“The Tao of the sage is work without effort”_
 
-The goal I have for [[The Cosmos]] is to create a seamless and stress free learning, thinking, and teaching experience. To accomplish this, I established an [[Evergreen notes]] writing practice. My workflow for this practice consists of 3 stages.
+The goal I have for [[🔮 The Cosmos]] is to create a seamless and stress free learning, thinking, and teaching experience. To accomplish this, I established an [[Evergreen notes]] writing practice. My workflow for this practice consists of 3 stages:
 
 1. [[Ingestion]]
 2. [[Digestion]]

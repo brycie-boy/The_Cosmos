@@ -1,12 +1,34 @@
 # 🗓 Daily Planner
 
+## ToDos
+
 ### Urgent ToDos
 
 > Do immediately
 
+### Nonurgent ToDos
 
+#### Quick tasks (Under 5 min)
 
-#### 
+- Buy GED tests
+- Buy Meyers dish soap
+
+#### Slow tasks (Over 5 min)
+
+> - 2 max
+> - 2 day limit or an hour limit depending on length of task
+> - 1 day break
+> - Manage on google calendar 
+
+- [x] **1.** Organize music library (1 hour)
+
+- [ ] **2.** 
+
+#### Weekly tasks
+
+- [ ] Grocery Shopping
+
+##
 ___
 
 ## **📚✏️ Learning**
@@ -18,7 +40,7 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas (1 max):  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery (1 max): ❗
+- [ ] ☁️ Stellar Nursery (1 max): 
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
@@ -29,7 +51,7 @@ ___
 - [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
-- Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VII. The Path to Liberation
+- Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
 - Author: Bhikku Bodhi
 >
 - [x] **2.** 
@@ -40,7 +62,7 @@ ___
 - Link: https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C , https://notes.linkingyourthinking.com/Umami/LYT+Kit
 - Tags: self improvement / academic 
 
-#### 📚 Broad source Inbox
+#### 📚 Broad source queue
 
 > - 3 Max
 
@@ -59,40 +81,7 @@ ___
 - Author: Chris Bailey
 - Tags: Self Improvement / Productivity / Mindfulness
 
-## 
- ___
-
-### Nonurgent ToDos
-
-#### Weekly tasks
-
-- [ ] Grocery Shopping
-
-#### Quick tasks (Under 5 min)
-
-#### Later 
-
-- [ ] But GED Practice Tests
-
-#### Slow tasks (Over 5 min)
-
-> - 2 max
-> - 2 day limit or an hour limit depending on length of task
-> - 1 day break
-> - Manage on google calendar 
-
-- [x] **1.** Organize music library (1 hour)
-
-- [ ] **2.** Create meals for workout routine (day: 0)
-
-#### Later ❗️
-
-- Create traveling list
-- Type 100 words per minute
-- Delete safari favorites 
-- Delete photos
-
-###
+##
 ___
 
 ## **🎮🎨 Free time**
@@ -108,16 +97,17 @@ Ideas:  -> [[📝 Note Pad]]
 
 #### TV:
 
-- [ ] Mushi Shi
+- [ ] Mushi Shi 
 
 #### Movie: 
 
 
+
 #### Videogames:
 
-- [x] Minecraft
+- [x] Minecraft 
 
-#### Social medias:
+### Social medias:
 
 - [ ] Instagram
 - [x] Pinterest
