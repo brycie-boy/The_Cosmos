@@ -5,7 +5,7 @@ There is a more stringent [[Moral Disipline]] that lay Buddhists undertake for t
 - Complete sexual abstinace
 - One meal a day, refraining from eating at night
 - Abstinince of entertainment, including dancing, singing, music, shows, wearing jewelry, and using collogne
-- Using luxurious furniture, instead using low resting places, such as small beds or mats
+- Abstaining from using luxurious furniture, instead using low resting places, such as small beds or mats
 
 ___
 

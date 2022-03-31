@@ -1,0 +1,3 @@
+Dopamine is not a “pleasure chemical”. It’s more of a motivation chemical. Dopamine is released when you anticipate reward, therefor it allows you to focus on obtaining said reward. When you constantly indulge in some short term pleasure, then in order to maintain a sense of well being and the ability to focus, you have to constantly indulge in said short term pleasure to maintain dopamine levels
+
+If you want to be able to maintain well being and focus for longer and longer periods of periods of time, you would have to give up these short term immediate pleasures and retrain your brain to be able to prioritize long term benefits.

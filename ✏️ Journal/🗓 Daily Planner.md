@@ -40,7 +40,7 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas (1 max):  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery (1 max): 
+- [x] ☁️ Stellar Nursery (1 max): ❗️
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
@@ -54,22 +54,17 @@ ___
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
 - Author: Bhikku Bodhi
 >
-- [x] **2.** 
-
-![[C47DD860-D381-4609-A3C7-1804BD3F6710.jpeg|250]]
-- Source: lyt kit and evergreen notes
-- Author: Nick Milo, Andy Matushak
-- Link: https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C , https://notes.linkingyourthinking.com/Umami/LYT+Kit
-- Tags: self improvement / academic 
-
-#### 📚 Broad source queue
-
-> - 3 Max
+- [ ] **2.**
 
 ![[ABC83EA9-6829-4D03-A8D5-03E443FB5055.jpeg|80]]
 - Source: Archetypes and the Collective Unconscious
 - Author: Carl Jung
 - Tags: Psychology / Psychoanalysis / Spirituallity / occult
+
+#### 📚 Broad source queue
+
+> - 3 Max
+
 
 ![[07A0E8BA-CDDC-46D7-A089-A517731DDF72.jpeg|80]]
 - Source: The Mind Illuminated 
@@ -81,6 +76,11 @@ ___
 - Author: Chris Bailey
 - Tags: Self Improvement / Productivity / Mindfulness
 
+![[9C538C72-0BF7-44C8-BDAC-2F5D6A640D41.jpeg|80]]
+- Source: The Master and His Emissary
+- Author: Ian McGilchrist
+- Tags: Neuroscience / Psychology / Spirituality / Philosphy
+
 ##
 ___
 
@@ -91,7 +91,7 @@ ___
 Ideas:  -> [[📝 Note Pad]]
 
 - [ ] Make music
-- [ ] Draw
+- [x] Draw
 
 ### 🎮 Ingestion
 
@@ -105,10 +105,5 @@ Ideas:  -> [[📝 Note Pad]]
 
 #### Videogames:
 
-- [x] Minecraft 
+- [ ] Minecraft 
 
-### Social medias:
-
-- [ ] Instagram
-- [x] Pinterest
-- [ ] 4chan

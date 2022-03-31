@@ -5,7 +5,7 @@
 Author: Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
-Type: #💥/📚 
+Type: #☁️/📚 
 Tags:  [[Philosophy]] / [[Spirituality]] / [[Religion]] / [[Ethics]]
 
 ___
