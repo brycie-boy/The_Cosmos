@@ -61,11 +61,119 @@ Highlight(pink) - Location 3927
 
 ___
 
+- Highlight(pink) - Location 3929
+It might be said that the two wisdom factors are placed at the beginning because a preliminary right view and right intention are required at the outset of the path, right view providing the conceptual understanding of Buddhist principles that guides the development of the other path factors, right intention the proper motivation and direction for the development of the path.
+
+___
+
 - Highlight(pink) - Location 3920
 Contrary to a common assumption, the eight path factors are not steps to be followed in sequence, one after another. They are more appropriately described as components than as steps. Optimally, all eight factors should be present simultaneously, each making its own distinctive contribution, like eight interwoven strands of a cable that give the cable maximum strength.
 
 - Highlight(pink) - Location 3922
 However, until that stage is reached, it is inevitable that the factors of the path exhibit some degree of sequence in their development.
+
+___
+
+- Highlight(pink) - Location 3932
+In the Nikāyas, the Buddha often expounds the practice of the path as a gradual training (anupubbasikkhā) that unfolds in stages from the first step to the final goal. This gradual training is a finer subdivision of the threefold division of the path into moral discipline, concentration, and wisdom.
+
+___
+
+- Highlight(pink) - Location 3934
+Invariably in the suttas the exposition of the gradual training begins with the going forth into homelessness and the adoption of the lifestyle of a bhikkhu, a Buddhist monk. This immediately calls attention to the importance of the monastic life in the Buddha’s pragmatic vision.
+
+- Highlight(pink) - Location 3936
+In principle the entire practice of the Noble Eightfold Path is open to people from any mode of life, monastic or lay, and the Buddha confirms that many among his lay followers were accomplished in the Dhamma and had attained the first three of the four stages of awakening, up to nonreturning
+
+- Highlight(pink) - Location 3938
+(an̄ḡm̄; Theravāda commentators say that lay followers can also attain the fourth stage, arahantship, but they do so either on the verge of death or after attainment immediately seek the going forth).
+
+- Highlight(pink) - Location 3939
+The fact remains, however, that the household life inevitably fosters a multitude of mundane concerns and personal attachments that impede the single-hearted quest for liberation. Thus when the Buddha set out on his own noble quest he did so by going into homelessness,
+
+- Highlight(pink) - Location 3941
+after his enlightenment, as a practical way to help others, he established the Saṅgha, the order of monks and nuns, for those who want to devote themselves fully to the Dhamma unhindered by the cares of household life.
+
+___
+
+- Highlight(pink) - Location 3943
+The gradual training occurs in two versions: a longer version in the Dīgha Nikāya and a middle-length version in the Majjhima Nikāya.
+
+- Highlight(pink) - Location 3944
+(1) the longer version has a more detailed treatment of the observances that pertain to monastic etiquette and ascetic self-restraint;
+
+- Highlight(pink) - Location 3945
+(2) the longer version includes eight types of higher knowledge while the middle-length version has three types. However, as these three types are the ones mentioned in the Buddha’s account of his own enlightenment (see Text II,3(2)), they are by far the most important.
+
+- Highlight(pink) - Location 3951
+The sequence opens with the appearance of a Tathāgata in the world and his exposition of the Dhamma. Having heard this, the disciple acquires faith and follows the Teacher into homelessness. He then undertakes the rules of discipline that promote the purification of conduct and the right livelihood of an ascetic.
+
+Highlight(pink) - Location 3953
+
+The next three steps—contentment, restraint of the sense faculties, and mindfulness and clear comprehension—internalize the process of purification and thereby bridge the transition from moral discipline to concentration.
+
+___
+
+- Highlight(pink) - Location 3954
+The section on the abandonment of the five hindrances deals with the preliminary training in concentration. The five hindrances—sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt—are the principal obstacles to meditative development, and thus they must be removed for the mind to become collected and unified.
+
+___
+
+- Highlight(pink) - Location 3961
+The Buddha enumerates four jhānas, named simply after their numerical position in the series, each more refined and elevated than its predecessor.
+
+- Highlight(pink) - Location 3963
+Although wisdom rather than concentration is the critical factor in the attainment of enlightenment, the Buddha invariably includes the jhānas in the gradual training for at least two reasons: first, because they contribute to the intrinsic perfection of the path; and second, because the deep concentration they induce serves as a basis for the arising of insight.
+
+- Highlight(pink) - Location 3965
+The Buddha calls the jhānas the “footsteps of the Tathāgata” (MN 27.19–22) and shows them to be precursors of the bliss of Nibbāna that lies at the end of the training.
+
+- Highlight(pink) - Location 3967
+From the fourth jhāna three alternative lines of further development become possible.
+
+- Highlight(pink) - Location 3968
+four meditative states that continue the mental unification established by the jhānas. These states, described as “the liberations that are peaceful and formless,” are further refinements of concentration.
+
+- Highlight(pink) - Location 3969
+Distinguished from the jhānas by their transcendence of the subtle mental image that serves as the object in the jhānas, they are named the base of the infinity of space, the base of the infinity of consciousness, the base of nothingness, and the base of neither-perception-nor-nonperception.
+
+= Highlight(pink) - Location 3972
+A second line of development is the acquisition of supernormal knowledge.
+
+- Highlight(pink) - Location 3972
+The Buddha frequently refers to a set of six types,
+
+- Highlight(pink) - Location 3973
+six kinds of direct knowledge
+
+- Highlight(pink) - Location 3973
+The last of these, the knowledge of the destruction of the taints, is “supramundane” or world-transcending and thus marks the culmination of the third line of development. But the other five are all mundane, products of the extraordinarily powerful mental concentration achieved in the fourth jhāna:
+
+- Highlight(pink) - Location 3975
+the supernormal powers, the divine ear, the ability to read the minds of others, the recollection of past lives, and the knowledge of the passing away and rebirth of beings
+
+___
+
+- Highlight(pink) - Location 3977
+The jhānas and the formless attainments by themselves do not issue in enlightenment and liberation. Though lofty and peaceful, they can only silence the defilements that sustain the round of rebirths but cannot eradicate them.
+
+- Highlight(pink) - Location 3978
+To uproot the defilements at the most fundamental level, and thereby arrive at enlightenment and liberation, the meditative process must be directed to a third line of development. This is the contemplation of “things as they really are,” which results in increasingly deeper insights into the nature of existence and culminates in the final goal, the attainment of arahantship.
+
+- Highlight(pink) - Location 3981
+This line of development is the one the Buddha pursues in the passage on the gradual training.
+
+- Highlight(pink) - Location 3982
+he prefaces it with descriptions of two of the direct knowledges,
+
+- Highlight(pink) - Location 3982
+the recollection of past lives and the knowledge of the passing away and rebirth of beings.
+
+- Highlight(pink) - Location 3983
+collectively called the three true knowledges
+
+- Highlight(pink) - Location 3984
+Although the first two are not essential to the realization of arahantship, the Buddha probably includes them here because they reveal the truly vast and profound dimensions of suffering in saṃsāra, thereby preparing the mind for the penetration of the Four Noble Truths by which that suffering is diagnosed and surmounted.
 
 ___
 
