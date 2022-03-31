@@ -41,7 +41,7 @@ ___
 
 Highlight(pink) - Location 3911
 
-The Noble Eightfold Path is the classical formulation of the way to liberation,
+The Noble Eightfold Path is the classical formulation of the way to liberation, as is already clear from the Buddha’s first sermon, in which he calls the Eightfold Path the way to the cessation of suffering.
 
 Highlight(pink) - Location 3923
 
