@@ -11,5 +11,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[LEARNING]] / [[PKM]]
+Tags: [[Learning]] / [[PKM]]
 Status: #⛅️ 

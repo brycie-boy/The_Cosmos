@@ -76,8 +76,6 @@ Highlight(pink) - Location 3923
 
 The eight factors are commonly distributed into three groups as follows:
 
-Bookmark - Location 3923
-
 Highlight(pink) - Location 3924
 
 1. the moral discipline group (sīlakkhandha), made up of right speech, right action, and right livelihood;
