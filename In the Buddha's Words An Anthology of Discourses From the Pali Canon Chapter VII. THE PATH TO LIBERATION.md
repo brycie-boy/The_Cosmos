@@ -39,24 +39,19 @@ the purpose of practicing the spiritual life under the Buddha is “the fading a
 
 ___
 
-Highlight(pink) - Location 3911
-
+- Highlight(pink) - Location 3911
 The Noble Eightfold Path is the classical formulation of the way to liberation, as is already clear from the Buddha’s first sermon, in which he calls the Eightfold Path the way to the cessation of suffering.
 
-Highlight(pink) - Location 3923
-
+- Highlight(pink) - Location 3923
 The eight factors are commonly distributed into three groups as follows:
 
-Highlight(pink) - Location 3924
-
+- Highlight(pink) - Location 3924
 1. the moral discipline group (sīlakkhandha), made up of right speech, right action, and right livelihood;
 
-Highlight(pink) - Location 3926
-
+- Highlight(pink) - Location 3926
 2. the concentration group (sam̄dhikkhandha), made up of right effort, right mindfulness, and right concentration;
 
-Highlight(pink) - Location 3927
-
+- Highlight(pink) - Location 3927
 3. the wisdom group (paññākkhandha), made up of right view and right intention.
 
 ___
@@ -108,8 +103,7 @@ The gradual training occurs in two versions: a longer version in the Dīgha Nik�
 - Highlight(pink) - Location 3951
 The sequence opens with the appearance of a Tathāgata in the world and his exposition of the Dhamma. Having heard this, the disciple acquires faith and follows the Teacher into homelessness. He then undertakes the rules of discipline that promote the purification of conduct and the right livelihood of an ascetic.
 
-Highlight(pink) - Location 3953
-
+- Highlight(pink) - Location 3953
 The next three steps—contentment, restraint of the sense faculties, and mindfulness and clear comprehension—internalize the process of purification and thereby bridge the transition from moral discipline to concentration.
 
 ___
@@ -174,6 +168,9 @@ collectively called the three true knowledges
 
 - Highlight(pink) - Location 3984
 Although the first two are not essential to the realization of arahantship, the Buddha probably includes them here because they reveal the truly vast and profound dimensions of suffering in saṃsāra, thereby preparing the mind for the penetration of the Four Noble Truths by which that suffering is diagnosed and surmounted.
+
+- Highlight(pink) - 3986
+The passage on the gradual training does not explicitly show the process of contemplation by which the meditator develops insight. The whole process is only implied by the mention of its final fruit, called the knowledge of the destruction of the taints
 
 ___
 
