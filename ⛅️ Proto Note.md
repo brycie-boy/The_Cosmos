@@ -4,7 +4,7 @@
 
 “And god said let there be light!”
 
-As the dust of the  [[☁️ Nebula]] condenses, an idea begins to emerge from the clouds and take shape. These ideas are not quite complete though, they are still under development. These notes which are under developpent are what i call proto notes. The goal the proto note is to eventually develop into [[☀️ Main-Sequence Note]]s.
+As the dust of the  [[☁️ Nebula]] condenses, an idea begins to emerge from the clouds and take shape. These ideas are not quite complete though, they are still under development. These notes which are under development are what i call proto notes. The goal the proto note is to eventually develop into [[☀️ Main-Sequence Note]]s.
 
 This development process is as follows:
 

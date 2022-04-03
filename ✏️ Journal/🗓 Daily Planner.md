@@ -61,26 +61,6 @@ ___
 - Author: Carl Jung
 - Tags: Psychology / Psychoanalysis / Spirituallity / occult
 
-#### 📚 Broad source queue
-
-> - 3 Max
-
-
-![[07A0E8BA-CDDC-46D7-A089-A517731DDF72.jpeg|80]]
-- Source: The Mind Illuminated 
-- Author: John Yates
-- Tags: Philosophy / Spirituality / Mindfulness / Neuroscience
-
-![[545C211F-13E5-4636-958B-5061AD8B7903.jpeg|80]]
-- Source: Hyper Focus How to Manage Your Attention in a Distracted World
-- Author: Chris Bailey
-- Tags: Self Improvement / Productivity / Mindfulness
-
-![[9C538C72-0BF7-44C8-BDAC-2F5D6A640D41.jpeg|80]]
-- Source: The Master and His Emissary
-- Author: Ian McGilchrist
-- Tags: Neuroscience / Psychology / Spirituality / Philosphy
-
 ##
 ___
 
