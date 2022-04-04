@@ -12,4 +12,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Learning]] / [[PKM]] / [[Digestion]]
-Status: #⛅️ 
+Status: #☀️ 

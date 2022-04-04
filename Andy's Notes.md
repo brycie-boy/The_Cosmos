@@ -74,8 +74,6 @@ ___
 
 ___
 
-- When Evergreen notes are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle
-
 - These are often declarative or imperative phrases making a strong claim. This puts pressure on me to adequately support the claim in the body.
 
 - If I write a note but struggle to summarize it in a sharp title, that’s often a sign that my thinking is muddy or that this note is about several topics
@@ -105,9 +103,9 @@ ___
 
 - It’s best to factor Evergreen notes by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time
 
-- When you read another book which discusses the same concept, you’ll write a new note on that book. With this approach, there’s no accumulation
-
 - The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic
+
+- When you read another book which discusses the same concept, you’ll write a new note on that book. With this approach, there’s no accumulation
 
 - Your new thoughts on the concept don’t combine with the old ones to form a stronger whole: you just have a scattered set of notes on the concept,
 

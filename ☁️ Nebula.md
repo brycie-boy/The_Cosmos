@@ -1,4 +1,4 @@
-## ☁️ Nebula 
+## ☁️ Nebula #🧠 
 
 ![[967CE5B9-7A18-4BAF-B85F-888A129B8699.png|300]]
 
@@ -12,7 +12,7 @@ Nebulas have 2 stages:
 	
      This is what i call my unprocessed inbox notes. All the annotations i collect during [[Ingestion]] are copied onto an inbox scrap note. These annotations are of little informational value, they are atomized, scattered, and unrelated. This is fine. Think of it as a reminder saying "hey, look at this passage".
 	
-     When processing these annotations you'll want to be able to see the big picture and see clusters of ideas. I cluster annotations by copying the annotations from the scrap into the actual inbox note and sorting them into clusters. Clusters do note have to follow the structure of the original source. Annotations can be clustered in what ever way makes sense to you ([[Do your own thinking]]). These clusters are then written as [[⛅️ Proto Note]]s
+     When processing these annotations you'll want to be able to see the big picture and see clusters of ideas. I cluster annotations by copying the annotations from the scrap into the actual inbox note and sorting them into clusters. Clusters do note have to follow the structure of the original source. Annotations can be clustered in what ever way makes sense to you. These clusters are then written as [[⛅️ Proto Note]]s
 
 - **☁️ Nebula**
 	
@@ -28,4 +28,4 @@ https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Learning]] / [[PKM]] / [[Digestion]] / [[☁️ The Stellar Nursery]]
-Status: #⛅️ 
+Status: #☀️ 

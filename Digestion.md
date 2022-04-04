@@ -7,12 +7,10 @@ There are 4 main stages of the digestion process. these are:
 
 - [[☁️ The Stellar Nursery]]
 - [[☀️ Main-Sequence Note]]s
-- [[✨ Star Clusters]]
-- [[🫀 The Core Note]]
 
 ___
 
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Learning]] / [[PKM]] / [[☯️ The Flow]]
-Status:  #⛅️ 
+Status:  #☀️ 

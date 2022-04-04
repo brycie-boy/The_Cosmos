@@ -15,4 +15,4 @@ ___
 ##### Metadata
 Type: #🔵 
 Tags: [[Learning]] / [[PKM]] / [[☯️ The Flow]]
-Status:  #⛅️ 
+Status:  #☀️ 

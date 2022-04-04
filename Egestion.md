@@ -21,9 +21,10 @@ Here are some of my outputs with their respective workflows:
 
 **Blog Posts**
 
-- Blog posts are the antithesis to books. 
+
 
 **Books**
+
 - To express a large complex interrelated concept I would write a book about it
 - create outlines with notes
 
@@ -37,6 +38,6 @@ ___
 
 
 ##### Metadata
-Status: #⛅️ 
+Status: #☀️ 
 Type: #🔵 
 Tags:
