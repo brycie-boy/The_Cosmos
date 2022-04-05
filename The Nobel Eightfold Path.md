@@ -1,4 +1,4 @@
-## The Nobel Eightfold Path # 🧠
+## The Nobel Eightfold Path # 
 
 
 

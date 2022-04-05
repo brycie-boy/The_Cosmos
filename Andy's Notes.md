@@ -3,8 +3,8 @@
 Author: Andy Matushak
 Publish Date: No date
 Review Date: 2022-3-23
-Status: #💥/🌐
-Tags: 
+Status: #☁️/🌐
+Tags: [[Learning]] / [[PKM]]
 
 ___
 

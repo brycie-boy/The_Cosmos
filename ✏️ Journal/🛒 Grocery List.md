@@ -60,7 +60,7 @@
 - [x] Lean Chicken 
 - [x] Ground beef
 	- Steak
-- [ ] Samon
+- [x] Samon
 	- Shellfish
 	- Shrimp
 - [x] Eggs 
@@ -133,10 +133,7 @@
 - [x] Apple cider vinegar 
 - [x] Ginger 
 - [x] Cayenne 
-- [x] Cinnamon 
-- [x] Snack bars
-	- Love good fats bars
-	- Quest bars
+- [x] Cinnamon
 - [ ] Baked Porkrinds
 - [ ] Jerky
 

@@ -1,10 +1,15 @@
 ## Near by
 
-### Alum Cave Trail. Tennessee
+### Favorites
+
+#### Alum Cave Trail. Tennessee
 ![[11A9786E-25EF-48E2-86EC-65E045587924.jpeg]]
 ![[1E65EC57-D12E-42A0-9487-00898B447DC5.jpeg]]
 
-### Burgess falls Tennessee
+#### Grassy Ridge Bald
+
+
+#### Burgess falls Tennessee
 ![[8B0AECD8-E872-4CBA-8F87-2F99C411E15A.jpeg]]
 
 ## Not near by but in US
