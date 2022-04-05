@@ -6,19 +6,7 @@ Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-3-28
 Status: #💥/📚 
-Tags:
-
-___
-
-[[Inbox scrap 3]]
-
-___
-
-- Highlight(pink) - Location 3879
-In this chapter, we come to the unique distinguishing feature of the Buddha’s teaching, its “supramundane” or “world-transcending” (lokuttara) path to liberation.
-
-- Highlight(pink) - Location 3882
-It aims to lead the practitioner to the state of liberation that lies beyond all realms of conditioned existence, to the same sorrowless and stainless bliss of Nibbāna that the Buddha himself attained on the night of his enlightenment.
+Tags: 
 
 ___
 
@@ -274,31 +262,62 @@ ___
 - Highlight(pink) - Location 3954
 The section on the abandonment of the five hindrances deals with the preliminary training in concentration. The five hindrances—sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt—are the principal obstacles to meditative development, and thus they must be removed for the mind to become collected and unified.
 
-- Highlight(pink) - Location 4309
-“Possessing this aggregate of noble moral discipline, and this noble restraint of the faculties, and possessing this noble mindfulness and clear comprehension, he resorts to a secluded resting place: the forest, the root of a tree, a mountain, a ravine, a hillside cave, a charnel ground, a jungle thicket, an open space, a heap of straw.
-
 - Highlight(pink) - Location 4312
-“On returning from his almsround, after his meal he sits down, folding his legs crosswise, setting his body erect, and establishing mindfulness before him. Abandoning longing for the world, he dwells with a mind free from longing; he purifies his mind from longing.12
+“On returning from his almsround, after his meal he sits down, folding his legs crosswise, setting his body erect, and establishing mindfulness before him. Abandoning longing for the world, he dwells with a mind free from longing; he purifies his mind from longing.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 4314
 Abandoning ill will and hatred, he dwells with a mind free from ill will, compassionate for the welfare of all living beings;
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 4316
 Abandoning dullness and drowsiness, he dwells free from dullness and drowsiness, percipient of light, mindful and clearly comprehending;
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 4317
 Abandoning restlessness and remorse, he dwells free from agitation with a mind inwardly peaceful;
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 4318
 Abandoning doubt, he dwells having gone beyond doubt, unperplexed about wholesome states;
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 4319
 five hindrances, defilements of the mind that weaken wisdom,
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 ___
 
-- Highlight(pink) - Location 3961 ❗️
+- Highlight(pink) - Location 3961 
 The Buddha enumerates four jhānas, named simply after their numerical position in the series, each more refined and elevated than its predecessor.
+
+- Highlight(pink) - Location 4320
+first jhāna, which is accompanied by thought and examination, with rapture and happiness born of seclusion.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4325
+second jhāna,
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4325
+which has internal confidence and unification of mind, is without thought and examination, and has rapture and happiness born of concentration.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4327
+“Again, with the fading away as well of rapture, he dwells equanimous and, mindful and clearly comprehending, he experiences happiness with the body; he enters and dwells in the third jhāna
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4331
+“Again, with the abandoning of pleasure and pain, and with the previous passing away of joy and dejection,
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4332
+fourth jhāna,
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4332
+which is neither painful nor pleasant and includes the purification of mindfulness by equanimity.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 3963
 Although wisdom rather than concentration is the critical factor in the attainment of enlightenment, the Buddha invariably includes the jhānas in the gradual training for at least two reasons: first, because they contribute to the intrinsic perfection of the path; and second, because the deep concentration they induce serves as a basis for the arising of insight.
@@ -306,16 +325,20 @@ Although wisdom rather than concentration is the critical factor in the attainme
 - Highlight(pink) - Location 3965
 The Buddha calls the jhānas the “footsteps of the Tathāgata” (MN 27.19–22) and shows them to be precursors of the bliss of Nibbāna that lies at the end of the training.
 
+- Highlight(pink) - Location 4326
+This too, brahmin, is called a footprint of the Tathāgata … but a noble disciple does not yet come to the conclusion: ‘The Blessed One is perfectly enlightened.…’
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
 - Highlight(pink) - Location 3967
 From the fourth jhāna three alternative lines of further development become possible.
 
 - Highlight(pink) - Location 3968
-four meditative states that continue the mental unification established by the jhānas. These states, described as “the liberations that are peaceful and formless,” are further refinements of concentration.
+first line: four meditative states that continue the mental unification established by the jhānas. These states, described as “the liberations that are peaceful and formless,” are further refinements of concentration.
 
 - Highlight(pink) - Location 3969
 Distinguished from the jhānas by their transcendence of the subtle mental image that serves as the object in the jhānas, they are named the base of the infinity of space, the base of the infinity of consciousness, the base of nothingness, and the base of neither-perception-nor-nonperception.
 
-= Highlight(pink) - Location 3972
+-  Highlight(pink) - Location 3972
 A second line of development is the acquisition of supernormal knowledge.
 
 - Highlight(pink) - Location 3972
@@ -347,8 +370,28 @@ he prefaces it with descriptions of two of the direct knowledges,
 - Highlight(pink) - Location 3982
 the recollection of past lives and the knowledge of the passing away and rebirth of beings.
 
-- Highlight(pink) - Location 3983
+ Highlight(pink) - Location 3983
 collectively called the three true knowledges
+
+- Highlight(pink) - Location 4334
+“When his mind is thus concentrated, purified, bright, unblemished, rid of defilement, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the recollection of past lives.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4338
+‘There I was so named, of such a clan, with such an appearance, such was my nutriment, such my experience of pleasure and pain, such my life-term; and passing away from there, I was reborn elsewhere; and there too I was so named, of such a clan, with such an appearance, such was my nutriment, such my experience of pleasure and pain, such my life-term; and passing away from there, I was reborn here.’
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4342
+“When his mind is thus concentrated, purified, bright, unblemished, rid of defilement, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the passing away and rebirth of beings.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4344
+With the divine eye, which is purified and surpasses the human, he sees beings passing away and being reborn, inferior and superior, fair and ugly, fortunate and unfortunate.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4345
+He understands how beings pass on according to their actions thus: ‘These beings who behaved wrongly by body, speech, and mind, who reviled the noble ones, held wrong view, and undertook actions based on wrong view, with the breakup of the body, after death, have been reborn in a state of misery, in a bad destination, in the lower world, in hell; but these beings who behaved well by body, speech, and mind, who did not revile the noble ones, who held right view, and undertook action based on right view, with the breakup of the body, after death, have been reborn in a good destination, in a heavenly world.’
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 3984
 Although the first two are not essential to the realization of arahantship, the Buddha probably includes them here because they reveal the truly vast and profound dimensions of suffering in saṃsāra, thereby preparing the mind for the penetration of the Four Noble Truths by which that suffering is diagnosed and surmounted.
@@ -359,11 +402,31 @@ The passage on the gradual training does not explicitly show the process of cont
 - Highlight(pink) - Location 3988
 The āsavas or taints are a classification of defilements considered in their role of sustaining the forward movement of the process of birth and death.
 
+- Highlight(pink) - Location 4352
+“When his mind is thus concentrated, purified, bright, unblemished, rid of defilement, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the destruction of the taints.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4354
+He understands as it really is: ‘This is suffering. This is the origin of suffering. This is the cessation of suffering. This is the way leading to the cessation of suffering.’
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
+- Highlight(pink) - Location 4355
+He understands as it really is: ‘These are the taints. This is the origin of the taints. This is the cessation of the taints. This is the way leading to the cessation of the taints.’
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
 - Highlight(pink) - Location 3994
 The three taints mentioned in the Nikāyas are respectively synonyms for craving for sensual pleasures, craving for existence, and ignorance.
 
+- Highlight(pink) - Location 4360
+“When he knows and sees thus, his mind is liberated from the taint of sensual desire, from the taint of existence, and from the taint of ignorance.
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
 - Highlight(pink) - Location 3995
 When the disciple’s mind is liberated from the taints by the completion of the path of arahantship, he reviews his newly won freedom and roars his lion’s roar: “Birth is destroyed, the spiritual life has been lived, what had to be done has been done; there is no more coming back to any state of being.”
+
+- Highlight(pink) - Location 4361
+When it is liberated there comes the knowledge: ‘It is liberated. ’ He understands: ‘Birth is destroyed, the spiritual life has been lived, what had to be done has been done, there is no more coming back to any state of being.’
+(Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 ___
 
