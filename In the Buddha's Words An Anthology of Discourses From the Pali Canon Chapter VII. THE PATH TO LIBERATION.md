@@ -13,6 +13,9 @@ ___
 - Highlight(pink) - Location 3887
 The Shorter Discourse to Māluṅkyāputta (MN 63), shows that the Buddhist path is not designed to provide theoretical answers to philosophical questions.
 
+- Highlight(pink) - Location 3888
+In this sutta the monk Māluṅkyāputta approaches the Buddha and demands answers to ten speculative questions, threatening to leave the Saṅgha if this demand is not satisfied.
+
 - Highlight(pink) - Location 4002
 “These speculative views have been left undeclared by the Blessed One, set aside and rejected by him, namely: ‘the world is eternal’ and ‘the world is not eternal’; ‘the world is finite’ and ‘the world is infinite’; ‘the soul is the same as the body’ and ‘the soul is one thing and the body another’; and ‘after death a Tathāgata exists’ and ‘after death a Tathāgata does not exist’ and ‘after death a Tathāgata both exists and does not exist’ and ‘after death a Tathāgata neither exists nor does not exist.’
 (Majjhima Nikaya 63: Cūḷamāluṅkya Sutta; I 426–32)
