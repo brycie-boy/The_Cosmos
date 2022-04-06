@@ -288,6 +288,9 @@ five hindrances, defilements of the mind that weaken wisdom,
 
 ___
 
+- Highlight(pink) - Location 3960
+The next stage in the sequence describes the attainment of the jhānas, profound states of concentration in which the mind becomes fully absorbed in its object.
+
 - Highlight(pink) - Location 3961 
 The Buddha enumerates four jhānas, named simply after their numerical position in the series, each more refined and elevated than its predecessor.
 
