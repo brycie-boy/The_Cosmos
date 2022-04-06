@@ -1,4 +1,6 @@
-## The four jhanas  # 
+## The jhanas  # 
+
+The jhanas are profound states of concentration in which the mind becomes fully obsorbed in its object. The Buddha enumerates four jhanas, named simiply after their numerical position in the series, each being more refined that its predecessor.
 
 - The first jhana consists of thought and examination, with rapture and happiness born from seclusion. 
 - The second jhana consists of internal confidence and unification of mind, is without thought and examination, and has rapture and happiness born of concentration.

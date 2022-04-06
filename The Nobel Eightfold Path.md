@@ -12,7 +12,7 @@ The eight factors of the path are commonly distributed into three groups as foll
 - The concentration group. Made up of
    - [[Right Effort]]
    - [[Right Mindfullness]]
-   - Right Concentration. Which consists of [[The four jhanas]]
+   - Right Concentration. Which consists of [[The jhanas]]
 
 - The wisdom group. Made up of
    - Right View. Which consisits of the knowledge of [[The Four Nobel Truths]]
