@@ -53,8 +53,6 @@ the purpose of practicing the spiritual life under the Buddha is “the fading a
 - Highlight(pink) - Location 3911
 The Noble Eightfold Path is the classical formulation of the way to liberation, as is already clear from the Buddha’s first sermon, in which he calls the Eightfold Path the way to the cessation of suffering.
 
-___
-
 - Highlight(pink) - Location 3923
 The eight factors are commonly distributed into three groups as follows:
 
@@ -62,7 +60,6 @@ ___
 
 - Highlight(pink) - Location 3924
 the moral discipline group (sīlakkhandha), made up of right speech, right action, and right livelihood;
-(Saṃyutta Nikāya 45:8; V 8–10)
 
 - Highlight(pink) - Location 4172
 “And what, monks, is right speech? Abstinence from false speech, abstinence from malicious speech, abstinence from harsh speech, abstinence from idle chatter: this is called right speech.
