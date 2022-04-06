@@ -40,7 +40,7 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery: ❗️
+- [x] ☁️ Stellar Nursery: ❗️
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 

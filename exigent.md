@@ -12,8 +12,6 @@ ___
 -   [[compelling]]
 -   [[critical]]
 -   [[dire]]
--   [[emergent]]
--   [[imperative]]
 -   [[instant]]
 -   [[pressing]] 
 -   [[urgent]]
