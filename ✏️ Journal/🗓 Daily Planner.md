@@ -6,6 +6,8 @@
 
 > Do immediately
 
+- Get bank account (Sunday)
+
 ### Nonurgent ToDos
 
 #### Quick tasks (Under 5 min)
@@ -21,7 +23,7 @@
 
 - [x] **1.** Organize music library (1 hour)
 
-- [ ] **2.** 
+- [ ] **2.** Look for cars
 
 #### Weekly tasks
 
@@ -70,13 +72,13 @@ ___
 Ideas:  -> [[📝 Note Pad]]
 
 - [ ] Make music
-- [x] Draw
+- [ ] Draw
 
 ### 🎮 Ingestion
 
 #### TV:
 
-- [ ] Mushi Shi 
+- [x] Avatar
 
 #### Movie: 
 
