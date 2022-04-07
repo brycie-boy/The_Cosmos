@@ -1,4 +1,4 @@
-## Right Speech  # 
+## Right Speech  #🧠 
 
 Right Speech consists of abstaining from:
 
@@ -16,4 +16,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]]
-Status: #⛅️ 
+Status: #☀️ 

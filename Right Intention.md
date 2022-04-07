@@ -1,4 +1,4 @@
-## Right Intention  # 
+## Right Intention  #🧠 
 
 Right intention consists of the intention of:
 
@@ -15,4 +15,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]]
-Status: #⛅️ 
+Status: #☀️ 

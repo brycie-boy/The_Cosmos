@@ -229,14 +229,14 @@ Abandoning harsh speech,
 Abandoning idle chatter,
 (Majjhima Nikāya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
+- Highlight(pink) - Location 4286
+“He abstains from injuring seeds and plants. He eats only one meal a day, abstaining from eating at night and outside the proper time.10 He abstains from dancing, singing, music, and unsuitable shows. He abstains from wearing garlands, smartening himself with scent, and embellishing himself with unguents. He abstains from high and large couches. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting elephants, cattle, horses, and mares. He abstains from accepting fields and land. He abstains from going on errands and running messages. He abstains from buying and selling. He abstains from false weights, false metals, and false measures. He abstains from accepting bribes, deceiving, defrauding, and trickery. He abstains from wounding, murdering, binding, brigandage, plunder, and violence.
+(Majjhima Nikāya 27: Cūḷahatthipadopama Sutta; I 175–84)
+
 ___
 
 - Highlight(pink) - Location 3953
 The next three steps—contentment, restraint of the sense faculties, and mindfulness and clear comprehension—internalize the process of purification and thereby bridge the transition from moral discipline to concentration.
-
-- Highlight(pink) - Location 4286
-“He abstains from injuring seeds and plants. He eats only one meal a day, abstaining from eating at night and outside the proper time.10 He abstains from dancing, singing, music, and unsuitable shows. He abstains from wearing garlands, smartening himself with scent, and embellishing himself with unguents. He abstains from high and large couches. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting elephants, cattle, horses, and mares. He abstains from accepting fields and land. He abstains from going on errands and running messages. He abstains from buying and selling. He abstains from false weights, false metals, and false measures. He abstains from accepting bribes, deceiving, defrauding, and trickery. He abstains from wounding, murdering, binding, brigandage, plunder, and violence.
-(Majjhima Nikāya 27: Cūḷahatthipadopama Sutta; I 175–84)
 
 - Highlight(pink) - Location 4294 
 “He becomes content with robes to protect his body and with almsfood to maintain his stomach, and wherever he goes, he sets out taking only these with him.
@@ -358,7 +358,7 @@ the supernormal powers, the divine ear, the ability to read the minds of others,
 
 ___
 
-- Highlight(pink) - Location 3977
+- Highlight(pink) - Location 3977 
 The jhānas and the formless attainments by themselves do not issue in enlightenment and liberation. Though lofty and peaceful, they can only silence the defilements that sustain the round of rebirths but cannot eradicate them.
 
 - Highlight(pink) - Location 3978

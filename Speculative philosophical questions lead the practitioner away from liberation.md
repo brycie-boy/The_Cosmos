@@ -1,4 +1,4 @@
-## Speculative philosophical questions lead the practitioner away from liberation  # 
+## Speculative philosophical questions lead the practitioner away from liberation  #🧠 
 
 In a discourse with the Buddha, the monk Malunkyaputta approached the Buddha demanding answers to a series of ten speculative questions. threatening to leave the Sangha if the demand was not satisfied. These questions are: Is the world eternal? Is the world not eternal? Is the world finite? Is the world infinite? Is the soul the same as the body? Is the soul one thing and the body another? Does a Tathagata exist after death? Does a Tathagata not exist after death? Does a Tathagata neither exist or not exist after death? 
 
@@ -15,4 +15,4 @@ ___
 ##### Metadata
 Type: #🔴 
 Tags: [[Philosophy]] / [[Spirituality]]
-Status: #⛅️ 
+Status: #☀️ 

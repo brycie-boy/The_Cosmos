@@ -1,6 +1,6 @@
-## The Nobel Eightfold Path # 
+## The Nobel Eightfold Path #🧠 
 
-The purpose of the [[Dhamma]] is "the fading away of lust... final [[Nibbana]] without clinging". The Nobel Eight Fold Path being the way to attain each of these aims. The Nobel Eight Fold Path is a classical formulation of the way to liberation. As is already made clear from the Buddhas first sermon where he calls the Nobel Eight Fold Path the way leading to the cessation of suffering.
+The Nobel Eight Fold Path is a classical formulation of the way to [[Nibbana]]. As is already made clear from the Buddhas first sermon where he calls the Nobel Eight Fold Path the way leading to the cessation of suffering.
 
 The eight factors of the path are commonly distributed into three groups as follows:
 
@@ -29,6 +29,6 @@ ___
 - Saṃyutta Nikāya 45:8; V 8–10
 
 ##### Metadata
-Status: #⛅️ 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]]
+Status: #☀️ 

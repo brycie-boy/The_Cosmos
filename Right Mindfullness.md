@@ -1,4 +1,4 @@
-## Right Mindfullness  # 
+## Right Mindfullness  #🧠 
 
 Right Mindfullness consists of the contemplation of:
 
@@ -16,4 +16,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Mindfullness]]
-Status: #⛅️ 
+Status: #☀️ 

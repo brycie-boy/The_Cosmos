@@ -1,4 +1,4 @@
-## Right Action  # 
+## Right Action  #🧠 
 
 Right Action consists of abstaining from:
 
@@ -15,4 +15,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]]
-Status: #⛅️ 
+Status: #☀️ 

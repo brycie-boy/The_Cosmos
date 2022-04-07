@@ -1,4 +1,4 @@
-## Right Effort  # 
+## Right Effort  #🧠 
 
 Through Right Effort. one generates the desire for:
 
@@ -18,4 +18,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]] / [[Mindfullness]]
-Status: #⛅️ 
+Status: #☀️ 

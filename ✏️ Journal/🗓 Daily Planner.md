@@ -11,7 +11,6 @@
 #### Quick tasks (Under 5 min)
 
 - Buy GED tests
-- Buy Meyers dish soap
 
 #### Slow tasks (Over 5 min)
 
@@ -40,7 +39,7 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [x] ☁️ Stellar Nursery: ❗️
+- [ ] ☁️ Stellar Nursery: 
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
