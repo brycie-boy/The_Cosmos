@@ -1,8 +1,8 @@
-# Merit Meditation #🧠 
+# The four devine abodes #🧠 
 
-The practice of meditation is not only the heart of the path to liberation but is a also a source of merit. Meditation practices, even those that do not lead directy to insight, help purify the grosser levels of mental defilement and uncover deeper demensions of the minds purity and radiance. 
+The practice of meditation is not only the heart of the path to liberation but is a also a source of [[Merit]]. Meditation practices, even those that do not lead directy to insight, help purify the grosser levels of mental defilement and uncover deeper demensions of the minds purity and radiance. 
 
-There are four meditations that produce mundane merit refered to by the Buddha as the "devine abodes" or "immesurable states", which include:
+There are four meditations that produce mundane [[Merit]] refered to by the Buddha as the "devine abodes" or "immesurable states", which include:
 
 - lovng-kindness: the wish for the welfare and happiness of all beings
 - compassion: a feeling of empathy for all those afflicted with suffering

@@ -1,4 +1,4 @@
-## The ultimate aim of spiritual practice is complete liberation  # 🧠
+## The ultimate aim of spiritual practice is complete liberation  #🧠
 
 A blissful heavenly rebirth is not the final goal of spiritual practice. At best it is only a temporary waystation. All conditioned states of existance within [[samsara]] are transitory, unreliable, and bound up with pain. Thus the ultimate aim of spiritual practice is complete release from [[Samsara]]. What lies beyond [[Samsara]] is the uncondioned state called [[Nibbana]]. 
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Status: #☀️ 
 Type: #🔴 
-Tags: [[Philosophy]] /  [[Spirituality]] 
+Tags: [[Philosophy]] /  [[Spirituality]] / [[Psychology]]

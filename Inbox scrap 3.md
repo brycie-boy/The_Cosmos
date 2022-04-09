@@ -248,10 +248,6 @@ Highlight(pink) - Location 4610
 
 “When serenity is developed, what benefit does one experience? The mind is developed. When the mind is developed, what benefit does one experience? All lust is abandoned.4
 
-Note - Location 4612
-
-The 5 hinderances
-
 Highlight(pink) - Location 4612
 
 “When insight is developed, what benefit does one experience? Wisdom is developed. When wisdom is developed, what benefit does one experience? All ignorance is abandoned.5

@@ -11,4 +11,4 @@ ___
 ##### Metadata
 Type: #☀️ 
 Tags: #🔴
-Status: [[Philosophy]] / [[Spirituality]]
+Status: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
