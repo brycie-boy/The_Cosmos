@@ -1,4 +1,4 @@
-## Giving (merit) #🧠 
+## Giving for merit
 
 Giving serves to break down the egocentric frame of mind on the basis of which we habitually interact with others.
 
@@ -11,6 +11,6 @@ ___
 - Anguttara Nikaya 8:33; IV 236–37
 
 ##### Metadata
-Status: #☀️ 
+Status: #⛅️ 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] | [[Spirituality]] | [[Ethics]]

@@ -18,3 +18,6 @@
 4. pervasive
 5. tribulation
 6. lament
+7. miscellany
+8. partiality
+9. quiescence

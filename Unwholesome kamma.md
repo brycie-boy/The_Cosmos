@@ -17,7 +17,7 @@ From there arises a variety of secondary defilements, such as:
 - presumption
 - laziness
 
-From the root defilements and secondary defilements arise unwholesome [[kamma]]. as seen in [[The ten pathways of wholesome and unwholsome kamma]].
+From the root defilements and secondary defilements arise unwholesome actions. as seen in [[The ten pathways of wholesome and unwholsome kamma]].
 
 Related: [[Wholesome kamma]]
 
@@ -32,4 +32,4 @@ ___
 ##### Metadata
 Status: #☀️ 
 Type: #🔵/🔵 
-Tags: [[Philosophy]] | [[Spirituality]] | [[Ethics]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]] / [[Psychology]]

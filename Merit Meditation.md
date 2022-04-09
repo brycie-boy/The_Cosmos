@@ -1,6 +1,4 @@
-## Merit Meditation #🧠 
- 
-The [[Uposatha Observance]] regards [[Moral Disipline]] as an observance with a training in self restraint, simplicity, and contentment, in this respect they prepare the disciple for the training of the mind undertaken in the practice of meditation. 
+# Merit Meditation #🧠 
 
 The practice of meditation is not only the heart of the path to liberation but is a also a source of merit. Meditation practices, even those that do not lead directy to insight, help purify the grosser levels of mental defilement and uncover deeper demensions of the minds purity and radiance. 
 

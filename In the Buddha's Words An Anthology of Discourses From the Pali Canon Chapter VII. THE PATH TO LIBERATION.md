@@ -5,8 +5,8 @@
 Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-3-28
-Status: #💥/📚 
-Tags: 
+Status: #☁️/📚 
+Tags: [[Philosophy]] / [[Spirituality]] 
 
 ___
 
