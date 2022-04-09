@@ -2,7 +2,7 @@
 
 The six types direct knowledge are one of the lines of development that can be reached through the fourth jhana (see [[The jhanas]]). These are
 
-- the devine ear
+- [[Remote viewing]]
 - the abililty to read the minds of others
 - the recollection of past lives 
 - the knowledge of the passing away and rebirth of beings

@@ -490,7 +490,7 @@ Highlight(pink) - Location 4877
 
 Highlight(pink) - Location 4878
 
-[1. Mindfulness of Breathing]
+ Mindfulness of Breathing
 
 Highlight(pink) - Location 4879
 
@@ -594,7 +594,7 @@ Highlight(pink) - Location 4941
 
 Highlight(pink) - Location 4943
 
-31. “In this way he dwells contemplating the body in the body internally, or he dwells contemplating the body in the body externally, or he dwells contemplating the body in the body both internally and externally.
+“In this way he dwells contemplating the body in the body internally, or he dwells contemplating the body in the body externally, or he dwells contemplating the body in the body both internally and externally.
 
 Highlight(pink) - Location 4945
 
