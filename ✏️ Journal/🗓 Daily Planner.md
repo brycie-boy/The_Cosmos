@@ -82,7 +82,7 @@ Ideas:  -> [[📝 Note Pad]]
 
 #### TV:
 
-- [ ] Avatar
+- [x] Avatar
 
 #### Movie: 
 

@@ -4,8 +4,10 @@ The jhanas are profound states of concentration in which the mind becomes fully 
 
 - The first jhana consists of thought and examination, with rapture and happiness born from seclusion. 
 - The second jhana consists of internal confidence and unification of mind, is without thought and examination, and has rapture and happiness born of concentration.
-- The fourth jhana consists of the fading away of rapture and happiness which comes a feeling of equanimity.
-- The forth jhana consists of the abandoning of pleasure and pain and includes the purification of mindfullness by equanimity.
+- The third jhana consists of the fading away of rapture and happiness which comes a feeling of equanimity.
+- The fourth jhana consists of the abandoning of pleasure and pain and includes the purification of mindfullness by equanimity.
+
+From the fourth jhana, three lines of development become possible. The first line is the [[The formless attainments]]. The second line is the acquisition of [[Supernormal Knowledge]]. The third line is [[The knowledge of the destruction of taints]].
 
 ___
 

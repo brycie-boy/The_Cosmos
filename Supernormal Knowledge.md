@@ -1,6 +1,6 @@
-## The six types of direct knowledge  #🧠 
+## Supernormal Knowledge  #🧠 
 
-The six types direct knowledge are one of the lines of development that can be reached through the fourth jhana (see [[The jhanas]]). These are
+The Buddha refers to sex types of supernormal knowledge he calls the “six types of direct knowledge” which are one of the lines of development that can be reached through the fourth jhana (see [[The jhanas]]). These are
 
 - [[Remote viewing]]
 - the abililty to read the minds of others
