@@ -34,4 +34,3 @@ Type: #🔵/💬 ing]]
 ##### Metadata
 Status: ☀️
 Type: #🔵/💬 
-Tags: [[Vocabulary]]

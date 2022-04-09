@@ -16,4 +16,3 @@ https://www.merriam-webster.com/dictionary/pedagogic
 ##### Metadata
 Status: #☀️ 
 Type: #🔵/💬 
-Tags: [[Vocabulary]]

@@ -50,4 +50,3 @@ _noun_
 ##### Metadata
 Status: #☀️ 
 Type: #🔵/💬 
-Tags: [[Vocabulary]]

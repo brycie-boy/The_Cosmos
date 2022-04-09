@@ -17,4 +17,3 @@ https://www.merriam-webster.com/dictionary/covetousness
 ##### Metadata
 Status: #☀️ 
 Type: #🔵/💬 
-Tags: [[Vocabulary]]
