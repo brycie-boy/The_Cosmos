@@ -90,17 +90,32 @@ ___
 - Highlight(pink) - Location 4481
 Text VIII,2(3) again confirms that both serenity and insight are necessary, and also indicates the skills needed for their respective practice.
 
+- Highlight - Location 4638
+“These four kinds of persons, O monks, are found existing in the world. What four? “Here, monks, a certain person gains internal serenity of mind but does not gain the higher wisdom of insight into phenomena.12 Another person gains the higher wisdom of insight into phenomena but does not gain internal serenity of mind. Another person gains neither internal serenity of mind nor the higher wisdom of insight into phenomena. And another person gains both internal serenity of mind and the higher wisdom of insight into phenomena.
+
 - Highlight(pink) - Location 4482
 The cultivation of serenity requires skill in steadying, composing, unifying, and concentrating the mind.
 
+- Highlight - Location 4650
+‘How, friend, should the mind be steadied? How should the mind be composed? How should the mind be unified? How should the mind be concentrated?
+(Anguttara Nikaya 4:94; II 93–95)
+
 - Highlight(pink) - Location 4482
 The cultivation of insight requires skill in observing, investigating, and discerning conditioned phenomena, spoken of as “formations” (saṅkhārā).
+
+- Highlight - Location 4644
+‘How, friend, should formations be seen? How should formations be explored? How should formations be discerned with insight?’
+(Anguttara Nikaya 4:94; II 93–95)
 
 - Highlight(pink) - Location 4485
 But while meditators may start off differently, eventually they must all strike a healthy balance between serenity and insight. The exact point of balance between the two will differ from one person to another,
 
 - Highlight(pink) - Location 4486
 but when a meditator achieves the appropriate balance, serenity and insight join forces to issue in the knowledge and vision of the Four Noble Truths. This knowledge and vision—the world-transcending wisdom—occurs in four distinct “installments,” the four stages of realization which, in sequence, permanently destroy ignorance along with the affiliated defilements.
+
+- Highlight - Location 4657
+“Therein, monks, the person who gains both internal serenity of mind and the higher wisdom of insight into phenomena should establish himself in just these wholesome states and make a further effort for the destruction of the taints.”
+(Anguttara Nikaya 4:94; II 93–95)
 
 ___
 
