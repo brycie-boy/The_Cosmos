@@ -1,6 +1,6 @@
 ## Nibbana  #🧠
 
-Nibbana is a state that transends the conditioned world. The realization of nibbana comes though the blossoming of wisdom and delivers perfect peace, untarnished happiness, and the stilling of the minds compulsive drives.
+Nibbana is a state that transends the conditioned world. The realization of nibbana comes though the blossoming of wisdom though [[Insight meditation]] and delivers perfect peace, untarnished happiness, and the stilling of the minds compulsive drives.
 
 ___
 

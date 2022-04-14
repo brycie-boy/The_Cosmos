@@ -1,6 +1,6 @@
-## Moral Discipline #🧠 
+## The five precepts #🧠 
 
-Moral discipline consisits of five general training rules known as the five precepts, which include abstaining from:
+In Buddhism, there are five general training rules known as the five precepts, which include abstaining from:
 
 - killing
 - stealing

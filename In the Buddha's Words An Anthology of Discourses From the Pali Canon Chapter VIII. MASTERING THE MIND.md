@@ -10,23 +10,6 @@ Tags:
 
 ___
 
-[[Inbox scrap 3]]
-
-___
-
-- Highlight(pink) - Location 4455
-The uncultivated mind is easy prey to the defilements—greed, hatred, and delusion and their offshoots. The defilements generate unwholesome kamma, which brings painful results both in this life and in future lives. Since the defilements are the cause of our suffering and bondage, the path to liberation necessarily involves a meticulous process of mental training intended to subdue them and ultimately uproot them from their nesting place in the deep recesses of the mind.
-
-- Highlight(pink) - Location 4599
-“I do not perceive even one other thing, O monks, that leads to such great harm as an undeveloped mind. An undeveloped mind leads to great harm.
-(Anguttara Nikaya 1: iii, 1, 2, 3, 4, 9, 10; I5–6)
-
-- Highlight(pink) - Location 4600
-“I do not perceive even one other thing, O monks, that leads to such great benefit as a developed mind. A developed mind leads to great benefit.
-(Anguttara Nikaya 1: iii, 1, 2, 3, 4, 9, 10; I5–6)
-
-___
-
 - Highlight(pink) - Location 4459
 Development of the mind, for the Nikāyas, means the development of serenity (samatha) and insight (vipassanā).
 
@@ -50,43 +33,6 @@ When insight is developed, it leads to the higher wisdom of insight into the tru
 
 ___
 
-- Highlight(pink) - Location 4463
-Since concentration is the basis for wisdom, the Nikāyas usually treat the development of serenity as the precursor to the development of insight. However, because the aptitudes of meditators differ, several suttas allow for alternative approaches to this sequence. Text VIII,2(2) speaks of four approaches to mental cultivation:
-
-- Highlight(pink) - Location 4621
-“Friends, whatever monks or nuns declare before me that they have attained the final knowledge of arahantship, all these do so in one of four ways. What four?
-(Anguttara Nikaya 4:170; II 156–57)
-
-- Highlight(pink) - Location 4466
-The first approach, the classical one, is to develop serenity first and insight afterward. By “serenity” is meant the jhānas or (according to the Pāli commentaries) a state bordering on the jhānas called “access” or “threshold” concentration (upacārasamādhi).
-
-- Highlight(pink) - Location 4622
-“Here, friends, a monk develops insight preceded by serenity.
-(Anguttara Nikaya 4:170; II 156–57)
-
-- Highlight(pink) - Location 4468
-A second approach is to develop insight first and serenity afterward. Since there can be no real insight without concentration, such meditators—presumably people with sharp intellectual faculties—must initially use concentration as the basis for acquiring insight into the true characteristics of phenomena. However, it seems that such concentration, though sufficient for insight, is not strong enough to allow for a breakthrough to the supramundane path. These meditators must therefore return to the task of unifying the mind before resuming the work of insight. Such insight, based on concentration, culminates in the supramundane path.
-
-- Highlight(pink) - Location 4626
-“Or again, friends, a monk develops serenity preceded by insight.
-(Anguttara Nikaya 4:170; II 156–57)
-
-- Highlight(pink) - Location 4473
-A third approach is to develop serenity and insight in tandem. Meditators who take this approach first attain a particular level of concentration, such as a jh̄na or formless attainment, and then employ it as a basis for insight. Having developed insight, they then return to concentration, attain a different jhāna or formless attainment, and use that as a basis for insight. Thus they proceed until they reach the supramundane path.
-
-- Highlight(pink) - Location 4629
-“Or again, friends, a monk develops serenity and insight joined in pairs.
-(Anguttara Nikaya 4:170; II 156–57)
-
-- Highlight(pink) - Location 4477
-The description of the fourth approach is somewhat obscure. The sutta says that “a monk’s mind is seized by agitation about the teachings,” and then, some time later, he gains concentration and attains the supramundane path. This statement suggests a person initially driven by such intense desire to understand the Dhamma that he or she cannot focus clearly upon any meditation object. Later, with the aid of certain supporting conditions, this person manages to subdue the mind, gain concentration, and attain the supramundane path.
-
-- Highlight(pink) - Location 4632
-“Or again, friends, a monk’s mind is seized by agitation about the teaching. But there comes a time when his mind becomes internally steadied, composed, unified, and concentrated; then the path arises in him.
-(Anguttara Nikaya 4:170; II 156–57)
-
-___
-
 - Highlight(pink) - Location 4481
 Text VIII,2(3) again confirms that both serenity and insight are necessary, and also indicates the skills needed for their respective practice.
 
@@ -107,6 +53,8 @@ The cultivation of insight requires skill in observing, investigating, and disce
 ‘How, friend, should formations be seen? How should formations be explored? How should formations be discerned with insight?’
 (Anguttara Nikaya 4:94; II 93–95)
 
+___
+
 - Highlight(pink) - Location 4485
 But while meditators may start off differently, eventually they must all strike a healthy balance between serenity and insight. The exact point of balance between the two will differ from one person to another,
 
@@ -116,14 +64,6 @@ but when a meditator achieves the appropriate balance, serenity and insight join
 - Highlight - Location 4657
 “Therein, monks, the person who gains both internal serenity of mind and the higher wisdom of insight into phenomena should establish himself in just these wholesome states and make a further effort for the destruction of the taints.”
 (Anguttara Nikaya 4:94; II 93–95)
-
-___
-
-- Highlight(pink) - Location 4490
-The main impediments to the development of serenity and insight are collectively called the “five hindrances,”
-
-- Highlight(pink) - Location 4492
-just as different impurities of water prevent us from clearly seeing the reflection of our face in a bowl of water, so the five hindrances prevent us from properly understanding our own good and the good of others. A meditator’s initial efforts therefore have to be devoted to the task of overcoming the hindrances. Once these are overcome, success is assured in the practice of serenity and insight.
 
 ___
 
@@ -198,13 +138,13 @@ Thus the meditation on the unattractive nature of the body (see Text VIII,8 §10
 - Highlight(pink) - Location 4509
 The perception of impermanence is a subject of insight meditation, the other three subjects of serenity meditation.
 
-- Highlight(pink) - Location 4510
+- Highlight(pink) - Location 4510 ❗️
 Loving-kindness is the first of the four divine abodes (brahmavihāra) or immeasurable states (appamaññā) briefly discussed in chapter V: boundless loving-kindness, compassion, altruistic joy, and equanimity. These are respectively the antidotes to ill will, harmfulness, discontent, and partiality.
 
 ___
 
 - Highlight(pink) - Location 4866
-THE FOUR ESTABLISHMENTS OF MINDFULNESS
+THE FOUR ESTABLISHMENTS OF MINDFULNESS 
 
 - Highlight(pink) - Location 4523
 The discourse generally considered to offer the most comprehensive instructions on meditation practice is the Satipaṭṭhāna Sutta.
@@ -354,7 +294,7 @@ Contemplation of phenomena (dhammānupassanā). The word dhammā here probably s
 
 ___
 
-- Highlight(pink) - Location 4562 ❗️
+- Highlight(pink) - Location 4562 
 Although not specified in the sutta, a progressive sequence seems to be implied by the terms describing each contemplation.
 
 - Highlight(pink) - Location 4565
@@ -362,6 +302,15 @@ These all suggest that progressive contemplation brings enhanced concentration.
 
 - Highlight(pink) - Location 4565
 In the contemplation of phenomena, the emphasis shifts toward insight. One begins by observing and overcoming the five hindrances. The overcoming of the hindrances marks success in concentration. With the concentrated mind, one contemplates the five aggregates and the six sense bases. As contemplation gains momentum, the seven factors of enlightenment become manifest, and the development of the seven enlightenment factors culminates in knowledge of the Four Noble Truths. Knowledge of the Four Noble Truths liberates the mind from the defilements and thus leads to the attainment of Nibbāna.
+(SN 54:13; V 328–33 ≠ MN 118.15–43; III 82–88)
+
+- Highlight(pink) - Location 5146
+“Here, Ānanda, a monk develops the enlightenment factor of mindfulness, which is based upon seclusion, dispassion, and cessation, maturing in release. He develops the enlightenment factor of discrimination of phenomena … the enlightenment factor of energy … the enlightenment factor of rapture ... the enlightenment factor of tranquillity … the enlightenment factor of concentration … the enlightenment factor of equanimity, which is based upon seclusion, dispassion, and cessation, maturing in release.
+(Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
+
+- Highlight(pink) - Location 5150
+“It is, Ānanda, when the seven factors of enlightenment are developed and cultivated in this way that they fulfill true knowledge and liberation.”
+(Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
 
 - Highlight(pink) - Location 4573
 The second portion states that the meditator contemplates the object as subject to origination, as subject to vanishing, and as subject to both origination and vanishing; this brings to light the characteristic of impermanence and thus leads to insight into the three characteristics: impermanence, suffering, and nonself (anicca, dukkha, anattā).
@@ -370,6 +319,9 @@ The second portion states that the meditator contemplates the object as subject 
 And the fourth describes the meditator as dwelling in a state of complete detachment, not clinging to anything in the world.
 
 ___
+
+- Highlight(pink) - Location 5052
+MINDFULNESS OF BREATHING
 
 - Highlight(pink) - Location 4578
 In the Satipaṭṭhāna Sutta, mindfulness of breathing (ānāpānasati) is included as merely one meditation subject among others, but the Nikāyas assign it a position of fundamental importance. The Buddha said that he used mindfulness of breathing as his main meditation subject for the attainment of enlightenment (see SN 54:8; V 317).
@@ -385,3 +337,74 @@ The first tetrad contains the four facets mentioned in the Satipaṭṭhāna Sut
 
 - Highlight(pink) - Location 4589
 The four establishments of mindfulness, based on mindfulness of breathing, in turn fulfill the seven factors of enlightenment; and these in turn fulfill true knowledge and liberation. This exposition thus shows mindfulness of breathing to be a complete subject of meditation that begins with simple attention to the breath and culminates in the permanent liberation of the mind.
+
+- Highlight(pink) - Location 5059
+“Concentration by mindfulness of breathing, Ānanda, is the one thing which, when developed and cultivated, fulfills the four establishments of mindfulness. The four establishments of mindfulness, when developed and cultivated, fulfill the seven factors of enlightenment. The seven factors of enlightenment, when developed and cultivated, fulfill true knowledge and liberation.
+
+- Highlight(pink) - Location 5070
+“He trains thus: ‘Experiencing rapture, I will breathe in’; he trains thus: ‘Experiencing rapture, I will breathe out.’
+
+- Highlight(pink) - Location 5071
+He trains thus: ‘Experiencing happiness, I will breathe in’; he trains thus: ‘Experiencing happiness, I will breathe out.’
+
+- Highlight(pink) - Location 5072
+He trains thus: ‘Experiencing the mental formation, I will breathe in’; he trains thus: ‘Experiencing the mental formation, I will breathe out.’
+
+- Highlight(pink) - Location 5073
+He trains thus: ‘Tranquilizing the mental formation, I will breathe in’; he trains thus: ‘Tranquilizing the mental formation, I will breathe out.’55
+
+- Highlight(pink) - Location 5075
+“He trains thus: ‘Experiencing the mind, I will breathe in’; he trains thus: ‘Experiencing the mind, I will breathe out.’
+
+- Highlight(pink) - Location 5076
+He trains thus: ‘Gladdening the mind, I will breathe in’; he trains thus: ‘Gladdening the mind, I will breathe out.’
+
+- Highlight(pink) - Location 5077
+He trains thus: ‘Concentrating the mind, I will breathe in’; he trains thus: ‘Concentrating the mind, I will breathe out.’
+
+- Highlight(pink) - Location 5078
+He trains thus: ‘Liberating the mind, I will breathe in’; he trains thus: ‘Liberating the mind, I will breathe out.’56
+
+- Highlight(pink) - Location 5080
+“He trains thus: ‘Contemplating impermanence, I will breathe in’; he trains thus: ‘Contemplating impermanence, I will breathe out.’
+
+- Highlight(pink) - Location 5081
+He trains thus: ‘Contemplating fading away, I will breathe in’; he trains thus: ‘Contemplating fading away, I will breathe out.’
+
+- Highlight(pink) - Location 5082
+He trains thus: ‘Contemplating cessation, I will breathe in’; he trains thus: ‘Contemplating cessation, I will breathe out.’
+
+- Highlight(pink) - Location 5083
+He trains thus: ‘Contemplating relinquishment, I will breathe in’; he trains thus: ‘Contemplating relinquishment, I will breathe out.’57
+
+___
+
+- Highlight(pink) - Location 5106
+Fulfilling the seven factors of enlightenment
+
+- Highlight(pink) - Location 5109
+Whenever, Ānanda, unmuddled mindfulness has been established in a monk, on that occasion the enlightenment factor of mindfulness is aroused by the monk;
+
+- Highlight(pink) - Location 5114
+Whenever, Ānanda, a monk dwelling thus mindfully discriminates that phenomenon with wisdom, examines it, makes an investigation of it, on that occasion the enlightenment factor of discrimination of phenomena61 is aroused by the monk;
+
+- Highlight(pink) - Location 5119
+Whenever, Ānanda, a monk’s energy is aroused without slackening as he discriminates that phenomenon with wisdom, examines it, makes an investigation of it, on that occasion the enlightenment factor of energy is aroused by the monk;
+
+- Highlight(pink) - Location 5122
+Whenever, Ānanda, spiritual rapture arises in a monk whose energy is aroused, on that occasion the enlightenment factor of rapture is aroused by the monk; on that occasion the monk develops the enlightenment factor of rapture;
+
+- Highlight(pink) - Location 5125
+Whenever, Ānanda, the body becomes tranquil and the mind becomes tranquil in a monk whose mind is uplifted by rapture, on that occasion the enlightenment factor of tranquillity is aroused by the monk;
+
+- Highlight(pink) - Location 5129
+Whenever, Ānanda, the mind becomes concentrated in a monk whose body is tranquil and who is happy, on that occasion the enlightenment factor of concentration is aroused by the monk;
+
+- Highlight(pink) - Location 5132
+Whenever, Ānanda, a monk becomes one who closely looks on with equanimity at the mind thus concentrated, on that occasion the enlightenment factor of equanimity is aroused by the monk;
+
+- Highlight(pink) - Location 5135
+ever, Ānanda, a monk dwells contemplating feelings in feelings … mind in mind ... phenomena in phenomena, on that occasion unmuddled mindfulness is established in that monk. Whenever, Ānanda, unmuddled mindfulness has been established in a monk, on that occasion the enlightenment factor of mindfulness is aroused by the monk;
+
+- Highlight(pink) - Location 5140
+Whenever, Ānanda, a monk becomes one who closely looks on with equanimity at the mind thus concentrated, on that occasion the enlightenment factor of equanimity is aroused by the monk

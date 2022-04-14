@@ -21,3 +21,4 @@
 7. miscellany
 8. partiality
 9. quiescence
+10. vigilant

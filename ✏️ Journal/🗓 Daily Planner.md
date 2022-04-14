@@ -42,7 +42,7 @@ ___
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
 - [ ] ☁️ Stellar Nursery: ❗️
-- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
+- [ ] 💬 Words (10 max): ❗️  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
