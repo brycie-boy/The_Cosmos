@@ -12,11 +12,7 @@
 
 > - 10 Words max  [[🗓 Daily Planner]]
 
-7. miscellany
-8. partiality
-9. quiescence
-10. vigilant
-11. semantic
-12. seminal
-13. armamentarium
-14. envisaged
+1. semantic
+2. seminal
+3. armamentarium
+4. envisaged

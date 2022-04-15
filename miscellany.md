@@ -1,5 +1,5 @@
 
-## miscellany  # 
+## miscellany  #🧠 
 
 _noun_
 
