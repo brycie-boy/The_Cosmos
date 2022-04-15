@@ -12,13 +12,11 @@
 
 > - 10 Words max  [[🗓 Daily Planner]]
 
-1. vanity
-2. refractory
-3. prism
-4. pervasive
-5. tribulation
-6. lament
 7. miscellany
 8. partiality
 9. quiescence
 10. vigilant
+11. semantic
+12. seminal
+13. armamentarium
+14. envisaged

@@ -1,13 +1,41 @@
-## The four establishments of mindfullness  # 
 
-The establishments of [[Mindfullness]] do not recommend a single object of meditation. nor do they provide any paticular methods of meditation. instead, their purpose is to explain how to establish the appropriate frame of mind in order to attain [[Nibbana]]. According to the standard formula that accompanies each exersize, an establishment of [[Mindfullness]] is a mode of dwelling. That mode of dwelling involves the observation of objects in the proper state of mind. This state of mind consists of three positive qualities: energy, [[Mindfullness]], and clear comprehension. 
+## miscellany  # 
+
+_noun_
+
+1. separate writings collected into one volume
+
+2. a collection of writings on various subjects
+
+3. a mixture of various things
 
 ___
 
-##### References
+##### Synonyms
 
+-   [[agglomerate]]
+-   [[agglomeration]]
+-   [[assortment]]
+-   [[clutter]]
+-   [[collage]]
+-   [[hash]]
+-   [[hodgepodge]]
+-   [[jumble]]
+-   [[litter]]
+-   [[mishmash]]
+-   [[montage]]
+-   [[patchwork]]
+-   [[salad]]
+-   [[scramble]]
+-   [[shuffle]]
+-   [[smorgasbord]]
+-   [[stew]]
+-   [[variety]]
+
+##### References 
+
+- https://www.merriam-webster.com/dictionary/miscellany
 
 ##### Metadata
-Type: 
-Tags:
-Status: 
+Type: #🔵/💬 
+Status: #☀️ 

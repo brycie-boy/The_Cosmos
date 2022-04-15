@@ -60,7 +60,7 @@
 - [x] Lean Chicken 
 - [x] Ground beef
 	- Steak
-- [x] Samon
+- [ ] Samon
 	- Shellfish
 	- Shrimp
 - [x] Eggs 
@@ -129,7 +129,7 @@
 - [x] Redmond / pink salt
 - [ ] Pepper
 - [x] Stevia / Monkfruit
-- [x] Cacao 
+- [ ] Cacao 
 - [x] Apple cider vinegar 
 - [x] Ginger 
 - [x] Cayenne 
