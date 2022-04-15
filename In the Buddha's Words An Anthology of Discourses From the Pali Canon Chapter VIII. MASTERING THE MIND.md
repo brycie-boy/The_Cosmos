@@ -138,7 +138,7 @@ Thus the meditation on the unattractive nature of the body (see Text VIII,8 §10
 - Highlight(pink) - Location 4509
 The perception of impermanence is a subject of insight meditation, the other three subjects of serenity meditation.
 
-- Highlight(pink) - Location 4510 ❗️
+- Highlight(pink) - Location 4510 
 Loving-kindness is the first of the four divine abodes (brahmavihāra) or immeasurable states (appamaññā) briefly discussed in chapter V: boundless loving-kindness, compassion, altruistic joy, and equanimity. These are respectively the antidotes to ill will, harmfulness, discontent, and partiality.
 
 ___
