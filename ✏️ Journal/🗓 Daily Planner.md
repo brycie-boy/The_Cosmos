@@ -48,6 +48,7 @@ ___
 ### 3. 📥 Ingestion
 
 > - 2 Max
+> - ❗️Reminder: Do not think about any other sources besides these. Don’t think about sources you might want to consume later. Use this as a way to do so
 
 - [ ] **1.** 
 

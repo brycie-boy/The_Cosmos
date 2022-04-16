@@ -16,3 +16,7 @@
 2. seminal
 3. armamentarium
 4. envisaged
+5. chagrin
+6. benighted
+7. myriad
+8. noxious
