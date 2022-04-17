@@ -187,6 +187,7 @@ ___
 
 - Highlight(pink) - Location 4871
 contemplating the body in the body,
+(Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63)
 
 - Highlight(pink) - Location 4550
 Contemplation of the body (kāyānupassanā). This comprises fourteen subjects of meditation: mindfulness of breathing; contemplation of the four postures; clear comprehension of activities; attention to the unattractive nature of the body (viewed by way of its organs and tissues); attention to the elements; and nine charnel ground contemplations, contemplations based on corpses in different stages of decomposition.
