@@ -313,6 +313,8 @@ In the contemplation of phenomena, the emphasis shifts toward insight. One begin
 “It is, Ānanda, when the seven factors of enlightenment are developed and cultivated in this way that they fulfill true knowledge and liberation.”
 (Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
 
+___
+
 - Highlight(pink) - Location 4573
 The second portion states that the meditator contemplates the object as subject to origination, as subject to vanishing, and as subject to both origination and vanishing; this brings to light the characteristic of impermanence and thus leads to insight into the three characteristics: impermanence, suffering, and nonself (anicca, dukkha, anattā).
 
