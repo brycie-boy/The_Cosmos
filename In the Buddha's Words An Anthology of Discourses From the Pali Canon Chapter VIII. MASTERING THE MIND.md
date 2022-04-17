@@ -234,6 +234,14 @@ a monk reviews this same body up from the soles of the feet and down from the to
 
 ___
 
+- Highlight - Location 4901
+[3. Clear Comprehension]
+
+- Highlight - Location 4902
+“Again, monks, a monk is one who acts with clear comprehension when going forward and returning;34 who acts with clear comprehension when looking ahead and looking away; who acts with clear comprehension when bending and stretching his limbs; who acts with clear comprehension when wearing his robes and carrying his outer robe and bowl; who acts with clear comprehension when eating, drinking, chewing, and tasting; who acts with clear comprehension when defecating and urinating; who acts with clear comprehension when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
+
+___
+
 - Highlight(pink) - Location 4919
 Elements
 
