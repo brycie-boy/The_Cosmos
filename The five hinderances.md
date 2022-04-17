@@ -1,6 +1,6 @@
 ## The five hinderances  #🧠 
 
-The five hinderances are the principle obsticales of meditative development and thus must be removed for the mind to become collected and unified. These include:
+The five hinderances are the principle obsticales of meditative development, that is [[Serenity]] and [[Insight]], and thus must be removed for the mind to become collected and unified. These include:
 
 - sensual desire
 - ill will

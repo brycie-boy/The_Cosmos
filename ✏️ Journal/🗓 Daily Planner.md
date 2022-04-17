@@ -41,8 +41,8 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery: ❗️
-- [x] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
+- [x] ☁️ Stellar Nursery: ❗️
+- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
@@ -56,7 +56,7 @@ ___
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
 - Author: Bhikku Bodhi
 >
-- [x] **2.**
+- [ ] **2.**
 
 ![[01A1FE38-CACB-4541-AD4A-8BA758F3E976.jpeg|80]]
 - Source: Prometheus Rising
