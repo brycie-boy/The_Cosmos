@@ -161,8 +161,6 @@ The word sati originally meant memory, but in the present context it signifies r
 - Highlight(pink) - Location 4537
 Mindfulness prevents the mind from slipping away, from drifting off under the sway of random thoughts into mental proliferation and forgetfulness. Mindfulness is often said to occur in close conjunction with “clear comprehension,” a clear knowledge and understanding of what one is experiencing.
 
-___
-
 - Highlight(pink) - Location 4539
 The opening formula of the sutta says that one engages in this practice after “having subdued longing and dejection in regard to the world” (vineyya loke abhijjhā-domanassaṃ). The expression “having subdued” need not be taken to imply that one must first overcome longing and dejection—which,
 
@@ -172,16 +170,17 @@ The expression might be understood to mean that the practice is itself the means
 - Highlight(pink) - Location 4543
 Thus, while subduing the obstructive influences of greed and aversion, the meditator arouses the positive qualities of energy, mindfulness, and clear comprehension, and contemplates four objective domains: the body, feelings, states of mind, and phenomena. It is these four objective domains that differentiate mindful observation into four establishments of mindfulness.
 
-___
-
-- Highlight(pink) - Location 4546
-The four objective domains divide the expository portion of the Satipaṭṭhāna Sutta into four major sections.
-
-- Highlight(pink) - Location 4547
-Two of these sections, the first and the fourth, have several subdivisions. When the divisions are added up, we obtain altogether twenty-one meditation subjects.
-
 - Highlight(pink) - Location 4548
 Several of these can be used as means to develop serenity (samatha), but the satipaṭṭhāna system as a whole seems especially designed for the development of insight.
+
+- Highlight - Location 4565
+Each major contemplative exercise is supplemented by an auxiliary section, a “refrain” with four subdivisions. The first states that the meditator contemplates the object internally (within his or her own experience), externally (reflectively considering it as occurring within the experience of others), and both; this ensures that one obtains a comprehensive and balanced view of the object.
+
+- Highlight(pink) - Location 4573
+The second portion states that the meditator contemplates the object as subject to origination, as subject to vanishing, and as subject to both origination and vanishing; this brings to light the characteristic of impermanence and thus leads to insight into the three characteristics: impermanence, suffering, and nonself (anicca, dukkha, anattā).
+
+- Highlight(pink) - Location 4577
+And the fourth describes the meditator as dwelling in a state of complete detachment, not clinging to anything in the world.
 
 ___
 
@@ -318,17 +317,6 @@ In the contemplation of phenomena, the emphasis shifts toward insight. One begin
 - Highlight(pink) - Location 5150
 “It is, Ānanda, when the seven factors of enlightenment are developed and cultivated in this way that they fulfill true knowledge and liberation.”
 (Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
-
-___
-
-- Highlight - Location 4565
-Each major contemplative exercise is supplemented by an auxiliary section, a “refrain” with four subdivisions. The first states that the meditator contemplates the object internally (within his or her own experience), externally (reflectively considering it as occurring within the experience of others), and both; this ensures that one obtains a comprehensive and balanced view of the object.
-
-- Highlight(pink) - Location 4573
-The second portion states that the meditator contemplates the object as subject to origination, as subject to vanishing, and as subject to both origination and vanishing; this brings to light the characteristic of impermanence and thus leads to insight into the three characteristics: impermanence, suffering, and nonself (anicca, dukkha, anattā).
-
-- Highlight(pink) - Location 4577
-And the fourth describes the meditator as dwelling in a state of complete detachment, not clinging to anything in the world.
 
 ___
 
