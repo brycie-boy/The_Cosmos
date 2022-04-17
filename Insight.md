@@ -1,4 +1,4 @@
-## Insight meditation  # 
+## Insight # 
 
 Insight, when developed leads to higher wisdom into the true nature of phenomena and permanently liberates the mind from ignorance and leads to [[Nibbana]]. The cultivation of insight requires skill in observing, investigating, and decerning the nature of conditioned phenomena, or "formations".
 

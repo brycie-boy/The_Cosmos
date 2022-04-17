@@ -1,4 +1,4 @@
-## Serenity meditation  # 
+## Serenity # 
 
 Serenity, when developed, leads to the liberation of mind from defilements such as lust and ill will. The cultivation of serenity requires steadying, composing, unifying, concentrating the mind.
 

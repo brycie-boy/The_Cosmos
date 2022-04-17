@@ -1,8 +1,6 @@
 ## The Nobel Eightfold Path #🧠 
 
-The Nobel Eight Fold Path is a classical formulation of the way to [[Nibbana]]. As is already made clear from the Buddhas first sermon where he calls the Nobel Eight Fold Path the way leading to the cessation of suffering.
-
-The eight factors of the path are commonly distributed into three groups as follows:
+The Nobel Eight Fold Path is a classical formulation of the way to teh relaization of [[Nibbana]]. As is already made clear from the Buddhas first sermon where he calls the Nobel Eight Fold Path the way leading to the cessation of suffering. The eight factors of the path are commonly distributed into three groups as follows:
 
 - The moral disipline group. Made up of
    - [[Right Speech]]
@@ -11,8 +9,8 @@ The eight factors of the path are commonly distributed into three groups as foll
 
 - The concentration group. Made up of
    - [[Right Effort]]
-   - [[Right Mindfullness]]
-   - Right Concentration. Which consists of [[The jhanas]]
+   - Right Mindfullness which consists of [[The four establishments of mindfulness]]
+   - Right Concentration which consists of [[The jhanas]]
 
 - The wisdom group. Made up of
    - Right View. Which consisits of the knowledge of [[The Four Nobel Truths]]
@@ -30,5 +28,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
 Status: #☀️ 

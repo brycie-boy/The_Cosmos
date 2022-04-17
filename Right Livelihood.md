@@ -1,6 +1,6 @@
 ## Right Livelihood #🧠 
 
-Right Livelihood consist of abstaining from making a living through occupations such as:
+Right Livelihood consists of abstaining from making a living through the following occupations:
 
 - business in weapons
 - business in human beings
