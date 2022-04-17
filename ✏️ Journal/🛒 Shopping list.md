@@ -19,6 +19,8 @@ blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.htm
 - ![[E6532DCB-81B5-4771-9886-A491751DD653.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
 
+- ![[E584A710-CE35-4EDF-BBB4-B6C26A712F39.jpeg|200]]
+	Purple tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-sage-purple
 
 - ![[C424BB29-775E-425F-A9E8-A741A929A4D5.webp|200]]
 	Cross pendant and chain $25 https://www.etsy.com/listing/998352158/mens-cross-necklace-silver-cross?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cross+pendant&ref=sr_gallery-1-11&organic_search_click=1&frs=1&bes=1&variation0=1998570329&variation1=1978363982

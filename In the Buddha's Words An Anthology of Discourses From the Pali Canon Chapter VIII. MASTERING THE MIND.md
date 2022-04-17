@@ -5,7 +5,7 @@
 Author: Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-4-8
-Status: #💥/📚 
+Status: #💥
 Tags: 
 
 ___
@@ -314,6 +314,9 @@ In the contemplation of phenomena, the emphasis shifts toward insight. One begin
 (Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
 
 ___
+
+- Highlight - Location 4565
+Each major contemplative exercise is supplemented by an auxiliary section, a “refrain” with four subdivisions. The first states that the meditator contemplates the object internally (within his or her own experience), externally (reflectively considering it as occurring within the experience of others), and both; this ensures that one obtains a comprehensive and balanced view of the object.
 
 - Highlight(pink) - Location 4573
 The second portion states that the meditator contemplates the object as subject to origination, as subject to vanishing, and as subject to both origination and vanishing; this brings to light the characteristic of impermanence and thus leads to insight into the three characteristics: impermanence, suffering, and nonself (anicca, dukkha, anattā).
