@@ -1,13 +1,13 @@
 ## Contemplation of body  # 
 
-The contemption of body is comprised of fourteen subjects of meditation. 
+The contemption of body, a division of [[The four establishments of mindfulness]],  is devided into six exersizes comprimising fourteen meditation subjects. 
 
 - [[Mindfulness of breathing]]
 - [[Contemplation of the four postures]]
 - [[Clear comprehension of activities]]
 - [[Attention to the unattractive nature of the body]]
 - [[Attention to the elements]]
-- [[nine charnel ground contemplations]]
+- [[The nine charnel ground contemplations]]
 
 ___
 

@@ -9,6 +9,8 @@ The discourse in Buddhism considered to provide the most comprehensive instructi
 
 These means can be used to develop [[Serenity]]. but the establishments of [[Mindfulness]] system as a whole seems especially designed for the development of [[Insight]]. 
 
+Each exersize contains an auxillary section with four subdivisions. The first states that the meditatior contemplates the object internally (within their own experience), externally (refrectivley considering it as occuring within the experience of others), and both, esuring that the meditator develops a balanced view of the object. The second portion states that the meditator contemplates the object as subject to origination, vanishing, and both origination and vanishing. This brings light to the characteristic of impermance and thus leads to [[Insight]] into [[The three characteristics]]. 
+
 ___
 
 ##### References

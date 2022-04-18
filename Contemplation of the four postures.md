@@ -1,6 +1,6 @@
 ## Contemplation of the four postures  # 
 
-The contemplation of the four postures, a subject of the [[Contemplation of body]] is explained below per the Buddha:
+The contemplation of the four postures, a meditation subject of the [[Contemplation of body]], is explained below per the Buddha:
 
 > “Again, monks, when walking, a monk understands: ‘I am walking’; when standing, he understands: ‘I am standing’; when sitting, he understands: ‘I am sitting’; when lying down, he understands: ‘I am lying down’; or he understands accordingly however his body is disposed.
 

@@ -155,12 +155,6 @@ The Satipaṭṭhāna Sutta does not recommend a single meditation subject nor e
 - Highlight(pink) - Location 4532
 According to the standard formula that accompanies each exercise, a satipaṭṭhāna is a mode of dwelling (viharati). This mode of dwelling involves observation of objects in the proper frame of mind. The frame of mind consists of three positive qualities: energy (ātāpa, “ardor”), mindfulness (sati), and clear comprehension (sampajañña).
 
-- Highlight(pink) - Location 4535
-The word sati originally meant memory, but in the present context it signifies recollection of the present, a sustained awareness of what is happening to us and within us on each occasion of experience. Mindfulness, in its initial stages, is concerned with keeping the contemplative mind continually on its object, which means keeping the object continually present to the mind.
-
-- Highlight(pink) - Location 4537
-Mindfulness prevents the mind from slipping away, from drifting off under the sway of random thoughts into mental proliferation and forgetfulness. Mindfulness is often said to occur in close conjunction with “clear comprehension,” a clear knowledge and understanding of what one is experiencing.
-
 - Highlight(pink) - Location 4539
 The opening formula of the sutta says that one engages in this practice after “having subdued longing and dejection in regard to the world” (vineyya loke abhijjhā-domanassaṃ). The expression “having subdued” need not be taken to imply that one must first overcome longing and dejection—which,
 
@@ -181,6 +175,14 @@ The second portion states that the meditator contemplates the object as subject 
 
 - Highlight(pink) - Location 4577
 And the fourth describes the meditator as dwelling in a state of complete detachment, not clinging to anything in the world.
+
+___
+
+- Highlight(pink) - Location 4535
+The word sati originally meant memory, but in the present context it signifies recollection of the present, a sustained awareness of what is happening to us and within us on each occasion of experience. Mindfulness, in its initial stages, is concerned with keeping the contemplative mind continually on its object, which means keeping the object continually present to the mind.
+
+- Highlight(pink) - Location 4537
+Mindfulness prevents the mind from slipping away, from drifting off under the sway of random thoughts into mental proliferation and forgetfulness. Mindfulness is often said to occur in close conjunction with “clear comprehension,” a clear knowledge and understanding of what one is experiencing.
 
 ___
 
@@ -225,20 +227,21 @@ The Four Postures
 
 ___
 
+- Highlight - Location 4901
+[3. Clear Comprehension]
+
+- Highlight - Location 4902
+“Again, monks, a monk is one who acts with clear comprehension when going forward and returning;34 who acts with clear comprehension when looking ahead and looking away; who acts with clear comprehension when bending and stretching his limbs; who acts with clear comprehension when wearing his robes and carrying his outer robe and bowl; who acts with clear comprehension when eating, drinking, chewing, and tasting; who acts with clear comprehension when defecating and urinating; who acts with clear comprehension when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
+(Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63)
+
+___
+
 - Highlight(pink) - Location 4909
 Unattractiveness of the Body
 
 - Highlight(pink) - Location 4909
 a monk reviews this same body up from the soles of the feet and down from the top of the hair, bounded by skin, as full of many kinds of impurity thus: ‘In this body there are head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, stomach, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil of the joints, and urine.’35
 (Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63)
-
-___
-
-- Highlight - Location 4901
-[3. Clear Comprehension]
-
-- Highlight - Location 4902
-“Again, monks, a monk is one who acts with clear comprehension when going forward and returning;34 who acts with clear comprehension when looking ahead and looking away; who acts with clear comprehension when bending and stretching his limbs; who acts with clear comprehension when wearing his robes and carrying his outer robe and bowl; who acts with clear comprehension when eating, drinking, chewing, and tasting; who acts with clear comprehension when defecating and urinating; who acts with clear comprehension when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
 
 ___
 
@@ -267,7 +270,7 @@ The Nine Charnel Ground Contemplations
 (Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63)
 
 - Highlight(pink) - Location 4935
-“Again, as though he were to see a corpse thrown aside in a charnel ground, a skeleton with flesh and blood, held together with sinews…afleshless skeleton smeared with blood, held together with sinews…a skeleton without flesh and blood, held together with sinews … disconnected bones scattered in all directions—here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a back-bone, here the skull—a monk compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.’38
+“Again, as though he were to see a corpse thrown aside in a charnel ground, a skeleton with flesh and blood, held together with sinews…a fleshless skeleton smeared with blood, held together with sinews…a skeleton without flesh and blood, held together with sinews … disconnected bones scattered in all directions—here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a back-bone, here the skull—a monk compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.’38
 (Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63)
 
 - Highlight(pink) - Location 4941
@@ -276,7 +279,7 @@ The Nine Charnel Ground Contemplations
 
 ___
 
-- Highlight(pink) - Location 4948
+- Highlight(pink) - Location 4948 
 contemplation of feeling
 
 - Highlight(pink) - Location 4554
@@ -316,15 +319,6 @@ These all suggest that progressive contemplation brings enhanced concentration.
 
 - Highlight(pink) - Location 4565
 In the contemplation of phenomena, the emphasis shifts toward insight. One begins by observing and overcoming the five hindrances. The overcoming of the hindrances marks success in concentration. With the concentrated mind, one contemplates the five aggregates and the six sense bases. As contemplation gains momentum, the seven factors of enlightenment become manifest, and the development of the seven enlightenment factors culminates in knowledge of the Four Noble Truths. Knowledge of the Four Noble Truths liberates the mind from the defilements and thus leads to the attainment of Nibbāna.
-(SN 54:13; V 328–33 ≠ MN 118.15–43; III 82–88)
-
-- Highlight(pink) - Location 5146
-“Here, Ānanda, a monk develops the enlightenment factor of mindfulness, which is based upon seclusion, dispassion, and cessation, maturing in release. He develops the enlightenment factor of discrimination of phenomena … the enlightenment factor of energy … the enlightenment factor of rapture ... the enlightenment factor of tranquillity … the enlightenment factor of concentration … the enlightenment factor of equanimity, which is based upon seclusion, dispassion, and cessation, maturing in release.
-(Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
-
-- Highlight(pink) - Location 5150
-“It is, Ānanda, when the seven factors of enlightenment are developed and cultivated in this way that they fulfill true knowledge and liberation.”
-(Samyutta Nikaya 54:13; V 328–33 ≠ Majjhima Nikaya 118.15–43; III 82–88)
 
 ___
 
@@ -388,7 +382,7 @@ He trains thus: ‘Contemplating relinquishment, I will breathe in’; he trains
 ___
 
 - Highlight(pink) - Location 5106
-Fulfilling the seven factors of enlightenment
+the seven factors of enlightenment
 
 - Highlight(pink) - Location 5109
 Whenever, Ānanda, unmuddled mindfulness has been established in a monk, on that occasion the enlightenment factor of mindfulness is aroused by the monk;
