@@ -3,7 +3,7 @@
 Unwholesome [[kamma]] is an action that is harmful to the agent, morally reprehensible, and brings painful fruits. It is [[kamma]] that ripens into bad fortune and misery, or a hellish experience. The criterion for judging [[kamma]] as unwholesome is its underlying motives, or "roots". There are three unwholesome roots:  
 
 - greed
-- hatred
+- adversion
 - delusion
 
 From there arises a variety of secondary defilements, such as:

@@ -10,17 +10,8 @@ Ideas:
 	![[45955F0E-BB0D-4275-A475-FAF770759D40.webp|200]]
 blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.html?spm=a2g0n.detail.0.0.12f214417aytzV&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=449f9a33-4f44-4172-8eea-c003b35a828c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:449f9a33-4f44-4172-8eea-c003b35a828c,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B17.63%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
 
-- ![[F9AFB908-541A-4DB7-8243-E6D795F8D083.jpeg|200]]
-	Rue porter tee white $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-white 
-
-- ![[1268DDE1-309C-49D9-85FB-CA920D73AA98.jpeg|200]]
-	Rue Porter tee black $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-black
-
 - ![[E6532DCB-81B5-4771-9886-A491751DD653.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
-
-- ![[E584A710-CE35-4EDF-BBB4-B6C26A712F39.jpeg|200]]
-	Purple tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-sage-purple
 
 - ![[C424BB29-775E-425F-A9E8-A741A929A4D5.webp|200]]
 	Cross pendant and chain $25 https://www.etsy.com/listing/998352158/mens-cross-necklace-silver-cross?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cross+pendant&ref=sr_gallery-1-11&organic_search_click=1&frs=1&bes=1&variation0=1998570329&variation1=1978363982
@@ -37,9 +28,6 @@ blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.htm
 - ![[95B53E91-96B0-4265-99BD-472AAE39F006.webp|200]]
 	Green Cargos $32 https://m.aliexpress.com/item/1005003297342194.html?gatewayAdapt=Pc2Msite&spm=a2g0n.store_m_allProduct.allProducts_359073432.1005003297342194
 
-- ![[2E6072CE-FD28-4E9C-88EC-B99E1E426214.jpeg|200]]
-	Grey tee $29 https://rueporter.com/collections/consumer-sample-store/products/ultra-luxury-tee-heather-grey
-
 - ![[F22A1488-4A38-4334-A818-7235282C7C7B.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
 
@@ -47,23 +35,12 @@ blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.htm
 - ![[C6D13649-9AA8-4A64-A81F-D5FCC2767498.jpeg|200]]
 	Grey Nike crewneck sweatshirt $45 https://www.ebay.com/itm/275191626231?_trkparms=ispr%3D1&hash=item4012b2f9f7:g:R3sAAOSwAs5iH~Ba&amdata=enc%3AAQAGAAACoPYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsSlHY%252FYTip4QFVjNQrCEJt6s%252FiOFxZ4ceJ20NiXq%252FAb8YR9b1KmekiRTCKvCBm77%252FZSqZSwP6XHFUVVTtwyWSM3oRjlWWw7%252Fhjjqvhutbbx%252BuzVfJBva9w9iZStHnx20wiXTa8bMwT0nP%252BT23%252FaPOQGIOs5%252BF%252FOCxRoxkcUMWfZWRPxtrFf6EPGe7yrBTNQyNd5zkdW4R54hm1tqtbkeQxLmrm0CL5iv9jCfzuSupR6GquyhhRnSKX1577boRmhFyQ%252Fe5Trfu%252FifvXr5v1zbYLIXsF8T%252FiK17pW1uBRmMIsMverW197t2GphnWU9SuWj75iC%252BpBVDT5OKc0QHkcDHuDTf0AmwkvDp0EnZvqAEaMcYHu84wZpHDTZjO6G3Uxfnydc0zxYI2wCSPTCdKGqHys8rqJQRfD4x%252F26d6wvo6GMCqiGxVUpNE860JblJfdVKov8f8f0sRu9%252BUG%252FhlDUzEyM1wiUN4PUawcVBCzhyWi7XyDdXttwj0Gg6lDF3cVWRpnr4DknGYnNEoylvUZ3J03LzfajuYWihwHrD%252BmNGRiutZZVeqeAbL5q0vbVxRm1p8CvdcikTfwNuJCoZBLIDS3wdftNmzOowgENhRdY6YTF2SvLhY3fEZE8tIXbMoRbh7b%252ByPyzi50dujeXIz3Afq5l3nE1lrlM%252B9WDRInPIHDvNmRi9u9OpBv3ppmijEGp3sDiPtY4Pzm4igiedQoH8anrC6IqYfhPEr2EY0MIyiGBsOMMQI9Yy%252BrrQFbVlbM%252Fy%252FFS2HGNFrjHsENZ9ZbnMhT5Ec1fI9V7anm2GnRbzBh%252F0PPeldanR%252BWkgkr8BUeyDrOjb55y17u06IEHsM%252B0KiOw%253D%253D%7Cclp%3A2334524%7Ctkp%3ABFBMytqyjuxf
 
-- ![[5932DA07-1106-4EA1-B823-0F91740170CC.webp|200]]
-![[C6992B79-69E6-45BD-BF6A-0CBF8C9C6177.webp|200]]
-	Long Sleeve tee white, black, green, beige $20 https://m.aliexpress.com/item/1005002302284491.html?spm=a2g0n.wishlist-amp.item.1005002302284491&aff_trace_key=&aff_platform=msite&m_page_id=11amp-SCDjq3cy6awRNLagYU6AuQ1645936457342&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
-
-- ![[B60D7655-E047-4C75-AD28-994013E29C83.jpeg|200]]
-	Dark grey vintage tee $35 https://rueporter.com/collections/consumer-sample-store/products/premium-vintage-tee?variant=30901553102945
-
 
 - ![[64B79B9A-2253-4C4F-8645-FBC4E686C899.jpeg|200]]
 	oversized turtle neck sweater black $23 https://www.asos.com/us/asos-design/asos-design-oversized-funnel-neck-sweater-in-black/prd/20380986?clr=black&colourWayId=60049009&SearchQuery=roll+neck+sweater+oversized
 
 - ![[536AC383-AC57-4907-ACFD-D99BB4CED620.webp|200]]
 	Black baggy plaid pants $9 https://m.aliexpress.com/item/1005002453417338.html?spm=a2g0n.wishlist-amp.item.1005002453417338&aff_trace_key=&aff_platform=msite&m_page_id=7061amp-SCDjq3cy6awRNLagYU6AuQ1645925142686&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
-
-- ![[A9A23F97-9DF5-4FB7-A18C-C3DA3D696609.webp|200]]
-	![[4381D556-9E9D-4B23-8ACD-40D0A02F2999.webp|200]]
-	Long Sleeve tee white, black, green, beige $20 https://m.aliexpress.com/item/1005002302284491.html?spm=a2g0n.wishlist-amp.item.1005002302284491&aff_trace_key=&aff_platform=msite&m_page_id=11amp-SCDjq3cy6awRNLagYU6AuQ1645936457342&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
 
 - ![[ED846612-2347-45F6-9BDC-B8B15914ACB6.webp|200]]
 	Contrast denim jacket $20 https://m.aliexpress.com/item/1005003126627991.html?spm=a2g0n.wishlist-amp.item.1005003126627991&aff_trace_key=&aff_platform=msite&m_page_id=8697amp-SCDjq3cy6awRNLagYU6AuQ1645917322861&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y
@@ -167,13 +144,8 @@ blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.htm
 - ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
 	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
 
-- ![[AA76CE35-DC85-45B2-83EE-02A109448DF7.jpeg|200]]
-	Rug $250 https://www.urbanoutfitters.com/shop/looped-geo-rug?color=012&size=2105
-	
-
 ### 4. Tech
 
 - ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
 	Framework Laptop DIY Edition $749.00
 	https://frame.work/products/laptop-diy-edition
-## 5. Ranked List

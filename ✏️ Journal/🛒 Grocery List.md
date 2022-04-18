@@ -98,7 +98,7 @@
 ### Cheese/Dairy
 
 - [x] Greek or Bulgarian yogurt
-- [x] Coconut cream 
+- [ ] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
 - [x] Goat cheese
@@ -110,11 +110,10 @@
 ### Nuts and Seeds
 
 - [x] Pili nuts 
-	- Mac nuts (only 1)
+	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
-- [x] Nut Butters 
-	- Sunflower butter
+- [ ] Nut Butters 
 	- Almond butter
 	- Mac nut butter
 - [ ] Hemp seeds
@@ -129,7 +128,7 @@
 - [x] Redmond / pink salt
 - [ ] Pepper
 - [x] Stevia / Monkfruit
-- [ ] Cacao 
+- [x] Cacao 
 - [x] Apple cider vinegar 
 - [x] Ginger 
 - [x] Cayenne 
@@ -142,9 +141,8 @@
 - [x] Fish oil / Omega 3s
 - [x] Vitamin D3 / K2
 - [ ] Protein
-- [x] Psilocybin 
-- [x] Lions mane 
-- [x] Ginko
+- [ ] Lions mane 
+- [ ] Ginko
 
 Cost to maintain: $225
 

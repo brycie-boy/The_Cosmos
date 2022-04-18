@@ -3,7 +3,7 @@
 The taints are a classification of defilements considered in their role in the perpetuation of [[Samsara]]. These incude:
 
 - craving for sensual pleasures
-- craving for existance
+- craving for existance (see [[Eternalism]])
 - ignorance
 
 ___
