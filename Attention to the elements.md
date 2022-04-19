@@ -1,6 +1,6 @@
-## Attention to the elements  # 
+## Attention to the elements  #🧠 
 
-Attetnion to the elements, a meditation subject of the [[Contemplation of body]], is expllained below per the Buddha:
+Attention to the elements (see [[The four elements]]), a meditation subject of the [[Contemplation of body]], is expllained below per the Buddha:
 
 > a monk reviews this same body, however it is placed, however disposed, as consisting of elements thus: ‘In this body there are the earth element, the water element, the fire element, and the air element.’ ... Just as though a skilled butcher or his apprentice had killed a cow and were seated at the crossroads with it cut up into pieces; so too, a monk reviews this same body
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
-Status: #⛅️ 
+Status: #☀️ 

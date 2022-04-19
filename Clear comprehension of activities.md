@@ -1,8 +1,8 @@
-## Clear comprehension of activities  # 
+## Clear comprehension of activities  #🧠 
 
 Clear comprehension of activities, a meditation subject of the [[Contemplation of body]], is explained below per the Buddha:
 
-> “Again, monks, a monk is one who acts with clear comprehension when going forward and returning; who acts with clear comprehension when looking ahead and looking away; who acts with clear comprehension when bending and stretching his limbs; who acts with clear comprehension when wearing his robes and carrying his outer robe and bowl; who acts with clear comprehension when eating, drinking, chewing, and tasting; who acts with clear comprehension when defecating and urinating; who acts with clear comprehension when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
+> “Again, monks, a monk is one who acts with clear comprehension when going forward and returning ... when looking ahead and looking away ...  when bending and stretching his limbs ... when wearing his robes and carrying his outer robe and bowl ... when eating, drinking, chewing, and tasting ... when defecating and urinating ... when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
 
 ___
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
-Status: #⛅️ 
+Status: #☀️ 

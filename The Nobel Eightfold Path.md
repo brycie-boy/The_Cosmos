@@ -13,7 +13,7 @@ The Nobel Eight Fold Path is a classical formulation of the way to teh relaizati
    - Right Concentration which consists of [[The jhanas]]
 
 - The wisdom group. Made up of
-   - Right View. Which consisits of the knowledge of [[The Four Nobel Truths]]
+   - Right View. Which consisits of the knowledge of [[The four nobel truths]]
    - [[Right Intention]]
 
 ___

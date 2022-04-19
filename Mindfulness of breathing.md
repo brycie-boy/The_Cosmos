@@ -1,4 +1,4 @@
-## Mindfulness of breathing  # 
+## Mindfulness of breathing  #🧠 
 
 Mindfulness of breathing, a meditaition subject of the [[Contemplation of body]], is explained below per the Buddha:
 
@@ -19,4 +19,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
-Status: #⛅️ 
+Status: #☀️ 

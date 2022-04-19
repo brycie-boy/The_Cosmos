@@ -7,7 +7,7 @@ The jhanas are profound states of concentration in which the mind becomes fully 
 - The third jhana consists of the fading away of rapture and happiness which comes a feeling of equanimity.
 - The fourth jhana consists of the abandoning of pleasure and pain and includes the purification of mindfullness by equanimity.
 
-From the fourth jhana, three lines of development become possible. The first line is the [[The formless attainments]]. The second line is the acquisition of [[Supernormal Knowledge]]. The third line is the knowledge of the distruction of [[The taints]]/. 
+From the fourth jhana, three lines of development become possible. The first line is the [[The formless attainments]]. The second line is the acquisition of [[Supernormal Knowledge]]. The third line is the knowledge of the distruction of [[The taints]]. 
 
 ___
 

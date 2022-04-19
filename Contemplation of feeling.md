@@ -1,4 +1,4 @@
-## Contemplation of feeling  # 
+## Contemplation of feeling  #🧠 
 
 The contemplation of feeling, a division of [[The four establishments of mindfulness]], is desribed below per the Buddha: 
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
-Status: #⛅️ 
+Status: #☀️ 

@@ -1,4 +1,4 @@
-## Contemplation of the four postures  # 
+## Contemplation of the four postures  #🧠 
 
 The contemplation of the four postures, a meditation subject of the [[Contemplation of body]], is explained below per the Buddha:
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
-Status: #⛅️ 
+Status: #☀️ 

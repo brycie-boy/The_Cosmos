@@ -1,6 +1,6 @@
-## Contemplation of body  # 
+## Contemplation of body  #🧠 
 
-The contemption of body, a division of [[The four establishments of mindfulness]],  is devided into six exersizes comprimising fourteen meditation subjects. 
+The contemption of body, a division of [[The four establishments of mindfulness]],  is divided into six exercizes comprimising fourteen meditation subjects.
 
 - [[Mindfulness of breathing]]
 - [[Contemplation of the four postures]]
@@ -20,4 +20,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
-Status: #⛅️ 
+Status: #☀️ 

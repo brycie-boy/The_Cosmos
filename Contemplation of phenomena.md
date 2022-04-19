@@ -1,4 +1,4 @@
-## Contemplation of phenomena  # 
+## Contemplation of phenomena  #🧠 
 
 The contemplation of phenomena, a division of [[The four establishments of mindfulness]], is subdivided into five categories, these are:
 
@@ -6,7 +6,7 @@ The contemplation of phenomena, a division of [[The four establishments of mindf
 - [[The five aggregates]]
 - [[The six sense bases]]
 - [[The seven factors of enlightenment]]
-- [[The Four Nobel Truths]]
+- [[The four nobel truths]]
 
 ___
 
@@ -17,4 +17,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]]
-Status: #⛅️ 
+Status: #☀️ 

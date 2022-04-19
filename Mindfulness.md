@@ -1,6 +1,6 @@
-## Mindfulness  # 
+## Mindfulness  #🧠 
 
-Mindfulness is a sustained recollection of  the present and what is happening to us and wirhin us on each occasion of experience. Mindfulness, in its initial stages, is conserned with keeping the attention continually on its object. which means keeping the object continually present to the mind. Mindfulness keeps the mind from slipping into the sway of random thoughts through mental proliferation and forgetfullness. 
+Mindfulness is a sustained recollection of the present and what is happening to us and within us on each occasion of experience. Mindfulness, in its initial stages, is conserned with keeping the attention continually on its object. which means keeping the object continually present to the mind. Mindfulness keeps the mind from slipping into the sway of random thoughts through mental proliferation and forgetfullness. 
 
 ___
 
@@ -11,4 +11,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
-Status: #⛅️ 
+Status: #☀️ 

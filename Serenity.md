@@ -1,6 +1,6 @@
-## Serenity # 
+## Serenity #🧠 
 
-Serenity, when developed, leads to the liberation of mind from defilements such as lust and ill will. The cultivation of serenity requires steadying, composing, unifying, concentrating the mind.
+Serenity, when developed, leads to the liberation of mind from defilements such as lust and ill will. The cultivation of serenity requires steadying, composing, unifying, and concentrating the mind; [[The jhanas]] being the succesive stages of such efforts.
 
 ___
 
@@ -15,4 +15,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags:  [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]]
-Status:  #⛅️ 
+Status:  #☀️ 

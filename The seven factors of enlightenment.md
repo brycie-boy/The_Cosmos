@@ -1,9 +1,9 @@
-## The seven factors of enlightenment  # 
+## The seven factors of enlightenment  #🧠 
 
 The seven factors of enlightenment consist of: 
 
 - [[Mindfulness]]
-- discrimination of phenomena
+- discrimination of phenomena though [[Insight]]
 - energy
 - rapture
 - tranquility
@@ -19,4 +19,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]]
-Status: #⛅️ 
+Status: #☀️ 
