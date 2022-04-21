@@ -82,3 +82,8 @@ If conceptual right view is compared to a hand—a hand that grasps the truth wi
 
 ___
 
+- Highlight(pink) - Location 5258
+Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
+
+- Highlight(pink) - Location 5260
+It should be noted that from the second section to the end of the sutta, he frames all his expositions in accordance with the same pattern, a pattern that reveals the principle of conditionality to be the scaffolding for the entire teaching. Whatever phenomenon he takes up, he expounds by bringing to light its individual nature, its arising, its cessation, and the way to its cessation. Since this is the pattern that underlies the Four Noble Truths, I shall call it “the four-truth pattern.” This pattern recurs throughout the Nikāyas as one of the major templates through which phenomena are to be viewed to arrive at true wisdom.
