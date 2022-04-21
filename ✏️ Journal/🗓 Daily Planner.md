@@ -19,7 +19,7 @@
 
 - [x] **1.** Organize music library (1 hour)
 
-- [ ] **2.** Look for cars
+- [ ] **2.** 
 
 #### Weekly tasks
 
@@ -41,16 +41,15 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [x] ☁️ Stellar Nursery: ❗️
-- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
+- [ ] ☁️ Stellar Nursery: 
+- [ ] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
 
 > - 2 Max
-> - ❗️Reminder: Do not think about any other sources besides these. Don’t think about sources you might want to consume later. Use this as a way to do so
 
-- [ ] **1.** 
+- [x] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
@@ -74,8 +73,6 @@ ___
 
 ### 🎨 Egestion
 
-Ideas:  -> [[📝 Note Pad]]
-
 - [ ] Make music
 - [ ] Draw
 
@@ -83,7 +80,7 @@ Ideas:  -> [[📝 Note Pad]]
 
 #### TV:
 
-- [x] Avatar
+
 
 #### Movie: 
 

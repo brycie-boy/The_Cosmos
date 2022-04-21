@@ -1,2 +1,2 @@
-- cognitive neuroscience
-- Computer engineering 
+- cognitive science
+- computer science / or even computer engineering if I’m up for it 

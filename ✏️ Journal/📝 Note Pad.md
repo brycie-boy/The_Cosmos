@@ -2,11 +2,7 @@
 
 ## Ideas
 
-> - 5 Ideas Max  [[🗓 Daily Planner]]
-
-### ✏️ Learning
-
-### 🎨 Freetime
+>  [[🗓 Daily Planner]]
 
 ## Words/Terms
 
@@ -20,3 +16,6 @@
 6. benighted
 7. myriad
 8. noxious
+9. multifarious
+10. delineated
+11. inerrancy,
