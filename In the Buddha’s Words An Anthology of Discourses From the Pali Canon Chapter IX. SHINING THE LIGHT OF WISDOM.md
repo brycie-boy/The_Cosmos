@@ -82,6 +82,12 @@ If conceptual right view is compared to a hand—a hand that grasps the truth wi
 
 ___
 
+- Highlight - 5244
+Sammādiṭṭhi Sutta, the Discourse on Right View (MN 9), gives an excellent overview of the “soil of wisdom.” The Venerable Sāriputta, the Buddha’s disciple who excelled in wisdom, spoke the discourse to a group of his fellow monks.
+
+- Highlight - Location 5257
+The Discourse on Right View is intended to elucidate the principles that should be comprehended by conceptual right view and penetrated by experiential right view. Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
+
 - Highlight(pink) - Location 5258
 Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
 
