@@ -196,3 +196,4 @@ ___
 The six internal and external sense bases provide a perspective on the totality of experience different from, but complementary to, the perspective provided by the aggregates. The six pairs of bases are the sense faculties and their corresponding objects, which support the arising of the respective type of consciousness. Because they mediate between consciousness and its objects, the internal sense bases are spoken of as the “bases for contact” (phassāyatana), “contact” (phassa) being the coming together of sense faculty, object, and consciousness.
 
 - Highlight(pink) - Location 5350
+![[C11BC9B8-3934-42A5-8D58-D0961C39A7AD.jpeg|300]]
