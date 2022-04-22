@@ -145,7 +145,6 @@ ___
 Because the five aggregates that make up our ordinary experience are the objective domain of clinging (upādāna), they are commonly called the five aggregates subject to clinging
 
 - Highlight(pink) - Location 5307
-
 One either grasps them and takes possession of them, that is, one appropriates them; or one uses them as the basis for views about one’s self or for conceit (“I am better than, as good as, inferior to others”), that is, one identifies with them.
 
 - Highlight(pink) - Location 5309
@@ -155,6 +154,45 @@ As the Nikāyas put it, we are prone to think of the aggregates thus: “This is
 the notion “This is mine” represents the act of appropriation, a function of craving (taṇhā).
 
 - Highlight(pink) - Location 5311
-The notions “This I am” and “This is my self” represent two types of identification, the former expressing conceit (māna), the latter views (diṭṭhi).3
+The notions “This I am” and “This is my self” represent two types of identification, the former expressing conceit (māna), the latter views (diṭṭhi).
 
 ___
+
+- Highlight(pink) - Location 5314
+Giving up craving is so difficult because craving is reinforced by views, which rationalize our identification with the aggregates and thus equip craving with a protective shield.
+
+- Highlight(pink) - Location 5315
+The type of view that lies at the bottom of all affirmation of selfhood is called identity view (sakkāyadiṭṭhi).
+
+- Highlight(pink) - Location 5316
+The suttas often mention twenty types of identity view, obtained by considering one’s self to stand in any of four relations to each of the five aggregates: either as identical with it, as possessing it, as containing it, or as contained within it.
+
+- Highlight(pink) - Location 5318
+“the instructed noble disciple,” having seen with wisdom the selfless nature of the aggregates, no longer regards the aggregates as a self or the belongings of a self.
+
+- Highlight(pink) - Location 5319
+Adopting any of these views is a cause of anxiety and distress. It is also a leash that keeps us bound to the round of rebirths—see above,
+
+___
+
+- Highlight(pink) - Location 5321
+All the defilements ultimately stem from ignorance, which thus lies at the bottom of all suffering and bondage. Ignorance weaves a net of three delusions around the aggregates. These delusions are the notions that the five aggregates are permanent, a source of true happiness, and a self. The wisdom needed to break the spell of these delusions is the insight into the five aggregates as impermanent (anicca), suffering (dukkha), and nonself (anattā). This is called the direct knowledge of the three characteristics of existence (tilakkhaṇa).
+
+- Highlight(pink) - Location 5327
+IX,4(1)(c)—the formula uses the characteristic of impermanence to reveal the characteristic of suffering, and both together to reveal the characteristic of nonself. The suttas take this indirect route to the characteristic of nonself because the selfless nature of things is so subtle that often it cannot be seen except when pointed to by the other two characteristics. When we recognize that the things we identify as our self are impermanent and bound up with suffering, we realize that they lack the essential marks of authentic selfhood and we thereby stop identifying with them.
+
+- Highlight(pink) - Location 5332
+The different expositions of the three characteristics all thus eventually converge on the eradication of clinging. They do so by showing, with regard to each aggregate, “This is not mine, this I am not, this is not my self.” This makes the insight into nonself the culmination and consummation of the contemplation of the three characteristics.
+
+- Highlight(pink) - Location 5337
+insight into the five aggregates as impermanent, suffering, and nonself induces disenchantment (nibbidā), dispassion (virāga), and liberation (vimutti).
+
+- Highlight(pink) - Location 5338
+One who attains liberation subsequently wins “the knowledge and vision of liberation,” the assurance that the round of rebirths has indeed been stopped and nothing more remains to be done.
+
+___
+
+- Highlight(pink) - Location 5345
+The six internal and external sense bases provide a perspective on the totality of experience different from, but complementary to, the perspective provided by the aggregates. The six pairs of bases are the sense faculties and their corresponding objects, which support the arising of the respective type of consciousness. Because they mediate between consciousness and its objects, the internal sense bases are spoken of as the “bases for contact” (phassāyatana), “contact” (phassa) being the coming together of sense faculty, object, and consciousness.
+
+- Highlight(pink) - Location 5350
