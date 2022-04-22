@@ -6,6 +6,10 @@
 
 > Do immediately
 
+- [ ] Get bank account (Monday)
+- [ ] Check mail for t shirts
+- [ ] Schedule eye appointment
+
 ### Nonurgent ToDos
 
 #### Quick tasks (Under 5 min)
@@ -41,7 +45,7 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery: 
+- [x] ☁️ Stellar Nursery: ❗️
 - [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
@@ -49,7 +53,7 @@ ___
 
 > - 2 Max
 
-- [x] **1.** 
+- [ ] **1.** 
 
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
