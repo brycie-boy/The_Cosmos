@@ -126,7 +126,7 @@ are the main categories the Nikāyas use to analyze human experience.
 (5) consciousness (viññāṇa), cognition arisen through any of the six sense faculties—eye, ear, nose, tongue, body, and mind.
 
 - Highlight - Location 5313
-![[16052AD1-30A0-46F4-8D79-F5B6F26DA459.jpeg|400]]
+![[44BDFF1F-5263-4EF1-9D26-0101D1342964.jpeg|350]]
 
 ___
 
