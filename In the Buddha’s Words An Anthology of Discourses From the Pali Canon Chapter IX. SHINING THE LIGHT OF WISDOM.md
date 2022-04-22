@@ -38,7 +38,7 @@ Wisdom as a Light
 “There are, O monks, these four lights. What four? The light of the moon, the light of the sun, the light of fire, and the light of wisdom. Of these four lights, the light of wisdom is supreme.”
 (Anguttara Nikaya 4:143; II 139)
 
-Highlight(pink) - Location 5544
+- Highlight(pink) - Location 5544
 “Sisters, suppose a skilled butcher or his apprentice were to kill a cow and carve it up with a sharp butcher’s knife. Without damaging the inner mass of flesh and without damaging the outer hide, he would cut, sever, and carve away the inner tendons, sinews, and ligaments with the sharp butcher’s knife. Then having cut, severed, and carved all this away, he would remove the outer hide and cover the cow again with that same hide. Would he be speaking rightly if he were to say: ‘This cow is joined to this hide just as it was before’?”
 (from Majjhima Nikaya 146: Nandakovāda Sutta; III 274–75)
 
@@ -132,6 +132,9 @@ It should be noted that from the second section to the end of the sutta, he fram
 
 - Highlight(pink) - Location 5616
 There are four kinds of nutriment for the sustenance of beings that already have come to be and for the support of those about to come to be. What four? They are: physical food as nutriment, gross or subtle; contact as the second; mental volition as the third; and consciousness as the fourth.13
+
+- Highlight - Location 8069
+13 Nutriment (āhāra) is to be understood here in a broad sense as a prominent condition for the individual life-process. Physical food is an important condition for the physical body, contact for feeling, mental volition for consciousness, and consciousness for name-and-form, the psychophysical organism in its totality. Craving is called the origin of nutriment since the craving of the previous existence is the source of the present individuality with its dependence upon and continual consumption of the four nutriments in this existence.
 
 - Highlight(pink) - Location 5264
 Its application makes it clear that no entity is isolated and self-enclosed but is, rather, inherently linked to other things in a complex web of dependently originated processes. The key to liberation lies in understanding the causes that sustain this web and bringing them to an end within oneself. This is done by practicing the Noble Eightfold Path, the way to extinguish those causes.
