@@ -82,14 +82,74 @@ If conceptual right view is compared to a hand—a hand that grasps the truth wi
 
 ___
 
-- Highlight - 5244
+- Highlight - Location 5244
 Sammādiṭṭhi Sutta, the Discourse on Right View (MN 9), gives an excellent overview of the “soil of wisdom.” The Venerable Sāriputta, the Buddha’s disciple who excelled in wisdom, spoke the discourse to a group of his fellow monks.
 
 - Highlight - Location 5257
 The Discourse on Right View is intended to elucidate the principles that should be comprehended by conceptual right view and penetrated by experiential right view. Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
 
-- Highlight(pink) - Location 5258
-Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
-
 - Highlight(pink) - Location 5260
 It should be noted that from the second section to the end of the sutta, he frames all his expositions in accordance with the same pattern, a pattern that reveals the principle of conditionality to be the scaffolding for the entire teaching. Whatever phenomenon he takes up, he expounds by bringing to light its individual nature, its arising, its cessation, and the way to its cessation. Since this is the pattern that underlies the Four Noble Truths, I shall call it “the four-truth pattern.” This pattern recurs throughout the Nikāyas as one of the major templates through which phenomena are to be viewed to arrive at true wisdom.
+
+- Highlight(pink) - Location 5264
+Its application makes it clear that no entity is isolated and self-enclosed but is, rather, inherently linked to other things in a complex web of dependently originated processes. The key to liberation lies in understanding the causes that sustain this web and bringing them to an end within oneself. This is done by practicing the Noble Eightfold Path, the way to extinguish those causes.
+
+___
+
+- Highlight(pink) - Location 5273
+“the domain of wisdom,” the areas to be explored and penetrated by insight.
+
+- Highlight(pink) - Location 5275
+the five aggregates; the six sense bases; the elements (in different numerical sets); dependent origination; and the Four Noble Truths.
+
+___
+
+- Highlight(pink) - Location 5277
+The Five Aggregates.
+
+- Highlight(pink) - Location 5277
+are the main categories the Nikāyas use to analyze human experience.
+
+- Highlight(pink) - Location 5278
+(1) form (rūpa), the physical component of experience;
+
+- Highlight(pink) - Location 5278
+(2) feeling (vedanā), the “affective tone” of experience—either pleasant, painful, or neutral;
+
+- Highlight(pink) - Location 5279
+(3) perception (saññā), the identification of things through their distinctive marks and features;
+
+- Highlight(pink) - Location 5280
+(4) volitional formations (saṅkhārā), a term for the multifarious mental factors involving volition, choice, and intention;
+
+- Highlight(pink) - Location 5281
+(5) consciousness (viññāṇa), cognition arisen through any of the six sense faculties—eye, ear, nose, tongue, body, and mind.
+
+___
+
+- Highlight(pink) - Location 5282
+Examination of the five aggregates, the topic of the Khandhasaṃyutta (Saṃyutta Nikāya, chapter 22), is critical to the Buddha’s teaching for at least four reasons. First, the five aggregates are the ultimate referent of the first noble truth, the noble truth of suffering
+
+- Highlight(pink) - Location 5284
+and since all four truths revolve around suffering, understanding the aggregates is essential for understanding the Four Noble Truths as a whole. Second, the five aggregates are the objective domain of clinging and as such contribute to the causal origination of future suffering. Third, clinging to the five aggregates must be removed to attain liberation. And fourth, the kind of wisdom needed to remove clinging is precisely clear insight into the true nature of the aggregates.
+
+- Highlight(pink) - Location 5296
+the constituents of each aggregate and shows that each aggregate arises and ceases in correlation with its own specific condition; the Noble Eightfold Path is the way to bring each aggregate to an end.
+
+___
+
+- Highlight(pink) - Location 5304
+Because the five aggregates that make up our ordinary experience are the objective domain of clinging (upādāna), they are commonly called the five aggregates subject to clinging
+
+- Highlight(pink) - Location 5307
+
+One either grasps them and takes possession of them, that is, one appropriates them; or one uses them as the basis for views about one’s self or for conceit (“I am better than, as good as, inferior to others”), that is, one identifies with them.
+
+- Highlight(pink) - Location 5309
+As the Nikāyas put it, we are prone to think of the aggregates thus: “This is mine, this I am, this is my self”
+
+- Highlight(pink) - Location 5310
+the notion “This is mine” represents the act of appropriation, a function of craving (taṇhā).
+
+- Highlight(pink) - Location 5311
+The notions “This I am” and “This is my self” represent two types of identification, the former expressing conceit (māna), the latter views (diṭṭhi).3
