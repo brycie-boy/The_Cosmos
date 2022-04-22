@@ -5,7 +5,7 @@
 Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-4-21
-Status: # 💥
+Status: #💥
 Tags:
 
 ___
@@ -153,3 +153,5 @@ the notion “This is mine” represents the act of appropriation, a function of
 
 - Highlight(pink) - Location 5311
 The notions “This I am” and “This is my self” represent two types of identification, the former expressing conceit (māna), the latter views (diṭṭhi).3
+
+___

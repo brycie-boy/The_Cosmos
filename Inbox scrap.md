@@ -176,8 +176,6 @@ Highlight(pink) - Location 5311
 
 The notions “This I am” and “This is my self” represent two types of identification, the former expressing conceit (māna), the latter views (diṭṭhi).3
 
-Highlight(pink) - Location 5313
-
 Highlight(pink) - Location 5314
 
 Giving up craving is so difficult because craving is reinforced by views, which rationalize our identification with the aggregates and thus equip craving with a protective shield.
