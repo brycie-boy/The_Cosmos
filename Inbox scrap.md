@@ -346,7 +346,7 @@ Highlight(pink) - Location 5419
 
 From the above, we can see that the commentarial interpretation treats the twelve factors as spread out over a span of three lives, with ignorance and volitional formations pertaining to the past, birth and aging-and-death to the future, and the intermediate factors to the present. The segment from consciousness through feeling is the resultant phase of the present, the phase resulting from past ignorance and kamma; the segment from craving through existence is the karmically creative phase of the present, leading to renewed existence in the future.
 
-Highlight(pink) - Location 5423
+Highlight(pink) - Location 5423 
 
 existence is distinguished into two phases: one, called kamma-existence (kammabhava), constitutes the active side of existence and belongs to the causal phase of the present life; the other, called rebirth-existence (upapattibhava), constitutes the passive side of existence and belongs to the resultant phase of the future life.
 
@@ -484,7 +484,7 @@ As to the Nibbāna element without residue remaining, the same text says only th
 
 Highlight(pink) - Location 5517
 
-Since there is no more clinging to the five aggregates, and no more craving for fresh experience through a new set of aggregates, the occurrence of the aggregates comes to an end and cannot continue. The process of the five aggregates is “extinguished” (the literal meaning of Nibbāna).5
+Since there is no more clinging to the five aggregates, and no more craving for fresh experience through a new set of aggregates, the occurrence of the aggregates comes to an end and cannot continue. The process of the five aggregates is “extinguished” (the literal meaning of Nibbāna).
 
 Highlight(pink) - Location 5520
 
@@ -508,7 +508,7 @@ Yet, if this simile suggests a Buddhist version of the “annihilationist” vie
 
 Highlight(pink) - Location 5535
 
-Our problem in understanding the state of the Tathāgata after death is compounded by our difficulty in understanding the state of the Tathāgata even while alive. The simile of the great ocean underscores this difficulty. Since the Tathāgata no longer identifies with the five aggregates that constitute individual identity, he cannot be reckoned in terms of them, whether individually or collectively. Freed from reckoning in terms of the five aggregates, the Tathāgata transcends our understanding. Like the great ocean, he is “deep, immeasurable, [and] hard to fathom.”7
+Our problem in understanding the state of the Tathāgata after death is compounded by our difficulty in understanding the state of the Tathāgata even while alive. The simile of the great ocean underscores this difficulty. Since the Tathāgata no longer identifies with the five aggregates that constitute individual identity, he cannot be reckoned in terms of them, whether individually or collectively. Freed from reckoning in terms of the five aggregates, the Tathāgata transcends our understanding. Like the great ocean, he is “deep, immeasurable, and hard to fathom.”7
 
 IX. SHINING THE LIGHT OF WISDOM
 

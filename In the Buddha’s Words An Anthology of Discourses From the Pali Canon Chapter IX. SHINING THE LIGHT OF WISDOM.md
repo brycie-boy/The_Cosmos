@@ -197,3 +197,226 @@ The six internal and external sense bases provide a perspective on the totality 
 
 - Highlight(pink) - Location 5350
 ![[C11BC9B8-3934-42A5-8D58-D0961C39A7AD.jpeg|300]]
+- Highlight(pink) - Location 5351
+What the first five sense bases and their objects signify is obvious enough, but the sixth pair, mind (mano) and phenomena (dhammā), presents some difficulty. If we treat the two terms as parallel to the other internal and external bases, we would understand the mind base to be the support for the arising of mind-consciousness (manoviññāṇa) and the phenomena base to be the objective sphere of mind-consciousness. On this interpretation, “mind” might be taken as the passive flow of consciousness from which active conceptual consciousness emerges, and “phenomena” as purely mental objects such as those apprehended by introspection, imagination, and reflection.
+
+- Highlight(pink) - Location 5355
+The Abhidhamma and the Pāli commentaries, however, interpret the two terms differently. They hold that the mind base comprises all classes of consciousness, that is, they include within it all six types of consciousness. They also hold that all actual entities not comprised in the other sense bases constitute the phenomena base. The phenomena base, then, includes the other three mental aggregates—feeling, perception, and volitional formations—as well as types of subtle material form not implicated in experience through the physical senses.
+
+___
+
+- Highlight(pink) - Location 5364
+The Nikāyas suggest an interesting difference between the treatment given to the aggregates and the sense bases. Both serve as the soil where clinging takes root and grows, but while the aggregates are primarily the soil for views about a self, the sense bases are primarily the soil for craving. A necessary step in the conquest of craving is therefore restraint of the senses.
+
+- Highlight(pink) - Location 5367
+Monks and nuns in particular must be vigilant in their encounters with desirable and undesirable sense objects. When one is negligent, experience through the senses invariably becomes a trigger for craving: lust for pleasant objects, aversion toward disagreeable objects (and a craving for pleasant escape routes), and a dull attachment to neutral objects.
+
+___
+
+- Highlight(pink) - Location 5369
+In one of his earliest discourses popularly known as “The Fire Sermon”—Text IX,4(2)(b)—the Buddha declared that “all is burning.” The “all” is just the six senses, their objects, the types of consciousness arisen from them, and the related contacts and feelings. The way to liberation is to see that this “all” is burning with the fires of defilements and suffering.
+
+- Highlight(pink) - Location 5372
+to dispel ignorance and generate true knowledge, we must contemplate all the sense bases and the feelings that arise through them as impermanent, suffering, and nonself. This, according to Text IX,4(2)(c), is the direct way to the attainment of Nibbāna.
+
+- Highlight(pink) - Location 5374
+An alternative route, commended by Text IX,4(2)(d), is to see that the six senses are empty—empty of a self or of anything belonging to a self. Since consciousness arises via the six sense bases, it too is devoid of self—Text IX, 4(2)(e).
+
+___
+
+- Highlight(pink) - Location 5376
+The Elements.
+
+- Highlight(pink) - Location 5378
+The most important groups consist of eighteen, four, and six elements.
+
+- Highlight(pink) - Location 5379
+The eighteen elements are an elaboration of the twelve sense bases. They consist of the six sense faculties, the six sense objects, and the six types of sense consciousness.
+
+- Highlight(pink) - Location 5380
+Since six types of consciousness have been extracted from the mind base, the mind element that remains must be a simpler type of cognitive event. The Nikāyas do not specify its precise function. The Abhidhamma identifies it with a type of consciousness that fulfills more rudimentary roles in the process of cognition than the more discriminative mind-consciousness element.
+
+- Highlight(pink) - Location 5383
+contains a simple enumeration of the eighteen elements. Contemplation of these elements helps to dispel the notion that an abiding subject underlies the changing contents of experience.
+
+- Highlight(pink) - Location 5384
+experience consists of different types of consciousness, each of which is conditioned, arisen in dependence on its own specific sense faculty and object. Thus to ascertain the composite, diversified, conditioned nature of experience dispels the illusion of unity and solidity that ordinarily obscures correct cognition.
+
+- Highlight(pink) - Location 5387
+The four elements are earth, water, heat, and air. These represent four “behavioral modes” of matter: solidity, fluidity, energy, and distension.
+
+- Highlight(pink) - Location 5388
+The four are inseparably united in any unit of matter, from the smallest to the largest and most complex.
+
+- Highlight(pink) - Location 5389
+The elements are not merely properties of the external world, however, but also of one’s own body. Thus one must contemplate them in relation to one’s body, as the Satipaṭṭhāna Sutta teaches
+
+- Highlight(pink) - Location 5391
+these elements can be viewed: as impermanent and conditioned; from the triple standpoint of gratification, danger, and escape; and by way of the four-truth pattern.
+
+- Highlight(pink) - Location 5392
+The six elements include the four physical elements, the space element, and the element of consciousness.
+
+- Highlight(pink) - Location 5393
+how to contemplate the six elements in relation to the physical body, the external world, and conscious experience.
+
+___
+
+- Highlight(pink) - Location 5394
+Dependent Origination.
+
+- Highlight(pink) - Location 5395
+Dependent origination (paṭiccasamuppāda ) is so central to the Buddha’s teaching that the Buddha said: “One who sees dependent origination sees the Dhamma, and one who sees the Dhamma sees dependent origination” (MN 28; I 190–91).
+
+- Highlight(pink) - Location 5396
+The ulitmate purpose of the teaching on dependent origination is to reveal the conditions that sustain the round of rebirths and thereby to show what must be done to gain release from the round. To win deliverance is a matter of unraveling the causal pattern that underlies our bondage, and this process begins with understanding the causal pattern itself.
+
+- Highlight(pink) - Location 5400
+The doctrine is usually expounded as a sequence of twelve factors joined into a chain of eleven propositions;
+
+- - Highlight(pink) - Location 5402
+Text IX,4(4)(b) declares the sequence of conditions to be a fixed principle, a stable law, the nature of things.
+
+- Highlight(pink) - Location 5403
+The series is expounded in two ways: by way of origination (called anuloma or forward order), and by way of cessation (called paṭiloma or reverse order).
+
+- Highlight(pink) - Location 5409
+Because of (1) ignorance (avijjā), lack of direct knowledge of the Four Noble Truths, we engage in wholesome and unwholesome activities of body, speech, and mind; these are (2) volitional formations (saṅkhārā), in other words, kamma. Volitional formations sustain consciousness from one life to the next and determine where it re-arises; in this way volitional formations condition (3) consciousness (viññāṇa). Along with consciousness, beginning from the moment of conception, comes (4) “name-and-form” (nāmarūpa), the sentient organism with its physical form (rūpa) and its sensitive and cognitive capacities (nāma). The sentient organism is equipped with (5) six sense bases (saḷāyatana), the five physical sense faculties and the mind as organ of cognition. The sense bases allow (6) contact (phassa) to occur between consciousness and its objects, and contact conditions (7) feeling (vedanā). Called into play by feeling, (8) craving (taṇhā) arises, and when craving intensifies it gives rise to (9) clinging (upādāna), tight attachment to the objects of desire through sensuality and wrong views. Impelled by our attachments, we again engage in volitional actions pregnant with (10) a new existence (bhava). At death this potential for new existence is actualized in a new life beginning with (11) birth (jāti) and ending in (12) aging-and-death (jarāmaraṇa).4
+
+- Highlight(pink) - Location 5419
+From the above, we can see that the commentarial interpretation treats the twelve factors as spread out over a span of three lives, with ignorance and volitional formations pertaining to the past, birth and aging-and-death to the future, and the intermediate factors to the present. The segment from consciousness through feeling is the resultant phase of the present, the phase resulting from past ignorance and kamma; the segment from craving through existence is the karmically creative phase of the present, leading to renewed existence in the future.
+
+- Highlight(pink) - Location 5423
+existence is distinguished into two phases: one, called kamma-existence (kammabhava), constitutes the active side of existence and belongs to the causal phase of the present life; the other, called rebirth-existence (upapattibhava), constitutes the passive side of existence and belongs to the resultant phase of the future life.
+
+- Highlight(pink) - Location 5425
+The twelve factors are also distributed into three “rounds”: the round of defilements (kilesavaṭṭa) includes ignorance, craving, and clinging; the round of action (kammavaṭṭa) includes volitional formations and kamma-existence; and all the other factors belong to the round of results (vipākavaṭṭa). Defilements give rise to defiled actions, actions bring forth results, and results serve as the soil for more defilements. In this way the round of rebirths revolves without discernible beginning.
+
+- Highlight(pink) - Location 5429
+This method of dividing up the factors should not be misconstrued to mean that the past, present, and future factors are mutually exclusive. The distribution into three lives is only an expository device which, for the sake of concision, has to resort to some degree of abstraction. As many suttas in the Nidānasaṃyutta show, groups of factors separated in the formula are inevitably interwoven in their dynamic operation.
+
+- Highlight(pink) - Location 5433
+The formula demonstrates how rebirth can take place without the presence of a substantial self that maintains its identity as it transmigrates from one life to the next. Without a self to hold the sequence together, what connects one life to the next is nothing other than the principle of conditionality. Conditions in one existence initiate the arising of the conditioned phenomena in the next existence;
+
+- Highlight(pink) - Location 5437
+The whole process ends only when its underlying springs—ignorance, craving, and clinging—are extirpated by wisdom.
+
+___
+
+- Highlight(pink) - Location 5438
+Dependent origination is not a mere theory but a teaching that should be directly known by personal experience,
+
+- Highlight(pink) - Location 5439
+understand each factor by way of the four-truth pattern: one should understand the factor itself, its origin, its cessation, and the way to its cessation.
+
+- Highlight(pink) - Location 5440
+First one understands this pattern in relation to one’s personal experience. Then, on this basis, one infers that all those who correctly understood these things in the past understood them in exactly the same way; then that all those who will correctly understand these things in the future will understand them in exactly the same way. In this way, dependent origination acquires a timeless and universal significance.
+
+___
+
+- Highlight(pink) - Location 5443
+Several suttas hold up dependent origination as a “teaching by the middle” (majjhena tathāgato dhammaṃ deseti). It is a “teaching by the middle” because it transcends two extreme views that polarize philosophical reflection on the human condition.
+
+- Highlight(pink) - Location 5445
+eternalism (sassatavāda), asserts that the core of human identity is an indestructible and eternal self, whether individual or universal. It also asserts that the world is created and maintained by a permanent entity, a God or some other metaphysical reality.
+
+- Highlight(pink) - Location 5447
+annihilationism (ucchedavāda), holds that at death the person is utterly annihilated. There is no spiritual dimension to human existence and thus no personal survival of any sort.
+
+- Highlight(pink) - Location 5448
+For the Buddha, both extremes pose insuperable problems. Eternalism encourages an obstinate clinging to the five aggregates, which are really impermanent and devoid of a substantial self; annihilationism threatens to undermine ethics and to make suffering the product of chance.
+
+- Highlight(pink) - Location 5453
+Dependent origination thereby offers a cogent explanation of the problem of suffering that on the one hand avoids the philosophical dilemmas posed by the hypothesis of a permanent self, and on the other avoids the dangers of ethical anarchy to which annihilationism eventually leads.
+
+___
+
+- Highlight(pink) - Location 5455
+As long as ignorance and craving remain, the process of rebirth continues; kamma yields its pleasant and painful fruit, and the great mass of suffering accumulates. When ignorance and craving are destroyed, the inner mechanism of karmic causation is deactivated, and one reaches the end of suffering in saṃsāra.
+
+- Highlight(pink) - Location 5460
+the conditions for “the continuance of consciousness” (viññāṇassa ṭhitiyā), in other words, how consciousness passes on to a new existence. The causes are said to be the underlying tendencies, namely, ignorance and craving, and “what one intends and plans,” namely, the volitional formations. Once consciousness becomes established, the production of a new existence begins; thus we here proceed directly from consciousness (the usual third factor) to existence (the usual tenth factor). Text IX,4(4)(f) says that from the six internal and external sense bases (the former being the usual fifth factor), consciousness (the third factor) arises, followed by contact, feeling, craving, and all the rest.
+
+- Highlight(pink) - Location 5465
+These variants make it plain that the sequence of factors should not be regarded as a linear causal process in which each preceding factor gives rise to its successor through the simple exercise of efficient causality. Far from being linear, the relationship among the factors is always complex, involving several interwoven strands of conditionality.
+
+___
+
+- Highlight(pink) - Location 5468
+The Four Noble Truths.
+
+___
+
+- Highlight(pink) - Location 5477
+Sentient beings roam and wander in saṃsāra because they have not understood and penetrated the Four Noble Truths—Text IX,4(5)(d). As the chain of dependent origination shows, what lies at the base of the causal genesis of suffering is ignorance (avijjā), and ignorance is unawareness of the Four Noble Truths. Thus those who fail to understand the four truths generate volitional formations and fall down the precipice of birth, aging, and death—Text IX,4(5)(e).
+
+- Highlight(pink) - Location 5481
+The antidote to ignorance is knowledge (vijjā), which accordingly is defined as knowledge of the Four Noble Truths.
+
+___
+
+- Highlight(pink) - Location 5482
+The first penetration of the Four Noble Truths occurs with the attainment of stream-entry, called the breakthrough to the Dhamma (dhammābhisamaya). To make this breakthrough is by no means easy, but without doing so it is impossible to put an end to suffering—Text IX,4(5)(f). Hence the Buddha again and again urges his disciples to “make an extraordinary effort” to achieve the breakthrough to the truths.
+
+- Highlight(pink) - Location 5485
+Once the disciple makes the breakthrough and sees the Four Noble Truths, more work still lies ahead, for each truth imposes a task that must be fulfilled in order to win the final fruit.
+
+- Highlight(pink) - Location 5486
+The truth of suffering, which ultimately consists of the five aggregates, must be fully understood (pariññeyya). The truth of its origin, craving, must be abandoned (pahātabba). The truth of cessation, Nibbāna, must be realized (sacchikātabba ). And the truth of the way, the Noble Eightfold Path, must be developed
+
+- Highlight(pink) - Location 5489
+Developing the path brings to completion all four tasks, at which point one reaches the destruction of the taints. This process begins with penetration of the same Four Noble Truths, and thus Text IX,4(5)(g) says that the destruction of the taints is for those who know and see the Four Noble Truths.
+
+___
+
+- Highlight(pink) - Location 5496
+Nibbāna is still the destruction of lust, hatred, and delusion, but as such it is, among other things, peaceful, deathless, sublime, wonderful, and amazing. Such descriptions indicate that Nibbāna is a state of supreme happiness, peace, and freedom to be experienced in this present life.
+
+- Highlight(pink) - Location 5499
+Nibbāna is not simply the destruction of defilements and an exalted feeling of psychological well-being. They speak of Nibbāna almost as if it were a transcendent state or dimension of being. Text IX,5(3) refers to Nibbāna as a “base” (āyatana) beyond the world of common experience where none of the physical elements or even the subtle formless dimensions of experience are present; it is a state completely quiescent, without arising, perishing, or change. Text IX,5(4) calls it the state that is “unborn, unmade, unbecome, and unconditioned” (ajātaṃ, akataṃ, abhūtaṃ, asaṅkhataṃ), the existence of which makes possible deliverance from all that is born, made, come-to-be, and conditioned.
+
+- Highlight(pink) - Location 5507
+The way that seems most faithful to both aspects of Nibbāna delineated in the texts is to regard the attainment of Nibbāna as a state of freedom and happiness attained by realizing, with profound wisdom, the unconditioned and transcendent element, the state that is intrinsically tranquil and forever beyond suffering. The penetration of this element brings the destruction of defilements, culminating in complete purification of mind. Such purification is accompanied by the experience of perfect peace and happiness in this present life.
+
+- Highlight(pink) - Location 5511
+With the breakup of the body at physical death, it brings irreversible release from the beginningless round of rebirths.
+
+___
+
+- Highlight(pink) - Location 5512
+two “elements of Nibbāna,”
+
+- Highlight(pink) - Location 5512
+the Nibbāna element with residue remaining (sa-upādisesa-nibbānadhātu)
+
+- Highlight(pink) - Location 5513
+and the Nibbāna element without residue remaining (anupādisesa-nibbānadhātu ).
+
+- Highlight(pink) - Location 5514
+Nibbāna element with residue remaining to be the destruction of lust, hatred, and delusion attained by an arahant while still alive. The “residue” that remains is the composite of the five aggregates that was brought into being by the ignorance and craving of the past life and that must continue on until the end of the lifespan.
+
+- Highlight(pink) - Location 5516
+As to the Nibbāna element without residue remaining, the same text says only that when the arahant passes away, all that is felt, not being delighted in, will become cool right here.
+
+- Highlight(pink) - Location 5517
+Since there is no more clinging to the five aggregates, and no more craving for fresh experience through a new set of aggregates, the occurrence of the aggregates comes to an end and cannot continue. The process of the five aggregates is “extinguished” (the literal meaning of Nibbāna).
+
+___
+
+- Highlight(pink) - Location 5520
+The Buddha says nothing at all, however, in terms either of existence or nonexistence, about the condition of the arahant after death. It might seem logical to suppose that since the five aggregates that constitute experience completely cease with the attainment of the Nibbāna element without residue, this element must itself be a state of complete nonexistence, a state of nothingness. Yet no text in the Nikāyas ever states this. To the contrary, the Nikāyas consistently refer to Nibbāna by terms that refer to actualities. It is an element (dhātu), a base (āyatana), a reality (dhamma), a state (pada), and so on.
+
+- Highlight(pink) - Location 5524
+However, though so designated, it is qualified in ways that indicate this state ultimately lies beyond all familiar categories and concepts.
+
+- Highlight(pink) - Location 5525
+In Text IX,5(6), the wanderer Vacchagotta asks the Buddha whether the Tathāgata—here signifying one who has attained the supreme goal—is reborn (upapajjati) or not after death. The Buddha refuses to concede any of the four alternatives. To say that the Tathāgata is reborn, is not reborn, both is and is not reborn, neither is nor is not reborn—none of these is acceptable, for all accept the term Tathāgata as indicative of a real being, while from an internal point of view a Tathāgata has given up all clinging to notions of a real being. The Buddha illustrates this point with the simile of an extinguished fire. Just as a fire that has been extinguished cannot be said to have gone anywhere but must simply be said to have “gone out,” so with the breakup of the body the Tathāgata does not go anywhere but has simply “gone out.”
+
+- Highlight(pink) - Location 5531
+The past participle nibbuta, used to describe a fire that has been extinguished, is related to the noun nibbāna, which literally means “extinguishing.”
+
+- Highlight(pink) - Location 5533
+Yet, if this simile suggests a Buddhist version of the “annihilationist” view of the arahant’s fate after his demise, this impression would rest on a misunderstanding, on a wrong perception of the arahant as a “self” or “person” that is annihilated.
+
+- Highlight(pink) - Location 5535
+Our problem in understanding the state of the Tathāgata after death is compounded by our difficulty in understanding the state of the Tathāgata even while alive. The simile of the great ocean underscores this difficulty. Since the Tathāgata no longer identifies with the five aggregates that constitute individual identity, he cannot be reckoned in terms of them, whether individually or collectively. Freed from reckoning in terms of the five aggregates, the Tathāgata transcends our understanding. Like the great ocean, he is “deep, immeasurable, and hard to fathom.”7
