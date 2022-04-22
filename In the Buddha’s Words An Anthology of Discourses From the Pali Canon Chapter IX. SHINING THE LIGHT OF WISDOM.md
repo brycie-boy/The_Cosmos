@@ -31,6 +31,21 @@ The Pāli word paññā is derived from the verbal root ñā (Skt: jñā), meani
 - Highlight - Location 5203
 The Nikāyas take paññā not only as a point of doctrine but as a rich theme for imagery. Thus, Texts IX,1(1)–(2) speak of paññā respectively as a light and a knife. It is the supreme light because it illuminates the true nature of things and dispels the darkness of ignorance. It is a knife—a sharp butcher’s knife—because it cuts through the tangled mass of the defilements and thereby opens the way to liberation.
 
+- Highlight(pink) - Location 5541
+Wisdom as a Light
+
+- Highlight(pink) - Location 5541
+“There are, O monks, these four lights. What four? The light of the moon, the light of the sun, the light of fire, and the light of wisdom. Of these four lights, the light of wisdom is supreme.”
+(Anguttara Nikaya 4:143; II 139)
+
+Highlight(pink) - Location 5544
+“Sisters, suppose a skilled butcher or his apprentice were to kill a cow and carve it up with a sharp butcher’s knife. Without damaging the inner mass of flesh and without damaging the outer hide, he would cut, sever, and carve away the inner tendons, sinews, and ligaments with the sharp butcher’s knife. Then having cut, severed, and carved all this away, he would remove the outer hide and cover the cow again with that same hide. Would he be speaking rightly if he were to say: ‘This cow is joined to this hide just as it was before’?”
+(from Majjhima Nikaya 146: Nandakovāda Sutta; III 274–75)
+
+- Highlight(pink) - Location 5551
+“Sisters, I have given this simile in order to convey a meaning. This is the meaning: ‘The inner mass of flesh’ is a term for the six internal bases. ‘The outer hide’ is a term for the six external bases. ‘The inner tendons, sinews, and ligaments’ is a term for delight and lust. ‘The sharp butcher’s knife’ is a term for noble wisdom—the noble wisdom that cuts, severs, and carves away the inner defilements, fetters, and bonds.”
+(from Majjhima Nikaya 146: Nandakovāda Sutta; III 274–75)
+
 ___
 
 - Highlight(pink) - Location 5214
@@ -85,6 +100,9 @@ If conceptual right view is compared to a hand—a hand that grasps the truth wi
 
 ___
 
+- Highlight(pink) - Location 5583
+A DISCOURSE ON RIGHT VIEW
+
 - Highlight - Location 5244
 Sammādiṭṭhi Sutta, the Discourse on Right View (MN 9), gives an excellent overview of the “soil of wisdom.” The Venerable Sāriputta, the Buddha’s disciple who excelled in wisdom, spoke the discourse to a group of his fellow monks.
 
@@ -93,6 +111,27 @@ The Discourse on Right View is intended to elucidate the principles that should 
 
 - Highlight(pink) - Location 5260
 It should be noted that from the second section to the end of the sutta, he frames all his expositions in accordance with the same pattern, a pattern that reveals the principle of conditionality to be the scaffolding for the entire teaching. Whatever phenomenon he takes up, he expounds by bringing to light its individual nature, its arising, its cessation, and the way to its cessation. Since this is the pattern that underlies the Four Noble Truths, I shall call it “the four-truth pattern.” This pattern recurs throughout the Nikāyas as one of the major templates through which phenomena are to be viewed to arrive at true wisdom.
+
+- Highlight(pink) - Location 5592
+[the wholesome and the unwholesome]
+
+- Highlight(pink) - Location 5592
+“When, friends, a noble disciple understands the unwholesome and the root of the unwholesome, the wholesome and the root of the wholesome, in that way he is one of right view,
+
+- Highlight(pink) - Location 5599
+“And what is the root of the unwholesome? Greed is a root of the unwholesome; hatred is a root of the unwholesome; delusion is a root of the unwholesome. This is called the root of the unwholesome.
+
+- Highlight(pink) - Location 5604
+“And what is the root of the wholesome? Nongreed is a root of the wholesome; nonhatred is a root of the wholesome; nondelusion is a root of the wholesome.
+
+- Highlight(pink) - Location 5605
+“When a noble disciple has thus understood the unwholesome and the root of the unwholesome, the wholesome and the root of the wholesome,11 he entirely abandons the underlying tendency to lust, he abolishes the underlying tendency to aversion, he extirpates the underlying tendency to the view and conceit ‘I am,’ and by abandoning ignorance and arousing true knowledge he here and now makes an end of suffering.12
+
+- Highlight(pink) - Location 5610
+[nutriment]
+
+- Highlight(pink) - Location 5616
+There are four kinds of nutriment for the sustenance of beings that already have come to be and for the support of those about to come to be. What four? They are: physical food as nutriment, gross or subtle; contact as the second; mental volition as the third; and consciousness as the fourth.13
 
 - Highlight(pink) - Location 5264
 Its application makes it clear that no entity is isolated and self-enclosed but is, rather, inherently linked to other things in a complex web of dependently originated processes. The key to liberation lies in understanding the causes that sustain this web and bringing them to an end within oneself. This is done by practicing the Noble Eightfold Path, the way to extinguish those causes.
