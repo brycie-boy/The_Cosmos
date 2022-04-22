@@ -28,6 +28,9 @@ The Pāli word translated here as “wisdom” is paññā, the Pāli equivalent
 - Highlight(pink) - Location 5206
 The Pāli word paññā is derived from the verbal root ñā (Skt: jñā), meaning “to know,” preceded by the prefix pa (Skt: pra), which merely gives the root meaning a more dynamic nuance. So paññā/prajñā means knowing or understanding, not as a possession, but as an action: the act of knowing, the act of understanding, the act of discerning.
 
+- Highlight - Location 5203
+The Nikāyas take paññā not only as a point of doctrine but as a rich theme for imagery. Thus, Texts IX,1(1)–(2) speak of paññā respectively as a light and a knife. It is the supreme light because it illuminates the true nature of things and dispels the darkness of ignorance. It is a knife—a sharp butcher’s knife—because it cuts through the tangled mass of the defilements and thereby opens the way to liberation.
+
 ___
 
 - Highlight(pink) - Location 5214

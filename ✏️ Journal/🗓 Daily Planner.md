@@ -1,5 +1,7 @@
 # 🗓 Daily Planner
 
+The daily planner is like my central hub for  managing my attention. If it isn’t in the daily planner, it shouldn’t be in my mind.
+
 ## ✅ ToDos
 
 ### Urgent ToDos
@@ -7,12 +9,13 @@
 > Do immediately
 
 - [ ] Get bank account (Monday)
-- [ ] Check mail for t shirts
 - [ ] Schedule eye appointment
 
 ### Nonurgent ToDos
 
 #### Quick tasks (Under 5 min)
+
+- Check mail for t shirts (arrives 25th)
 
 #### Slow tasks (Over 5 min)
 
@@ -36,10 +39,6 @@ ___
 
 > Select one task max!
 
-##### Continue Creating?
-
-- [ ] Yes
-
 ### 1. 📤 Egestion
 
 ### 2. 📝 Digestion
@@ -52,6 +51,7 @@ ___
 ### 3. 📥 Ingestion
 
 > - 2 Max
+> - If a source that is on your mind is not in this list, then it shouldn’t be on your mind. Consuming one source should be the condition that leads you to the next.
 
 - [ ] **1.** 
 
@@ -66,21 +66,26 @@ ___
 - Author: Robert Anton Wilson
 - Tags: Philosophy / Spirituality / Psychology / Neuroscience / Occult
 
+
+### Continue Creating?
+
+- [ ] Yes
+
 ##
 ___
 
 ## **🎮🎨 Free time**
 
-##### Continue Learning?
+##### 30 Min Meditation?
 
 - [x] Yes
 
-### 🎨 Egestion
+### 🎨 Create
 
 - [ ] Make music
 - [ ] Draw
 
-### 🎮 Ingestion
+### 🎮 Consume
 
 #### TV:
 
@@ -93,4 +98,8 @@ ___
 #### Videogames:
 
 - [ ] Minecraft 
+
+### Continue Learning?
+
+- [x] Yes
 
