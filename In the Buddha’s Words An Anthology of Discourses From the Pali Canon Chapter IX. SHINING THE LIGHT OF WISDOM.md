@@ -202,16 +202,13 @@ With the arising of clinging there is the arising of existence. With the cessati
 
 ___
 
-Highlight(pink) - Location 5678
-
+- Highlight(pink) - Location 5678
 [clinging]
 
-Highlight(pink) - Location 5684
-
+- Highlight(pink) - Location 5684
 There are these four kinds of clinging: clinging to sensual pleasures, clinging to views, clinging to rules and observances, and clinging to a doctrine of self.16
 
-Highlight(pink) - Location 5685
-
+- Highlight(pink) - Location 5685
 With the arising of craving there is the arising of clinging. With the cessation of craving there is the cessation of clinging. The way leading to the cessation of clinging is just this Noble Eightfold Path;
 
 ___
@@ -312,6 +309,9 @@ There are these three taints: the taint of sensual desire, the taint of existenc
 
 - Highlight(pink) - Location 5794
 With the arising of ignorance there is the arising of the taints.22 With the cessation of ignorance there is the cessation of the taints. The way leading to the cessation of the taints is just this Noble Eightfold Path;
+
+- Highlight - Location 8108
+22 It should be noted that while ignorance is a condition for the taints, the taints—including the taint of ignorance—are in turn a condition for ignorance. Ps says that this conditioning of ignorance by ignorance implies that the ignorance in any one existence is conditioned by the ignorance in the preceding existence. Since this is so, the conclusion follows that no first point can be discovered for ignorance, and thus that saṃsāra is without discernible beginning.
 
 - Highlight(pink) - Location 5797
 “When a noble disciple has thus understood the taints, the origin of the taints, the cessation of the taints, and the way leading to the cessation of the taints, he entirely abandons the underlying tendency to lust, he abolishes the underlying tendency to aversion, he extirpates the underlying tendency to the view and conceit ‘I am,’
