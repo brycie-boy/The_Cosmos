@@ -1,6 +1,6 @@
 # 🗓 Daily Planner
 
-The daily planner is like my central hub for  managing my attention. If it isn’t in the daily planner, it shouldn’t be in my mind.
+The daily planner is like my central hub for  managing my attention. If it isn’t in the daily planner, it shouldn’t be in my mind! If such thoughts do arise, then that means I’m vearing to far off course.
 
 ## ✅ ToDos
 

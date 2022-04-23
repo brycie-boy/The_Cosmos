@@ -2,6 +2,9 @@
 
 > Go through whole list!
 
+Reminder:
+Look for yoga blocks and white bed sheets
+
 ## Things to Watch For On Labels
 1. Serving size
 
