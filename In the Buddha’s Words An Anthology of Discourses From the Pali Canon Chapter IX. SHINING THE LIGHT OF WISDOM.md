@@ -119,15 +119,19 @@ ___
 
 - Highlight(pink) - Location 5592
 “When, friends, a noble disciple understands the unwholesome and the root of the unwholesome, the wholesome and the root of the wholesome, in that way he is one of right view,
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5599
 “And what is the root of the unwholesome? Greed is a root of the unwholesome; hatred is a root of the unwholesome; delusion is a root of the unwholesome. This is called the root of the unwholesome.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5604
 “And what is the root of the wholesome? Nongreed is a root of the wholesome; nonhatred is a root of the wholesome; nondelusion is a root of the wholesome.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5605
 “When a noble disciple has thus understood the unwholesome and the root of the unwholesome, the wholesome and the root of the wholesome,11 he entirely abandons the underlying tendency to lust, he abolishes the underlying tendency to aversion, he extirpates the underlying tendency to the view and conceit ‘I am,’ and by abandoning ignorance and arousing true knowledge he here and now makes an end of suffering.12
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -136,12 +140,14 @@ ___
 
 - Highlight(pink) - Location 5616
 There are four kinds of nutriment for the sustenance of beings that already have come to be and for the support of those about to come to be. What four? They are: physical food as nutriment, gross or subtle; contact as the second; mental volition as the third; and consciousness as the fourth.13
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight - Location 8069
 13 Nutriment (āhāra) is to be understood here in a broad sense as a prominent condition for the individual life-process. Physical food is an important condition for the physical body, contact for feeling, mental volition for consciousness, and consciousness for name-and-form, the psychophysical organism in its totality. Craving is called the origin of nutriment since the craving of the previous existence is the source of the present individuality with its dependence upon and continual consumption of the four nutriments in this existence.
 
 - Highlight(pink) - Location 5619
 With the arising of craving there is the arising of nutriment. With the cessation of craving there is the cessation of nutriment. The way leading to the cessation of nutriment is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -150,15 +156,19 @@ ___
 
 - Highlight(pink) - Location 5629
 “And what is suffering, what is the origin of suffering, what is the cessation of suffering, what is the way leading to the cessation of suffering? Birth is suffering; aging is suffering; illness is suffering; death is suffering; sorrow, lamentation, pain, dejection, and despair are suffering; not to get what one wants is suffering; in brief, the five aggregates subject to clinging are suffering. This is called suffering.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5633
 “And what is the origin of suffering? It is this craving that leads to renewed existence, accompanied by delight and lust, seeking delight here and there; that is, craving for sensual pleasures, craving for existence, craving for extermination. This is called the origin of suffering.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5635
 “And what is the cessation of suffering? It is the remainderless fading away and cessation of that same craving, the giving up and relinquishing of it, freedom from it, nonattachment.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5636
 “And what is the way leading to the cessation of suffering? It is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -167,13 +177,16 @@ ___
 
 - Highlight(pink) - Location 5647
 The aging of beings in the various orders of beings, their old age, brokenness of teeth, grayness of hair, wrinkling of skin, decline of life, weakness of faculties—this is called aging.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5649
 their passing away, breakup, disappearance, dying, completion of time, the breakup of the aggregates, laying down of the body—this is called death.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5650
 With the arising of birth there is the arising of aging and death. With the cessation of birth 
 there is the cessation of aging and death.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -182,12 +195,15 @@ ___
 
 Highlight(pink) - Location 5661
 The birth of beings in the various orders of beings, their coming to birth, precipitation [in a womb], generation, manifestation of the aggregates, obtaining the bases for contact—this is called birth.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5662
 With the arising of existence there is the arising of birth. With the cessation of existence there is the cessation of birth.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5663
 The way leading to the cessation of birth is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -196,9 +212,11 @@ ___
 
 - Highlight(pink) - Location 5672
 There are these three kinds of existence: sense-sphere existence, form-sphere existence, and formless-sphere existence.15
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5673
 With the arising of clinging there is the arising of existence. With the cessation of clinging there is the cessation of existence.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -207,9 +225,11 @@ ___
 
 - Highlight(pink) - Location 5684
 There are these four kinds of clinging: clinging to sensual pleasures, clinging to views, clinging to rules and observances, and clinging to a doctrine of self.16
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5685
 With the arising of craving there is the arising of clinging. With the cessation of craving there is the cessation of clinging. The way leading to the cessation of clinging is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -218,9 +238,11 @@ ___
 
 - Highlight(pink) - Location 5695
 There are these six classes of craving: craving for forms, craving for sounds, craving for odors, craving for flavors, craving for tactile objects, craving for mental phenomena.17
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5697
 With the arising of feeling there is the arising of craving. With the cessation of feeling there is the cessation of craving. The way leading to the cessation of craving is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -229,9 +251,11 @@ ___
 
 - Highlight(pink) - Location 5707
 There are these six classes of feeling: feeling born of eye-contact, feeling born of ear-contact, feeling born of nose-contact, feeling born of tongue-contact, feeling born of body-contact, feeling born of mind-contact.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5708
 With the arising of contact there is the arising of feeling. With the cessation of contact there is the cessation of feeling. The way leading to the cessation of feeling is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -240,9 +264,11 @@ ___
 
 - Highlight(pink) - Location 5718
 There are these six classes of contact: eye-contact, ear-contact, nose-contact, tongue-contact, body-contact, mind-contact.18
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5720
 With the arising of the six sense bases there is the arising of contact. With the cessation of the six sense bases there is the cessation of contact. The way leading to the cessation of contact is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -251,9 +277,11 @@ ___
 
 - Highlight(pink) - Location 5731
 There are these six sense bases: the eye-base, the ear-base, the nose-base, the tongue-base, the body-base, the mind-base.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5732
 With the arising of name-and-form there is the arising of the six sense bases. With the cessation of name-and-form there is the cessation of the six sense bases. The way leading to the cessation of the six sense bases is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -262,9 +290,11 @@ ___
 
 - Highlight(pink) - Location 5743
 Feeling, perception, volition, contact, and attention—these are called name. The four great elements and the form derived from the four great elements—these are called form.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5745
 With the arising of consciousness there is the arising of name-and-form. With the cessation of consciousness there is the cessation of name-and-form. The way leading to the cessation of name-and-form is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -273,9 +303,11 @@ ___
 
 - Highlight(pink) - Location 5755
 There are these six classes of consciousness: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, mind-consciousness.20
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5757
 With the arising of volitional formations there is the arising of consciousness. With the cessation of volitional formations there is the cessation of consciousness. The way leading to the cessation of consciousness is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -284,9 +316,11 @@ ___
 
 - Highlight(pink) - Location 5768
 There are these three kinds of volitional formations: the bodily volitional formation, the verbal volitional formation, the mental volitional formation.21
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5770
 With the arising of ignorance there is the arising of volitional formations. With the cessation of ignorance there is the cessation of volitional formations. The way leading to the cessation of volitional formations is just this Noble Eightfold
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -295,9 +329,11 @@ ___
 
 - Highlight(pink) - Location 5781
 Not knowing about suffering, not knowing about the origin of suffering, not knowing about the cessation of suffering, not knowing about the way leading to the cessation of suffering—this is called ignorance.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5782
 With the arising of the taints there is the arising of ignorance. With the cessation of the taints there is the cessation of ignorance. The way leading to the cessation of ignorance is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -306,15 +342,18 @@ ___
 
 - Highlight(pink) - Location 5793
 There are these three taints: the taint of sensual desire, the taint of existence, and the taint of ignorance.
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight(pink) - Location 5794
 With the arising of ignorance there is the arising of the taints.22 With the cessation of ignorance there is the cessation of the taints. The way leading to the cessation of the taints is just this Noble Eightfold Path;
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 - Highlight - Location 8108
 22 It should be noted that while ignorance is a condition for the taints, the taints—including the taint of ignorance—are in turn a condition for ignorance. Ps says that this conditioning of ignorance by ignorance implies that the ignorance in any one existence is conditioned by the ignorance in the preceding existence. Since this is so, the conclusion follows that no first point can be discovered for ignorance, and thus that saṃsāra is without discernible beginning.
 
 - Highlight(pink) - Location 5797
 “When a noble disciple has thus understood the taints, the origin of the taints, the cessation of the taints, and the way leading to the cessation of the taints, he entirely abandons the underlying tendency to lust, he abolishes the underlying tendency to aversion, he extirpates the underlying tendency to the view and conceit ‘I am,’
+(Majjhima Nikaya 9: Sammādiṭṭhi Sutta; I 46–55)
 
 ___
 
@@ -322,6 +361,9 @@ ___
 Its application makes it clear that no entity is isolated and self-enclosed but is, rather, inherently linked to other things in a complex web of dependently originated processes. The key to liberation lies in understanding the causes that sustain this web and bringing them to an end within oneself. This is done by practicing the Noble Eightfold Path, the way to extinguish those causes.
 
 ___
+
+- Highlight(pink) - Location 5803
+THE DOMAIN OF WISDOM
 
 - Highlight(pink) - Location 5273
 “the domain of wisdom,” the areas to be explored and penetrated by insight.
@@ -355,6 +397,46 @@ are the main categories the Nikāyas use to analyze human experience.
 - Highlight - Location 5313
 ![[44BDFF1F-5263-4EF1-9D26-0101D1342964.jpeg|350]]
 
+- Highlight(pink) - Location 5815
+With the arising of nutriment there is the arising of form. With the cessation of nutriment there is the cessation of form... This Noble Eightfold Path is the way leading to the cessation of form;
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5823
+“And what, monks, is feeling? There are these six classes of feeling: feeling born of eye-contact, feeling born of ear-contact, feeling born of nose-contact, feeling born of tongue-contact, feeling born of body-contact, feeling born of mind-contact.
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5824
+This is called feeling. With the arising of contact there is the arising of feeling. With the cessation of contact there is the cessation of feeling. This Noble Eightfold Path is the way leading to the cessation of feeling;
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5831
+“And what, monks, is perception? There are these six classes of perception: perception of forms, perception of sounds, perception of odors, perception of tastes, perception of tactile objects, perception of mental phenomena.
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5832
+With the arising of contact there is the arising of perception. With the cessation of contact there is the cessation of perception. This Noble Eightfold Path is the way leading to the cessation of perception;
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5835
+“And what, monks, are volitional formations? There are these six classes of volition:26 volition regarding forms, volition regarding sounds, volition regarding odors, volition regarding tastes, volition regarding tactile objects, volition regarding mental phenomena.
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5838
+With the arising of contact there is the arising of volitional formations. With the cessation of contact there is the cessation of volitional formations. This Noble Eightfold Path is the way leading to the cessation of volitional formations;
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5841
+“And what, monks, is consciousness? There are these six classes of consciousness: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, mind-consciousness. This is called consciousness.
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5843
+With the arising of name-and-form there is the arising of consciousness.27 With the cessation of name-and-form there is the cessation of consciousness. This Noble Eightfold Path is the way leading to the cessation of consciousness;
+(Samyutta Nikaya 22:56; III 58–61)
+
+- Highlight(pink) - Location 5887
+“The four great elements, monk, are the cause and condition for the manifestation of the form aggregate. Contact is the cause and condition for the manifestation of the feeling aggregate, the perception aggregate, and the volitional formations aggregate. Name-and-form is the cause and condition for the manifestation of the consciousness aggregate.”
+(from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
+
 ___
 
 - Highlight(pink) - Location 5282
@@ -363,6 +445,10 @@ Examination of the five aggregates, the topic of the Khandhasaṃyutta (Saṃyut
 - Highlight(pink) - Location 5284
 and since all four truths revolve around suffering, understanding the aggregates is essential for understanding the Four Noble Truths as a whole. Second, the five aggregates are the objective domain of clinging and as such contribute to the causal origination of future suffering. Third, clinging to the five aggregates must be removed to attain liberation. And fourth, the kind of wisdom needed to remove clinging is precisely clear insight into the true nature of the aggregates.
 
+- Highlight(pink) - Location 5812
+“And how, monks, are there four phases? I directly knew form, its origin, its cessation, and the way leading to its cessation. I directly knew feeling ... perception ... volitional formations … consciousness, its origin, its cessation, and the way leading to its cessation.
+(Samyutta Nikaya 22:56; III 58–61)
+
 - Highlight(pink) - Location 5296
 the constituents of each aggregate and shows that each aggregate arises and ceases in correlation with its own specific condition; the Noble Eightfold Path is the way to bring each aggregate to an end.
 
@@ -370,6 +456,10 @@ ___
 
 - Highlight(pink) - Location 5304
 Because the five aggregates that make up our ordinary experience are the objective domain of clinging (upādāna), they are commonly called the five aggregates subject to clinging
+
+- Highlight(pink) - Location 5805
+there are these five aggregates subject to clinging...
+(Samyutta Nikaya 22:56; III 58–61)
 
 - Highlight(pink) - Location 5307
 One either grasps them and takes possession of them, that is, one appropriates them; or one uses them as the basis for views about one’s self or for conceit (“I am better than, as good as, inferior to others”), that is, one identifies with them.
@@ -383,8 +473,6 @@ the notion “This is mine” represents the act of appropriation, a function of
 - Highlight(pink) - Location 5311
 The notions “This I am” and “This is my self” represent two types of identification, the former expressing conceit (māna), the latter views (diṭṭhi).
 
-___
-
 - Highlight(pink) - Location 5314
 Giving up craving is so difficult because craving is reinforced by views, which rationalize our identification with the aggregates and thus equip craving with a protective shield.
 
@@ -397,10 +485,29 @@ The suttas often mention twenty types of identity view, obtained by considering 
 - Highlight(pink) - Location 5318
 “the instructed noble disciple,” having seen with wisdom the selfless nature of the aggregates, no longer regards the aggregates as a self or the belongings of a self.
 
+- Highlight(pink) - Location 5887
+“The four great elements, monk, are the cause and condition for the manifestation of the form aggregate. Contact is the cause and condition for the manifestation of the feeling aggregate, the perception aggregate, and the volitional formations aggregate. Name-and-form is the cause and condition for the manifestation of the consciousness aggregate.”
+(from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
+
+- Highlight(pink) - Location 5890
+“Here, monk, the uninstructed worldling ... regards form as self, or self as possessing form, or form as in self, or self as in form. He regards feeling as self ... perception as self ... volitional formations as self ... consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. That is how identity view comes to be.”
+(from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
+
+- Highlight(pink) - Location 5900
+“The pleasure and joy, monk, that arise in dependence on form: this is the gratification in form. That form is impermanent, suffering, and subject to change: this is the danger in form. The removal and abandonment of desire and lust for form: this is the escape from form. The pleasure and joy that arise in dependence on feeling ... in dependence on perception ... in dependence on volitional formations ... in dependence on consciousness:
+(from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
+
+- Highlight(pink) - Location 5908
+“Any kind of form whatsoever, monk, whether past, future, or present, internal or external, gross or subtle, inferior or superior, far or near—one sees all form as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’ “Any kind of feeling whatsoever … Any kind of perception whatsoever ... Any kind of volitional formations whatsoever . . . Any kind of consciousness whatsoever, whether past, future, or present, internal or external, gross or subtle, inferior or superior, far or near—one sees all consciousness as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’ “When one knows and sees thus, monk, then in regard to this body with consciousness and in regard to all external signs, I-making, mine-making, and the underlying tendency to conceit no longer occur within.”
+(from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
+
 - Highlight(pink) - Location 5319
 Adopting any of these views is a cause of anxiety and distress. It is also a leash that keeps us bound to the round of rebirths—see above,
 
 ___
+
+- Highlight(pink) - Location 5916
+The Characteristic of Nonself
 
 - Highlight(pink) - Location 5321
 All the defilements ultimately stem from ignorance, which thus lies at the bottom of all suffering and bondage. Ignorance weaves a net of three delusions around the aggregates. These delusions are the notions that the five aggregates are permanent, a source of true happiness, and a self. The wisdom needed to break the spell of these delusions is the insight into the five aggregates as impermanent (anicca), suffering (dukkha), and nonself (anattā). This is called the direct knowledge of the three characteristics of existence (tilakkhaṇa).
@@ -408,11 +515,23 @@ All the defilements ultimately stem from ignorance, which thus lies at the botto
 - Highlight(pink) - Location 5327
 IX,4(1)(c)—the formula uses the characteristic of impermanence to reveal the characteristic of suffering, and both together to reveal the characteristic of nonself. The suttas take this indirect route to the characteristic of nonself because the selfless nature of things is so subtle that often it cannot be seen except when pointed to by the other two characteristics. When we recognize that the things we identify as our self are impermanent and bound up with suffering, we realize that they lack the essential marks of authentic selfhood and we thereby stop identifying with them.
 
+- Highlight(pink) - Location 5919
+“Monks, form is nonself. For if, monks, form were self, this form would not lead to affliction, and it would be possible to determine form: ‘Let my form be thus; let my form not be thus.’ But because form is nonself, form leads to affliction, and it is not possible to determine form: ‘Let my form be thus; let my form not be thus.’32 ... Feeling is nonself…. Perception is nonself…. Volitional formations are nonself…. Consciousness is nonself.
+(Samyutta Nikaya 22:59; III 66–68)
+
+- Highlight(pink) - Location 5926
+“What do you think, monks, is form permanent or impermanent?”—“Impermanent, venerable sir.”—“Is what is impermanent suffering or happiness?”—“Suffering, venerable sir.”—“Is what is impermanent, suffering, and subject to change fit to be regarded thus: ‘This is mine, this I am, this is my self’?”—“No, venerable sir.” “Is feeling permanent or impermanent?… Is perception permanent or impermanent?… Are volitional formations permanent or impermanent? … Is consciousness permanent or impermanent?”—“Impermanent, venerable sir.”—“Is what is impermanent suffering or happiness?”—“Suffering, venerable sir.”—“Is what is impermanent, suffering, and subject to change fit to be regarded thus: ‘This is mine, this I am, this is my self’?”—“No, venerable sir.”
+(Samyutta Nikaya 22:59; III 66–68)
+
 - Highlight(pink) - Location 5332
 The different expositions of the three characteristics all thus eventually converge on the eradication of clinging. They do so by showing, with regard to each aggregate, “This is not mine, this I am not, this is not my self.” This makes the insight into nonself the culmination and consummation of the contemplation of the three characteristics.
 
 - Highlight(pink) - Location 5337
 insight into the five aggregates as impermanent, suffering, and nonself induces disenchantment (nibbidā), dispassion (virāga), and liberation (vimutti).
+
+- Highlight(pink) - Location 5938
+“Seeing thus, monks, the instructed noble disciple becomes disenchanted with form, disenchanted with feeling, disenchanted with perception, disenchanted with volitional formations, disenchanted with consciousness. Becoming disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated.
+(Samyutta Nikaya 22:59; III 66–68)
 
 - Highlight(pink) - Location 5338
 One who attains liberation subsequently wins “the knowledge and vision of liberation,” the assurance that the round of rebirths has indeed been stopped and nothing more remains to be done.
