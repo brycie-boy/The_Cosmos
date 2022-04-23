@@ -592,13 +592,9 @@ Highlight(pink) - Location 5619
 
 With the arising of craving there is the arising of nutriment. With the cessation of craving there is the cessation of nutriment. The way leading to the cessation of nutriment is just this Noble Eightfold Path;
 
-Highlight(pink) - Location 5624
+Highlight(pink) - Location 5624 
 
 [the Four Noble Truths]
-
-Highlight(pink) - Location 5627
-
-“When, friends, a noble disciple understands suffering, the origin of suffering, the cessation of suffering, and the way leading to the cessation of suffering, in that way he is one of right view
 
 Highlight(pink) - Location 5629
 
@@ -620,10 +616,6 @@ Highlight(pink) - Location 5641
 
 [aging and death]
 
-Highlight(pink) - Location 5644
-
-“When, friends, a noble disciple understands aging and death, the origin of aging and death, the cessation of aging and death, and the way leading to the cessation of aging and death, in that way he is one of right view
-
 Highlight(pink) - Location 5647
 
 The aging of beings in the various orders of beings, their old age, brokenness of teeth, grayness of hair, wrinkling of skin, decline of life, weakness of faculties—this is called aging.
@@ -639,10 +631,6 @@ With the arising of birth there is the arising of aging and death. With the cess
 Highlight(pink) - Location 5655
 
 [birth]
-
-Highlight(pink) - Location 5658
-
-“When, friends, a noble disciple understands birth, the origin of birth, the cessation of birth, and the way leading to the cessation of birth, in that way he is one of right view
 
 Highlight(pink) - Location 5661
 
@@ -671,10 +659,6 @@ With the arising of clinging there is the arising of existence. With the cessati
 Highlight(pink) - Location 5678
 
 [clinging]
-
-Highlight(pink) - Location 5681
-
-“When, friends, a noble disciple understands clinging, the origin of clinging, the cessation of clinging, and the way leading to the cessation of clinging, in that way he is one of right view
 
 Highlight(pink) - Location 5684
 
