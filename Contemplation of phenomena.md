@@ -4,7 +4,7 @@ The contemplation of phenomena, a division of [[The four establishments of mindf
 
 - [[The five hinderances]] 
 - [[The five aggregates]]
-- [[The six sense bases]]
+- [[Six sense bases]]
 - [[The seven factors of enlightenment]]
 - [[The four nobel truths]]
 

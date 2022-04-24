@@ -8,3 +8,4 @@
 
 > - 10 Words max  [[🗓 Daily Planner]]
 
+1. emphatic

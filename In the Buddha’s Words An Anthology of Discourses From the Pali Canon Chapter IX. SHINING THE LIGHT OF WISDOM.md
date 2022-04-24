@@ -44,7 +44,7 @@ Wisdom as a Light
 
 ___
 
-- Highlight(pink) - Location 5214 ❗️
+- Highlight(pink) - Location 5214 
 Contemporary Buddhist literature commonly conveys two ideas about paññā that have become almost axioms in the popular understanding of Buddhism. The first is that paññā is exclusively nonconceptual and nondiscursive, a type of cognition that defies all the laws of logical thought; the second, that paññā arises spontaneously, through an act of pure intuition as sudden and instantaneous as a brilliant flash of lightning.
 
 - Highlight(pink) - Location 5217
@@ -369,7 +369,7 @@ the five aggregates; the six sense bases; the elements (in different numerical s
 
 ___
 
-- Highlight(pink) - Location 5277
+- Highlight(pink) - Location 5277 ❗️
 The Five Aggregates.
 
 - Highlight(pink) - Location 5277
@@ -413,7 +413,7 @@ This is called feeling. With the arising of contact there is the arising of feel
 With the arising of contact there is the arising of perception. With the cessation of contact there is the cessation of perception. This Noble Eightfold Path is the way leading to the cessation of perception;
 (Samyutta Nikaya 22:56; III 58–61)
 
-- Highlight(pink) - Location 5835
+- Highlight(pink) - Location 5835 
 “And what, monks, are volitional formations? There are these six classes of volition:26 volition regarding forms, volition regarding sounds, volition regarding odors, volition regarding tastes, volition regarding tactile objects, volition regarding mental phenomena.
 (Samyutta Nikaya 22:56; III 58–61)
 
