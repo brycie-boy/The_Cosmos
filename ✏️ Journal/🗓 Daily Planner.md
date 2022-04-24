@@ -87,6 +87,8 @@ ___
 
 ### 🎮 Consume
 
+(Restricted until 90 dopamine detox is complete)
+
 #### TV:
 
 

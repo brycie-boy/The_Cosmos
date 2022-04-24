@@ -144,8 +144,8 @@ Look for yoga blocks and white bed sheets
 - [x] Fish oil / Omega 3s
 - [x] Vitamin D3 / K2
 - [ ] Protein
-- [ ] Lions mane 
-- [ ] Ginko
+- [x] Lions mane 
+- [x] Ginko
 
 Cost to maintain: $225
 
@@ -165,7 +165,7 @@ ___
 
 ### List
 - [x] Hello mouth wash: $6
-- [x] Hello free toothpaste: $4
+- [ ] Hello free toothpaste: $4
 - [x] Native deodorant: $13
 - [x] Native body wash: $9
 - [x] Harry’s shaving cream: $7

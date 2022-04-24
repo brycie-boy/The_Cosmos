@@ -3,7 +3,6 @@
 _noun_
 
 1. the act of despising **:** the state of mind of one who despises
-"glared at him in contempt"
 
 2. lack of respect or reverence for something
 
