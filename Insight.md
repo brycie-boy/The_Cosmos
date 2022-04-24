@@ -1,6 +1,6 @@
 ## Insight #🧠 
 
-Insight, when developed, leads to higher wisdom into the true nature of phenomena,  permanently liberates the mind from ignorance, and ultimatley leads to the realizationo of [[Nibbana]]. The cultivation of insight requires skill in observing, investigating, and decerning the nature of conditioned phenomena, or "formations".
+Insight, when developed, leads to higher wisdom into the true nature of phenomena,  permanently liberates the mind from ignorance, that is. of [[The four nobel truths]], and ultimatley leads to the realization of [[Nibbana]]. The cultivation of insight requires skill in observing, investigating, and decerning the nature of conditioned phenomena, or "formations", doing so requires intense concentration through the cultivation of [[Serenity]]. 
 
 ___
 

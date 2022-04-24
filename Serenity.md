@@ -1,6 +1,6 @@
 ## Serenity #🧠 
 
-Serenity, when developed, leads to the liberation of mind from defilements such as lust and ill will. The cultivation of serenity requires steadying, composing, unifying, and concentrating the mind; [[The jhanas]] being the succesive stages of such efforts.
+Serenity, when developed, leads to the liberation of mind of lust and adversion of[[The three unwholesome roots]]. The cultivation of serenity requires steadying, composing, unifying, and concentrating the mind; [[The jhanas]] being the succesive stages of these efforts. The stilled mind "sees things as they really are", that is, it observes phenomena as it arises and passes away, thus making serenity the foundation for [[Insight]]. 
 
 ___
 

@@ -10,10 +10,6 @@ Tags:
 
 ___
 
-[[Inbox scrap]]
-
-___
-
 - Highlight(pink) - Location 5196
 The still mind, calm and collected, is the foundation for insight. The still mind observes phenomena as they arise and pass away, and from sustained observation and probing exploration arises “the higher wisdom of insight into phenomena” (adhipaññādhammavipassanā ).
 
@@ -22,7 +18,7 @@ As wisdom gathers momentum, it penetrates more and more deeply into the nature o
 
 ___
 
-- Highlight(pink) - Location 5200
+- Highlight(pink) - Location 5200 
 The Pāli word translated here as “wisdom” is paññā, the Pāli equivalent of Sanskrit prajñā,
 
 - Highlight(pink) - Location 5206
@@ -48,7 +44,7 @@ Wisdom as a Light
 
 ___
 
-- Highlight(pink) - Location 5214
+- Highlight(pink) - Location 5214 ❗️
 Contemporary Buddhist literature commonly conveys two ideas about paññā that have become almost axioms in the popular understanding of Buddhism. The first is that paññā is exclusively nonconceptual and nondiscursive, a type of cognition that defies all the laws of logical thought; the second, that paññā arises spontaneously, through an act of pure intuition as sudden and instantaneous as a brilliant flash of lightning.
 
 - Highlight(pink) - Location 5217
@@ -515,6 +511,10 @@ All the defilements ultimately stem from ignorance, which thus lies at the botto
 - Highlight(pink) - Location 5327
 IX,4(1)(c)—the formula uses the characteristic of impermanence to reveal the characteristic of suffering, and both together to reveal the characteristic of nonself. The suttas take this indirect route to the characteristic of nonself because the selfless nature of things is so subtle that often it cannot be seen except when pointed to by the other two characteristics. When we recognize that the things we identify as our self are impermanent and bound up with suffering, we realize that they lack the essential marks of authentic selfhood and we thereby stop identifying with them.
 
+Highlight(pink) - Location 5945
+What is impermanent is suffering. What is suffering is nonself. What is nonself should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’ When one sees this thus as it really is with correct wisdom, the mind becomes dispassionate and is liberated from the taints by nonclinging ... Feeling is impermanent…. Perception is impermanent…. Volitional formations are impermanent…. Consciousness is impermanent.
+(Samyutta Nikaya 22:45; III 44–45)
+
 - Highlight(pink) - Location 5919
 “Monks, form is nonself. For if, monks, form were self, this form would not lead to affliction, and it would be possible to determine form: ‘Let my form be thus; let my form not be thus.’ But because form is nonself, form leads to affliction, and it is not possible to determine form: ‘Let my form be thus; let my form not be thus.’32 ... Feeling is nonself…. Perception is nonself…. Volitional formations are nonself…. Consciousness is nonself.
 (Samyutta Nikaya 22:59; III 66–68)
@@ -536,23 +536,36 @@ insight into the five aggregates as impermanent, suffering, and nonself induces 
 “Seeing thus, monks, the instructed noble disciple becomes disenchanted with form, disenchanted with feeling, disenchanted with perception, disenchanted with volitional formations, disenchanted with consciousness. Becoming disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated.
 (Samyutta Nikaya 22:59; III 66–68)
 
+Highlight(pink) - Location 5951
+“If, monks, a monk’s mind has become dispassionate toward the form element, it is liberated from the taints by nonclinging. If his mind has become dispassionate toward the feeling element ... toward the perception element ... toward the volitional formations element ... toward the consciousness element, it is liberated from the taints by nonclinging.
+(Samyutta Nikaya 22:45; III 44–45)
+
+Highlight(pink) - Location 5953
+“By being liberated, it is steady; by being steady, it is content; by being content, he is not agitated. Being unagitated, he personally attains Nibbāna.
+(Samyutta Nikaya 22:45; III 44–45)
+
 - Highlight(pink) - Location 5338
 One who attains liberation subsequently wins “the knowledge and vision of liberation,” the assurance that the round of rebirths has indeed been stopped and nothing more remains to be done.
 
 ___
+
+- Highlight(pink) - Location 5989
+the Six Sense Bases
 
 - Highlight(pink) - Location 5345
 The six internal and external sense bases provide a perspective on the totality of experience different from, but complementary to, the perspective provided by the aggregates. The six pairs of bases are the sense faculties and their corresponding objects, which support the arising of the respective type of consciousness. Because they mediate between consciousness and its objects, the internal sense bases are spoken of as the “bases for contact” (phassāyatana), “contact” (phassa) being the coming together of sense faculty, object, and consciousness.
 
 - Highlight(pink) - Location 5350
 ![[C11BC9B8-3934-42A5-8D58-D0961C39A7AD.jpeg|300]]
+- Highlight(pink) - Location 5992
+“And what, monks, is that all? Without directly knowing and fully understanding the eye, without developing dispassion toward it and abandoning it, one is incapable of destroying suffering. Without directly knowing and fully understanding forms … eye-consciousness ... eye-contact ... and whatever feeling arises with eye-contact as condition … without developing dispassion toward it and abandoning it, one is incapable of destroying suffering. “Without directly knowing and fully understanding the ear ... the mind ... and whatever feeling arises with mind-contact as condition … without developing dispassion toward it and abandoning it, one is incapable of destroying suffering.
+(Samyutta Nikaya 35:26; IV 17–18)
+
 - Highlight(pink) - Location 5351
 What the first five sense bases and their objects signify is obvious enough, but the sixth pair, mind (mano) and phenomena (dhammā), presents some difficulty. If we treat the two terms as parallel to the other internal and external bases, we would understand the mind base to be the support for the arising of mind-consciousness (manoviññāṇa) and the phenomena base to be the objective sphere of mind-consciousness. On this interpretation, “mind” might be taken as the passive flow of consciousness from which active conceptual consciousness emerges, and “phenomena” as purely mental objects such as those apprehended by introspection, imagination, and reflection.
 
 - Highlight(pink) - Location 5355
 The Abhidhamma and the Pāli commentaries, however, interpret the two terms differently. They hold that the mind base comprises all classes of consciousness, that is, they include within it all six types of consciousness. They also hold that all actual entities not comprised in the other sense bases constitute the phenomena base. The phenomena base, then, includes the other three mental aggregates—feeling, perception, and volitional formations—as well as types of subtle material form not implicated in experience through the physical senses.
-
-___
 
 - Highlight(pink) - Location 5364
 The Nikāyas suggest an interesting difference between the treatment given to the aggregates and the sense bases. Both serve as the soil where clinging takes root and grows, but while the aggregates are primarily the soil for views about a self, the sense bases are primarily the soil for craving. A necessary step in the conquest of craving is therefore restraint of the senses.
@@ -560,16 +573,36 @@ The Nikāyas suggest an interesting difference between the treatment given to th
 - Highlight(pink) - Location 5367
 Monks and nuns in particular must be vigilant in their encounters with desirable and undesirable sense objects. When one is negligent, experience through the senses invariably becomes a trigger for craving: lust for pleasant objects, aversion toward disagreeable objects (and a craving for pleasant escape routes), and a dull attachment to neutral objects.
 
-___
-
 - Highlight(pink) - Location 5369
 In one of his earliest discourses popularly known as “The Fire Sermon”—Text IX,4(2)(b)—the Buddha declared that “all is burning.” The “all” is just the six senses, their objects, the types of consciousness arisen from them, and the related contacts and feelings. The way to liberation is to see that this “all” is burning with the fires of defilements and suffering.
+
+- Highlight(pink) - Location 6005
+“Monks, all is burning. And what, monks, is the all that is burning? The eye is burning, forms are burning, eye-consciousness is burning, eye-contact is burning, and whatever feeling arises with eye-contact as condition—whether pleasant or painful or neither-painful-nor-pleasant—that too is burning. Burning with what? Burning with the fire of lust, with the fire of hatred, with the fire of delusion; burning with birth, aging, and death; with sorrow, lamentation, pain, dejection, and despair, I say.
+(Samyutta Nikaya 35:28; IV 19–20)
 
 - Highlight(pink) - Location 5372
 to dispel ignorance and generate true knowledge, we must contemplate all the sense bases and the feelings that arise through them as impermanent, suffering, and nonself. This, according to Text IX,4(2)(c), is the direct way to the attainment of Nibbāna.
 
+Highlight(pink) - Location 6021
+“And what, monks, is the way that is suitable for attaining Nibbāna? Here, a monk sees the eye as impermanent, he sees forms as impermanent, he sees eye-consciousness as impermanent, he sees eye-contact as impermanent, he sees as impermanent whatever feeling arises with eye-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant ... “He sees the ear as impermanent … He sees the mind as impermanent,
+... “He sees the eye as suffering ... he sees as suffering whatever feeling arises with mind-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant ... “He sees the eye as nonself … he sees as nonself whatever feeling arises with mind-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant.
+(Samyutta Nikaya 35:147–49, combined; IV 133–35)
+
 - Highlight(pink) - Location 5374
 An alternative route, commended by Text IX,4(2)(d), is to see that the six senses are empty—empty of a self or of anything belonging to a self. Since consciousness arises via the six sense bases, it too is devoid of self—Text IX, 4(2)(e).
+
+___
+
+- Highlight(pink) - Location 6039
+(e) Consciousness Too Is Nonself
+
+- Highlight(pink) - Location 6043
+Doesn’t eye-consciousness arise in dependence on the eye and forms?” “Yes, friend.”
+(Samyutta Nikaya 35:234; IV 166–68)
+
+- Highlight(pink) - Location 6044
+“If the cause and condition for the arising of eye-consciousness would cease completely and totally without remainder, could eye-consciousness be discerned?” “No, friend.” “In this way, friend, this has been declared, disclosed, and revealed by the Blessed One thus: ‘For such a reason this consciousness is nonself.’
+(Samyutta Nikaya 35:234; IV 166–68)
 
 ___
 
@@ -578,6 +611,9 @@ The Elements.
 
 - Highlight(pink) - Location 5378
 The most important groups consist of eighteen, four, and six elements.
+
+- Highlight(pink) - Location 6060
+(a) The Eighteen Elements
 
 - Highlight(pink) - Location 5379
 The eighteen elements are an elaboration of the twelve sense bases. They consist of the six sense faculties, the six sense objects, and the six types of sense consciousness.
@@ -591,8 +627,19 @@ contains a simple enumeration of the eighteen elements. Contemplation of these e
 - Highlight(pink) - Location 5384
 experience consists of different types of consciousness, each of which is conditioned, arisen in dependence on its own specific sense faculty and object. Thus to ascertain the composite, diversified, conditioned nature of experience dispels the illusion of unity and solidity that ordinarily obscures correct cognition.
 
+- Highlight(pink) - Location 6060
+“Monks, I will teach you the diversity of elements. The eye element, form element, eye-consciousness element; the ear element, sound element, ear-consciousness element; the nose element, odor element, nose-consciousness element; the tongue element, taste element, tongue-consciousness element; the body element, tactile-object element, body-consciousness element; the mind element, mental-phenomena element, mind-consciousness element. This, monks, is called the diversity of elements.”
+(Samyutta Nikaya 14:1; II 140)
+
+- Highlight(pink) - Location 6064
+(b) The Four Elements
+
 - Highlight(pink) - Location 5387
 The four elements are earth, water, heat, and air. These represent four “behavioral modes” of matter: solidity, fluidity, energy, and distension.
+
+- Highlight(pink) - Location 6065
+“Monks, there are these four elements. What four? The earth element, the water element, the heat element, the air element.
+(Samyutta Nikaya 14:37–39, combined; II 175–77)
 
 - Highlight(pink) - Location 5388
 The four are inseparably united in any unit of matter, from the smallest to the largest and most complex.
@@ -603,11 +650,38 @@ The elements are not merely properties of the external world, however, but also 
 - Highlight(pink) - Location 5391
 these elements can be viewed: as impermanent and conditioned; from the triple standpoint of gratification, danger, and escape; and by way of the four-truth pattern.
 
+- Highlight(pink) - Location 6082
+(c) The Six Elements
+
 - Highlight(pink) - Location 5392
 The six elements include the four physical elements, the space element, and the element of consciousness.
 
+- Highlight(pink) - Location 6084
+There are these six elements: the earth element, the water element, the fire element, the air element, the space element, and the consciousness element.
+(from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
+
 - Highlight(pink) - Location 5393
 how to contemplate the six elements in relation to the physical body, the external world, and conscious experience.
+
+- Highlight(pink) - Location 6085
+The earth element may be either internal or external. What is the internal earth element? Whatever internally, belonging to oneself, is solid, solidified, and clung-to, that is, head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, stomach, feces, or whatever else internally, belonging to oneself, is solid, solidified, and clung-to: this is called the internal earth element ... Now both the internal earth element and the external earth element are simply earth element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
+(from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
+
+- Highlight(pink) - Location 6092
+Whatever internally, belonging to oneself, is water, watery, and clung-to, that is, bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil-of-the-joints, urine, or whatever else internally, belonging to oneself, is water, watery, and clung-to: this is called the internal water element ... Now both the internal water element and the external water element are simply water element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
+(from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
+
+- Highlight(pink) - Location 6097
+The fire element may be either internal or external. What is the internal fire element? Whatever internally, belonging to oneself, is fire, fiery, and clung-to, that is, that by which one is warmed, ages, and is consumed, and that by which what is eaten, drunk, consumed, and tasted gets completely digested, or whatever else internally, belonging to oneself, is fire, fiery, and clung-to: this is called the internal fire element ... Now both the internal fire element and the external fire element are simply fire element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
+(from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
+
+- Highlight(pink) - Location 6103
+The air element may be either internal or external. What is the internal air element? Whatever internally, belonging to oneself, is air, airy, and clung-to, that is, up-going winds, down-going winds, winds in the belly, winds in the bowels, winds that course through the limbs, in-breath and out-breath, or whatever else internally, belonging to oneself, is air, airy, and clung-to: this is called the internal air element ... Now both the internal air element and the external air element are simply air element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
+(from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
+
+Highlight(pink) - Location 6109
+The space element may be either internal or external. What is the internal space element? Whatever internally, belonging to oneself, is space, spatial, and clung-to, that is, the holes of the ears, the nostrils, the door of the mouth, and that [aperture] whereby what is eaten, drunk, consumed, and tasted gets swallowed, and where it collects, and whereby it is excreted from below, or whatever else internally, belonging to oneself, is space, spatial, and clung-to: this is called the internal space element ... Now both the internal space element and the external space element are simply space element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
+(from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
 
 ___
 
@@ -631,6 +705,10 @@ The series is expounded in two ways: by way of origination (called anuloma or fo
 
 - Highlight(pink) - Location 5409
 Because of (1) ignorance (avijjā), lack of direct knowledge of the Four Noble Truths, we engage in wholesome and unwholesome activities of body, speech, and mind; these are (2) volitional formations (saṅkhārā), in other words, kamma. Volitional formations sustain consciousness from one life to the next and determine where it re-arises; in this way volitional formations condition (3) consciousness (viññāṇa). Along with consciousness, beginning from the moment of conception, comes (4) “name-and-form” (nāmarūpa), the sentient organism with its physical form (rūpa) and its sensitive and cognitive capacities (nāma). The sentient organism is equipped with (5) six sense bases (saḷāyatana), the five physical sense faculties and the mind as organ of cognition. The sense bases allow (6) contact (phassa) to occur between consciousness and its objects, and contact conditions (7) feeling (vedanā). Called into play by feeling, (8) craving (taṇhā) arises, and when craving intensifies it gives rise to (9) clinging (upādāna), tight attachment to the objects of desire through sensuality and wrong views. Impelled by our attachments, we again engage in volitional actions pregnant with (10) a new existence (bhava). At death this potential for new existence is actualized in a new life beginning with (11) birth (jāti) and ending in (12) aging-and-death (jarāmaraṇa).4
+
+- Highlight(pink) - Location 6134
+“And what, monks, is dependent origination? With ignorance as condition, volitional formations [come to be]; with volitional formations as condition, consciousness; with consciousness as condition, name-and-form; with name-and-form as condition, the six sense bases; with the six sense bases as condition, contact; with contact as condition, feeling; with feeling as condition, craving; with craving as condition, clinging; with clinging as condition, existence; with existence as condition, birth; with birth as condition, aging-and-death, sorrow, lamentation, pain, dejection, and despair come to be. Such is the origin of this whole mass of suffering.
+(Samyutta Nikaya 12:1; II 1–2)
 
 - Highlight(pink) - Location 5419
 From the above, we can see that the commentarial interpretation treats the twelve factors as spread out over a span of three lives, with ignorance and volitional formations pertaining to the past, birth and aging-and-death to the future, and the intermediate factors to the present. The segment from consciousness through feeling is the resultant phase of the present, the phase resulting from past ignorance and kamma; the segment from craving through existence is the karmically creative phase of the present, leading to renewed existence in the future.
@@ -672,6 +750,14 @@ eternalism (sassatavāda), asserts that the core of human identity is an indestr
 - Highlight(pink) - Location 5447
 annihilationism (ucchedavāda), holds that at death the person is utterly annihilated. There is no spiritual dimension to human existence and thus no personal survival of any sort.
 
+- Highlight(pink) - Location 6202
+“This world, Kaccāna, for the most part depends upon a duality—upon the idea of existence and the idea of nonexistence.46 But for one who sees the origin of the world as it really is with correct wisdom, there is no idea of nonexistence in regard to the world. And for one who sees the cessation of the world as it really is with correct wisdom, there is no idea of existence in regard to the world.47
+(Samyutta Nikaya 12:15; II 16–17)
+
+- Highlight(pink) - Location 6210
+“‘All exists’: Kaccāna, this is one extreme. ‘All does not exist’: this is the second extreme. Without veering toward either of these extremes, the Tathāgata teaches the Dhamma by the middle:
+(Samyutta Nikaya 12:15; II 16–17)
+
 - Highlight(pink) - Location 5448
 For the Buddha, both extremes pose insuperable problems. Eternalism encourages an obstinate clinging to the five aggregates, which are really impermanent and devoid of a substantial self; annihilationism threatens to undermine ethics and to make suffering the product of chance.
 
@@ -680,11 +766,22 @@ Dependent origination thereby offers a cogent explanation of the problem of suff
 
 ___
 
+- Highlight(pink) - Location 6215
+The Continuance of Consciousness
+
 - Highlight(pink) - Location 5455
 As long as ignorance and craving remain, the process of rebirth continues; kamma yields its pleasant and painful fruit, and the great mass of suffering accumulates. When ignorance and craving are destroyed, the inner mechanism of karmic causation is deactivated, and one reaches the end of suffering in saṃsāra.
 
 - Highlight(pink) - Location 5460
 the conditions for “the continuance of consciousness” (viññāṇassa ṭhitiyā), in other words, how consciousness passes on to a new existence. The causes are said to be the underlying tendencies, namely, ignorance and craving, and “what one intends and plans,” namely, the volitional formations. Once consciousness becomes established, the production of a new existence begins; thus we here proceed directly from consciousness (the usual third factor) to existence (the usual tenth factor). Text IX,4(4)(f) says that from the six internal and external sense bases (the former being the usual fifth factor), consciousness (the third factor) arises, followed by contact, feeling, craving, and all the rest.
+
+- Highlight(pink) - Location 6216
+“Monks, what one intends and what one plans and whatever one has a tendency toward: this becomes a basis for the continuance of consciousness. When there is a basis there is a support for the establishing of consciousness. When consciousness is established and has come to growth, there is the production of future renewed existence. When there is the production of future renewed existence, future birth, aging-and-death, sorrow, lamentation, pain, dejection, and despair come to be. Such is the origin of this whole mass of suffering.49
+(Samyutta Nikaya 12:38; II 65–66)
+
+- Highlight(pink) - Location 6220
+“If, monks, one does not intend and does not plan but still has a tendency toward something, this becomes a basis for the continuance of consciousness.
+(Samyutta Nikaya 12:38; II 65–66)
 
 - Highlight(pink) - Location 5465
 These variants make it plain that the sequence of factors should not be regarded as a linear causal process in which each preceding factor gives rise to its successor through the simple exercise of efficient causality. Far from being linear, the relationship among the factors is always complex, involving several interwoven strands of conditionality.
@@ -694,7 +791,9 @@ ___
 - Highlight(pink) - Location 5468
 The Four Noble Truths.
 
-___
+- Highlight(pink) - Location 6253
+“What four? The noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, the noble truth of the way leading to the cessation of suffering.
+(Samyutta Nikaya 56:24; V 433–34)
 
 - Highlight(pink) - Location 5477
 Sentient beings roam and wander in saṃsāra because they have not understood and penetrated the Four Noble Truths—Text IX,4(5)(d). As the chain of dependent origination shows, what lies at the base of the causal genesis of suffering is ignorance (avijjā), and ignorance is unawareness of the Four Noble Truths. Thus those who fail to understand the four truths generate volitional formations and fall down the precipice of birth, aging, and death—Text IX,4(5)(e).
@@ -702,7 +801,11 @@ Sentient beings roam and wander in saṃsāra because they have not understood a
 - Highlight(pink) - Location 5481
 The antidote to ignorance is knowledge (vijjā), which accordingly is defined as knowledge of the Four Noble Truths.
 
-___
+- Highlight(pink) - Location 6281
+“Monks, it is because of not understanding and not penetrating the Four Noble Truths that you and I have roamed and wandered through this long course of saṃsāra. What four?
+
+- Highlight(pink) - Location 6288
+Craving for existence has been cut off; the conduit to existence53 has been destroyed; now there is no more renewed existence.”
 
 - Highlight(pink) - Location 5482
 The first penetration of the Four Noble Truths occurs with the attainment of stream-entry, called the breakthrough to the Dhamma (dhammābhisamaya). To make this breakthrough is by no means easy, but without doing so it is impossible to put an end to suffering—Text IX,4(5)(f). Hence the Buddha again and again urges his disciples to “make an extraordinary effort” to achieve the breakthrough to the truths.
@@ -718,11 +821,36 @@ Developing the path brings to completion all four tasks, at which point one reac
 
 ___
 
+Highlight(pink) - Location 6335
+What is Nibbāna?
+
 - Highlight(pink) - Location 5496
 Nibbāna is still the destruction of lust, hatred, and delusion, but as such it is, among other things, peaceful, deathless, sublime, wonderful, and amazing. Such descriptions indicate that Nibbāna is a state of supreme happiness, peace, and freedom to be experienced in this present life.
 
+Highlight(pink) - Location 6339
+“The destruction of lust, the destruction of hatred, the destruction of delusion: this, friend, is called Nibbāna.
+(Samyutta Nikaya 38:1; IV 251–52)
+
 - Highlight(pink) - Location 5499
 Nibbāna is not simply the destruction of defilements and an exalted feeling of psychological well-being. They speak of Nibbāna almost as if it were a transcendent state or dimension of being. Text IX,5(3) refers to Nibbāna as a “base” (āyatana) beyond the world of common experience where none of the physical elements or even the subtle formless dimensions of experience are present; it is a state completely quiescent, without arising, perishing, or change. Text IX,5(4) calls it the state that is “unborn, unmade, unbecome, and unconditioned” (ajātaṃ, akataṃ, abhūtaṃ, asaṅkhataṃ), the existence of which makes possible deliverance from all that is born, made, come-to-be, and conditioned.
+
+- Highlight(pink) - Location 6347
+Thirty-Three Synonyms for Nibbāna
+
+- Highlight(pink) - Location 6349
+“And what, monks, is the unconditioned? The destruction of lust, the destruction of hatred, the destruction of delusion: ... “And what, monks, is the path leading to the unconditioned? Mindfulness directed to the body:
+(Samyutta Nikaya 43:1–44, combined; IV 359–73)
+
+- Highlight(pink) - Location 6351
+“Monks, I will teach you the uninclined … the taintless … the truth ... the far shore ... the subtle ... the very difficult to see ... the unaging ... the stable ... the undisintegrating ... the unmanifest ... the unproliferated 56 … the peaceful ... the deathless ... the sublime ... the auspicious ... the secure .... the destruction of craving ... the wonderful ... the amazing ... the unailing ... the unailing state ... Nibbāna … the unafflicted ... dispassion ... purity ... freedom ... nonattachment ... the island ... the shelter ... the asylum ... the refuge ... the destination and the path leading to the destination.   
+(Samyutta Nikaya 43:1–44, combined; IV 359–73)
+
+- Highlight(pink) - Location 6367
+“There is, monks, that base where there is neither earth, nor water, nor heat, nor air; neither the base of the infinity of space, nor the base of the infinity of consciousness, nor the base of nothingness, nor the base of neither-perception-nor-non-perception; neither this world nor another world; neither sun nor moon.57 Here, monks, I say there is no coming, no going, no standing still; no passing away and no being reborn. It is not established, not moving, without support. Just this is the end of suffering.”
+(Ud 8:1; 80)
+
+- Highlight(pink) - Location 6376
+“There is, monks, an unborn, unbecome, unmade, unconditioned. If, monks, there were no unborn, unbecome, unmade, unconditioned, no escape would be discerned from what is born, become, made, conditioned. But because there is an unborn, unbecome, unmade, unconditioned, therefore an escape is discerned from what is born, become, made, conditioned.”
 
 - Highlight(pink) - Location 5507
 The way that seems most faithful to both aspects of Nibbāna delineated in the texts is to regard the attainment of Nibbāna as a state of freedom and happiness attained by realizing, with profound wisdom, the unconditioned and transcendent element, the state that is intrinsically tranquil and forever beyond suffering. The penetration of this element brings the destruction of defilements, culminating in complete purification of mind. Such purification is accompanied by the experience of perfect peace and happiness in this present life.
@@ -741,11 +869,22 @@ the Nibbāna element with residue remaining (sa-upādisesa-nibbānadhātu)
 - Highlight(pink) - Location 5513
 and the Nibbāna element without residue remaining (anupādisesa-nibbānadhātu ).
 
+- Highlight(pink) - Location 6379
+“There are, monks, these two Nibbāna elements. What are the two? The Nibbāna element with residue remaining and the Nibbāna element without residue remaining.
+
 - Highlight(pink) - Location 5514
 Nibbāna element with residue remaining to be the destruction of lust, hatred, and delusion attained by an arahant while still alive. The “residue” that remains is the composite of the five aggregates that was brought into being by the ignorance and craving of the past life and that must continue on until the end of the lifespan.
 
 - Highlight(pink) - Location 5516
 As to the Nibbāna element without residue remaining, the same text says only that when the arahant passes away, all that is felt, not being delighted in, will become cool right here.
+
+- Highlight(pink) - Location 6383
+However, his five sense faculties remain unimpaired, by which he still experiences what is agreeable and disagreeable, still feels pleasure and pain. It is the destruction of lust, hatred, and delusion in him that is called the Nibbāna element with residue remaining.
+(Itivuttaka 44; 38)
+
+- Highlight(pink) - Location 6386
+For him, here in this very life, all that is felt, not being delighted in, will become cool right here. That, monks, is called the Nibbāna element without residue remaining.
+(Itivuttaka 44; 38)
 
 - Highlight(pink) - Location 5517
 Since there is no more clinging to the five aggregates, and no more craving for fresh experience through a new set of aggregates, the occurrence of the aggregates comes to an end and cannot continue. The process of the five aggregates is “extinguished” (the literal meaning of Nibbāna).
@@ -760,6 +899,18 @@ However, though so designated, it is qualified in ways that indicate this state 
 
 - Highlight(pink) - Location 5525
 In Text IX,5(6), the wanderer Vacchagotta asks the Buddha whether the Tathāgata—here signifying one who has attained the supreme goal—is reborn (upapajjati) or not after death. The Buddha refuses to concede any of the four alternatives. To say that the Tathāgata is reborn, is not reborn, both is and is not reborn, neither is nor is not reborn—none of these is acceptable, for all accept the term Tathāgata as indicative of a real being, while from an internal point of view a Tathāgata has given up all clinging to notions of a real being. The Buddha illustrates this point with the simile of an extinguished fire. Just as a fire that has been extinguished cannot be said to have gone anywhere but must simply be said to have “gone out,” so with the breakup of the body the Tathāgata does not go anywhere but has simply “gone out.”
+
+- Highlight(pink) - Location 6395
+“When a monk’s mind is liberated thus, Master Gotama, where is he reborn [after death]?” “‘Is reborn’ does not apply, Vaccha.” “Then he is not reborn, Master Gotama?” “‘Is not reborn’ does not apply, Vaccha.” “Then he both is reborn and is not reborn, Master Gotama?” “‘Both is reborn and is not reborn’ does not apply, Vaccha.” “Then he neither is reborn nor is not reborn, Master Gotama?” “‘Neither is reborn nor is not reborn’ does not apply, Vaccha.”
+(from Majjhima Nikaya 72: Aggivacchagotta Sutta; I 486–88)
+
+- Highlight(pink) - Location 6405
+“It is enough to cause you bewilderment, Vaccha, enough to cause you confusion. For this Dhamma, Vaccha, is profound, hard to see and hard to understand, peaceful and sublime, unattainable by mere reasoning, subtle, to be experienced by the wise.
+(from Majjhima Nikaya 72: Aggivacchagotta Sutta; I 486–88)
+
+- Highlight(pink) - Location 6414
+“If someone were to ask you, Vaccha: ‘When that fire before you was extinguished, to which direction did it go: to the east, the west, the north, or the south?’—being asked thus, what would you answer?” “That does not apply, Master Gotama. The fire burned in dependence on its fuel of grass and sticks. When that is used up, if it does not get any more fuel, being without fuel, it is reckoned as extinguished.”
+(from Majjhima Nikaya 72: Aggivacchagotta Sutta; I 486–88)
 
 - Highlight(pink) - Location 5531
 The past participle nibbuta, used to describe a fire that has been extinguished, is related to the noun nibbāna, which literally means “extinguishing.”
