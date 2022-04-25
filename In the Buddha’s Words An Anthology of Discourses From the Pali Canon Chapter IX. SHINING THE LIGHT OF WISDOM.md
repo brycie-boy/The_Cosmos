@@ -369,7 +369,7 @@ the five aggregates; the six sense bases; the elements (in different numerical s
 
 ___
 
-- Highlight(pink) - Location 5277 ❗️
+- Highlight(pink) - Location 5277 
 The Five Aggregates.
 
 - Highlight(pink) - Location 5277
@@ -435,7 +435,7 @@ With the arising of name-and-form there is the arising of consciousness.27 With 
 
 ___
 
-- Highlight(pink) - Location 5282
+- Highlight(pink) - Location 5282 ❗️
 Examination of the five aggregates, the topic of the Khandhasaṃyutta (Saṃyutta Nikāya, chapter 22), is critical to the Buddha’s teaching for at least four reasons. First, the five aggregates are the ultimate referent of the first noble truth, the noble truth of suffering
 
 - Highlight(pink) - Location 5284
@@ -480,10 +480,6 @@ The suttas often mention twenty types of identity view, obtained by considering 
 
 - Highlight(pink) - Location 5318
 “the instructed noble disciple,” having seen with wisdom the selfless nature of the aggregates, no longer regards the aggregates as a self or the belongings of a self.
-
-- Highlight(pink) - Location 5887
-“The four great elements, monk, are the cause and condition for the manifestation of the form aggregate. Contact is the cause and condition for the manifestation of the feeling aggregate, the perception aggregate, and the volitional formations aggregate. Name-and-form is the cause and condition for the manifestation of the consciousness aggregate.”
-(from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
 
 - Highlight(pink) - Location 5890
 “Here, monk, the uninstructed worldling ... regards form as self, or self as possessing form, or form as in self, or self as in form. He regards feeling as self ... perception as self ... volitional formations as self ... consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. That is how identity view comes to be.”
