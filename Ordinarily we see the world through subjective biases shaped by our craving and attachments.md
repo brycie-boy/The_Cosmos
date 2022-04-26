@@ -1,6 +1,6 @@
 ## Ordinarily we see the world through subjective biases shaped by our craving and attachments  #🧠
 
-When evaluating the world, we see things that we want to see and we blot things out that threaten and disturb us, that shake our complacency, and throw into question the comforting assumtions about ourselves and our lives. To undo this process requires a commitment to truth that is often unsettling but in the end proves liberating and exhilerating. this can be done though the [[The three standpoints]].
+When evaluating the world, we generally see the things that we want to see and we blot out the things that threaten and disturb us, that shake our complacency, and throw into question the comforting assumtions about ourselves and our lives. To undo this process requires a commitment to truth that is often unsettling but in the end proves liberating and exhilerating. this can be done though the [[The three standpoints]].
 
 ___
 

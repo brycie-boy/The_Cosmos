@@ -1,6 +1,6 @@
 ## The three standpoints  # 🧠
 
-There are three standpoints provided by the Buddha from which we can we can appraise our goals and values. These three standpoints can also represent three moments or steps in an unfolding process of insight that starts from our common sense attitudes and moves toward higher wisdom, enlightenment, and [[Nibbana]]. These three moments are: 
+There are three standpoints provided by [[the Buddha]] from which we can we can appraise our goals and values. These three standpoints can also represent three moments or steps in an unfolding process of [[Insight]] that starts from our common sense attitudes and moves toward higher wisdom, enlightenment, and [[Nibbana]]. These three moments are: 
 
 - gratification
 - danger
@@ -17,6 +17,7 @@ ___
 - Anguttara Nikaya 3:101 §§1–2; I 258–59
 
 ##### Metadata
-Status: #☀️ 
+
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
+Status: #☀️ 

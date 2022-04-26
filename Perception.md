@@ -1,6 +1,6 @@
-## The form aggregate # 
+## Perception # 
 
-Form, one of [[The five aggregates]], is defined as the physical component of experience. The cause and condition for the manifestation of form  is [[The nutriments]] and [[The four elements]]. 
+Perception, one of [[The five aggregates]], is defined as the identification of things by their distictive marks and features. The cause and condition for the manifastation of perception is contact between the internal and external [[Six sense bases]]. 
 
 ___
 

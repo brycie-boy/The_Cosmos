@@ -1,6 +1,7 @@
-## The feelings aggregate # 
+## Volitional formations # 
 
-The feeling aggregate, one of the [[The five aggregates]]. is defined as the "affective tone" of experience. It consists of painful, pleasant, and neutral feelings. The cause and condition for the manifestation of the feeling aggregate is the contact between the internal and external [[Six sense bases]]. 
+Volitional formations, one of [[The five aggregates]], is defined as a term involving the maltifarious mental factors including volition, choice, and attention. 
+The cause and condition for the manifestation of volitional formations is contact between the internal and external [[Six sense bases]]. 
 
 ___
 
@@ -16,5 +17,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
 Status: #⛅️ 

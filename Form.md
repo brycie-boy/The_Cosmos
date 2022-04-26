@@ -1,6 +1,6 @@
-## The consciousness aggregate  # 
+## Form # 
 
-The consciousness aggregate, one of [[The five aggregates]], is defined as cognition arisen through any of the internal [[Six sense bases]]. The cause and condition for the manifestation of consciousness is [[Name-and-form]].
+Form, one of [[The five aggregates]], is defined as the physical component of experience. The cause and condition for the manifestation of form is [[The nutriments]] and [[The four elements]]. 
 
 ___
 

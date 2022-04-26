@@ -1,6 +1,6 @@
-## The perception aggregate  # 
+## Feeling # 
 
-The perception aggregate, one of [[The five aggregates]], is defined as the identification of things by their distictive marks and features. The cause and condition for the manifastation of perception is contact between the internal and external [[Six sense bases]]. 
+Feeling, one of the [[The five aggregates]]. is defined as the "affective tone" of experience. It consists of painful, pleasant, and neutral feelings. The cause and condition for the manifestation of the feeling aggregate is the contact between the internal and external [[Six sense bases]]. 
 
 ___
 
