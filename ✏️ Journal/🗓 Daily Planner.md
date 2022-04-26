@@ -8,29 +8,34 @@ The daily planner is like my central hub for  managing my attention. If it isn�
 
 > Do immediately
 
-- [ ] Get bank account (Monday)
 - [ ] Schedule eye appointment
+- [ ] Buy a car
 
 ### Nonurgent ToDos
 
-#### Quick tasks (Under 5 min)
+##### 30 Min Meditation?
 
-- Check mail for t shirts (arrives 25th)
+- [x] Yes
+
+#### Quick tasks (Under 5 min)
 
 #### Slow tasks (Over 5 min)
 
 > - 2 max
-> - 2 day limit or an hour limit depending on length of task
+> - 2 day limit
 > - 1 day break
 > - Manage on google calendar 
 
-- [x] **1.** Organize music library (1 hour)
+- [ ] Organize music library (Day: 0)
+- [ ] Setup bank account (Day: 0)
 
-- [ ] **2.** 
+##### Later
+- Add ID to pi coin
+- Create your own coinbase acc
 
 #### Weekly tasks
 
-- [ ] Grocery Shopping
+- [x] Grocery Shopping
 
 ##
 ___
@@ -75,10 +80,6 @@ ___
 ___
 
 ## **🎮🎨 Free time**
-
-##### 30 Min Meditation?
-
-- [x] Yes
 
 ### 🎨 Create
 

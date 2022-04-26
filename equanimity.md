@@ -3,7 +3,7 @@
 _noun_
 
 1. evenness of mind especially under stress
-“nothing could disturb his equanimity”
+
 ___
 
 ##### Similar:

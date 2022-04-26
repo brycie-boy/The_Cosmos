@@ -63,7 +63,7 @@ Look for yoga blocks and white bed sheets
 - [x] Lean Chicken 
 - [x] Ground beef
 	- Steak
-- [ ] Samon
+- [x] Samon
 	- Shellfish
 	- Shrimp
 - [x] Eggs 
@@ -91,7 +91,7 @@ Look for yoga blocks and white bed sheets
 ### Fats and Oils
 
 - [x] Coconut oil 
-- [x] Avocado oil 
+- [ ] Avocado oil 
 - [x] Grass fed butter 
 - [x] Ghee
 - [x] Extra virgin olive oil 
@@ -101,7 +101,7 @@ Look for yoga blocks and white bed sheets
 ### Cheese/Dairy
 
 - [x] Greek or Bulgarian yogurt
-- [ ] Coconut cream 
+- [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
 - [x] Goat cheese
@@ -116,7 +116,7 @@ Look for yoga blocks and white bed sheets
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
-- [ ] Nut Butters 
+- [x] Nut Butters 
 	- Almond butter
 	- Mac nut butter
 - [ ] Hemp seeds
@@ -126,7 +126,7 @@ Look for yoga blocks and white bed sheets
 
 - [x] Water
 - [x] Seaweed chips
-- [x] Salsa
+- [ ] Salsa
 - [x] Coffee / Tea 
 - [x] Redmond / pink salt
 - [ ] Pepper
