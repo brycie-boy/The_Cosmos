@@ -502,10 +502,13 @@ The Characteristic of Nonself
 - Highlight(pink) - Location 5321
 All the defilements ultimately stem from ignorance, which thus lies at the bottom of all suffering and bondage. Ignorance weaves a net of three delusions around the aggregates. These delusions are the notions that the five aggregates are permanent, a source of true happiness, and a self. The wisdom needed to break the spell of these delusions is the insight into the five aggregates as impermanent (anicca), suffering (dukkha), and nonself (anattā). This is called the direct knowledge of the three characteristics of existence (tilakkhaṇa).
 
+- Highlight - Location 5325
+Some suttas seem to make insight into one or another of the three characteristics alone sufficient for reaching the goal. However, the three characteristics are closely interwoven, and thus the most common formula found in the Nikāyas builds upon their internal relationship.
+
 - Highlight(pink) - Location 5327
 IX,4(1)(c)—the formula uses the characteristic of impermanence to reveal the characteristic of suffering, and both together to reveal the characteristic of nonself. The suttas take this indirect route to the characteristic of nonself because the selfless nature of things is so subtle that often it cannot be seen except when pointed to by the other two characteristics. When we recognize that the things we identify as our self are impermanent and bound up with suffering, we realize that they lack the essential marks of authentic selfhood and we thereby stop identifying with them.
 
-Highlight(pink) - Location 5945
+- Highlight(pink) - Location 5945
 What is impermanent is suffering. What is suffering is nonself. What is nonself should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’ When one sees this thus as it really is with correct wisdom, the mind becomes dispassionate and is liberated from the taints by nonclinging ... Feeling is impermanent…. Perception is impermanent…. Volitional formations are impermanent…. Consciousness is impermanent.
 (Samyutta Nikaya 22:45; III 44–45)
 
@@ -530,11 +533,11 @@ insight into the five aggregates as impermanent, suffering, and nonself induces 
 “Seeing thus, monks, the instructed noble disciple becomes disenchanted with form, disenchanted with feeling, disenchanted with perception, disenchanted with volitional formations, disenchanted with consciousness. Becoming disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated.
 (Samyutta Nikaya 22:59; III 66–68)
 
-Highlight(pink) - Location 5951
+- Highlight(pink) - Location 5951
 “If, monks, a monk’s mind has become dispassionate toward the form element, it is liberated from the taints by nonclinging. If his mind has become dispassionate toward the feeling element ... toward the perception element ... toward the volitional formations element ... toward the consciousness element, it is liberated from the taints by nonclinging.
 (Samyutta Nikaya 22:45; III 44–45)
 
-Highlight(pink) - Location 5953
+- Highlight(pink) - Location 5953
 “By being liberated, it is steady; by being steady, it is content; by being content, he is not agitated. Being unagitated, he personally attains Nibbāna.
 (Samyutta Nikaya 22:45; III 44–45)
 

@@ -29,13 +29,13 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 - [ ] Organize music library (Day: 0)
 - [ ] Setup bank account (Day: 0)
 
-##### Later
+#### Later
 - Add ID to pi coin
 - Create your own coinbase acc
 
 #### Weekly tasks
 
-- [x] Grocery Shopping
+- [ ] Grocery Shopping
 
 ##
 ___
