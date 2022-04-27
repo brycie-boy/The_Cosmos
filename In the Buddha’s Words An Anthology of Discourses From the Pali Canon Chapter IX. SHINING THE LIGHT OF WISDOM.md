@@ -516,7 +516,7 @@ What is impermanent is suffering. What is suffering is nonself. What is nonself 
 “Monks, form is nonself. For if, monks, form were self, this form would not lead to affliction, and it would be possible to determine form: ‘Let my form be thus; let my form not be thus.’ But because form is nonself, form leads to affliction, and it is not possible to determine form: ‘Let my form be thus; let my form not be thus.’32 ... Feeling is nonself…. Perception is nonself…. Volitional formations are nonself…. Consciousness is nonself.
 (Samyutta Nikaya 22:59; III 66–68)
 
-- Highlight - Location 8133
+- Highlight - Location 8133 ❗️
 32 The sutta offers two “arguments” for the thesis of nonself. The first contends that the aggregates are nonself on the ground that we cannot exercise mastery over them. Since we cannot bend the aggregates to our will, they are all “subject to affliction” and therefore cannot be considered our self. The second argument, introduced just below, posits the characteristic of nonself on the basis of the other two characteristics. Whatever is impermanent is in some way bound up with suffering; whatever is impermanent and bound up with suffering cannot be identified as our self.
 
 - Highlight(pink) - Location 5926
