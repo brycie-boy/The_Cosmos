@@ -433,7 +433,7 @@ With the arising of name-and-form there is the arising of consciousness.27 With 
 “The four great elements, monk, are the cause and condition for the manifestation of the form aggregate. Contact is the cause and condition for the manifestation of the feeling aggregate, the perception aggregate, and the volitional formations aggregate. Name-and-form is the cause and condition for the manifestation of the consciousness aggregate.”
 (from Samyutta Nikaya 22: 82, abridged; 100–103 = Majjhima Nikaya 109, abridged; III 15–19)
 
-- Highlight(pink) - Location 5282 ❗️
+- Highlight(pink) - Location 5282 
 Examination of the five aggregates, the topic of the Khandhasaṃyutta (Saṃyutta Nikāya, chapter 22), is critical to the Buddha’s teaching for at least four reasons. First, the five aggregates are the ultimate referent of the first noble truth, the noble truth of suffering
 
 - Highlight(pink) - Location 5284
