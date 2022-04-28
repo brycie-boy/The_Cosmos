@@ -496,7 +496,7 @@ Adopting any of these views is a cause of anxiety and distress. It is also a lea
 
 ___
 
-- Highlight(pink) - Location 5916 ❗️
+- Highlight(pink) - Location 5916 
 The Characteristic of Nonself
 
 - Highlight(pink) - Location 5321
@@ -516,7 +516,7 @@ What is impermanent is suffering. What is suffering is nonself. What is nonself 
 “Monks, form is nonself. For if, monks, form were self, this form would not lead to affliction, and it would be possible to determine form: ‘Let my form be thus; let my form not be thus.’ But because form is nonself, form leads to affliction, and it is not possible to determine form: ‘Let my form be thus; let my form not be thus.’32 ... Feeling is nonself…. Perception is nonself…. Volitional formations are nonself…. Consciousness is nonself.
 (Samyutta Nikaya 22:59; III 66–68)
 
-- Highlight - Location 8133 ❗️
+- Highlight - Location 8133 
 32 The sutta offers two “arguments” for the thesis of nonself. The first contends that the aggregates are nonself on the ground that we cannot exercise mastery over them. Since we cannot bend the aggregates to our will, they are all “subject to affliction” and therefore cannot be considered our self. The second argument, introduced just below, posits the characteristic of nonself on the basis of the other two characteristics. Whatever is impermanent is in some way bound up with suffering; whatever is impermanent and bound up with suffering cannot be identified as our self.
 
 - Highlight(pink) - Location 5926
@@ -533,6 +533,9 @@ insight into the five aggregates as impermanent, suffering, and nonself induces 
 “Seeing thus, monks, the instructed noble disciple becomes disenchanted with form, disenchanted with feeling, disenchanted with perception, disenchanted with volitional formations, disenchanted with consciousness. Becoming disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated.
 (Samyutta Nikaya 22:59; III 66–68)
 
+- Highlight(pink) - Location 5338
+One who attains liberation subsequently wins “the knowledge and vision of liberation,” the assurance that the round of rebirths has indeed been stopped and nothing more remains to be done.
+
 - Highlight(pink) - Location 5951
 “If, monks, a monk’s mind has become dispassionate toward the form element, it is liberated from the taints by nonclinging. If his mind has become dispassionate toward the feeling element ... toward the perception element ... toward the volitional formations element ... toward the consciousness element, it is liberated from the taints by nonclinging.
 (Samyutta Nikaya 22:45; III 44–45)
@@ -541,12 +544,9 @@ insight into the five aggregates as impermanent, suffering, and nonself induces 
 “By being liberated, it is steady; by being steady, it is content; by being content, he is not agitated. Being unagitated, he personally attains Nibbāna.
 (Samyutta Nikaya 22:45; III 44–45)
 
-- Highlight(pink) - Location 5338
-One who attains liberation subsequently wins “the knowledge and vision of liberation,” the assurance that the round of rebirths has indeed been stopped and nothing more remains to be done.
-
 ___
 
-- Highlight(pink) - Location 5989
+- Highlight(pink) - Location 5989 ❗️
 the Six Sense Bases
 
 - Highlight(pink) - Location 5345

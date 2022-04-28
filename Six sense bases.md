@@ -1,4 +1,4 @@
-## Heading  # 
+## Six sense bases  # 
 
 
 
@@ -8,6 +8,6 @@ ___
 
 
 ##### Metadata
-Type: 
+Type: #🔵/🔵 
 Tags:
 Status: #⛅️ 
