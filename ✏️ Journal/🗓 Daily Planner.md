@@ -21,17 +21,16 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 #### Slow tasks (Over 5 min)
 
-> - 2 max
 > - 2 day limit
 > - 1 day break
 > - Manage on google calendar 
 
-- [ ] Organize music library (Day: 0)
 - [ ] Setup bank account (Day: 0)
 
 #### Later
 - Add ID to pi coin
 - Create your own coinbase acc
+- Organize music library
 
 #### Weekly tasks
 
