@@ -546,7 +546,7 @@ One who attains liberation subsequently wins “the knowledge and vision of libe
 
 ___
 
-- Highlight(pink) - Location 5989 ❗️
+- Highlight(pink) - Location 5989 
 the Six Sense Bases
 
 - Highlight(pink) - Location 5345
@@ -571,7 +571,7 @@ The Nikāyas suggest an interesting difference between the treatment given to th
 Monks and nuns in particular must be vigilant in their encounters with desirable and undesirable sense objects. When one is negligent, experience through the senses invariably becomes a trigger for craving: lust for pleasant objects, aversion toward disagreeable objects (and a craving for pleasant escape routes), and a dull attachment to neutral objects.
 
 - Highlight(pink) - Location 5369
-In one of his earliest discourses popularly known as “The Fire Sermon”—Text IX,4(2)(b)—the Buddha declared that “all is burning.” The “all” is just the six senses, their objects, the types of consciousness arisen from them, and the related contacts and feelings. The way to liberation is to see that this “all” is burning with the fires of defilements and suffering.
+In one of his earliest discourses popularly known as “The Fire Sermon”—Text IX,4(2)(b)—the Buddha declared that “all is burning.” The “all” is the six senses, their objects, the types of consciousness arisen from them, and the related contacts and feelings. The way to liberation is to see that this “all” is burning with the fires of defilements and suffering.
 
 - Highlight(pink) - Location 6005
 “Monks, all is burning. And what, monks, is the all that is burning? The eye is burning, forms are burning, eye-consciousness is burning, eye-contact is burning, and whatever feeling arises with eye-contact as condition—whether pleasant or painful or neither-painful-nor-pleasant—that too is burning. Burning with what? Burning with the fire of lust, with the fire of hatred, with the fire of delusion; burning with birth, aging, and death; with sorrow, lamentation, pain, dejection, and despair, I say.

@@ -6,7 +6,7 @@ The contemption of body, a division of [[The four establishments of mindfulness]
 - [[Contemplation of the four postures]]
 - [[Clear comprehension of activities]]
 - [[Attention to the unattractive nature of the body]]
-- [[Attention to the elements]]
+- [[Attention to the great elementss]]
 - [[The nine charnel ground contemplations]]
 
 ___

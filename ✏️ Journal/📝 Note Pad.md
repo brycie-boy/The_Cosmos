@@ -9,3 +9,4 @@
 > - 10 Words max  [[🗓 Daily Planner]]
 
 1. emphatic
+2. apprehended
