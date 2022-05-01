@@ -2,8 +2,9 @@
 
 _verb_
 
-1. a. to increase in number
-	b. to grow by rapid production
+1. to increase in number
+
+2. to grow by rapid production
 
 ___
 ##### Similar

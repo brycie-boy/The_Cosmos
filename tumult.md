@@ -3,8 +3,9 @@ _noun_
 
 1. a turbulent uprising
 
-2. a. violent agitation of mind or feelings
-     b. a violent outburst
+2. violent agitation of mind or feelings
+
+3. a violent outburst
 
 ___
 ##### Similar

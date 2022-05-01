@@ -1,11 +1,32 @@
 ## Shopping list
 
-### 1. Crypto and stocks
-### 2. Clothes 
+### Buy next
+
+### 1. Clothes 
 
 - ![[90BBB219-D1E7-437F-ADA9-915E1979953F.webp|200]]
 	![[45955F0E-BB0D-4275-A475-FAF770759D40.webp|200]]
-blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.html?spm=a2g0n.detail.0.0.12f214417aytzV&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=449f9a33-4f44-4172-8eea-c003b35a828c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:449f9a33-4f44-4172-8eea-c003b35a828c,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B17.63%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend ❗️
+blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.html?spm=a2g0n.detail.0.0.12f214417aytzV&gps-id=platformRecommendH5&scm=1007.18499.231170.0&scm_id=1007.18499.231170.0&scm-url=1007.18499.231170.0&pvid=449f9a33-4f44-4172-8eea-c003b35a828c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.231170.0,pvid:449f9a33-4f44-4172-8eea-c003b35a828c,tpp_buckets:668%232846%238110%231995&pdp_ext_f=null&pdp_pi=-1%253B17.63%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend 
+
+- ![[083D6EDB-08EF-4F24-81A0-D2D0E90C8295.jpeg|200]]
+![[D0FB6E13-1DE8-4734-897C-1EE123311F43.jpeg|200]]
+ ![[EF2D3E24-68E8-4ADF-8C16-E55EC6B5F923.jpeg|200]]
+Plain t shirts $60 https://www.uniqlo.com/us/en/products/E425974-000/00?colorDisplayCode=54&sizeDisplayCode=003
+
+- ![[33AC3624-E220-4491-8B77-2DE9084B30C3.jpeg|200]]
+	![[D02BDC13-74B6-40CB-899D-8E56DC38402A.jpeg|200]]
+	![[1BEEBD2B-E20F-4F14-9D07-B9888EA5F001.jpeg|200]]
+![[2C473A39-B4A5-4A8A-9489-D9687827362C.jpeg|200]]
+![[88E7FBC8-2F70-4249-9F8B-EFF239C0BF09.jpeg|200]]
+Sweatsuits $200
+https://a.aliexpress.com/_mO2I7o2 and 
+https://a.aliexpress.com/_mOxjlsi
+
+- ![[BD1F26F2-F6DA-49E7-A4CD-075227178AC2.jpeg|200]]
+![[7EEB6F46-81AC-4E01-AF1A-DF643222B15C.jpeg|200]]
+![[54005A61-ACF0-435B-B3DD-0660A4A33139.jpeg|200]]
+Sweat shorts $90
+https://a.aliexpress.com/_mOxjlsi
 
 - ![[E6532DCB-81B5-4771-9886-A491751DD653.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
@@ -55,25 +76,25 @@ blue and light blue jeans $36 https://m.aliexpress.com/item/1005003122702771.htm
 	![[D354EA8D-A426-4AF1-9BB3-BF21EACDDA45.webp|200]]
 	Wool coats $100 https://m.aliexpress.com/item/4000740089502.html?spm=a2g0n.detail.0.0.26e3777caOSkdg&gps-id=platformRecommendH5&scm=1007.18499.271340.0&scm_id=1007.18499.271340.0&scm-url=1007.18499.271340.0&pvid=c240d8d5-a98d-48c0-8e9e-22749ab88f94&_t=gps-id:platformRecommendH5,scm-url:1007.18499.271340.0,pvid:c240d8d5-a98d-48c0-8e9e-22749ab88f94,tpp_buckets:668%232846%238114%231999&pdp_ext_f=null&pdp_pi=-1%253B49.1%253B-1%253B-1%2540salePrice%253BUSD%253Brecommend-recommend
 
-### 3. Furniture
+### 2. Furniture
 
 - ![[FA8760C4-DE62-4DE0-B2D4-662AD019AE6B.jpeg|200]]
 	Bamboo pillow cases 2 pack $18 https://www.amazon.com/Bedsure-Cooling-Pillowcases-Breathable-Moisture/dp/B07JPYCH7F/ref=mp_s_a_1_3?crid=1A20NBKUGK4T0&keywords=bamboo%2Bpillow%2Bcases%2Bstandard%2Bsize&qid=1647046211&sprefix=bamboo%2Bpillow%2Bc%2Caps%2C91&sr=8-3&th=1&psc=1
 
- - ![[A6F24D49-4E50-4534-B005-B97687D47A38.jpeg|200]]
-	Lamp $26 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
+- ![[7445976F-3774-4A30-8B08-2A4ED602BB05.jpeg|200]]
+	weighted blanket $78 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
 
 - ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
 	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
 
-- ![[7445976F-3774-4A30-8B08-2A4ED602BB05.jpeg|200]]
-	weighted blanket $78 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
-
 - ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
 	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
 
-### 4. Tech
+### 3. Tech
 
 - ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
 	Framework Laptop DIY Edition $749.00
 	https://frame.work/products/laptop-diy-edition
+
+- ![[0817D88E-A246-414E-9DA5-AA527785B652.jpeg|200]]
+	Ledger namo crypto wallet $60 https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=mp_s_a_1_4?crid=2VLC0MY3RPMK6&keywords=bitcoin+wallet&qid=1651272172&sprefix=bitcoin+wallet%2Caps%2C93&sr=8-4&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc

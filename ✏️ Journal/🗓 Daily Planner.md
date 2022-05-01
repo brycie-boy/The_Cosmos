@@ -15,22 +15,25 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 ##### 30 Min Meditation?
 
-- [x] Yes
+- [ ] Yes
 
 #### Quick tasks (Under 5 min)
+
+- Pi kyc
 
 #### Slow tasks (Over 5 min)
 
 > - 2 day limit
-> - 1 day break
-> - Manage on google calendar 
+> - 1 day break 
 
-- [ ] Setup bank account (Day: 0)
+- [ ] Work on travel list
 
 #### Later
-- Add ID to pi coin
-- Create your own coinbase acc
+
 - Organize music library
+- Rice Linux
+- Work on GED
+- Find jobs
 
 #### Weekly tasks
 
@@ -62,14 +65,14 @@ ___
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
 - Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
 - Author: Bhikku Bodhi
+- Tags: Philosophy, Spirituality, Psychology
 >
 - [ ] **2.**
 
-![[01A1FE38-CACB-4541-AD4A-8BA758F3E976.jpeg|80]]
-- Source: Prometheus Rising
-- Author: Robert Anton Wilson
-- Tags: Philosophy / Spirituality / Psychology / Neuroscience / Occult
-
+![[042884DB-D96F-45FE-A7F4-B4AEDDB559D3.jpeg|80]]
+- Source: Self Reliance
+- Author: Ralph Waldo Emerson
+- Tags: Philosophy
 
 ### Continue Creating?
 
@@ -97,9 +100,9 @@ ___
 
 
 
-#### Videogames:
+#### Other:
 
-- [ ] Minecraft 
+
 
 ### Continue Learning?
 

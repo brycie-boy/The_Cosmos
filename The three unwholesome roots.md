@@ -3,7 +3,7 @@
 The three unwholesome roots are the three underlying motives that lead to [[Unwholesome kamma]]. These include:
 
 - greed / attraction
-- hatred / adversion
+- hatred / repulsion
 
 which are perpetuated by the third unwholesome root
 

@@ -2,8 +2,9 @@
 
 _adjective_
 
-1. a: lofty, grand, or exalted in thought, expression, or manner
-	b: of outstanding spiritual, intellectual, or moral worth
+1. lofty, grand, or exalted in thought, expression, or manner
+	
+2. of outstanding spiritual, intellectual, or moral worth
 	
 ___
 ##### Similar

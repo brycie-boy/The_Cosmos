@@ -2,8 +2,9 @@
 
 > Go through whole list!
 
-Reminder:
-Look for yoga blocks and white bed sheets
+Reminders:
+
+- tooth brush tips
 
 ## Things to Watch For On Labels
 1. Serving size
@@ -60,14 +61,14 @@ Look for yoga blocks and white bed sheets
 
 ### Meat/Protein
 
-- [x] Lean Chicken 
-- [x] Ground beef
+- [ ] Lean Chicken 
+- [ ] Ground beef
 	- Steak
 - [x] Samon
 	- Shellfish
 	- Shrimp
-- [x] Eggs 
-- [x] Bacon
+- [ ] Eggs 
+- [ ] Bacon
 - [ ] Canned fish: S.M.A.S.H
 	- Sardines
 	- Mackerel
@@ -80,10 +81,10 @@ Look for yoga blocks and white bed sheets
 - [x] Broccoli (frozen)
 - [x] Cauliflower
 	- Riced Cauliflower
-- [x] Baby spinach or arugula 
+- [ ] Baby spinach or arugula 
 - [x] Avocado 
 	- Guacamole
-- [x] Asparagus (frozen)
+- [ ] Asparagus (frozen)
 	- Artichoke 
 - [ ] Baby kale
 - [ ] Berries
@@ -92,7 +93,7 @@ Look for yoga blocks and white bed sheets
 
 - [x] Coconut oil 
 - [ ] Avocado oil 
-- [x] Grass fed butter 
+- [ ] Grass fed butter 
 - [x] Ghee
 - [x] Extra virgin olive oil 
 - [x] MCT Oil
@@ -116,21 +117,21 @@ Look for yoga blocks and white bed sheets
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
-- [x] Nut Butters 
+- [ ] Nut Butters 
 	- Almond butter
 	- Mac nut butter
+	- Coconut butter
 - [ ] Hemp seeds
 - [ ] Flax / chia
 
 ### Other
 
 - [x] Water
-- [x] Seaweed chips
-- [ ] Salsa
+- [x] Salsa
 - [x] Coffee / Tea 
 - [x] Redmond / pink salt
 - [ ] Pepper
-- [x] Stevia / Monkfruit
+- [ ] Stevia / Monkfruit
 - [x] Cacao 
 - [x] Apple cider vinegar 
 - [x] Ginger 
@@ -165,10 +166,11 @@ ___
 
 ### List
 - [x] Hello mouth wash: $6
-- [ ] Hello free toothpaste: $4
+- [x] Hello free toothpaste: $4
 - [x] Native deodorant: $13
 - [x] Native body wash: $9
 - [x] Harry’s shaving cream: $7
 - [x] Harry’s aftershave: $8
 - [x] Purpose face cleanser 6 oz: $10
+- [ ] First bounty Himalayan sea salt exfoliating scrub 11 oz: $12.30
 - [ ] Baxter of California face moisturizer 3.4 oz: $31

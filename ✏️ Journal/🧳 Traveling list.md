@@ -1,3 +1,14 @@
+Ideas:
+
+- Georgia guidestones
+- Nashville Parthenon and mall
+- Great pyramids
+- Machu pichu
+- Mexico pyramids
+- Buddha statues
+- Meditation retreats
+- Ayuascha retreats
+
 ## Near by
 
 ### Favorites
