@@ -688,22 +688,16 @@ ___
 - Highlight(pink) - Location 5394
 Dependent Origination.
 
-- Highlight(pink) - Location 5395
-Dependent origination (paṭiccasamuppāda ) is so central to the Buddha’s teaching that the Buddha said: “One who sees dependent origination sees the Dhamma, and one who sees the Dhamma sees dependent origination” (MN 28; I 190–91).
-
 - Highlight(pink) - Location 5396
 The ulitmate purpose of the teaching on dependent origination is to reveal the conditions that sustain the round of rebirths and thereby to show what must be done to gain release from the round. To win deliverance is a matter of unraveling the causal pattern that underlies our bondage, and this process begins with understanding the causal pattern itself.
 
 - Highlight(pink) - Location 5400
 The doctrine is usually expounded as a sequence of twelve factors joined into a chain of eleven propositions;
 
-- - Highlight(pink) - Location 5402
-Text IX,4(4)(b) declares the sequence of conditions to be a fixed principle, a stable law, the nature of things.
-
 - Highlight(pink) - Location 5403
 The series is expounded in two ways: by way of origination (called anuloma or forward order), and by way of cessation (called paṭiloma or reverse order).
 
-- Highlight(pink) - Location 5409
+- Highlight(pink) - Location 5409 ❗️
 Because of (1) ignorance (avijjā), lack of direct knowledge of the Four Noble Truths, we engage in wholesome and unwholesome activities of body, speech, and mind; these are (2) volitional formations (saṅkhārā), in other words, kamma. Volitional formations sustain consciousness from one life to the next and determine where it re-arises; in this way volitional formations condition (3) consciousness (viññāṇa). Along with consciousness, beginning from the moment of conception, comes (4) “name-and-form” (nāmarūpa), the sentient organism with its physical form (rūpa) and its sensitive and cognitive capacities (nāma). The sentient organism is equipped with (5) six sense bases (saḷāyatana), the five physical sense faculties and the mind as organ of cognition. The sense bases allow (6) contact (phassa) to occur between consciousness and its objects, and contact conditions (7) feeling (vedanā). Called into play by feeling, (8) craving (taṇhā) arises, and when craving intensifies it gives rise to (9) clinging (upādāna), tight attachment to the objects of desire through sensuality and wrong views. Impelled by our attachments, we again engage in volitional actions pregnant with (10) a new existence (bhava). At death this potential for new existence is actualized in a new life beginning with (11) birth (jāti) and ending in (12) aging-and-death (jarāmaraṇa).4
 
 - Highlight(pink) - Location 6134

@@ -1,6 +1,6 @@
 ## Consciousness  # 
 
-Consciousness, one of [[The five aggregates]], is defined as cognition arisen through any of the internal [[Six sense bases]]. The cause and condition for the manifestation of consciousness is [[Name-and-form]].
+Consciousness, one of [[The five aggregates]], is defined as cognition arisen through any of the internal [[Six sense bases]].  The cause and condition for the manifestation of consciousness is [[Mind-and-form]]. 
 
 ___
 
@@ -16,5 +16,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
+Tags: [[Philosophy]] / [[[Spirituality]] / [[Psychology]] 
 Status: #⛅️ 

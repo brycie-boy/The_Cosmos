@@ -3,7 +3,7 @@
 The five aggragates are five main categories used to analyze human experience. These five catagories are:
 
 - [[Form]]
-- [[Feelings]]
+- [[Sensations]]
 - [[Perceptions]]
 - [[Volitional formations]]
 - [[Consciousness]]
