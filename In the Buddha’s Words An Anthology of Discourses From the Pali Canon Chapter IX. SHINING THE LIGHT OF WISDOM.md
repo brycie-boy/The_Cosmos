@@ -676,9 +676,12 @@ The fire element may be either internal or external. What is the internal fire e
 The air element may be either internal or external. What is the internal air element? Whatever internally, belonging to oneself, is air, airy, and clung-to, that is, up-going winds, down-going winds, winds in the belly, winds in the bowels, winds that course through the limbs, in-breath and out-breath, or whatever else internally, belonging to oneself, is air, airy, and clung-to: this is called the internal air element ... Now both the internal air element and the external air element are simply air element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
 (from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
 
-Highlight(pink) - Location 6109
+- Highlight(pink) - Location 6109
 The space element may be either internal or external. What is the internal space element? Whatever internally, belonging to oneself, is space, spatial, and clung-to, that is, the holes of the ears, the nostrils, the door of the mouth, and that [aperture] whereby what is eaten, drunk, consumed, and tasted gets swallowed, and where it collects, and whereby it is excreted from below, or whatever else internally, belonging to oneself, is space, spatial, and clung-to: this is called the internal space element ... Now both the internal space element and the external space element are simply space element. And that should be seen as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not my self.’
 (from Majjhima Nikaya 140: Dhātuvibhaṅga Sutta; III 240–43)
+
+- Highlight - Location 6115
+“Then there remains only consciousness, purified and bright.40 What does one cognize with that consciousness? One cognizes: ‘[This is] pleasant’; one cognizes: ‘[This is] painful’; one cognizes: ‘[This is] neither-painful-nor-pleasant.’ In dependence on a contact to be felt as pleasant there arises a pleasant feeling.41 When one feels a pleasant feeling, one understands: ‘I feel a pleasant feeling.’ One understands: ‘With the cessation of that same contact to be felt as pleasant, its corresponding feeling—the pleasant feeling that arose in dependence on that contact to be felt as pleasant—ceases and subsides.’
 
 ___
 
@@ -818,13 +821,13 @@ Developing the path brings to completion all four tasks, at which point one reac
 
 ___
 
-Highlight(pink) - Location 6335
+- Highlight(pink) - Location 6335
 What is Nibbāna?
 
 - Highlight(pink) - Location 5496
 Nibbāna is still the destruction of lust, hatred, and delusion, but as such it is, among other things, peaceful, deathless, sublime, wonderful, and amazing. Such descriptions indicate that Nibbāna is a state of supreme happiness, peace, and freedom to be experienced in this present life.
 
-Highlight(pink) - Location 6339
+- Highlight(pink) - Location 6339
 “The destruction of lust, the destruction of hatred, the destruction of delusion: this, friend, is called Nibbāna.
 (Samyutta Nikaya 38:1; IV 251–52)
 
