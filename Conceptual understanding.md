@@ -1,6 +1,6 @@
 ## Conceptual understanding  # 
 
-Conceptual right view is a correct understanding of the [[Dhamma]] arrived by study and examantion of the Buddhas teaching in depth. Such understanding is by no means dry and sterile. When rooted in faith of the [[Buddha]]s enlightenment and a strong determination to understand the [[Dhamma]], it serves a a germ for which [[Experiental understanding]] evolves and thus is a critical step in the growth of wisdom.
+Conceptual understanding is the correct understanding of the [[Dhamma]] arrived by study and examantion of the Buddhas teaching in depth. Such understanding is by no means dry and sterile. When rooted in faith of the [[Buddha]]s enlightenment and a strong determination to understand the [[Dhamma]], it serves a a germ for which [[Experiental understanding]] evolves and thus is a critical step in the growth of wisdom. A conceptual understanding allows for one to abstract from the overwhelming mass of facts certain basic patterns fundemental to all experience and use these patterns as templates for contemplation of ones own experience.
 
 ___
 

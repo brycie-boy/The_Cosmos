@@ -797,7 +797,7 @@ Developing the path brings to completion all four tasks, at which point one reac
 
 ___
 
-- Highlight(pink) - Location 6335 ❗️
+- Highlight(pink) - Location 6335 
 What is Nibbāna?
 
 - Highlight(pink) - Location 5496
@@ -868,7 +868,7 @@ Since there is no more clinging to the five aggregates, and no more craving for 
 - Highlight(pink) - Location 5520
 The Buddha says nothing at all, however, in terms either of existence or nonexistence, about the condition of the arahant after death. It might seem logical to suppose that since the five aggregates that constitute experience completely cease with the attainment of the Nibbāna element without residue, this element must itself be a state of complete nonexistence, a state of nothingness. Yet no text in the Nikāyas ever states this. To the contrary, the Nikāyas consistently refer to Nibbāna by terms that refer to actualities. It is an element (dhātu), a base (āyatana), a reality (dhamma), a state (pada), and so on.
 
-- Highlight(pink) - Location 5524 ❗️
+- Highlight(pink) - Location 5524 
 However, though so designated, it is qualified in ways that indicate this state ultimately lies beyond all familiar categories and concepts.
 
 - Highlight(pink) - Location 5525

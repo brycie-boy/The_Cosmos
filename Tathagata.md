@@ -1,15 +1,13 @@
-## Tathagata # flashcard 
+## Heading  # 
+
 
 
 ___
 
-##### Similar
-
-
-##### References 
+##### References
 
 
 ##### Metadata
-Status: ⛅️
-Type:
+Type: 
 Tags:
+Status: #⛅️ 
