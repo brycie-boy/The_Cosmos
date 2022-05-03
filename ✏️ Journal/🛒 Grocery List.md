@@ -6,6 +6,8 @@ Reminders:
 
 - tooth brush tips
 - Salt and pepper shakers
+- More contrainers for meat
+- Spinach
 - Check that health food store for coconut butter
 
 ## Things to Watch For On Labels

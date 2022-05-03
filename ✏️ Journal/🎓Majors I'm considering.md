@@ -1,7 +1,7 @@
 ## Majors
 
-- cognitive science
-- computer science / or even computer engineering if I’m up for it 
+- computer engineering 
+- neuroscience / cognitive science
 
 ## Occupation ideas
 
