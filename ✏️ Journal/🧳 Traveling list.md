@@ -28,6 +28,13 @@ Ideas:
 
 ## Out of the country
 
+### Pa Auk Monestary, Tawya, Burma
+![[DBED119C-919C-4764-B3BA-3CA152AD14EC.jpeg]]
+
+### Machu Picchu Retreat Arkana
+
+![[CCDA9225-3370-4EDD-B496-4AEFC1FFB534.jpeg]]
+
 ### Hang Son Doon Cave
 ![[D41634EF-91FA-4391-AD88-67716A9CCB00.jpeg]]
 ![[21D1BE78-27DB-4BB5-A1A1-6F820BC8A2ED.jpeg]]

@@ -5,6 +5,8 @@
 Reminders:
 
 - tooth brush tips
+- Salt and pepper shakers
+- Check that health food store for coconut butter
 
 ## Things to Watch For On Labels
 1. Serving size
@@ -61,14 +63,14 @@ Reminders:
 
 ### Meat/Protein
 
-- [ ] Lean Chicken 
-- [ ] Ground beef
+- [x] Lean Chicken 
+- [x] Ground beef
 	- Steak
 - [x] Samon
 	- Shellfish
 	- Shrimp
-- [ ] Eggs 
-- [ ] Bacon
+- [x] Eggs 
+- [x] Bacon
 - [ ] Canned fish: S.M.A.S.H
 	- Sardines
 	- Mackerel
@@ -84,7 +86,7 @@ Reminders:
 - [ ] Baby spinach or arugula 
 - [x] Avocado 
 	- Guacamole
-- [ ] Asparagus (frozen)
+- [x] Asparagus (frozen)
 	- Artichoke 
 - [ ] Baby kale
 - [ ] Berries
@@ -92,8 +94,8 @@ Reminders:
 ### Fats and Oils
 
 - [x] Coconut oil 
-- [ ] Avocado oil 
-- [ ] Grass fed butter 
+- [x] Avocado oil 
+- [x] Grass fed butter 
 - [x] Ghee
 - [x] Extra virgin olive oil 
 - [x] MCT Oil
@@ -117,7 +119,7 @@ Reminders:
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
-- [ ] Nut Butters 
+- [x] Nut Butters 
 	- Almond butter
 	- Mac nut butter
 	- Coconut butter
@@ -130,8 +132,8 @@ Reminders:
 - [x] Salsa
 - [x] Coffee / Tea 
 - [x] Redmond / pink salt
-- [ ] Pepper
-- [ ] Stevia / Monkfruit
+- [x] Pepper
+- [x] Stevia / Monkfruit
 - [x] Cacao 
 - [x] Apple cider vinegar 
 - [x] Ginger 

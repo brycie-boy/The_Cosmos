@@ -84,6 +84,9 @@ https://a.aliexpress.com/_mOxjlsi
 - ![[7445976F-3774-4A30-8B08-2A4ED602BB05.jpeg|200]]
 	weighted blanket $78 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
 
+- ![[A3924142-F37E-4E7D-8374-A6B177B500DB.webp|200]]
+	Concrete coasters $10 each https://www.etsy.com/listing/806359910/concrete-circular-ombre-coaster-dark?click_key=fbcb3c35022e58b9ae6bba2d6900560609a1e135%3A806359910&click_sum=231e9079&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=concrete+coasters&ref=sr_gallery-1-10&organic_search_click=1
+
 - ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
 	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
 

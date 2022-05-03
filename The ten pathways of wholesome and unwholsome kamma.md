@@ -1,6 +1,6 @@
 ## The ten pathways of wholesome and unwholsome kamma #🧠 
 
-There are ten types of each class of [[kamma]], also known as the ten pathways of [[Wholesome kamma]] and [[Unwholesome kamma]]. The ten are subdivided into three goups called the "three doors of action", that is, body, speech, and mind. 
+There are ten types of each class of [[kamma]], also known as the ten pathways of [[Wholesome kamma]] and [[Unwholesome kamma]]. The ten are subdivided into three goups called the "three doors of action", that is, body, speech, and mind. [[Wholesome kamma]] is referred to as “righteous conduct” while [[Unwholesome kamma]] is referred to as “unrighteousness conduct”.
 
 There are three types of bodily misconduct:
 
