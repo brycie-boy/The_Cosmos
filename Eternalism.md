@@ -1,6 +1,6 @@
 ## Eternalism  # 🧠
 
-Eternalism is a view proposes the existence of an eternal component of the individual, or an eternal ground of the universe. it is refered to in Buddhism the view of existance.  The teaching of [[Dependant Origination]] avoids this position.
+Eternalism is a philosophical view proposes the existence of an eternal component of the individual, or an eternal ground of the universe. It is refered to in Buddhism as the view of existence. The teaching of [[Dependant Origination]] avoids this position.
 
 ___
 

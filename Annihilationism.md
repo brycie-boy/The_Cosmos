@@ -1,6 +1,6 @@
 ## Annihilationism  # 🧠
 
-Annihilationism denies that there is any survival beyond death, holding that the individual comes to a complete end with the demise of the body. In Buddhism, this is refered to as the view of non existance. The teaching of [[Dependant Origination]] avoids this position.
+Annihilationism is a philosophical view that denies that there is any survival beyond death, holding that the individual comes to a complete end with the demise of the body and that there is no spiritual demension to the human existance and thus no survival of any sort. In Buddhism, this is refered to as the view of nonexistance. The teaching of [[Dependant Origination]] avoids this position.
 
 ___
 

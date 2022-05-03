@@ -697,7 +697,7 @@ The doctrine is usually expounded as a sequence of twelve factors joined into a 
 - Highlight(pink) - Location 5403
 The series is expounded in two ways: by way of origination (called anuloma or forward order), and by way of cessation (called paṭiloma or reverse order).
 
-- Highlight(pink) - Location 5409 ❗️
+- Highlight(pink) - Location 5409 
 Because of (1) ignorance (avijjā), lack of direct knowledge of the Four Noble Truths, we engage in wholesome and unwholesome activities of body, speech, and mind; these are (2) volitional formations (saṅkhārā), in other words, kamma. Volitional formations sustain consciousness from one life to the next and determine where it re-arises; in this way volitional formations condition (3) consciousness (viññāṇa). Along with consciousness, beginning from the moment of conception, comes (4) “name-and-form” (nāmarūpa), the sentient organism with its physical form (rūpa) and its sensitive and cognitive capacities (nāma). The sentient organism is equipped with (5) six sense bases (saḷāyatana), the five physical sense faculties and the mind as organ of cognition. The sense bases allow (6) contact (phassa) to occur between consciousness and its objects, and contact conditions (7) feeling (vedanā). Called into play by feeling, (8) craving (taṇhā) arises, and when craving intensifies it gives rise to (9) clinging (upādāna), tight attachment to the objects of desire through sensuality and wrong views. Impelled by our attachments, we again engage in volitional actions pregnant with (10) a new existence (bhava). At death this potential for new existence is actualized in a new life beginning with (11) birth (jāti) and ending in (12) aging-and-death (jarāmaraṇa).4
 
 - Highlight(pink) - Location 6134
@@ -718,19 +718,6 @@ The formula demonstrates how rebirth can take place without the presence of a su
 
 - Highlight(pink) - Location 5437
 The whole process ends only when its underlying springs—ignorance, craving, and clinging—are extirpated by wisdom.
-
-___
-
-- Highlight(pink) - Location 5438
-Dependent origination is not a mere theory but a teaching that should be directly known by personal experience,
-
-- Highlight(pink) - Location 5439
-understand each factor by way of the four-truth pattern: one should understand the factor itself, its origin, its cessation, and the way to its cessation.
-
-- Highlight(pink) - Location 5440
-First one understands this pattern in relation to one’s personal experience. Then, on this basis, one infers that all those who correctly understood these things in the past understood them in exactly the same way; then that all those who will correctly understand these things in the future will understand them in exactly the same way. In this way, dependent origination acquires a timeless and universal significance.
-
-___
 
 - Highlight(pink) - Location 5443
 Several suttas hold up dependent origination as a “teaching by the middle” (majjhena tathāgato dhammaṃ deseti). It is a “teaching by the middle” because it transcends two extreme views that polarize philosophical reflection on the human condition.
@@ -810,7 +797,7 @@ Developing the path brings to completion all four tasks, at which point one reac
 
 ___
 
-- Highlight(pink) - Location 6335
+- Highlight(pink) - Location 6335 ❗️
 What is Nibbāna?
 
 - Highlight(pink) - Location 5496
@@ -864,12 +851,12 @@ and the Nibbāna element without residue remaining (anupādisesa-nibbānadhātu 
 - Highlight(pink) - Location 5514
 Nibbāna element with residue remaining to be the destruction of lust, hatred, and delusion attained by an arahant while still alive. The “residue” that remains is the composite of the five aggregates that was brought into being by the ignorance and craving of the past life and that must continue on until the end of the lifespan.
 
-- Highlight(pink) - Location 5516
-As to the Nibbāna element without residue remaining, the same text says only that when the arahant passes away, all that is felt, not being delighted in, will become cool right here.
-
 - Highlight(pink) - Location 6383
 However, his five sense faculties remain unimpaired, by which he still experiences what is agreeable and disagreeable, still feels pleasure and pain. It is the destruction of lust, hatred, and delusion in him that is called the Nibbāna element with residue remaining.
 (Itivuttaka 44; 38)
+
+- Highlight(pink) - Location 5516
+As to the Nibbāna element without residue remaining, the same text says only that when the arahant passes away, all that is felt, not being delighted in, will become cool right here.
 
 - Highlight(pink) - Location 6386
 For him, here in this very life, all that is felt, not being delighted in, will become cool right here. That, monks, is called the Nibbāna element without residue remaining.
@@ -878,12 +865,10 @@ For him, here in this very life, all that is felt, not being delighted in, will 
 - Highlight(pink) - Location 5517
 Since there is no more clinging to the five aggregates, and no more craving for fresh experience through a new set of aggregates, the occurrence of the aggregates comes to an end and cannot continue. The process of the five aggregates is “extinguished” (the literal meaning of Nibbāna).
 
-___
-
 - Highlight(pink) - Location 5520
 The Buddha says nothing at all, however, in terms either of existence or nonexistence, about the condition of the arahant after death. It might seem logical to suppose that since the five aggregates that constitute experience completely cease with the attainment of the Nibbāna element without residue, this element must itself be a state of complete nonexistence, a state of nothingness. Yet no text in the Nikāyas ever states this. To the contrary, the Nikāyas consistently refer to Nibbāna by terms that refer to actualities. It is an element (dhātu), a base (āyatana), a reality (dhamma), a state (pada), and so on.
 
-- Highlight(pink) - Location 5524
+- Highlight(pink) - Location 5524 ❗️
 However, though so designated, it is qualified in ways that indicate this state ultimately lies beyond all familiar categories and concepts.
 
 - Highlight(pink) - Location 5525

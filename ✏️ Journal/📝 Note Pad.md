@@ -10,3 +10,6 @@
 
 1. emphatic
 2. apprehended
+3. insuperable
+4. obstinate
+5. cogent
