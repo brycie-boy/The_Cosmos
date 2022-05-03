@@ -1,4 +1,4 @@
-## The taints  # 
+## The taints #🧠 
 
 The taints are a classification of defilements considered in their role in the perpetuation of [[Samsara]]. These incude:
 
@@ -15,6 +15,8 @@ ___
 - Majjhima Nikaya 27: Cūḷahatthipadopama Sutta; I 175–84
 
 ##### Metadata
+
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
 Status: #☀️ 
+

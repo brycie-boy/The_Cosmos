@@ -1,6 +1,6 @@
 ## Mind-and-form  # 
 
-Mind-and-body is a term used to refer to the contituents of a sentient organism. "Form" refers to the sentient organism with its physical form. "Mind" refers to the beings sensitive and cognitive capacites. It is important to note that Mind-and-body in [[the Buddha]]s teaching are mutually dependent, and not seperable. 
+Mind-and-form is a term used to refer to the contituents of a sentient organism. "Form" refers to the sentient organism with its physical form. "Mind" refers to the beings sensitive and cognitive capacites. It is important to note that mind-and-form in [[the Buddha]]s teaching are mutually dependent, and not seperable. 
 
 ___
 

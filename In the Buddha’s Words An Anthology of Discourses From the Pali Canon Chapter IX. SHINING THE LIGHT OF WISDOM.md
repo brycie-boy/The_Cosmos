@@ -705,10 +705,7 @@ Because of (1) ignorance (avijjā), lack of direct knowledge of the Four Noble T
 (Samyutta Nikaya 12:1; II 1–2)
 
 - Highlight(pink) - Location 5419
-From the above, we can see that the commentarial interpretation treats the twelve factors as spread out over a span of three lives, with ignorance and volitional formations pertaining to the past, birth and aging-and-death to the future, and the intermediate factors to the present. The segment from consciousness through feeling is the resultant phase of the present, the phase resulting from past ignorance and kamma; the segment from craving through existence is the karmically creative phase of the present, leading to renewed existence in the future.
-
-- Highlight(pink) - Location 5423
-existence is distinguished into two phases: one, called kamma-existence (kammabhava), constitutes the active side of existence and belongs to the causal phase of the present life; the other, called rebirth-existence (upapattibhava), constitutes the passive side of existence and belongs to the resultant phase of the future life.
+From the above, we can see that the commentarial interpretation treats the twelve factors as spread out over a span of three lives, with ignorance and volitional formations pertaining to the past, birth and aging-and-death to the future, and the intermediate factors to the present. The segment from consciousness through feeling is the resultant phase of the present, the phase resulting from past ignorance and kamma; the segment from craving through existence is the karmically creative phase of the present, leading to renewed existence in the future. But existence is distinguished into two phases: one, called kamma-existence (kammabhava), constitutes the active side of existence and belongs to the causal phase of the present life; the other, called rebirth-existence (upapattibhava), constitutes the passive side of existence and belongs to the resultant phase of the future life.
 
 - Highlight(pink) - Location 5425
 The twelve factors are also distributed into three “rounds”: the round of defilements (kilesavaṭṭa) includes ignorance, craving, and clinging; the round of action (kammavaṭṭa) includes volitional formations and kamma-existence; and all the other factors belong to the round of results (vipākavaṭṭa). Defilements give rise to defiled actions, actions bring forth results, and results serve as the soil for more defilements. In this way the round of rebirths revolves without discernible beginning.
@@ -785,10 +782,6 @@ ___
 - Highlight(pink) - Location 5468
 The Four Noble Truths.
 
-- Highlight(pink) - Location 6253
-“What four? The noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, the noble truth of the way leading to the cessation of suffering.
-(Samyutta Nikaya 56:24; V 433–34)
-
 - Highlight(pink) - Location 5477
 Sentient beings roam and wander in saṃsāra because they have not understood and penetrated the Four Noble Truths—Text IX,4(5)(d). As the chain of dependent origination shows, what lies at the base of the causal genesis of suffering is ignorance (avijjā), and ignorance is unawareness of the Four Noble Truths. Thus those who fail to understand the four truths generate volitional formations and fall down the precipice of birth, aging, and death—Text IX,4(5)(e).
 
@@ -797,9 +790,11 @@ The antidote to ignorance is knowledge (vijjā), which accordingly is defined as
 
 - Highlight(pink) - Location 6281
 “Monks, it is because of not understanding and not penetrating the Four Noble Truths that you and I have roamed and wandered through this long course of saṃsāra. What four?
+(Samyutta Nikaya 56:24; V 433–34)
 
-- Highlight(pink) - Location 6288
-Craving for existence has been cut off; the conduit to existence53 has been destroyed; now there is no more renewed existence.”
+- Highlight(pink) - Location 6253
+“What four? The noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, the noble truth of the way leading to the cessation of suffering.
+(Samyutta Nikaya 56:24; V 433–34)
 
 - Highlight(pink) - Location 5482
 The first penetration of the Four Noble Truths occurs with the attainment of stream-entry, called the breakthrough to the Dhamma (dhammābhisamaya). To make this breakthrough is by no means easy, but without doing so it is impossible to put an end to suffering—Text IX,4(5)(f). Hence the Buddha again and again urges his disciples to “make an extraordinary effort” to achieve the breakthrough to the truths.
