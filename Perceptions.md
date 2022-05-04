@@ -1,4 +1,4 @@
-## Perceptions # 
+## Perceptions #🧠 
 
 Perceptions, one of [[The five aggregates]], is defined as the identification and labeling of things by their distictive marks and features. The cause and condition for the manifastation of perception is contact between the internal and external [[Six sense bases]]. 
 

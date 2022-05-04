@@ -1,4 +1,4 @@
-## Consciousness  # 
+## Consciousness  #🧠 
 
 Consciousness, one of [[The five aggregates]], is defined as cognition arisen through any of the internal [[Six sense bases]].  The cause and condition for the manifestation of consciousness is [[Mind-and-form]]. 
 

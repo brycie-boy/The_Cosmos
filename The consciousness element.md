@@ -1,4 +1,4 @@
-## The consciousness element  # 
+## The consciousness element  #🧠 
 
 When all other elements have been viewed through [[The three characteristics]], there remaines the concsiousness element, one of the two additional elements ([[The great elements]]), which is used to cognise [[Sensations]] and the arising and passing of contact between the internal and external [[Six sense bases]] which these feelings are dependent.
 

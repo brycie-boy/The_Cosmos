@@ -1,4 +1,4 @@
-## Form # 
+## Form #🧠 
 
 Form, one of [[The five aggregates]], is defined as the physical component of experience. The cause and condition for the manifestation of form is  [[The great elements]]. 
 

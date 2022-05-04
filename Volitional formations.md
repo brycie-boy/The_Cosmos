@@ -1,4 +1,4 @@
-## Volitional formations # 
+## Volitional formations #🧠 
 
 Volitional formations, one of [[The five aggregates]], is defined as a term involving the maltifarious mental factors including volition, choice, and attention. 
 The cause and condition for the manifestation of volitional formations is contact between the internal and external [[Six sense bases]]. 

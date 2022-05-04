@@ -1,4 +1,4 @@
-## Six sense bases  # 
+## Six sense bases  #🧠 
 
 The six internal and external sense bases provide a perspective on the totality of experience different from, but complementary to [[The five aggregates]]. The six pairs of sense bases are the six sense faculties and their corresponding objects, which support the arising of the respective type of consciousness. Becuase they mediate between consciousness and its objects, the internal sense bases are refered to as the "six bases of contact", contact being the coming together of sense faculty, object, and consciousness. The six sense bases and there respective types of consciousness consist of:
 

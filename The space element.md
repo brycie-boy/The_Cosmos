@@ -1,4 +1,4 @@
-## The space element  # 
+## The space element  #🧠 
 
 The space element, one of the two additional elements ([[The great elements]]), simply represents empty space. The internal space element includes the ears, the mouth, the nostrils, the anus, etc.
 

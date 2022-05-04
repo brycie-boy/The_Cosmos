@@ -1,4 +1,4 @@
-## The five aggregates  # 
+## The five aggregates  #🧠 
 
 The five aggragates are five main categories used to analyze living experience. These five catagories are:
 

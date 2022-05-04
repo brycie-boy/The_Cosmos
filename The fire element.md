@@ -1,4 +1,4 @@
-## The fire element  # 
+## The fire element  #🧠 
 
 The fire element, one the four main elements ([[The great elements]]), represents the qualities of heat and energy. Any matter where energy is in prominence are called fire elements. The internal fire elements include bodily mechanisms that prodice physical warmth, aging, consumption, digestion, etc.
 

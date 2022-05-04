@@ -1,4 +1,4 @@
-## Dependant Origination  # 
+## Dependant Origination  #🧠 
 
 The ultimate purpose of the teaching of dependant origination is to show the conditions that sustain the round of rebirths and thereby show what must be done to gain release from [[Samsara]]. To win deliverance is a matter of unraveling the causal pattern that underlies our bondage, and this begins by understanding the causal process itself. The doctrine is usually expounded as a sequence of twelve factors joined into a chain of eleven propositions. The series is expounded in two ways: the way of origination (forward order) and the way of cessation (reverse order). The sequence is as follows: 
 

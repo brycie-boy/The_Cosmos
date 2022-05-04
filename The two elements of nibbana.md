@@ -1,4 +1,4 @@
-## The two elements of nibbana  # 
+## The two elements of nibbana  #🧠 
 
 [[The Nikayas]] often speak of two "elements of [[nibbana]]", the [[Nibbana]] element with residue remaining and the [[Nibbana]] element without residue remaining. The [[Nibbana]] element with residue remaining is described as the destruction of [[The three unwholesome roots]] while the [[Arahant]] is still alive. the "residue" is the composite of [[The five aggregates]] that was brought into being by the ignorance and craving from the previous life and that must continue on until the end of the lifespan. As for the [[Nibbana]] element without residue remaining, it is described as the passing away of the [[arahant]] in which afterwords all that is felt, not being delighted in, will become cool right there. Since there is no more clinging to [[The five aggregates]] and no more craving for a new existence with a fresh set of aggregates, the occurance of the aggregates comes to an end and cannot continue, the process of the aggregates is extinguished (the literal meaning of [[nibbana]]).
 

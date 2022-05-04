@@ -1,4 +1,4 @@
-## The three wholesome roots  # 
+## The three wholesome roots  #🧠 
 
 The three wholesome roots are the three underlying motives that lead to [[Wholesome kamma]]. These include:
 

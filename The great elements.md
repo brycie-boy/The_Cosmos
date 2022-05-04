@@ -1,4 +1,4 @@
-## The great elements  # 
+## The great elements  #🧠 
 
 The four great elements, rather than representing mere atomic substances, instead represent four behavioral aspects or qualities of matter. the four main elements include:
 

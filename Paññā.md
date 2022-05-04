@@ -1,4 +1,4 @@
-## Paññā  # 
+## Paññā  #🧠 
 
 The word paññā is derived from the verbal root ñā (Skt: jñā), meaning to know, preceded by the prefix pa (Skt: pra), which mereley gives the word a more dynamic nuance. So paññā/prajñā means knowing or understanding, not as possession, but as an action: the act of knowing, the act of understanding, the act of discerning.
 

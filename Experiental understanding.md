@@ -1,4 +1,4 @@
-## Experiental understanding  # 
+## Experiental understanding  #🧠
 
 Experiatial right view is direct penetration of [[The four nobel truths]] in ones own immediate experiance. To achieve direct penetrarion, one begins with correct [[Conceptual understanding]], and by practice, transforms this understanding into direct penetration.
 
