@@ -8,7 +8,7 @@ From above, we can see that the twelve factors are spread out over a span of thr
 
 This method of dividing up the factors into three groups does not mean that the past, present, and future factors are mutually exclusive. the distribution into three lives is only a expository decive which, for the sake of cohesion, has to resort to some degree of abstraction. The groups of factors seperated in the formula are inseperably interwoven in their dymanic operation. The formula shows demonstates how rebirth can occur without there being a substantial self that maintains its identity as it transmigrates from one life to the next ([[Identity view]]). Without a self to hold the sequence together, what connects one life to the next is the principle of conditionality. Conditions in one existance initiate the arising of the conditioned phemomena in the next existance. The whole process ends only when its underlying springs. —ignorance, craving, and clinging—are extirpated by [[Insight]]. 
 
-[[The Nikayas]] hold dependant origination as a "teaching by the middle". It is a "teaching by the middle" becuase it trandsends two radical views that polarize philosphical reflection on the human condition. These are [[Eternalism]] and [[Annihilationism]]. For [[The Buddha]], both extremes pose insuperable problems. [[Eternalism]]encourages obstanate clinging to [[The five aggregates]]. [[Annihilationism]] threatens to undermine ethics and to make suffering a product of chance. Dependant origination thereby offers a cogent explanation of the problem of suffering that one one hand avoids the philosophical dillemas of a permanent self, and on the other hand avoids the dangers of ethical anarchy to which [[Annihilationism]] eventually leads.
+[[The Nikayas]] hold dependant origination as a "teaching by the middle". It is a "teaching by the middle" becuase it trandsends two radical views that polarize philosphical reflection on the human condition. These are [[Eternalism]] and [[Annihilationism]]. For [[The Buddha]], both extremes pose insuperable problems. [[Eternalism]] encourages obstanate clinging to [[The five aggregates]]. [[Annihilationism]] threatens to undermine ethics and to make suffering a product of chance. Dependant origination thereby offers a cogent explanation of the problem of suffering that one hand avoids the philosophical dilemmas of a permanent self, and on the other hand avoids the dangers of ethical anarchy to which [[Annihilationism]] eventually leads.
 
 ___
 
@@ -24,4 +24,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Status: #☀️ 
