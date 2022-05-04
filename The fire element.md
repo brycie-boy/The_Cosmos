@@ -2,6 +2,8 @@
 
 The fire element, one the four main elements ([[The great elements]]), represents the qualities of heat and energy. Any matter where energy is in prominence are called fire elements. The internal fire elements include bodily mechanisms that prodice physical warmth, aging, consumption, digestion, etc.
 
+Although some Buddhist texts contain two types of texts of fire, the fire of heat and the fire of coldness, we nowadays understand that coldness is just our own interpretation of feeling something with less heat energy than to the subject, any paritical being not scientifically possible to actually have absolute zero degrees of tempeture.
+
 ___
 
 ##### References
@@ -16,4 +18,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] 
-Status: #⛅️ 
+Status: #☀️ 

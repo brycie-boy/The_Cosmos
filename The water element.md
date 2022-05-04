@@ -1,6 +1,6 @@
 ## The water element  # 
 
-The water element, one of the four main elements ([[The great elements]]), represents the quality of liquidity and relative motion. Any matter where relative motion of particles is in prominence are called water elements. The internal water elements include bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil-of-the-joints, urine, semen, etc.
+The water element, one of the four main elements ([[The great elements]]), represents the quality of liquidity, soluability, and relative motion. Any matter where relative motion of particles is in prominence are called water elements. The internal water elements include bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil-of-the-joints, urine, semen, etc.
 
 ___
 
@@ -16,4 +16,4 @@ ___
 
 Type: #🔵/🔵 
 Tags:  [[Philosophy]] / [[Spirituality]] 
-Status:  #⛅️ 
+Status:  #☀️ 

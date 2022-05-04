@@ -15,6 +15,7 @@ ___
 - Majjhima Nikaya 109, abridged; III 15–19
 
 ##### Metadata
+
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Status: #☀️ 

@@ -1,6 +1,6 @@
 ## The earth element  # 
 
-The earth element, one of the four main elements ([[The great elements]]), represents the quality of solidity or attractive forces. Any matter where attractive forces are in prominence (solid bodies) are called earth elements. The internal earth elements include head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, stomach, feces, etc.
+The earth element, one of the four main elements ([[The great elements]]), represents the quality of solidity, density, and attractive forces. Any matter where attractive forces are in prominence are called earth elements. The internal earth elements include head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, stomach, feces, etc.
 
 ___
 
@@ -15,4 +15,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] 
-Status: #⛅️ 
+Status: #☀️ 

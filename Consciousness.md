@@ -16,5 +16,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
+Status: #☀️ 

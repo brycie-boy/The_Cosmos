@@ -18,4 +18,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
-Status: #⛅️ 
+Status: #☀️ 

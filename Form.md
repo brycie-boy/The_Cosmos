@@ -1,6 +1,6 @@
 ## Form # 
 
-Form, one of [[The five aggregates]], is defined as the physical component of experience. The cause and condition for the manifestation of form is [[The nutriments]] and [[The great elements]]. 
+Form, one of [[The five aggregates]], is defined as the physical component of experience. The cause and condition for the manifestation of form is  [[The great elements]]. 
 
 ___
 
@@ -17,4 +17,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Status: #☀️ 

@@ -12,7 +12,7 @@ There are also two additional elements occasionally mentioned in [[The Nikayas]]
 - [[The space element]]
 - [[The consciousness element]]
 
-The four main elements are inseparably linked in any unit of matter, from the smallest to the largest and most complex. The elements are not just properties of the external world, however, but also ones own body. Thus one must comptemplate them in relation to ones own body, as is done through the [[Attention to the great elementss]] exersize. The elements can be viewed through [[The three characteristics]] and through [[The three standpoints]], 
+The four main elements are inseparably linked in any unit of matter, from the smallest to the largest and most complex. The elements are not just properties of the external world, however, but also ones own body. Thus one must comptemplate them in relation to ones own body, as is done through the [[Attention to the great elementss]] exersize. The elements can be viewed through [[The three characteristics]]m through [[The three standpoints]], and through and through the four truth pattern; the element itself, its arising, its cessation, and the path leading to its cessation.
 
 ___
 
@@ -27,4 +27,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] 
-Status: #⛅️ 
+Status: #☀️ 

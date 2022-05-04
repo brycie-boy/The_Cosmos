@@ -20,4 +20,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Ethics]] 
-Status: #⛅️ 
+Status: #☀️ 
