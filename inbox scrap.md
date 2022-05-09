@@ -16,10 +16,6 @@ Highlight(pink) - Location 254
 
 The Prover is a much simpler mechanism. It operates on one law only: Whatever the Thinker thinks, the Prover proves.
 
-Highlight(pink) - Location 254
-
-The Prover is a much simpler mechanism. It operates on one law only: Whatever the Thinker thinks, the Prover proves.
-
 Highlight(pink) - Location 278
 
 Science achieves, or approximates, objectivity not because the individual scientist is immune from the psychological laws that govern the rest of us, but because scientific method—a group creation—eventually overrides individual prejudices, in the long run. To take a notorious example from the 1960s, there was a point when three research groups had “proven” that LSD causes chromosome damage, while three other groups had “proven” that LSD has no effect on the chromosomes. In each case, the Prover had proved what the Thinker thought.
