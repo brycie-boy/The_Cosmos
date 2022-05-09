@@ -1,7 +1,9 @@
 ## Majors
 
-- computer engineering 
-- neuroscience / cognitive science
+- Major: Computer engineering 
+	- Its a very versatile degree with lots of job opportunities. It can give me a chance to study math as well as develop a skill along the way. It seems pretty chill, free from a lot of propaganda and corruption like I see in other fields I’ve considered like psychology and medicine. Has a lot of room for creative expression
+-  Minor: Neuroscience 
+	- it seems like a more versatile way to study the mind. You see a lot of people applying Buddhism and mysticism to neuroscience unlike psychology. With neuroscience you can basically apply your own maps not just strictly psychology. It can also open doors to things like ai engineering and tech assisted learning
 
 ## Occupation ideas
 

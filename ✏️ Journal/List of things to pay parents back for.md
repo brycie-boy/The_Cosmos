@@ -1,2 +1,2 @@
 1. Minecraft $27
-2. Clothes $85
+2. Clothes $40

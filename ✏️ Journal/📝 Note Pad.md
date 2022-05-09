@@ -13,3 +13,8 @@
 3. insuperable
 4. obstinate
 5. cogent
+6. chagrin
+7. recapitulate
+8. neonate,
+9. adulation
+10. adamantine

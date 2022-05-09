@@ -1,8 +1,8 @@
 ## conceit #🧠 
 _noun_
 
-1. favorable opinion.
-     especially excessive appreciation of one's own worth or virtue
+1. a favorable opinion.
+   especially excessive appreciation of one's own worth or virtue
 
 2. a fanciful idea
 

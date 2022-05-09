@@ -3,9 +3,12 @@
 - Groceries
 	-  Food: $100 a week
 	- Supplements: $225  
-	- Hygiene: $101 
+	- Hygiene: $83 
 - Gas: $50
-- **Total:** $476
+- Haircut: $25
+- **Total:** $483
+	- without food and hygiene: $300
+	- Keep $320 in bank
 
 ## left over money
  - Savings / investments 
@@ -14,4 +17,4 @@
 	 - Stocks: %60
 - Left over money from here would would either:
 	- save up for wants
-	- Just go into savings and investments if I don’t have anything in my shopping list
+	- Just go into investments if I don’t have anything in my shopping list

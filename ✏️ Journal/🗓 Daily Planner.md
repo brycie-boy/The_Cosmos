@@ -1,6 +1,6 @@
 # 🗓 Daily Planner
 
-The daily planner is like my central hub for  managing my attention. If it isn’t in the daily planner, it shouldn’t be in my mind! If such thoughts do arise, then that means I’m vearing to far off course.
+The daily planner is like my central hub for  managing my attention. If it isn’t in the daily planner, it shouldn’t be in my mind! If such thoughts do arise, then that means I’m vearing to far off course. Stick to the plan. Trust your past self. Don’t lose track.
 
 ## ✅ ToDos
 
@@ -9,35 +9,34 @@ The daily planner is like my central hub for  managing my attention. If it isn�
 > Do immediately
 
 - [ ] Schedule eye appointment
-- [ ] Buy a car
 
 ### Nonurgent ToDos
 
-##### 30 Min Meditation?
 
-- [ ] Yes
 
 #### Quick tasks (Under 5 min)
 
-- Pi kyc
+- schedule drivers license appointment
 
 #### Slow tasks (Over 5 min)
 
 > - 2 day limit
 > - 1 day break 
 
-- [ ] Work on travel list
-
-#### Later
-
-- Organize music library
-- Rice Linux
-- Work on GED
-- Find jobs
+- [ ] Look for jobs (after you schedule drivers license appointment)
 
 #### Weekly tasks
 
 - [ ] Grocery Shopping
+
+### Later
+
+- Get gym membership 
+- Set up privacy
+- Work on GED
+- Organize music library
+- Rice Linux
+- Work on travel list
 
 ##
 ___
@@ -51,14 +50,13 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [x] ☁️ Stellar Nursery: ❗️
-- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
+- [ ] ☁️ Stellar Nursery: 
+- [x] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
 
 > - 2 Max
-> - If a source that is on your mind is not in this list, then it shouldn’t be on your mind. Consuming one source should be the condition that leads you to the next.
 
 - [ ] **1.** 
 
@@ -67,12 +65,12 @@ ___
 - Author: Bhikku Bodhi
 - Tags: Philosophy, Spirituality, Psychology
 >
-- [ ] **2.**
+- [x] **2.**
 
-![[042884DB-D96F-45FE-A7F4-B4AEDDB559D3.jpeg|80]]
-- Source: Self Reliance
-- Author: Ralph Waldo Emerson
-- Tags: Philosophy
+![[1AC1F492-22D4-4A30-9FCE-D259E0485DE5.jpeg|80]]
+- Source: Prometheus rising
+- Author: Robert Anton Wilson
+- Tags: Spirituality, Occult, Psychology
 
 ### Continue Creating?
 

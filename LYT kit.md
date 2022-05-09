@@ -3,12 +3,8 @@
 Author: Nick Milo
 Publish Date: Unknown
 Review Date: 2022-3-26
-Status: # 💥
-Tags:
-
-___
-
-[[inbox scrap 2]]
+Status: #☁️/🌐 
+Tags: [[Learning]] 
 
 ___
 

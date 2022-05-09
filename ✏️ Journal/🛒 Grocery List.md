@@ -2,14 +2,6 @@
 
 > Go through whole list!
 
-Reminders:
-
-- tooth brush tips
-- Salt and pepper shakers
-- More contrainers for meat
-- Spinach
-- Check that health food store for coconut butter
-
 ## Things to Watch For On Labels
 1. Serving size
 
@@ -85,7 +77,7 @@ Reminders:
 - [x] Broccoli (frozen)
 - [x] Cauliflower
 	- Riced Cauliflower
-- [ ] Baby spinach or arugula 
+- [x] Baby spinach or arugula 
 - [x] Avocado 
 	- Guacamole
 - [x] Asparagus (frozen)
@@ -176,5 +168,6 @@ ___
 - [x] Harry’s shaving cream: $7
 - [x] Harry’s aftershave: $8
 - [x] Purpose face cleanser 6 oz: $10
+- [x] Ceave facial moisturizer spf 30 3 oz: $13
 - [ ] First bounty Himalayan sea salt exfoliating scrub 11 oz: $12.30
-- [ ] Baxter of California face moisturizer 3.4 oz: $31
+
