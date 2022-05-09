@@ -16,9 +16,9 @@ Highlight(pink) - Location 254
 
 The Prover is a much simpler mechanism. It operates on one law only: Whatever the Thinker thinks, the Prover proves.
 
-Highlight(pink) - Location 258
+Highlight(pink) - Location 254
 
-If the Thinker thinks that the sun moves around the earth, the Prover will obligingly organize all perceptions to fit that thought; if the Thinker changes its mind and decides the earth moves around the sun, the Prover will reorganize the evidence. If the Thinker thinks “holy water” from Lourdes will cure its lumbago, the Prover will skillfully orchestrate all signals from the glands, muscles, organs etc. until they have organized themselves into good health again
+The Prover is a much simpler mechanism. It operates on one law only: Whatever the Thinker thinks, the Prover proves.
 
 Highlight(pink) - Location 278
 

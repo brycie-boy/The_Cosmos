@@ -24,3 +24,8 @@ As psychiatrists and psychologists have often observed (much to the chagrin of t
 
 - Highlight - Location 258
 If the Thinker thinks that the sun moves around the earth, the Prover will obligingly organize all perceptions to fit that thought; if the Thinker changes its mind and decides the earth moves around the sun, the Prover will reorganize the evidence. If the Thinker thinks “holy water” from Lourdes will cure its lumbago, the Prover will skillfully orchestrate all signals from the glands, muscles, organs etc. until they have organized themselves into good health again
+- Highlight(pink) - Location 254
+Whatever the Thinker thinks, the Prover proves.
+
+
+
