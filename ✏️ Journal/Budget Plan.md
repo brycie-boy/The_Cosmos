@@ -10,6 +10,9 @@
 	- without food and hygiene: $300
 	- Keep $320 in bank
 
+- Monthly payments:
+	- Gitkraken pro: $5 
+
 ## left over money
  - Savings / investments 
 	- 30% of what’s left over after expenses

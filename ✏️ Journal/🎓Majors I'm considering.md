@@ -7,7 +7,7 @@
 
 ## Occupation ideas
 
-- Work with ai, neuroscience, psychology, psychedelics, meditation, magick, geometry, cryptography, and technology assisted thinking and learning
+- Work with neuroscience, psychology, psychedelics, meditation, magick, ai, geometry, cryptography, and technology assisted thinking and learning
 
 ## Potential work
 

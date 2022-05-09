@@ -50,8 +50,8 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery: 
-- [x] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
+- [x] ☁️ Stellar Nursery: ❗️
+- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
@@ -65,7 +65,7 @@ ___
 - Author: Bhikku Bodhi
 - Tags: Philosophy, Spirituality, Psychology
 >
-- [x] **2.**
+- [ ] **2.**
 
 ![[1AC1F492-22D4-4A30-9FCE-D259E0485DE5.jpeg|80]]
 - Source: Prometheus rising
