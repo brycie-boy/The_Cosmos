@@ -13,3 +13,9 @@ Tags:
 ___
 
 [[inbox scrap]]
+
+___
+
+- Highlight(pink) - Location 243
+As Dr. Leonard Orr has noted, the human mind behaves as if it were divided into two parts, the Thinker and the Prover.
+
