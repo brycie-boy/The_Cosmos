@@ -12,10 +12,10 @@ ___
 
 ##### References
 
-
+- Wilson, A. Robert. (1983) [[Prometheus Rising Chapter 1. The Thinker and the Prover]] (Location 243). Grand Junction, CO: _Hilaritas Press_.
 
 ##### Metadata
 
 Type: #🔴 
-Tags: [[Philosophy]] / [[Psychology]] / [[Occult]]
+Tags: [[Philosophy]] / [[Psychology]] / [[Mysticism]]
 Status: #⛅️ 
