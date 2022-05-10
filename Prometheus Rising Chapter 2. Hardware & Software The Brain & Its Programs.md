@@ -72,3 +72,12 @@ In general, the primordial imprint can always over-rule any subsequent condition
 
 - Highlight(pink) - Location 406
 Before the first imprint, the consciousness of the infant is “formless and void”—like the universe at the beginning of Genesis, or the descriptions of unconditioned (“enlightened” i.e., exploded) consciousness in the mystic traditions. As soon as the first imprint is made, structure emerges out of the creative void. The growing mind, alas, becomes trapped within this structure. It identifies with the structure; in a sense, it becomes the structure.
+
+- Highlight(pink) - Location 413 
+Each successive imprint complicates the software which programs our experience and which we experience as "reality. ”
+
+- Highlight(pink) - Location 414
+Conditioning and learning build further networks onto this bedrock of imprinted software. The total structure of this brain-circuitry makes up our map of the world. It is what our Thinker thinks, and our Prover mechanically fits all incoming signals to the limitations of this map.
+
+___
+
