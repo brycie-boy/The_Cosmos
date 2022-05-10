@@ -18,7 +18,7 @@ ___
 
 - Highlight(pink) - Location 333
 We, as a species, exist in a world in which exist a myriad of ... events or actions ... . Upon these matrices of points we superimpose ... models or maps ... and the world makes sense to us. The pattern of the structure originates within our ... brains hardware and software ... 
-Persinger and Lafreniere, Space-Time Transients and Unusual Events 
+—  Persinger and Lafreniere, Space-Time Transients and Unusual Events
 
 ___
 
