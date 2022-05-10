@@ -64,11 +64,11 @@ Highlight(pink) - Location 392
 
 Because the human brain, like other animal brains, acts as an electro-colloidal computer, not a solid-state computer, it follows the same laws as other animal brains. That is, the programs get into the brain, as electro-chemical bonds, in discrete quantum stages. Each set of programs consists of four basic parts: 1. Genetic Imperatives. Totally hard-wired programs or “instincts.” 2. Imprints. These are more-or-less hard wired programs which the brain is genetically designed to accept only at certain points in its development. These points are known, in ethology, as times of imprint vulnerability. 3. Conditioning. These are programs built onto the imprints. They are looser and fairly easy to change with counter-conditioning. 4. Learning. This is even looser and “softer” than conditioning.
 
-Highlight(pink) - Location 399
+Highlight(pink) - Location 399 
 
 In general, the primordial imprint can always over-rule any subsequent conditioning or learning. An imprint is a species of software that has become built-in hardware, being impressed on the tender neurons when they are peculiarly open and vulnerable. Imprints (software frozen into hardware) are the non-negotiable aspects of our individuality. Out of the infinity of possible programs existing as potential software, the imprint establishes the limits, parameters, perimeters within which all subsequent conditioning and learning occurs.
 
-Highlight(pink) - Location 406
+Highlight(pink) - Location 406 ❗️
 
 Before the first imprint, the consciousness of the infant is “formless and void”—like the universe at the beginning of Genesis, or the descriptions of unconditioned (“enlightened” i.e., exploded) consciousness in the mystic traditions. As soon as the first imprint is made, structure emerges out of the creative void. The growing mind, alas, becomes trapped within this structure. It identifies with the structure; in a sense, it becomes the structure.
 
