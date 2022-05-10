@@ -8,22 +8,22 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 > Do immediately
 
-- [ ] Schedule eye appointment
+
 
 ### Nonurgent ToDos
-
-
 
 #### Quick tasks (Under 5 min)
 
 - schedule drivers license appointment
+- Make piped account
 
 #### Slow tasks (Over 5 min)
 
 > - 2 day limit
 > - 1 day break 
 
-- [ ] Look for jobs (after you schedule drivers license appointment)
+- [ ] Look for jobs (after you schedule drivers license appointment) (Day: 0)
+- [x] Organize music library (Day: 1)
 
 #### Weekly tasks
 
@@ -34,9 +34,9 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 - Get gym membership 
 - Set up privacy
 - Work on GED
-- Organize music library
 - Rice Linux
 - Work on travel list
+- Delete photos
 
 ##
 ___
@@ -104,5 +104,5 @@ ___
 
 ### Continue Learning?
 
-- [x] Yes
+- [ ] Yes
 

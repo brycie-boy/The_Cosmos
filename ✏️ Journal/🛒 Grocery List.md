@@ -101,7 +101,7 @@
 - [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
-- [x] Goat cheese
+- [ ] Goat cheese
 	- Parm/Romano
 	- Aged white cheddar
 - [ ] Cottage Cheese
