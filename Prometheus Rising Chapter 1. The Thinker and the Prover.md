@@ -33,11 +33,14 @@ Scientists, however, are still believed to be objective. No study of the lives o
 - Highlight - Location 278
 Science achieves, or approximates, objectivity not because the individual scientist is immune from the psychological laws that govern the rest of us, but because scientific method—a group creation—eventually overrides individual prejudices, in the long run. To take a notorious example from the 1960s, there was a point when three research groups had “proven” that LSD causes chromosome damage, while three other groups had “proven” that LSD has no effect on the chromosomes. In each case, the Prover had proved what the Thinker thought.
 
-- Highlight - Location 285 ❗️
+- Highlight - Location 285 
 “Truth” or relative truth emerges only after decades of experiments by thousands of groups all over the world ... In the long run, we are hopefully approximating closer and closer to “objective Truth” over the centuries. In the short run, Orr’s law always holds: Whatever the Thinker thinks, the Prover will prove.*
 
 - Highlight(pink) - Location 289
-And if the Thinker thinks passionately enough, the Prover will prove the thought so conclusively that you will never talk a person out of such a belief, even if it is something as remarkable as the notion that there is a gaseous vertebrate of astronomical heft (“GOD”) who will spend all eternity torturing people who do not believe in his religion.
+And if the Thinker thinks passionately enough, the Prover will prove the thought so conclusively that you will never talk a person out of such a belief.
+
+- Highlight - Location 330
+(graphic above) Tentative Model #1: The perceived universe is a mixture of the “real universe” and our own “Thinker”—proving its pet beliefs.
 
 ___
 
