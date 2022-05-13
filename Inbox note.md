@@ -68,11 +68,11 @@ Highlight(pink) - Location 399
 
 In general, the primordial imprint can always over-rule any subsequent conditioning or learning. An imprint is a species of software that has become built-in hardware, being impressed on the tender neurons when they are peculiarly open and vulnerable. Imprints (software frozen into hardware) are the non-negotiable aspects of our individuality. Out of the infinity of possible programs existing as potential software, the imprint establishes the limits, parameters, perimeters within which all subsequent conditioning and learning occurs.
 
-Highlight(pink) - Location 406 ❗️
+Highlight(pink) - Location 406 
 
 Before the first imprint, the consciousness of the infant is “formless and void”—like the universe at the beginning of Genesis, or the descriptions of unconditioned (“enlightened” i.e., exploded) consciousness in the mystic traditions. As soon as the first imprint is made, structure emerges out of the creative void. The growing mind, alas, becomes trapped within this structure. It identifies with the structure; in a sense, it becomes the structure.
 
-Highlight(pink) - Location 413
+Highlight(pink) - Location 413 
 
 Each successive imprint complicates the software which programs our experience and which we experience as "reality. ”
 
@@ -80,7 +80,7 @@ Highlight(pink) - Location 414
 
 Conditioning and learning build further networks onto this bedrock of imprinted software. The total structure of this brain-circuitry makes up our map of the world. It is what our Thinker thinks, and our Prover mechanically fits all incoming signals to the limitations of this map.
 
-Highlight(pink) - Location 416
+Highlight(pink) - Location 416 ❗️
 
 Following Dr. Timothy Leary (with a few modifications) we shall divide this brain hardware into eight circuits
 
