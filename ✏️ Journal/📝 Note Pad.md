@@ -8,4 +8,5 @@
 
 > - 10 Words max  [[🗓 Daily Planner]]
 
-9. adulation
+1. adulation
+2. polemical

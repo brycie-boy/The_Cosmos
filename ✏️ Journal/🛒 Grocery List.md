@@ -161,7 +161,7 @@ ___
 - Sulfate
 
 ### List
-- [x] Hello mouth wash: $6
+- [ ] Hello mouth wash: $6
 - [x] Hello free toothpaste: $4
 - [x] Native deodorant: $13
 - [x] Native body wash: $9

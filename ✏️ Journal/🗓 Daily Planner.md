@@ -15,15 +15,14 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 #### Quick tasks (Under 5 min)
 
 - schedule drivers license appointment
-- Make piped account
 
 #### Slow tasks (Over 5 min)
 
 > - 2 day limit
 > - 1 day break 
 
-- [ ] Look for jobs (after you schedule drivers license appointment) (Day: 0)
-- [x] Organize music library (Day: 1)
+- [ ] Look for jobs (after you schedule drivers license appointment) (day: 0)
+- [ ] Driving practice
 
 #### Weekly tasks
 
@@ -34,8 +33,6 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 - Get gym membership 
 - Set up privacy
 - Work on GED
-- Rice Linux
-- Work on travel list
 - Delete photos
 
 ##
@@ -60,10 +57,11 @@ ___
 
 - [ ] **1.** 
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|80]]
-- Source: In the Buddha's Words An Anthology of Discourses From the Pali Canon
-- Author: Bhikku Bodhi
-- Tags: Philosophy, Spirituality, Psychology
+![[57FA6290-2198-49A2-8D00-A1AE108797FC.jpeg|80]]
+- Source: The millionaire fastlane
+- Author: MJ Demarco
+- Tags: Self improvement, Finance 
+
 >
 - [ ] **2.**
 
@@ -104,5 +102,5 @@ ___
 
 ### Continue Learning?
 
-- [ ] Yes
+- [x] Yes
 

@@ -8,6 +8,9 @@
 > - **Overall:** $3600
 
 
+- ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
+	Amelia bed $700 https://www.urbanoutfitters.com/shop/amelia-platform-bed
+
 - ![[904D3FF3-B54D-4FB6-9CC2-3E99022587FC.jpeg|200]]
 	Bamboo bed sheets 6 pack $35 https://www.amazon.com/LuxClub-Friendly-Hypoallergenic-Anti-Bacteria-Washable/dp/B071RVW4ZY/ref=mp_s_a_1_3?crid=21MA32RQSMR80&keywords=bamboo%2Bsheets&qid=1651905592&sprefix=bamboo%2Bsheets%2Caps%2C96&sr=8-3&th=1&psc=1
 
@@ -19,6 +22,14 @@
 
 - ![[0817D88E-A246-414E-9DA5-AA527785B652.jpeg|200]]
 	Ledger namo crypto wallet $60 https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=mp_s_a_1_4?crid=2VLC0MY3RPMK6&keywords=bitcoin+wallet&qid=1651272172&sprefix=bitcoin+wallet%2Caps%2C93&sr=8-4&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
+
+- ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
+	Framework Laptop DIY Edition $749.00
+	https://frame.work/products/laptop-diy-edition
+
+
+- ![[D776D75D-2E66-4268-9592-78A5DB233742.jpeg|200]]
+	Desk lamp $50 https://www.amazon.com/gp/aw/d/B09DVXKLMS/ref=sspa_mw_detail_5?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams
 
 - ![[90BBB219-D1E7-437F-ADA9-915E1979953F.webp|200]]
 	![[45955F0E-BB0D-4275-A475-FAF770759D40.webp|200]]
@@ -68,21 +79,11 @@ https://m.aliexpress.com/item/1005002452910001.html?spm=a2g0n.detail.1000014.3.1
 - ![[F22A1488-4A38-4334-A818-7235282C7C7B.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
 
-- ![[D776D75D-2E66-4268-9592-78A5DB233742.jpeg|200]]
-	Desk lamp $50 https://www.amazon.com/gp/aw/d/B09DVXKLMS/ref=sspa_mw_detail_5?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams
-
-- ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
-	Framework Laptop DIY Edition $749.00
-	https://frame.work/products/laptop-diy-edition
-
 - ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
 	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
 
 - ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
 	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
-
-- ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
-	Amelia bed $750 https://www.urbanoutfitters.com/shop/amelia-platform-bed
 
 - From here just get whatever 🤷‍♂️ That may be the rest of what’s in the list or other things. But be sure to get this stuff first
 
