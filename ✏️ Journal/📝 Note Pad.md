@@ -10,3 +10,4 @@
 
 1. adulation
 2. polemical
+3. tenuous
