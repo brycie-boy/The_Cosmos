@@ -3,7 +3,7 @@
 The Buddha refers to six types of supernormal knowledge he calls the “six types of direct knowledge” which are one of the lines of development that can be reached through the fourth jhana (see [[The jhanas]]). These are
 
 - [[Remote viewing]]
-- the abililty to read the minds of others
+- [[Telepathy]]
 - the recollection of past lives 
 - the knowledge of the passing away and rebirth of beings
 - the knowledge of the distruction of [[The taints]]
