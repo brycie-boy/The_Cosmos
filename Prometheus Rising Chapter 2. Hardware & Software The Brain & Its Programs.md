@@ -7,8 +7,8 @@
 Author: Robert Anton Wilson
 Publish Date: 1983-7
 Review Date: 2022-5-10
-Status: #💥
-Tags: 
+Status: #☁️/📚 
+Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Biochemistry]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
 
 ___
 

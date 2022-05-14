@@ -1,4 +1,4 @@
-## The first jhana  # 
+## The first jhana  #🧠 
 
 The first of [[The jhanas]] consists of thought and examination, with rapture and happiness born from seclusion. 
 

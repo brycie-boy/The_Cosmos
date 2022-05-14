@@ -7,8 +7,8 @@
 Author: Robert Anton Wilson
 Publish Date: 1983-7
 Review Date: 2022-5-9
-Status: #💥
-Tags: [[Philosophy]] / [[Psychology]] / [[Mysticism]] 
+Status: #☁️/📚 
+Tags: [[Philosophy]] / [[Psychology]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
 
 ___
 
