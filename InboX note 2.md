@@ -16,7 +16,7 @@ Highlight(pink) - Location 6436
 
 There are four major types of noble persons. Each stage is divided into two phases: the path (magga) and its fruition (phala).1 In the path phase, one is said to be practicing for the attainment of a particular fruition, which one is bound to realize within that same life; in the resultant phase, one is said to be established in that fruition. Thus the four major types of noble persons actually comprise four pairs or eight types of noble individuals. As enumerated in Text X,1(1), these are: (1) one practicing for the realization of the fruit of stream-entry, (2) the stream-enterer, (3) one practicing for the realization of the fruit of once-returning, (4) the once-returner, (5) one practicing for the realization of the fruit of nonreturning, (6) the nonreturner, (7) one practicing for arahantship, (8) the arahant.
 
-Highlight(pink) - Location 6442
+Highlight(pink) - Location 6442 ❗️
 
 Text X,1(2) grades these eight according to the relative strength of their spiritual faculties, so that those at each subsequent stage possess stronger faculties than those at the preceding stage.
 
