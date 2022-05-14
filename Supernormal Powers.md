@@ -1,4 +1,4 @@
-## Supernormal Knowledge  #🧠 
+## Supernormal Powers  #🧠 
 
 The Buddha refers to six types of supernormal knowledge he calls the “six types of direct knowledge” which are one of the lines of development that can be reached through the fourth jhana (see [[The jhanas]]). These are
 

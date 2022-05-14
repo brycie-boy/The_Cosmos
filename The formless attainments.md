@@ -2,10 +2,10 @@
 
 The formless attainments are four meditative states that continue the mental unification of [[The jhanas]]. They're distinguished by [[The jhanas]] by there transendance of the object of concentration. These are
 
-- the base of the infinity of space
-- the base of the infinity of consiousness
-- the base of nothingness
-- the base of neither-perception-nor-nonperception
+- [[The base of the infinity of space]]
+- [[The base of the infinity of consiousness]]
+- [[The base of nothingness]]
+- [[The base of neither-perception-nor-nonperception]]
 
 ___
 

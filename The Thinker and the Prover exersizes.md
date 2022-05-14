@@ -34,5 +34,5 @@ ___
 ##### Metadata
 
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Occultism]] 
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mysticism]] 
 Status: #⛅️ 

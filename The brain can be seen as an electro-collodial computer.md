@@ -13,5 +13,5 @@ ___
 ##### Metadata
 
 Type: #🔴 
-Tags: [[Philosophy]] / [[Psychology]] / [[Spirituality]] / [[Occultism]] / [[Biology]] / [[Biochemistry]] / [[Neuroscience]]
+Tags:  [[Psychology]] / [[Biology]] / [[Biochemistry]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]]
 Status: #⛅️ 
