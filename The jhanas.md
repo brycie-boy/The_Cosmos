@@ -1,6 +1,6 @@
 ## The jhanas  #🧠 
 
-The jhanas are profound states of concentration in which the mind becomes fully obsorbed in its object. The Buddha enumerates four jhanas, named simiply after their numerical position in the series, each being more refined that its predecessor. There four main jhanas, those of which are shown below:
+The jhanas are profound states of concentration in which the mind becomes fully obsorbed in its object. The Buddha enumerates four jhanas, named simply after their numerical position in the series, each being more refined that its predecessor. There four main jhanas, those of which are shown below:
 
 - [[The first jhana]] 
 - [[The second jhana]] 
@@ -15,5 +15,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Yoga]]
 Status: #☀️ 
