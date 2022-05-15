@@ -318,13 +318,27 @@ In one of his earliest discourses popularly known as “The Fire Sermon”—Tex
 - Highlight(pink) - Location 5372
 to dispel ignorance and generate true knowledge, we must contemplate all the sense bases and the feelings that arise through them as impermanent, suffering, and nonself. This, according to Text IX,4(2)(c), is the direct way to the attainment of Nibbāna.
 
-Highlight(pink) - Location 6021
+- Highlight(pink) - Location 6021
 “And what, monks, is the way that is suitable for attaining Nibbāna? Here, a monk sees the eye as impermanent, he sees forms as impermanent, he sees eye-consciousness as impermanent, he sees eye-contact as impermanent, he sees as impermanent whatever feeling arises with eye-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant ... “He sees the ear as impermanent … He sees the mind as impermanent,
 ... “He sees the eye as suffering ... he sees as suffering whatever feeling arises with mind-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant ... “He sees the eye as nonself … he sees as nonself whatever feeling arises with mind-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant.
 (Samyutta Nikaya 35:147–49, combined; IV 133–35)
 
 - Highlight(pink) - Location 5374
 An alternative route, commended by Text IX,4(2)(d), is to see that the six senses are empty—empty of a self or of anything belonging to a self. Since consciousness arises via the six sense bases, it too is devoid of self—Text IX, 4(2)(e).
+
+___
+
+- Highlight - Location 6039
+Consciousness Too Is Nonself
+
+- Highlight - Location 6043
+Doesn’t eye-consciousness arise in dependence on the eye and forms?” “Yes, friend.”
+
+- Highlight - Location 6044
+“If the cause and condition for the arising of eye-consciousness would cease completely and totally without remainder, could eye-consciousness be discerned?” “No, friend.” “In this way, friend, this has been declared, disclosed, and revealed by the Blessed One thus: ‘For such a reason this consciousness is nonself.’
+
+- Highlight - Location 6055
+“So too, a monk does not recognize either a self or anything belonging to a self in these six bases for contact. Since he does not recognize anything thus, he does not cling to anything in the world. Not clinging, he is not agitated. Being unagitated, he personally attains Nibbāna.
 
 ___
 
