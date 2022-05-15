@@ -339,7 +339,7 @@ Doesn’t eye-consciousness arise in dependence on the eye and forms?” “Yes,
 
 - Highlight - Location 6055
 “So too, a monk does not recognize either a self or anything belonging to a self in these six bases for contact. Since he does not recognize anything thus, he does not cling to anything in the world. Not clinging, he is not agitated. Being unagitated, he personally attains Nibbāna.
-(SN 35:147–49, combined; IV 133–35)
+(Samyutta Nikaya 35:147–49, combined; Ittivutaka 133–35)
 
 ___
 
