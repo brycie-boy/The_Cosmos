@@ -10,7 +10,7 @@ Tags:
 
 ___
 
-[[InboX note 2]]
+[[Inbox scrap 2]]
 
 ___
 
