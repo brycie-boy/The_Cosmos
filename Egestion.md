@@ -28,7 +28,7 @@ Here are some of my outputs with their respective workflows:
 - To express a large complex interrelated concept I would write a book about it
 - create outlines with notes
 
-With notes being units of knowledge, they can be seen as building blocks for my projects. Creating not only a frictionless learning experience, but a frictionless output experience as well.
+With notes being units of knowledge, they can be seen as building blocks for my projects. Creating not only a seamless learning experience, but a seamless  output experience as well.
 
 I only want to express things that haven’t been expressed before, or haven’t been expressed as well. Zettelkasten is perfect for this because it’s all about making connections and creating new insight
 

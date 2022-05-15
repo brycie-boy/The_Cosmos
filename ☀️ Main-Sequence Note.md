@@ -1,4 +1,4 @@
-## ☀️ Main-Sequence Note #☀️ 
+## ☀️ Main-Sequence Note #🧠 
 
 ![[8E99C919-531E-4490-BF66-0632708BC7C8.jpeg|300]]
 

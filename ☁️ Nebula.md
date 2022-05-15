@@ -16,7 +16,7 @@ Nebulas have 2 stages:
 
 - **☁️ Nebula**
 	
-	 When the chaos of the supernova subsides, and gravity has condensed all the annotations into [[☀️ Main-Sequence Note]]s, then the inbox note process is complete, and the inbox note recieves certified nebula status. Before i do this, i double check all of my [[⛅️ Proto Note]]s along side their relative inbox clusters to see if i want to add any futher details. 
+	 When the chaos of the supernova subsides, and gravity has condensed all the atomized annotations into [[☀️ Main-Sequence Note]]s, then the inbox note process is complete, and the inbox note recieves certified nebula status. Before i do this, i double check all of my [[⛅️ Proto Note]]s along side their relative inbox clusters to see if i want to add any futher details. 
 
 ___
 

@@ -11,5 +11,5 @@ ___
 
 ##### Metadata
 Type: #🔴 
-Tags: [[Learning]] / [[PKM]] 
+Tags: [[Learning]] / [[PKM]] / [[☀️ Main-Sequence Note]]
 Status: #☀️ 

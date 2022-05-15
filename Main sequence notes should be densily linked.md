@@ -11,5 +11,5 @@ https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H
 
 ##### Metadata
 Type: #🔴 
-Tags: [[Learning]] / [[PKM]]
+Tags: [[Learning]] / [[PKM]] / [[☀️ Main-Sequence Note]]
 Status: #☀️ 
