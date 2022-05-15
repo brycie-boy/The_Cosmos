@@ -49,7 +49,7 @@ The Nikāyas group the defilements abandoned into a set of ten fetters
 
 ___
 
-- Highlight(pink) - Location 6449
+- Highlight(pink) - Location 6449 ❗️
 The stream-enterer abandons the first three fetters: identity view (sakkāyadiṭṭhi), ... doubt (vicikicchā) ... and the wrong grasp of rules and observances (sīlabbataparāmāsa ), the belief that mere external observances, particularly religious rituals and ascetic practices, can lead to liberation.
 
 - Highlight(pink) - Location 6452
