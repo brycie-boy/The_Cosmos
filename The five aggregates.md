@@ -1,6 +1,6 @@
 ## The five aggregates  #🧠 
 
-The five aggragates are five main categories used to analyze living experience. These five catagories are:
+The five aggragates are five main categories used to analyze sentient experience. These five catagories are:
 
 - [[Form]]
 - [[Sensations]]
