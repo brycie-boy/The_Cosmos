@@ -49,7 +49,7 @@ The Nikāyas group the defilements abandoned into a set of ten fetters
 
 ___
 
-- Highlight(pink) - Location 6449 ❗️
+- Highlight(pink) - Location 6449 
 The stream-enterer abandons the first three fetters: identity view (sakkāyadiṭṭhi), ... doubt (vicikicchā) ... and the wrong grasp of rules and observances (sīlabbataparāmāsa ), the belief that mere external observances, particularly religious rituals and ascetic practices, can lead to liberation.
 
 - Highlight(pink) - Location 6452
@@ -59,10 +59,48 @@ The stream-enterer is assured of attaining full enlightenment in at most seven m
 since there is a maximum of seven more lives. Of such great benefit, monks, is the breakthrough to the Dhamma, of such great benefit is it to obtain the vision of the Dhamma.”22
 (Samyutta Nikaya 13:1; II 133–34)
 
+___
+
+- Highlight(pink) - Location 6455
+The once-returner (sakadāgāmī) does not eradicate any new fetters. He or she has eliminated the three fetters that the stream-enterer has destroyed and additionally attenuates the three unwholesome roots—lust, hatred, and delusion—so that they do not arise often and, when they do arise, do not become obsessive.
+
+- Highlight(pink) - Location 6458
+As the name implies, the once-returner will come back to this world only one more time and then make an end to suffering.
+
+___ 
+
+- Highlight(pink) - Location 6459
+The nonreturner (anāgāmī) eradicates the five “lower fetters.” That is, in addition to the three fetters eliminated by the stream-enterer, the nonreturner eradicates two additional fetters, sensual lust and ill will.
+
+- Highlight(pink) - Location 6463
+The nonreturner, however, is still bound by the five “higher fetters”: desire for existence in the form realm, desire for existence in the formless realm, conceit, restlessness, and ignorance.
+
+- Highlight(pink) - Location 6461
+Because nonreturners have eradicated sensual lust, they have no ties binding them to the sensual realm of existence. They thus take birth in the form realm (rūpadhātu), generally in one of five planes called the “pure abodes” (suddhāvāsa) reserved exclusively for the rebirth of nonreturners. They attain final Nibbāna there, without ever returning to the sensual realm.
+
+___
+
+- Highlight(pink) - Location 6465
+Those who cut off the five higher fetters have no more ties binding them to conditioned existence. These are the arahants, who have destroyed all defilements and are “completely liberated through final knowledge.”
+
+- Highlight(pink) - Location 6672
+those monks who are arahants with taints destroyed—who have lived the spiritual life, done what had to be done, laid down the burden, reached their own goal, utterly destroyed the fetters of existence, and are completely liberated through final knowledge—have no round for manifestation.5
+(from Majjhima Nikaya 22: Alagaddūpama Sutta; I 140–42)
+
+- Highlight(pink) - Location 6690
+“When a monk has abandoned craving, cut it off at the root, made it like a palm stump, done away with it so that it is no longer subject to future arising, that monk is an arahant with taints destroyed, one who has lived the spiritual life, done what had to be done, laid down the burden, reached his own goal, utterly destroyed the fetters of existence, and is completely liberated through final knowledge.”
+(from Majjhima Nikaya 73: Mahāvacchagotta Sutta; I 490–93)
+
+- Highlight(pink) - Location 6696
+not only one hundred, or two or three or four or five hundred, but far more monks, my disciples, who by realizing it for themselves with direct knowledge, in this present life enter upon and dwell in the liberation of mind, liberation by wisdom, that is taintless with the destruction of the taints.”
+(from Majjhima Nikaya 73: Mahāvacchagotta Sutta; I 490–93)
+
+___
+
 - Highlight(pink) - Location 6522
 To reach the attainment of stream-entry, the aspiring disciple should cultivate the “four factors leading to stream-entry.” As Text X,2(1) explains, these are: associating with wise and virtuous spiritual guides; listening to the true Dhamma; attending carefully to things (for example, by way of gratification, danger, and escape); and practicing in accordance with the Dhamma (by undertaking the threefold training in moral discipline, concentration, and wisdom).
 
-- Highlight(pink) - Location 6803
+Highlight(pink) - Location 6803
 What now, Sāriputta, is a factor for stream-entry?”
 (Samyutta Nikaya 55:5; V 410–11)
 
@@ -89,28 +127,11 @@ What now is a stream-enterer?”
 - Highlight(pink) - Location 6526
 The peak of the training undertaken by the aspiring disciple is the development of insight: the thorough contemplation of the aggregates, sense bases, and elements as impermanent, bound up with suffering, and devoid of a substantial self. At a certain point, when insight reaches its peak, the disciple’s understanding will undergo a major transition, which marks the entry upon “the fixed course of rightness,” the true Noble Eightfold Path that leads irreversibly to Nibbāna.
 
-- ighlight(pink) - Location 6529
+- Highlight(pink) - Location 6529
 such a disciple has risen up from the plane of worldlings and reached the plane of the noble ones. Though not yet a stream-enterer, a person at this stage cannot pass away without having realized the fruit of stream-entry.
-
-- - Highlight(pink) - Location 6951
-“Therefore, Dīghāvu, you should train yourself thus: ‘I will be one who has confirmed confidence in the Buddha, the Dhamma, and the Saṅgha, and who observes the moral virtues dear to the noble ones, unbroken, untorn, unblemished, unmottled, freeing, praised by the wise, ungrasped, leading to concentration.’ It is in such a way that you should train yourself.” “Venerable sir, as to these four factors of stream-entry
-(Samyutta Nikaya 55:3; V 344–46)
-
-___
-
-- Highlight(pink) - Location 6455
-The once-returner (sakadāgāmī) does not eradicate any new fetters. He or she has eliminated the three fetters that the stream-enterer has destroyed and additionally attenuates the three unwholesome roots—lust, hatred, and delusion—so that they do not arise often and, when they do arise, do not become obsessive.
-
-- Highlight(pink) - Location 6458
-As the name implies, the once-returner will come back to this world only one more time and then make an end to suffering.
 
 - Highlight(pink) - Location 6538
 Having seen the truth of the Dhamma, the stream-enterer faces the challenge of cultivating this vision in order to eliminate the remaining defilements. The next major milestone, the attainment of the plane of the once-returner, does not eliminate any defilements completely. However, it does attenuate the three root defilements—lust, hatred, and delusion—to a degree sufficient to ensure that the disciple will return to “this world,” the sense-sphere realm of existence, only one more time and then make an end to suffering.
-
-___ 
-
-- Highlight(pink) - Location 6459
-The nonreturner (anāgāmī) eradicates the five “lower fetters.” That is, in addition to the three fetters eliminated by the stream-enterer, the nonreturner eradicates two additional fetters, sensual lust and ill will.
 
 - Highlight(pink) - Location 6548
 to abandon the five lower fetters, a monk first attains one of the four jhānas or one of the three lower formless attainments; the constituent factors of the fourth formless attainment are too subtle to serve as objects of insight.
@@ -121,36 +142,68 @@ Directing his attention to the factors constituting the jhāna or formless attai
 - Highlight(pink) - Location 6552
 Having done so, he contemplates these factors, now classified into the five aggregates, as marked by the three characteristics: impermanence, suffering, and nonself (expanded into eleven headings).
 
-- Highlight(pink) - Location 6461
-Because nonreturners have eradicated sensual lust, they have no ties binding them to the sensual realm of existence. They thus take birth in the form realm (rūpadhātu), generally in one of five planes called the “pure abodes” (suddhāvāsa) reserved exclusively for the rebirth of nonreturners. They attain final Nibbāna there, without ever returning to the sensual realm.
-
-- Highlight(pink) - Location 6463
-The nonreturner, however, is still bound by the five “higher fetters”: desire for existence in the form realm, desire for existence in the formless realm, conceit, restlessness, and ignorance.
-
-___
-
-- Highlight(pink) - Location 6465
-Those who cut off the five higher fetters have no more ties binding them to conditioned existence. These are the arahants, who have destroyed all defilements and are “completely liberated through final knowledge.”
-
-- Highlight(pink) - Location 6672
-those monks who are arahants with taints destroyed—who have lived the spiritual life, done what had to be done, laid down the burden, reached their own goal, utterly destroyed the fetters of existence, and are completely liberated through final knowledge—have no round for manifestation.5
-(from Majjhima Nikaya 22: Alagaddūpama Sutta; I 140–42)
-
-- Highlight(pink) - Location 6690
-“When a monk has abandoned craving, cut it off at the root, made it like a palm stump, done away with it so that it is no longer subject to future arising, that monk is an arahant with taints destroyed, one who has lived the spiritual life, done what had to be done, laid down the burden, reached his own goal, utterly destroyed the fetters of existence, and is completely liberated through final knowledge.”
-(from Majjhima Nikaya 73: Mahāvacchagotta Sutta; I 490–93)
-
-- Highlight(pink) - Location 6696
-not only one hundred, or two or three or four or five hundred, but far more monks, my disciples, who by realizing it for themselves with direct knowledge, in this present life enter upon and dwell in the liberation of mind, liberation by wisdom, that is taintless with the destruction of the taints.”
-(from Majjhima Nikaya 73: Mahāvacchagotta Sutta; I 490–93)
-
 - Highlight(pink) - Location 6553
 As contemplation advances, at a certain point his mind turns away from all conditioned things and focuses upon the deathless element, Nibbāna. If he has sharp faculties and can relinquish all attachments on the spot, he attains arahantship, the destruction of the taints; but if he cannot yet give up all attachments, he attains the state of nonreturning.
 
-- Highlight(pink) - Location 6880
-“Whatever exists therein of form, feeling, perception, volitional formations, and consciousness, he sees those states as impermanent, as suffering, as a disease, as a tumor, as a barb, as a calamity, as an affliction, as alien, as disintegrating, as empty, as nonself.27 He turns his mind away from those states and directs it toward the deathless element thus: ‘This is the peaceful, this is the sublime, that is, the stilling of all formations, the relinquishing of all acquisitions, the destruction of craving, dispassion, cessation, Nibbāna.’28 If he is steady in that, he attains the destruction of the taints. But if he does not attain the destruction of the taints, then through that very desire for the Dhamma, that delight in the Dhamma, with the destruction of the five lower fetters he becomes one due to be reborn spontaneously [in the pure abodes] and there attain final Nibbāna without ever returning from that world.29 This is the path and way to the abandoning of the five lower fetters.
+___
 
-- Highlight(pink) - Location 6590
+- Highlight(pink) - Location 6577
+It lurks at the base of the mind as a vague, shapeless, but imperious sense of the “I” as a concrete reality. Though the view of self is already eliminated at the stage of stream-entry, the conceit “I am” persists in noble disciples even up to the stage of nonreturner.
+
+- Highlight(pink) - Location 6579
+This is the point of the incisive Khemaka Sutta—Text X,4(1)—with its two beautiful similes of the flower’s scent and the laundered cloth. The noble disciples differ from ordinary people in that they do not buy into the conceit “I am.” They recognize the conceit “I am” as a mere figment of the imagination, a false notion that does not point to a self, to a truly existent “I.” But they have not completely overcome it.
+
+- Highlight(pink) - Location 7008
+[The Venerable Khemaka replied:] “These five aggregates subject to clinging have been spoken of by the Blessed One; that is, form, feeling, perception, volitional formations, and consciousness. I do not regard anything among these five aggregates subject to clinging as self or as belonging to self, yet I am not an arahant, one whose taints are destroyed. Friends, [the notion] ‘I am’ has not yet vanished in me in relation to these five aggregates subject to clinging, but I do not regard [anything among them] as ‘This I am.’”35
+(Samyutta Nikaya 22:89; III 126–32)
+
+- Highlight(pink) - Location 6582
+The subtle attachment and the residual sense of “I am” that persist in the nonreturner both stem from ignorance. To reach the end of the path, the nonreturner must obliterate the remaining segment of ignorance and dispel all traces of craving and conceit. The critical point when ignorance, craving, and conceit are eradicated marks the transition from the stage of nonreturner to arahantship.
+
+- Highlight(pink) - Location 7020
+“Friend Khemaka, when you speak of this ‘I am’ ... what is it that you speak of as ‘I am’?”
+(Samyutta Nikaya 22:89; III 126–32)
+
+- Highlight(pink) - Location 7023
+Friends, although [the notion] ‘I am’ has not yet vanished in me in relation to these five aggregates subject to clinging, still I do not regard [anything among them] as ‘This I am.’
+(Samyutta Nikaya 22:89; III 126–32)
+
+- Highlight(pink) - Location 7025
+“Suppose, friends, there is the scent of a blue, red, or white lotus. Would one be speaking rightly if one would say, ‘The scent belongs to the petals,’ or ‘The scent belongs to the stalk,’ or ‘The scent belongs to the pistils’?” “No, friend.” “And how, friends, should one answer if one is to answer rightly?” “Answering rightly, friend, one should answer: ‘The scent belongs to the flower.’” “So too, friends, I do not speak of form as ‘I am,’ nor do I speak of ‘I am’ apart from form. I do not speak of feeling as ‘I am’ … nor of perception as ‘I am’ ... nor of volitional formations as ‘I am’ ... nor of consciousness as ‘I am,’ nor do I speak of ‘I am’ apart from consciousness. Friends, although [the notion] ‘I am’ has not yet vanished in me in relation to these five aggregates subject to clinging, still I do not regard [anything among them] as ‘This I am.’
+(Samyutta Nikaya 22:89; III 126–32)
+
+- Highlight(pink) - Location 7033
+“Friends, even though a noble disciple has abandoned the five lower fetters, still, in relation to the five aggregates subject to clinging, there lingers in him a residual conceit ‘I am,’ a desire ‘I am,’ an underlying tendency ‘I am’ that has not yet been uprooted. Sometime later he dwells contemplating rise and fall in the five aggregates subject to clinging: ‘Such is form, such its origin, such its passing away; such is feeling ... such is perception ... such are volitional formations … such is consciousness, such its origin, such its passing away.’ As he dwells thus contemplating rise and fall in the five aggregates subject to clinging, the residual conceit ‘I am,’ the desire ‘I am,’ the underlying tendency ‘I am’ that had not yet been uprooted—this comes to be uprooted.
+(Samyutta Nikaya 22:89; III 126–32)
+
+- Highlight(pink) - Location 7039
+“Suppose, friends, a cloth has become soiled and stained, and its owners give it to a laundryman. The laundryman would scour it evenly with cleaning salt, lye, or cow dung, and rinse it in clean water. Even though that cloth would become pure and clean, it would still retain a residual smell of cleaning salt, lye, or cow dung that had not yet vanished. The laundryman would then give it back to the owners. The owners would put it in a sweet-scented chest, and the residual smell of cleaning salt, lye, or cow dung that had not yet vanished would vanish.36 “So too, friends, even though a noble disciple has abandoned the five lower fetters, still, in relation to the five aggregates subject to clinging, there lingers in him a residual conceit ‘I am,’ a desire ‘I am,’ an underlying tendency ‘I am’ that has not yet been uprooted….
+(Samyutta Nikaya 22:89; III 126–32)
+
+___
+
+- Highlight(pink) - Location 6585
+The difference between the two can be a subtle one, and therefore standards for distinguishing them are necessary. In Text X,4(2) the Buddha proposes several criteria by which a trainee and an arahant can determine their respective standings. One of particular interest concerns their relationship to the five spiritual faculties: faith, energy, mindfulness, concentration, and wisdom. The trainee sees with wisdom the goal in which the faculties culminate—namely, Nibbāna—but cannot dwell in it. The arahant sees with wisdom the supreme goal and can also dwell in that goal.
+
+- Highlight(pink) - Location 7055
+“There is a method, monks, by means of which a monk who is a trainee, standing on the plane of a trainee, might understand: ‘I am a trainee,’ while a monk beyond training, standing on the plane of one beyond training, might understand: ‘I am one beyond training.’
+(Samyutta Nikaya 48:53: V 229–30)
+
+- Highlight(pink) - Location 7065
+“Again, monks, a monk who is a trainee understands the five spiritual faculties—the faculties of faith, energy, mindfulness, concentration, and wisdom. He does not yet dwell having contacted with the body that which is their destination, their culmination, their fruit, their final goal; but having pierced it through with wisdom, he sees.38
+(Samyutta Nikaya 48:53: V 229–30)
+
+- Highlight(pink) - Location 706
+“And what, monks, is the method by means of which a monk beyond training, standing on the plane of one beyond training, understands: ‘I am one beyond training’? Here, monks, a monk beyond training understands the five spiritual faculties—the faculties of faith ... wisdom. He dwells having contacted with the body that which is their destination, their culmination, their fruit, their final goal; and having pierced it through with wisdom, he sees.
+(Samyutta Nikaya 48:53: V 229–30)
+
+- Highlight(pink) - Location 7074
+“Again, monks, a monk beyond training understands the six faculties—the eye faculty, the ear faculty, the nose faculty, the tongue faculty, the body faculty, the mind faculty. He understands: ‘These six faculties will cease completely and totally without remainder, and no other six faculties will arise anywhere in any way.’
+(Samyutta Nikaya 48:53: V 229–30)
+
+___
+
+Highlight(pink) - Location 6590
 Text X,4(4) enumerates nine things that an arahant cannot do.
 
 - Highlight(pink) - Location 7095
@@ -283,118 +336,8 @@ them.55
 Highlight(pink) - Location 7220
 “The Tathāgata, monks, the Arahant, the Perfectly Enlightened One, is the originator of the path unarisen before, the producer of the path unproduced before, the declarer of the path undeclared before. He is the knower of the path, the discoverer of the path, the one skilled in the path. And his disciples now dwell following that path and become possessed of it afterward. “This, monks, is the distinction, the disparity, the difference between the Tathāgata, the Arahant, the Perfectly Enlightened One, and a monk liberated by wisdom.”
 (Samyutta Nikaya 22:58; III 65–66)
-
 ___
 
-- Highlight(pink) - Location 6484
-The explanation of the classes of noble disciples found in the above text, an extract from the Alagaddūpama Sutta (MN 22), may convey the impression that all those who attain these stages are monks. This, however, is by no means the case. The Alagaddūpama extract is worded in this way only because it is addressed to monks.
-
-- Highlight(pink) - Location 6488
-As an abiding state, arahantship is reserved for monks and nuns. This does not mean that only monks and nuns can attain arahantship; the suttas and commentaries do record a few cases of lay disciples attaining the final goal. However, such disciples either attain arahantship on the brink of death or enter the monastic order very soon after their attainment. They do not continue to dwell at home as arahant householders, for dwelling at home is incompatible with the state of one who has severed all craving.
-
-- Highlight(pink) - Location 6491
-In contrast, nonreturners can continue to dwell as householders. While they continue to live as lay disciples, they have eradicated sensual desire and thus necessarily observe celibacy.
-
-- Highlight(pink) - Location 6494
-Though the suttas do not explicitly say this, it is reasonable to suppose that those disciples practicing to attain the fruit of nonreturning also observe full-time celibacy. Lay stream-enterers and once-returners, however, are not necessarily celibate. In the sutta the Buddha describes them as “lay followers … clothed in white, enjoying sensual pleasures, who carry out my instruction, respond to my advice, have gone beyond doubt, become free from perplexity, gained intrepidity, and become independent of others in the Teacher’s dispensation.” Thus, while some stream-enterers and once-returners may observe celibacy, this is by no means typical of these two classes.
-
-___
-
-- Highlight(pink) - Location 6515
-In the Nikāyas, the great majority of human beings are called “uninstructed worldlings” (assutavā puthujjana ). Uninstructed worldlings have no regard for the Buddha and his teaching, no understanding of the Dhamma or dedication to the practice.
-
-- Highlight(pink) - Location 6517
-The purpose of the Buddha’s path is to lead uninstructed worldlings to the attainment of the Deathless, and the stages of realization are the steps toward the completion of this process.
-
-- Highlight(pink) - Location 6518
-The process of transformation generally begins when one encounters the Buddha’s teaching and gains confidence in the Buddha as the Enlightened One. One must then acquire a clear understanding of the Dhamma, undertake the precepts, and enter upon the systematic practice of the path. In the suttas such a person is called a noble disciple (ariyasāvaka) in a broad sense of the term, not necessarily in the narrow, technical sense of one who has already reached the paths and fruits.
-
-- Highlight(pink) - Location 6521
-Later tradition calls a person who has faith in the Dhamma and aspires to reach the state of stream-entry a virtuous worldling
-
-___
-
-- Highlight(pink) - Location 6522
-To reach the attainment of stream-entry, the aspiring disciple should cultivate the “four factors leading to stream-entry.” As Text X,2(1) explains, these are: associating with wise and virtuous spiritual guides; listening to the true Dhamma; attending carefully to things (for example, by way of gratification, danger, and escape); and practicing in accordance with the Dhamma (by undertaking the threefold training in moral discipline, concentration, and wisdom).
-
-- Highlight(pink) - Location 6526
-The peak of the training undertaken by the aspiring disciple is the development of insight: the thorough contemplation of the aggregates, sense bases, and elements as impermanent, bound up with suffering, and devoid of a substantial self. At a certain point, when insight reaches its peak, the disciple’s understanding will undergo a major transition, which marks the entry upon “the fixed course of rightness,” the true Noble Eightfold Path that leads irreversibly to Nibbāna.
-
-- Highlight(pink) - Location 6529
-such a disciple has risen up from the plane of worldlings and reached the plane of the noble ones. Though not yet a stream-enterer, a person at this stage cannot pass away without having realized the fruit of stream-entry.
-
-- Highlight(pink) - Location 6538
-Having seen the truth of the Dhamma, the stream-enterer faces the challenge of cultivating this vision in order to eliminate the remaining defilements. The next major milestone, the attainment of the plane of the once-returner, does not eliminate any defilements completely. However, it does attenuate the three root defilements—lust, hatred, and delusion—to a degree sufficient to ensure that the disciple will return to “this world,” the sense-sphere realm of existence, only one more time and then make an end to suffering.
-
-- Highlight(pink) - Location 6548
-to abandon the five lower fetters, a monk first attains one of the four jhānas or one of the three lower formless attainments; the constituent factors of the fourth formless attainment are too subtle to serve as objects of insight.
-
-- Highlight(pink) - Location 6550
-Directing his attention to the factors constituting the jhāna or formless attainment,4 he subsumes them under the five aggregates:
-
-- Highlight(pink) - Location 6552
-Having done so, he contemplates these factors, now classified into the five aggregates, as marked by the three characteristics: impermanence, suffering, and nonself (expanded into eleven headings).
-
-- Highlight(pink) - Location 6553
-As contemplation advances, at a certain point his mind turns away from all conditioned things and focuses upon the deathless element, Nibbāna. If he has sharp faculties and can relinquish all attachments on the spot, he attains arahantship, the destruction of the taints; but if he cannot yet give up all attachments, he attains the state of nonreturning.
-
-___
-
-- Highlight(pink) - Location 6577
-It lurks at the base of the mind as a vague, shapeless, but imperious sense of the “I” as a concrete reality. Though the view of self is already eliminated at the stage of stream-entry, the conceit “I am” persists in noble disciples even up to the stage of nonreturner.
-
-- Highlight(pink) - Location 6579
-This is the point of the incisive Khemaka Sutta—Text X,4(1)—with its two beautiful similes of the flower’s scent and the laundered cloth. The noble disciples differ from ordinary people in that they do not buy into the conceit “I am.” They recognize the conceit “I am” as a mere figment of the imagination, a false notion that does not point to a self, to a truly existent “I.” But they have not completely overcome it.
-
-- Highlight(pink) - Location 7008
-[The Venerable Khemaka replied:] “These five aggregates subject to clinging have been spoken of by the Blessed One; that is, form, feeling, perception, volitional formations, and consciousness. I do not regard anything among these five aggregates subject to clinging as self or as belonging to self, yet I am not an arahant, one whose taints are destroyed. Friends, [the notion] ‘I am’ has not yet vanished in me in relation to these five aggregates subject to clinging, but I do not regard [anything among them] as ‘This I am.’”35
-(Samyutta Nikaya 22:89; III 126–32)
-
-- Highlight(pink) - Location 6582
-The subtle attachment and the residual sense of “I am” that persist in the nonreturner both stem from ignorance. To reach the end of the path, the nonreturner must obliterate the remaining segment of ignorance and dispel all traces of craving and conceit. The critical point when ignorance, craving, and conceit are eradicated marks the transition from the stage of nonreturner to arahantship.
-
-- Highlight(pink) - Location 7020
-“Friend Khemaka, when you speak of this ‘I am’ ... what is it that you speak of as ‘I am’?”
-(Samyutta Nikaya 22:89; III 126–32)
-
-- Highlight(pink) - Location 7023
-Friends, although [the notion] ‘I am’ has not yet vanished in me in relation to these five aggregates subject to clinging, still I do not regard [anything among them] as ‘This I am.’
-(Samyutta Nikaya 22:89; III 126–32)
-
-- Highlight(pink) - Location 7025
-“Suppose, friends, there is the scent of a blue, red, or white lotus. Would one be speaking rightly if one would say, ‘The scent belongs to the petals,’ or ‘The scent belongs to the stalk,’ or ‘The scent belongs to the pistils’?” “No, friend.” “And how, friends, should one answer if one is to answer rightly?” “Answering rightly, friend, one should answer: ‘The scent belongs to the flower.’” “So too, friends, I do not speak of form as ‘I am,’ nor do I speak of ‘I am’ apart from form. I do not speak of feeling as ‘I am’ … nor of perception as ‘I am’ ... nor of volitional formations as ‘I am’ ... nor of consciousness as ‘I am,’ nor do I speak of ‘I am’ apart from consciousness. Friends, although [the notion] ‘I am’ has not yet vanished in me in relation to these five aggregates subject to clinging, still I do not regard [anything among them] as ‘This I am.’
-(Samyutta Nikaya 22:89; III 126–32)
-
-- Highlight(pink) - Location 7033
-“Friends, even though a noble disciple has abandoned the five lower fetters, still, in relation to the five aggregates subject to clinging, there lingers in him a residual conceit ‘I am,’ a desire ‘I am,’ an underlying tendency ‘I am’ that has not yet been uprooted. Sometime later he dwells contemplating rise and fall in the five aggregates subject to clinging: ‘Such is form, such its origin, such its passing away; such is feeling ... such is perception ... such are volitional formations … such is consciousness, such its origin, such its passing away.’ As he dwells thus contemplating rise and fall in the five aggregates subject to clinging, the residual conceit ‘I am,’ the desire ‘I am,’ the underlying tendency ‘I am’ that had not yet been uprooted—this comes to be uprooted.
-(Samyutta Nikaya 22:89; III 126–32)
-
-- Highlight(pink) - Location 7039
-“Suppose, friends, a cloth has become soiled and stained, and its owners give it to a laundryman. The laundryman would scour it evenly with cleaning salt, lye, or cow dung, and rinse it in clean water. Even though that cloth would become pure and clean, it would still retain a residual smell of cleaning salt, lye, or cow dung that had not yet vanished. The laundryman would then give it back to the owners. The owners would put it in a sweet-scented chest, and the residual smell of cleaning salt, lye, or cow dung that had not yet vanished would vanish.36 “So too, friends, even though a noble disciple has abandoned the five lower fetters, still, in relation to the five aggregates subject to clinging, there lingers in him a residual conceit ‘I am,’ a desire ‘I am,’ an underlying tendency ‘I am’ that has not yet been uprooted….
-(Samyutta Nikaya 22:89; III 126–32)
-
-___
-
-- Highlight(pink) - Location 6585
-The difference between the two can be a subtle one, and therefore standards for distinguishing them are necessary. In Text X,4(2) the Buddha proposes several criteria by which a trainee and an arahant can determine their respective standings. One of particular interest concerns their relationship to the five spiritual faculties: faith, energy, mindfulness, concentration, and wisdom. The trainee sees with wisdom the goal in which the faculties culminate—namely, Nibbāna—but cannot dwell in it. The arahant sees with wisdom the supreme goal and can also dwell in that goal.
-
-- Highlight(pink) - Location 7055
-“There is a method, monks, by means of which a monk who is a trainee, standing on the plane of a trainee, might understand: ‘I am a trainee,’ while a monk beyond training, standing on the plane of one beyond training, might understand: ‘I am one beyond training.’
-(Samyutta Nikaya 48:53: V 229–30)
-
-- Highlight(pink) - Location 7065
-“Again, monks, a monk who is a trainee understands the five spiritual faculties—the faculties of faith, energy, mindfulness, concentration, and wisdom. He does not yet dwell having contacted with the body that which is their destination, their culmination, their fruit, their final goal; but having pierced it through with wisdom, he sees.38
-(Samyutta Nikaya 48:53: V 229–30)
-
-- Highlight(pink) - Location 706
-“And what, monks, is the method by means of which a monk beyond training, standing on the plane of one beyond training, understands: ‘I am one beyond training’? Here, monks, a monk beyond training understands the five spiritual faculties—the faculties of faith ... wisdom. He dwells having contacted with the body that which is their destination, their culmination, their fruit, their final goal; and having pierced it through with wisdom, he sees.
-(Samyutta Nikaya 48:53: V 229–30)
-
-- Highlight(pink) - Location 7074
-“Again, monks, a monk beyond training understands the six faculties—the eye faculty, the ear faculty, the nose faculty, the tongue faculty, the body faculty, the mind faculty. He understands: ‘These six faculties will cease completely and totally without remainder, and no other six faculties will arise anywhere in any way.’
-(Samyutta Nikaya 48:53: V 229–30)
-
-___
 
 - Highlight(pink) - Location 6597
 The section is titled “The Tathāgata,” the word the Buddha used when referring to himself in his archetypal role as the discoverer and bringer of liberating truth.
