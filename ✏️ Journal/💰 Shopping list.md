@@ -2,10 +2,10 @@
 
 ### Ranked
 
-> - Clothes: $670
+> - Clothes: $695
 > - Furniture: $2029
 > - Tech: $810
-> - **Overall:** $3600
+> - **Overall:** $3695
 
 
 - ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
@@ -55,6 +55,11 @@ https://a.aliexpress.com/_mOxjlsi
 
 - ![[E6532DCB-81B5-4771-9886-A491751DD653.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
+
+- ![[C424BB29-775E-425F-A9E8-A741A929A4D5.webp|200]]
+	Cross pendant and chain $25 https://www.etsy.com/listing/998352158/mens-cross-necklace-silver-cross?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cross+pendant&ref=sr_gallery-1-11&organic_search_click=1&frs=1&bes=1&variation0=1998570329&variation1=1978363982
+
+- ![[C6D13649-9AA8-4A64-A81F-D5FCC2767498.JPEG|200]]
 
 - ![[C6D13649-9AA8-4A64-A81F-D5FCC2767498.JPEG|200]]
 	Grey Nike crewneck sweatshirt around $50

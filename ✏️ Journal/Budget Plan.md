@@ -7,8 +7,8 @@
 - Gas: $50
 - Haircut: $25
 - **Total:** $483
-	- without food and hygiene: $300
-	- Keep $320 in bank
+	- without food, haircut, and hygiene: $275
+	- Keep $300 in bank
 
 - Monthly payments:
 	- Gitkraken pro: $5 

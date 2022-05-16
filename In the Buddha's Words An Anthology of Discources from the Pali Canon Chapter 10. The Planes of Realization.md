@@ -100,7 +100,7 @@ ___
 - Highlight(pink) - Location 6522
 To reach the attainment of stream-entry, the aspiring disciple should cultivate the “four factors leading to stream-entry.” As Text X,2(1) explains, these are: associating with wise and virtuous spiritual guides; listening to the true Dhamma; attending carefully to things (for example, by way of gratification, danger, and escape); and practicing in accordance with the Dhamma (by undertaking the threefold training in moral discipline, concentration, and wisdom).
 
-Highlight(pink) - Location 6803
+- Highlight(pink) - Location 6803
 What now, Sāriputta, is a factor for stream-entry?”
 (Samyutta Nikaya 55:5; V 410–11)
 
@@ -147,8 +147,8 @@ As contemplation advances, at a certain point his mind turns away from all condi
 
 ___
 
-- Highlight(pink) - Location 6577
-It lurks at the base of the mind as a vague, shapeless, but imperious sense of the “I” as a concrete reality. Though the view of self is already eliminated at the stage of stream-entry, the conceit “I am” persists in noble disciples even up to the stage of nonreturner.
+- Highlight(pink) - Location 6575
+The conceit “I am” (asmim̄na) differs from identity view, the view of self (sakkāyadiṭṭhi), to which it is partly akin. The view of self affirms an enduring self existing in relation to the five aggregates, either as identical with them, or as their inner core, or as their owner and master. But the conceit “I am” lacks a clear conceptual content. It lurks at the base of the mind as a vague, shapeless, but imperious sense of the “I” as a concrete reality. Though the view of self is already eliminated at the stage of stream-entry, the conceit “I am” persists in noble disciples even up to the stage of nonreturner. It lurks at the base of the mind as a vague, shapeless, but imperious sense of the “I” as a concrete reality. Though the view of self is already eliminated at the stage of stream-entry, the conceit “I am” persists in noble disciples even up to the stage of nonreturner.
 
 - Highlight(pink) - Location 6579
 This is the point of the incisive Khemaka Sutta—Text X,4(1)—with its two beautiful similes of the flower’s scent and the laundered cloth. The noble disciples differ from ordinary people in that they do not buy into the conceit “I am.” They recognize the conceit “I am” as a mere figment of the imagination, a false notion that does not point to a self, to a truly existent “I.” But they have not completely overcome it.
