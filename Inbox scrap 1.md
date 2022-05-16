@@ -56,7 +56,7 @@ Highlight(pink) - Location 527
 
 And this is why Gurdjieff said, in his own jargon, that people are asleep and having nightmares. “FAIRNESS? DECENCY? HOW CAN YOU EXPECT FAIRNESS OR DECENCY ON A PLANET OF SLEEPING PEOPLE?”—G.I. Gurdjieff This was the viewpoint of the earliest Christians, later condemned as heretics (Gnostics) by the Roman bureaucrats. The Gospel of Truth, first century, says bluntly that history is a nightmare:  . . . as if (mankind) were sunk in sleep and found themselves in disturbing dreams. Either (there is) a place to which they are fleeing . . .or they are involved in striking blows, or they are receiving blows themselves . . . sometimes it is as if people were murdering them . . . or they themselves are killing their neighbors . . . To these first Christians, as to the Buddhists, awakening literally meant coming out of this nightmare of terrifying fantasies. In our terminology, it means correcting the editing that causes us to behave and perceive like very badly (inappropriately) wired robots and suddenly seeing the unedited world.
 
-Highlight(pink) - Location 538
+Highlight(pink) - Location 538 ❗️
 
 It must be emphasized that this circuit, being the oldest in evolutionary development, is the most mechanical, and the most rapid. One is not conscious of time at all on the bio-survival circuit.
 
