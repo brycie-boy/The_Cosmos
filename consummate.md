@@ -18,6 +18,7 @@ ___
 
 ##### Similar
 ###### Adjective
+
 -   [[accomplished]]
 -   [[ace]]
 -   [[adept]]

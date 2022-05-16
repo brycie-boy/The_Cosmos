@@ -1,6 +1,6 @@
-## Non-returning  # 
+## Non-returning  #🧠 
 
-The non-returner, one of [[The four phases of enlightenment]], erradicates the five "lower fetters". That is, in addition the the first three fetters eliminated by [[Stream-entery]], the non-returner eradicates two additional fetters, sensual lust and ill will. The non returner is still bound by the five "higher fetters", that is, desire for existence in the form realm, desire for existence in the formless realm, the conceit "i am", restlessness, and ignorance. Becuase non-returners have eradicated sensual lust, they have no ties binding them to the sensual realm of existence. Thus, they take birth in [[The form realm]], generally in one of the five planes called the "pure abodes" reserved for non-returners. They attain final [[Nibbana]] there eithout ever returning to the sensual realm.
+The non-returner, one of [[The four stages toward enlightenment]], erradicates the five "lower fetters". That is, in addition the the first three fetters eliminated by [[Stream-entry]], the non-returner eradicates two additional fetters, sensual lust and ill will. The non returner is still bound by the five "higher fetters", that is, desire for existence in the form realm, desire for existence in the formless realm, the conceit "i am", restlessness, and ignorance. Becuase non-returners have eradicated sensual lust, they have no ties binding them to the [[The sense-sphere realm]]. Thus, they take birth in [[The form realm]], generally in one of the five planes called the "pure abodes" exclusivley reserved for non-returners. They attain final [[Nibbana]] there without ever returning to the sensual realm.
 
 ___
 
@@ -12,4 +12,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Status: #☀️ 

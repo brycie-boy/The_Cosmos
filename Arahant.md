@@ -1,6 +1,6 @@
-## Arahant  # 
+## Arahant  #🧠 
 
-Those who have cut off the five higher fetters, that is, desire for existence in the form realm, desire for existence in the formless realm, conceit, restlessness, and ignorance, have no ties binding them to [[Samsara]]. These are the arahants, the final phase of [[The four phases of enlightenment]], who have destroyed all defilements and are "completely liberated through final knowlege".
+Those who have cut off the five higher fetters, that is, desire for existence in the form realm, desire for existence in the formless realm, conceit, restlessness, and ignorance, have no ties binding them to [[Samsara]]. These are the arahants, the final stage of [[The four stages toward enlightenment]], who have destroyed all defilements and are "completely liberated through final knowlege".
 
 ___
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Status: #☀️ 

@@ -1,5 +1,7 @@
 ## The brains hardware and software exersizes  # 
 
+(see [[The brains hardware and software]])
+
 EXERCIZES
 
 1.  If you don’t already have a computer, run out and buy one. Then re-read this chapter.

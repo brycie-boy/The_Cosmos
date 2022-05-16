@@ -1,6 +1,6 @@
-## Once-returning  # 
+## Once-returning  #🧠 
 
-The once-returner, one of [[The four phases of enlightenment]], does not erradicate any new fetters. They have eliminated the three fetters that [[Stream-entery]] has destroyed and additionaly attenuates [[The three unwholesome roots]] so that they do not arise often and if they do arise do not become obsessive. As the name implies, the once-returner will come back to this world only one more time and then attain [[Nibbana]].
+The once-returner, one of [[The four stages toward enlightenment]], does not erradicate any new fetters. They have eliminated the three fetters that [[Stream-entry]] has destroyed and additionaly attenuates [[The three unwholesome roots]] so that they do not arise often and if they do arise do not become obsessive. As the name implies, the once-returner will come back to this world only one more time and then attain [[Nibbana]].
 
 ___
 
@@ -12,4 +12,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
-Status: #⛅️ 
+Status: #☀️ 
