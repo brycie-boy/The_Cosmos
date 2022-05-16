@@ -6,6 +6,7 @@ Ideas:
 - Machu pichu
 - Mexico pyramids
 - Buddha statues
+	- the hill of the Buddha
 - Meditation retreats
 - Ayuascha retreats
 
