@@ -5,8 +5,8 @@
 Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-5-12
-Status: #💥
-Tags:
+Status: #☁️/📚 
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
 
 ___
 
@@ -109,3 +109,4 @@ taken as tathā gata, “Thus Gone,” it implies that he has gone in accordance
 - Highlight(pink) - Location 7220
 “The Tathāgata, monks, the Arahant, the Perfectly Enlightened One, is the originator of the path unarisen before, the producer of the path unproduced before, the declarer of the path undeclared before. He is the knower of the path, the discoverer of the path, the one skilled in the path. And his disciples now dwell following that path and become possessed of it afterward. “This, monks, is the distinction, the disparity, the difference between the Tathāgata, the Arahant, the Perfectly Enlightened One, and a monk liberated by wisdom.”
 (Samyutta Nikaya 22:58; III 65–66)
+
