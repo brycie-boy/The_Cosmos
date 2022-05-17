@@ -35,7 +35,7 @@ The “wiring” of this circuit, in primitive form, occurred in the first organ
 
 ___
 
-- Highlight(pink) - Location 512 ❗️
+- Highlight(pink) - Location 512 
 It must be stressed that we are still in a primitive stage of evolution and conditions on this planet are quite brutal. Radical pediatricians insist, with good evidence, that childbirth by conventional means in a conventional hospital is almost always traumatic for the newborn—creates a bad imprint, in our language. Our child-rearing methods are far from ideal also, adding bad conditioning on top of bad imprinting. And the general violence of our societies to date—including wars, revolutions, civil wars and the “undeclared civil war” of the predatory criminal class in every “civilized” nation—keeps the first circuit of most people in an emergency state far too much of the time. In 1968, a U.S. Public Health survey showed that 85% of the population had one or more symptoms that we would call bad first-circuit imprinting or conditioning. These symptoms included dizzy spells, heart palpitations, wet palms and frequent nightmares.
 
 - Highlight(pink) - Location 520
@@ -58,7 +58,7 @@ The bio-survival program first attaches to the safe space around the mother (ora
 ___
 
 - Highlight(pink) - Location 550
-Of course, the imprint is made by chance—by the circumstances at the moment of imprint vulnerability. (Recall the gosling who imprinted the ping-pong ball.) Some imprint bravery, inquisitiveness and the exploratory drive; others imprint timidity, infophobia (fear of the unpredictable) and withdrawal, of which the extreme case is the sad imprint called autism or childhood schizophrenia.
+Of course, the imprint is made by chance—by the circumstances at the moment of imprint vulnerability. (Recall the gosling who imprinted the ping-pong ball.) Some imprint bravery, inquisitiveness and the exploratory drive; others imprint timidity, infophobia (fear of the unpredictable) and withdrawal.
 
 - Highlight(pink) - Location 553
 All of which is robotic, until one learns how to reprogram and reimprint one’s own brain circuits.
@@ -78,7 +78,7 @@ Extreme cases—persons who take their heaviest imprint on the first (oral) circ
 
 ___
 
-- Highlight(pink) - Location 612
+- Highlight(pink) - Location 612 ❗️
 If this initial imprint is negative—if the universe in general and other humans in particular are imprinted as dangerous, hostile and frightening—the Prover will go on throughout life adjusting all perceptions to fit this map. This is what is known as the “Injustice Collector” syndrome (in the language of Dr. Edmund Bergler). The female members of this imprint group become Radical Feminists; the male members are less organized and can be found in fringe groups of the extreme Left and extreme Right.
 
 ___
