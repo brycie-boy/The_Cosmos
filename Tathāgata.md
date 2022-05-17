@@ -1,6 +1,6 @@
-##  Tathāgata  # 
+##  Tathāgata  #🧠 
 
-Tathagata is thw word that [[The Buddha]] uses when refering ot himself in his archetypal role as the discoverer and bringer of liberating truth. The word can be resolved in to ways: taken as tathā āgata, "Thus come", It implies that [[The Buddha]] has come in accordance with an established pattern (which the commentaries interpret to mean the fulfillment of the ten spiritual perfections—the pāramīs—and the thirty-seven aids to enlightenment); taken as tathā gata, “Thus Gone,” it implies that he has gone in accordance with an established pattern (which the commentaries interpret to mean that he has gone to [[Nibbana]] by the complete practice of [[serenity]], [[insight]], the paths, and the fruits (see [[The four stages toward enlightenment]])).
+Tathagata is the word that [[The Buddha]] uses when refering ot himself in his archetypal role as the discoverer and bringer of liberating truth. The word can be resolved in to ways: taken as tathā āgata, "Thus come", It implies that [[The Buddha]] has come in accordance with an established pattern (which the commentaries interpret to mean the fulfillment of the ten spiritual perfections—the pāramīs—and the thirty-seven aids to enlightenment); taken as tathā gata, “Thus Gone,” it implies that he has gone in accordance with an established pattern (which the commentaries interpret to mean that he has gone to [[Nibbana]] by the complete practice of [[serenity]], [[insight]], the paths, and the fruits (see [[The four stages toward enlightenment]])).
 
 ___
 
@@ -13,4 +13,4 @@ ___
 ##### Metadata
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] 
-Status: #⛅️ 
+Status: #☀️ 
