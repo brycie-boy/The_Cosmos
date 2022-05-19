@@ -78,12 +78,12 @@ Extreme cases—persons who take their heaviest imprint on the first (oral) circ
 
 ___
 
-- Highlight(pink) - Location 612 ❗️
+- Highlight(pink) - Location 612 
 If this initial imprint is negative—if the universe in general and other humans in particular are imprinted as dangerous, hostile and frightening—the Prover will go on throughout life adjusting all perceptions to fit this map. This is what is known as the “Injustice Collector” syndrome (in the language of Dr. Edmund Bergler). The female members of this imprint group become Radical Feminists; the male members are less organized and can be found in fringe groups of the extreme Left and extreme Right.
 
 ___
 
-- Highlight(pink) - Location 616
+- Highlight(pink) - Location 616 ❗️
 Such a pattern is unconscious in three ways. It is unconscious because it is automatic: it happens without thought, as a robot program. It is also unconscious because it began before the infant had language and hence it is pre-verbal, inarticulate, felt rather than considered. And it is unconscious because it is all-over-the-body-at-once. Specifically, it is characterized by the Respiratory Block first noted by Wilhelm Reich: a chronic muscular armoring that prevents proper, relaxed breathing. Popular speech recognizes this state as “being up-tight.”
 
 - Highlight(pink) - Location 620
