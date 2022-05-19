@@ -83,7 +83,7 @@ If this initial imprint is negative—if the universe in general and other human
 
 ___
 
-- Highlight(pink) - Location 616 ❗️
+- Highlight(pink) - Location 616 
 Such a pattern is unconscious in three ways. It is unconscious because it is automatic: it happens without thought, as a robot program. It is also unconscious because it began before the infant had language and hence it is pre-verbal, inarticulate, felt rather than considered. And it is unconscious because it is all-over-the-body-at-once. Specifically, it is characterized by the Respiratory Block first noted by Wilhelm Reich: a chronic muscular armoring that prevents proper, relaxed breathing. Popular speech recognizes this state as “being up-tight.”
 
 - Highlight(pink) - Location 620
@@ -100,7 +100,7 @@ This is why all schools of yoga—Buddhist, Hindu or Sufi—place such emphasis 
 
 ___
 
-- Highlight(pink) - Location 636
+- Highlight(pink) - Location 636 ❗️
 Even old-fangled M.D.s who won’t consider holistic ideas for a minute, admit that some persons are mysteriously “more susceptible” to disease than other persons. What is this metaphysical “susceptibility”? Anthropologist Ashley Montagu has collected numerous statistics on children who were deprived of maternal love at the crucial point of imprint vulnerability in infancy. They not only died younger than the national average, but were sicklier all their lives and even grew up to be several inches shorter than the average adult height for their sex. What makes for “susceptibility” (aside from possible genetic factors) can only be such an anxiety imprint (muscle tension) on the first circuit.
 
 - Highlight(pink) - Location 641
