@@ -5,8 +5,6 @@
 
 1. self-satisfaction especially when accompanied by unawareness of actual dangers or deficiencies
 
-2. in instance of usually unaware or uninformed self-satisfaction
-
 ___
 
 ##### Similar

@@ -5,7 +5,7 @@
 	- Supplements: $225  
 	- Hygiene: $83 
 - Gas: $50
-- Haircut: $25
+- Haircut: $30
 - **Total:** $483
 	- without food, haircut, and hygiene: $275
 	- Keep $300 in bank

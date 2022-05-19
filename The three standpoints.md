@@ -6,7 +6,7 @@ There are three standpoints provided by [[The Buddha]] from which we can apprais
 - danger
 - escape
 
-Gratification consists in the pleasure and joy we experience when we succeed in our goals. If we take an deeper look, in a dispassionate frame of mind, we can see that such pleasure and joy are far from satisfactory, To the contrary, they hold various drawbacks, or dangers. The most prominent dangers being the fact that such pleasures are transient, discontent, and subject to change or decay. Once we see that our goals or values are flawed and beset with hidden dangers, we realize that the way to escape lies in removing our desire for and attachment to them. 
+Gratification consists in the pleasure and joy we experience when we succeed in our goals. If we take an deeper look, from a dispassionate frame of mind, we can see that such pleasure and joy is far from satisfactory, to the contrary,  it holds various drawbacks, or dangers. The most prominent of dangers being the fact that such pleasures are transient, discontent, and subject to change or decay. Once we see that our goals and values are flawed and beset with hidden dangers, we realize that the way to escape lies in removing our desire for and attachment to them. 
 
 ___
 
