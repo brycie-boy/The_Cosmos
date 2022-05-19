@@ -100,11 +100,6 @@ This is why all schools of yoga—Buddhist, Hindu or Sufi—place such emphasis 
 
 ___
 
-- Highlight(pink) - Location 607
-We all have this circuit and need to exercize it periodically. Cuddling, sucking, hugging etc. and daily playing with (a) one’s own body (b) another’s body and (c) the environment, are perpetually necessary to neurosomatic-endocrine health. Those who deny such primordial functions because of rigid imprinting on the Third (rationalistic) or Fourth (moralistic) circuit tend to become “dried up,” “prune-faced,” unattractive, “cold,” and muscularly rigid.
-
-___
-
 - Highlight(pink) - Location 636
 Even old-fangled M.D.s who won’t consider holistic ideas for a minute, admit that some persons are mysteriously “more susceptible” to disease than other persons. What is this metaphysical “susceptibility”? Anthropologist Ashley Montagu has collected numerous statistics on children who were deprived of maternal love at the crucial point of imprint vulnerability in infancy. They not only died younger than the national average, but were sicklier all their lives and even grew up to be several inches shorter than the average adult height for their sex. What makes for “susceptibility” (aside from possible genetic factors) can only be such an anxiety imprint (muscle tension) on the first circuit.
 
@@ -121,6 +116,9 @@ This is of crucial importance in mind-washing and brain-programming. To create a
 
 ___
 
+
+- Highlight(pink) - Location 607
+We all have this circuit and need to exercize it periodically. Cuddling, sucking, hugging etc. and daily playing with (a) one’s own body (b) another’s body and (c) the environment, are perpetually necessary to neurosomatic-endocrine health. Those who deny such primordial functions because of rigid imprinting on the Third (rationalistic) or Fourth (moralistic) circuit tend to become “dried up,” “prune-faced,” unattractive, “cold,” and muscularly rigid.
 
 Highlight(pink) - Location 650
 
