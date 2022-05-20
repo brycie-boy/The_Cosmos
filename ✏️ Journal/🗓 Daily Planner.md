@@ -14,14 +14,14 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 #### Quick tasks (Under 5 min)
 
-- schedule drivers license appointment
+- Schedule drivers test appointment 
 
 #### Slow tasks (Over 5 min)
 
 > - 2 day limit
 > - 1 day break 
 
-- [ ] Look for jobs (after you schedule drivers license appointment) (day: 0)
+- [ ] Look for jobs (after vacation) (day: 0)
 - [ ] Driving practice
 
 #### Weekly tasks
