@@ -12,7 +12,6 @@ ___
 ##### The Cosmos Lore 
 
 -  The first note of The Cosmos: [[👁 The Monad]]
--  [[How i came up with the name The Cosmos]]
 
 ## The Index
 

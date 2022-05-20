@@ -1,4 +1,4 @@
-## The Thinker and the Prover exersizes  # 
+## The Thinker and the Prover exersizes  #🧠 
 
 To explore [[What the Thinker thinks, the Prover proves]], try the following: 
 
@@ -35,4 +35,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mysticism]] 
-Status: #⛅️ 
+Status: #☀️ 

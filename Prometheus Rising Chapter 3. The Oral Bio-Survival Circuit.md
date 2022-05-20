@@ -7,8 +7,8 @@
 Author: Robert Anton Wilson
 Publish Date: 1983-7
 Review Date: 2022-5-14
-Status: #💥
-Tags:
+Status: #☁️/📚 
+Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
 
 ___
 
@@ -114,7 +114,7 @@ This is of crucial importance in mind-washing and brain-programming. To create a
 
 ___
 
-- Highlight - Location
+- Highlight - Location 648
 In pre-neurological terms, the bio-survival circuit is what we usually call “consciousness,” per se. It is the sense of being here-now, in this vulnerable body, subject to the raw energies and forces of the physical universe. When we are “unconscious,” the bio-survival circuit is turned off and doctors may cut us up without our attempting to flee or even crying out.
 
 ___
