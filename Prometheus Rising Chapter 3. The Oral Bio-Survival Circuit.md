@@ -114,12 +114,15 @@ This is of crucial importance in mind-washing and brain-programming. To create a
 
 ___
 
+- Highlight - Location
+In pre-neurological terms, the bio-survival circuit is what we usually call “consciousness,” per se. It is the sense of being here-now, in this vulnerable body, subject to the raw energies and forces of the physical universe. When we are “unconscious,” the bio-survival circuit is turned off and doctors may cut us up without our attempting to flee or even crying out.
+
+___
 
 - Highlight(pink) - Location 607
 We all have this circuit and need to exercize it periodically. Cuddling, sucking, hugging etc. and daily playing with (a) one’s own body (b) another’s body and (c) the environment, are perpetually necessary to neurosomatic-endocrine health. Those who deny such primordial functions because of rigid imprinting on the Third (rationalistic) or Fourth (moralistic) circuit tend to become “dried up,” “prune-faced,” unattractive, “cold,” and muscularly rigid.
 
-Highlight(pink) - Location 650
-
+- Highlight(pink) - Location 650
 EXERCIZES
 
 1. Determine to enjoy this primitive circuit fully from now on. Play with yourself and others and the environment shamelessly, like a newborn baby. Meditate on “Unless ye become as a little child, ye shall in no wise enter the Kingdom of Heaven.” (paraphrase of Matthew 18:3) 

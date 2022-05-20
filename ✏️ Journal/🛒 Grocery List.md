@@ -2,8 +2,6 @@
 
 > Go through whole list!
 
-- dish soap
-
 ## Things to Watch For On Labels
 1. Serving size
 

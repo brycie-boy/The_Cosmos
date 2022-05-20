@@ -14,8 +14,6 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 #### Quick tasks (Under 5 min)
 
-- Schedule drivers test appointment 
-
 #### Slow tasks (Over 5 min)
 
 > - 2 day limit
