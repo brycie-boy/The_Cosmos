@@ -1,6 +1,6 @@
 ## Serenity #🧠 
 
-Serenity, when developed, leads to the liberation of mind of the pull of attraction and repulsion of [[The three unwholesome roots]]. The cultivation of serenity requires steadying, composing, unifying, and concentrating the mind; [[The jhanas]] being the succesive stages of these efforts. The stilled mind "sees things as they really are", that is, it observes phenomena as it arises and passes away, thus making serenity the foundation for [[Insight]]. 
+Serenity, when developed, leads to the liberation of mind of attraction and repulsion of [[The three unwholesome roots]]. The cultivation of serenity requires steadying, composing, unifying, and concentrating the mind; [[The jhanas]] being the succesive stages of these efforts. The stilled mind "sees things as they really are", that is, it observes phenomena as it arises and passes away, thus making serenity the foundation for [[Insight]]. 
 
 ___
 

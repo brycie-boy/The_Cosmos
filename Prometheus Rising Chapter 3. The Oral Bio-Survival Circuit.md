@@ -98,14 +98,12 @@ Even earlier, Wilhelm Reich discovered that he could understand his patients wit
 - Highlight(pink) - Location 630
 This is why all schools of yoga—Buddhist, Hindu or Sufi—place such emphasis on restoring natural breathing before trying to move the student on to higher circuits and wider consciousness.
 
-___
-
-- Highlight(pink) - Location 636 ❗️
+- Highlight(pink) - Location 636 
 Even old-fangled M.D.s who won’t consider holistic ideas for a minute, admit that some persons are mysteriously “more susceptible” to disease than other persons. What is this metaphysical “susceptibility”? Anthropologist Ashley Montagu has collected numerous statistics on children who were deprived of maternal love at the crucial point of imprint vulnerability in infancy. They not only died younger than the national average, but were sicklier all their lives and even grew up to be several inches shorter than the average adult height for their sex. What makes for “susceptibility” (aside from possible genetic factors) can only be such an anxiety imprint (muscle tension) on the first circuit.
 
 - Highlight(pink) - Location 641
 Christian Science—or any other religion that dogmatically insists that "God” wants us to he happy and successful—can cure such conditions “miraculously.” What the Thinker thinks the Prover proves. Absolute faith that “God” is supporting you, beamed out from the brain all day long, day after day, signals the muscles to relax, and natural buoyancy and health returns.
-
+ 
 ___
 
 - Highlight(pink) - Location 644
