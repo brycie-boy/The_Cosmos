@@ -19,6 +19,7 @@ ___
 
 - Matushak, Andy. [[Andy's Notes]] 
 ##### Metadata
+
 Type: #🔵/🔵 
 Tags: [[Learning]] / [[PKM]]
 Status:  #⛅️ 
