@@ -80,6 +80,7 @@ has been proposed, by sociologist G. Rattray Taylor that societies swing back an
 
 -  Highlight(pink) - Location 742
 Taylor’s table of the characteristics of these “Matrist” and “Patrist” periods is as follows:
+![[7C9BD6B1-8FC8-4437-A3EC-0D88C57125BF.jpeg]]
 
 - Highlight(pink) - Location 744
 Whether or not societies wobble between these extremes as Taylor claims, individuals certainly do. These are merely the consequences of (a) having the heaviest imprint on the oral (Matrist) bio-survival circuit or (b) having the heaviest imprint on the anal (Patrist) territorial circuit.
