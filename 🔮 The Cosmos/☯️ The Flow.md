@@ -22,4 +22,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Learning]] / [[PKM]]
-Status:  #⛅️ 
+Status:  #⛅️
