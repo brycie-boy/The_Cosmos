@@ -7,7 +7,7 @@ There are 4 types of small sources that The Cosmos consumes. Included are their 
 ### 🌐 Text: Articles, Blog Posts, Social Media Posts
 
 1. The text is added to raindrop.io
-2. The text is reviewed along side a nebula within obsidian
+2. The text is reviewed along side a [[☁️ Nebula]] within obsidian
 3. The annotations are copied straight from the text to the nebula
 
 ### ⏯ Video
@@ -21,7 +21,7 @@ There are 4 types of small sources that The Cosmos consumes. Included are their 
 
 1. My podcasts are managed within the Airr app on IOS
 2. Annotations are taken as i listen with the qotations feature
-3. When the podcast is over, i copy my annotations into an Inboc note within Obsidian
+3. When the podcast is over, i copy my annotations into a [[☁️ Nebula]] within Obsidian
 
 ___
 

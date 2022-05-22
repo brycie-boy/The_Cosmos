@@ -1,4 +1,4 @@
-## The brains hardware and software exersizes  # 
+## The brains hardware and software exersizes  #🧠 
 
 (see [[The brains hardware and software]])
 
@@ -20,4 +20,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Biochemistry]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
-Status: #⛅️ 
+Status: #☀️ 

@@ -1,6 +1,6 @@
 ## The formless attainments  #🧠 
 
-The formless attainments are four meditative states that continue the mental unification of [[The jhanas]]. They're distinguished by [[The jhanas]] by there transendance of the object of concentration. These are
+The formless attainments are four meditative states that continue the mental unification of [[The jhanas]]. They're distinguished from [[The jhanas]] by there transendance of the object of concentration. These are
 
 - [[The base of the infinity of space]]
 - [[The base of the infinity of consiousness]]
@@ -15,5 +15,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Mindfulness]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Yoga]]
 Status: #☀️ 
