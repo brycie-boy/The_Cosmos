@@ -12,4 +12,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
-Status: #⛅️ 
+Status: #⛅️/⛅️ 
