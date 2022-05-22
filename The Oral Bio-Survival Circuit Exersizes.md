@@ -1,4 +1,4 @@
-## The Oral Bio-Survival Circuit Exersizes  # 
+## The Oral Bio-Survival Circuit Exersizes  #🧠 
 
 Acording to [[Robert Anton Wilson]]: We all have [[The Oral Bio-Survival Circuit]]  and need to exercize it periodically. Cuddling, sucking, hugging etc. and daily playing with (a) one’s own body (b) another’s body and (c) the environment, are perpetually necessary to neurosomatic-endocrine health. Those who deny such primordial functions because of rigid imprinting on [[The Time-Binding Semantic Circuit or[[The Moral Socio-Sexual Circuit]] tend to become “dried up,” “prune-faced,” unattractive, “cold,” and muscularly rigid.
 
@@ -21,4 +21,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
-Status: #⛅️ 
+Status: #☀️ 
