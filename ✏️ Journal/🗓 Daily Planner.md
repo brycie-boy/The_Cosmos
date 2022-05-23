@@ -21,6 +21,7 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 - [ ] Look for jobs (after vacation) (day: 0)
 - [ ] Driving practice
+- [ ] Organize music library
 
 #### Weekly tasks
 

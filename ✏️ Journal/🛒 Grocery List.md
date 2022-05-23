@@ -60,7 +60,7 @@
 - [x] Lean Chicken 
 - [x] Ground beef
 	- Steak
-- [x] Samon
+- [ ] Samon
 	- Shellfish
 	- Shrimp
 - [x] Eggs 
@@ -101,7 +101,7 @@
 - [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
-- [ ] Goat cheese
+- [x] Goat cheese
 	- Parm/Romano
 	- Aged white cheddar
 - [ ] Cottage Cheese

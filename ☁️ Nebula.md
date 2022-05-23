@@ -12,7 +12,7 @@ Nebulas have 2 stages:
 	
      This is what i call my unprocessed inbox notes. All the annotations i collect during [[Ingestion]] are copied onto an inbox scrap note. These annotations are of little informational value, they are atomized, scattered, and unrelated. This is fine. Think of it as a reminder saying "hey, look at this passage".
 	
-     When processing these annotations you'll want to be able to see the big picture and see clusters of ideas. I cluster annotations by copying the annotations from the scrap into the actual inbox note and sorting them into clusters. Clusters do note have to follow the structure of the original source. Annotations can be clustered in what ever way makes sense to you. These clusters are then written as [[⛅️ Proto Note]]s
+     When processing these annotations you'll want to be able to see the big picture and see clusters of ideas. I cluster annotations by copying the annotations from the scrap into the actual inbox note and sort them into clusters as I go through them. Clusters do note have to follow the structure of the original source. Annotations can be clustered in what ever way makes sense to you. These clusters are then written into [[⛅️ Proto Note]]s
 
 - **☁️ Nebula**
 	
