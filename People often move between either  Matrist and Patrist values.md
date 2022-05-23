@@ -1,4 +1,4 @@
-## People move between either  Matrist and Patrist values  # 
+## People often move between either  Matrist and Patrist values  # 
 
 It has been proposed by sociologist [[G. Rattray Taylor]] that societies swing back and forth between "matrist" periods, in which the motherly values of [[The Oral Bio-Survival Circuit]] predominate, and "patrist" periods, in which the fatherly values of [[The Anal Emotional-Territorial Circuit]] are in assendance. Taylors table of the characteristics of these "Matrist" and "Patrist" values are as follows:
 
