@@ -91,6 +91,9 @@ Persons (extreme cases) who take the heaviest imprint on this territorial-emotio
 
 ___
 
+- Highlight - Location 779
+![[FD809675-3D27-4A03-B630-0B31F9A4FFE0.jpeg]]
+
 - Highlight(pink) - Location 780
 The grid of Circuits I and II creates four quadrants. Note that Hostile Strength (the tyrant) is inclined to paranoid withdrawal; he must govern, but he is also afraid. Cf. the careers of Hitler, Stalin, Howard Hughes, etc. and the inaccessible Castle and Court in Kafka’s allegories. Note also that the dependent neurotic is not in retreat at all; he or she advances upon you, demanding fulfillment of emotional “needs” (imprints).
 
@@ -100,6 +103,7 @@ ___
 These four quadrants have been known since the dawn of self-consciousness. For instance, in the terminology of the medieval psychology of “humours,” these four imprint-types are known as:
 
 - Highlight(pink) - Location 785
+![[C20D4BDD-02BF-4320-B34E-F77EB5EC7C56.jpeg]]
 
 - Highlight(pink) - Location 786
 Clockwise, the Sanguinary type (friendly strength) was identified with the Lion archetype and the element, fire. The Lion, because of the dignity of these big cats, represents “good” strength, and the fire represents power. The Phlegmatic type (friendly weakness) was identified with the Angel archetype and the element water: these people are “too sensitive to fight” and “go with the flow.” The Choleric types were identified with the Bull archetype (truculent suspicion, paranoia) and the element, earth, standing for sluggish pseudo “stupidity.” (This is the traditional stance of defeated races dealing with their conquerors.) The Bilius types (hostile strength) were identified with the Eagle archetype (symbol of Imperial Rome, the German royal family, etc.) and the element air, air probably means sky, because these types seem “high and mighty.”
@@ -113,6 +117,7 @@ ___
 In the clever language of the fashionable Transactional Analysis system, these four imprint types are categorized as the four basic life scripts, to wit:
 
 - Highlight(pink) - Location 802
+![[655DE034-0576-4AB7-B0B8-DCE84DF9FF23.jpeg]]
 
 - Highlight(pink) - Location 803
 It is the Phlegmatic (friendly weakness; dependent neurotic) type who generally turns up in the psychotherapist’s office seeking reimprinting voluntarily. They are not-okay, but they have great faith that the therapist is okay.
