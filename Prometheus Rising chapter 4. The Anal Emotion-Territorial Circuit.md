@@ -89,13 +89,6 @@ ___
 - Highlight(pink) - Location 768
 Persons (extreme cases) who take the heaviest imprint on this territorial-emotional circuit tend to be musculotonic. That is, they hold most of their attention and energy, in the muscular attack-defense systems and grow up medium weight—heavy enough to be hard to knock down, light enough to be quick and sinewy. Often, they become body-builders, weight-lifters etc. and have an extraordinary absorption in demonstrating their strength.
 
-- Highlight(pink) - Location 775
-
-- Highlight(pink) - Location 775
-IMPRINTING AFFECTS THE WHOLE NERVOUS SYSTEM. THE NERVOUS SYSTEM AFFECTS THE WHOLE BODY.
-
-- Highlight(pink) - Location 776
-
 ___
 
 - Highlight(pink) - Location 780
