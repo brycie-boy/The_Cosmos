@@ -4,7 +4,7 @@ The Anal Emotional-Territorial Circuit, one of [[The Eight Circuits of Conscious
 
 Status in the tribe is assigned according to preverbal signaling systems (kinesics) in which these muscle reflexes are crucial. All of the emotional games and cons listed in the popular psychological game-manuals of [[Dr, Eric Bern]] and the [[Transactional Analysis]]ts are second circuit imprints, or standard mammalian politics. The standard "domination" reflex is to swell the muscles and howl. You can see this in birds and mammals, as well as the local board meeting at the bank. The standard "submission" reflex is to shrink the muscles, lower the head, and "crawl away". You will find this among dogs, primates, fowl and employees who wish to keep there jobs everywhere. 
 
-In pre-ethological terms, the emotional-territorial circuit is what we usually call [[The ego]]. [[The ego]] is simply the recognition of one's status in the pack; it is a "role" as sociologists say, A single brain circuit that mistakes itself for the whole self, that is, the entire brain-mind apperatus. It is correspondent to the Buddhist concept of [[Identity view]].
+In pre-ethological terms, the emotional-territorial circuit is what we usually call [[The ego]]. [[The ego]] is simply the recognition of one's status in the pack; it is a "role" as sociologists say, A single brain circuit that mistakes itself for the whole self, that is, the entire brain-mind apperatus. It is also roughly correspondent to the Buddhist concept of [[Identity view]].
 
 ___
 

@@ -86,26 +86,6 @@ Whether or not societies wobble between these extremes as Taylor claims, individ
 
 ___
 
-- Highlight(pink) - Location 749 ❗️
-The question of how human an animal is (especially a pet dog or cat) never ceases to divide scientists from laypersons—and one scientist from another. In terms of the present theory, the differences between domesticated primates (humans) and other domesticated animals are virtually nil, as long as we are talking only about the first two circuits.
-
-- Highlight(pink) - Location 752
-Real differences begin to appear when the third, semantic circuit enters the picture.
-
-- Highlight(pink) - Location 755
-For instance, novice dog-trainers always make the mistake of using too many words. Because the dog is so “human” in so many ways
-
-- Highlight(pink) - Location 757
-The average dog has a vocabulary of around 150 words,
-
-- Highlight(pink) - Location 760
-The dog gives up on such sentences and guesses what he can from your mammalian (and unconscious) body-language.
-
-- Highlight(pink) - Location 761
-Understanding these distinctions can vastly improve primate-canine communication. For instance, my wife, a sociologist, trained our dog, Fang, not to beg at the table in the most direct mammalian language possible. She simply growled at him the first few times he approached her while she was eating. (She had been reading ethology, of course.) Fang understood fully; he soon learned to avoid the table while the Pack-Leaders (my wife and myself) were eating.
-
-___
-
 - Highlight(pink) - Location 768
 Persons (extreme cases) who take the heaviest imprint on this territorial-emotional circuit tend to be musculotonic. That is, they hold most of their attention and energy, in the muscular attack-defense systems and grow up medium weight—heavy enough to be hard to knock down, light enough to be quick and sinewy. Often, they become body-builders, weight-lifters etc. and have an extraordinary absorption in demonstrating their strength.
 
