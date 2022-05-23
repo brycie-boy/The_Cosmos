@@ -36,7 +36,6 @@ In pre-ethological terms, the emotional-territorial circuit is what we usually c
 - Highlight(pink) - Location 777
 The second, emotional-territorial circuit, creates a two-dimensional social space in conjunction with first-circuit advance-retreat.
 
-- Highlight(pink) - Location 779
 
 ___
 
@@ -87,7 +86,7 @@ Whether or not societies wobble between these extremes as Taylor claims, individ
 
 ___
 
-- Highlight(pink) - Location 749
+- Highlight(pink) - Location 749 ❗️
 The question of how human an animal is (especially a pet dog or cat) never ceases to divide scientists from laypersons—and one scientist from another. In terms of the present theory, the differences between domesticated primates (humans) and other domesticated animals are virtually nil, as long as we are talking only about the first two circuits.
 
 - Highlight(pink) - Location 752
