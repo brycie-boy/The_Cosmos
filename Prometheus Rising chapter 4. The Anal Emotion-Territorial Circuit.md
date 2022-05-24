@@ -96,6 +96,11 @@ For instance, an influential psychological test in this country, the Leary Inter
 - Highlight(pink) - Location 816
 In the grid on which the Leary categories are drawn, the moderate imprints are in toward the center and the excessive or extreme cases are out toward the perimeter, but what is being measured is still basically the way the first two circuits (oral-bio-survival and anal-territorial) are imprinted.
 
+- Highlight - Location 838 ❗️
+The irony and the tragedy of human life is that none of these subjects are aware at all of their robotry. Each will explain to you, at great length and with great conviction, why each of these robotic, endlessly-repeated reflexes are caused by the situations around them, i.e., by the “bad” behavior of other people. WHAT THE THINKER THINKS, THE PROVER PROVES.
+
+- Highlight - Location 842 ❗️
+Thus, if you put these four primates on a desert island, you can predict, with virtually as much certainty as a chemist telling us what will happen if four elements are compounded, that Subject #1 and #4 (Friendly Strength and Hostile Strength) will both try to take over—#1 to help the others, #4 because SHe can’t imagine anybody else in control. #1 will submit to #4 because #1 wants things to run smoothly for the good of all, and they never will run smoothly if #4 is not TOP DOG. #2, Friendly Weakness, will not care whether #1 or #4 rules, just so long as somebody else is making the decisions. And #3 will complain (and complain, and complain), no matter who is in charge, while skillfully avoiding any action that would require taking personal responsibility.
 
 ___
 
@@ -125,8 +130,23 @@ ___
 - Highlight(pink) - Location 894
 It will be observed by the thoughtful or visually-oriented readers that each “extreme” type can be expressed on the Leary Grid as a very off-center pie-slice:
 
+- Highlight - Location 895
+![[B38415A4-84D5-4887-B78E-F280EC7EFE02.jpeg]]
+
 - Highlight(pink) - Location 896
 Obviously, an ideally “balanced” person—that is, one not robotized and able to adjust to circumstances as they arise—would not be so off-centered. Such a person would be able to move a little bit into each quadrant “according to the times and seasons” as the Chinese say, but would basically maintain a centered detachment between all of them. She or he could be graphed as a circle:
+
+- Highlight - Location 899
+![[FA00DA95-0364-484B-93D4-BA62CAF01D03.jpeg]]
+
+- Highlight - Location 900
+The dark inner circle would represent the adamantine individuality of this ideally detached person — detached from robot imprints. The grey circle would represent the ability to move out into each quadrant in times when that was necessary.
+
+- Highlight - Location 902
+Circles of this sort, called mandalas, are widely used for meditation in the Buddhist tradition. Often
+
+- Highlight - Location 903
+![[0E184E24-89EF-4E40-BE09-BC6567643DF0.jpeg]]
 
 ___
 
