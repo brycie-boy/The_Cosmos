@@ -104,7 +104,7 @@ Thus, if you put these four primates on a desert island, you can predict, with v
 
 ___
 
-- Highlight(pink) - Location 855 ❗️
+- Highlight(pink) - Location 855 
 The top two quadrants of the Leary grid—Friendly Strength and Hostile Strength—correspond roughly to what Nietzsche called Herrenmoral, the ethics of ruling classes. Indeed, Hostile Strength is the embodiment of Nietzsche’s “Blond Beast,” the primitive conqueror-pirate type we find at the dawn of every civilization. This is what Nietzsche also called the “animal” or “unsublimated" form of the Will to Power.
 
 - Highlight(pink) - Location 858
