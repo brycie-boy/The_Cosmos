@@ -1,4 +1,4 @@
-## People who take the heaviest imprint on The Anal Emotional-Territorial Circuit tend to be musculatonic  # 
+## People who take the heaviest imprint on The Anal Emotional-Territorial Circuit tend to be musculatonic  #🧠 
 
 ![[2B2362A6-8A41-4719-84C5-F376037670F3.jpeg|150]]
 
@@ -14,4 +14,4 @@ ___
 
 Type: #🔴 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] 
-Status: #⛅️/⛅️ 
+Status: #☀️ 
