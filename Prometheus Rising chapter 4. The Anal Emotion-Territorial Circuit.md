@@ -33,45 +33,6 @@ If the first (bio-survival) circuit is chiefly imprinted by the mother, the seco
 - Highlight(pink) - Location 746
 In pre-ethological terms, the emotional-territorial circuit is what we usually call “ego.” Ego is simply the mammalian recognition of one’s status in the pack; it is a “role” as sociologists say, a single brain circuit which mistakes itself for the whole Self, the entire brain-mind apparatus.
 
-- Highlight(pink) - Location 777
-The second, emotional-territorial circuit, creates a two-dimensional social space in conjunction with first-circuit advance-retreat.
-
-
-___
-
-- Highlight(pink) - Location 691
-To quote from my novel Schrödinger's Cat:
-
-- Highlight(pink) - Location 692
-Most of the domesticated primates of Terra did not know they were primates. They thought they were something apart from and “superior” to the rest of the planet.
-
-- Highlight(pink) - Location 697
-As a result of this inability to see the obvious, Benny was constantly alarmed and terrified by the behavior of himself, his friends and associates and especially the alpha males of the pack. Since he didn’t know it was ordinary primate behavior, it seemed just awful to him.
-
-- Highlight(pink) - Location 700
-Since a great deal of primate behavior was considered just awful, most of the domesticated primates spent most of their time trying to conceal what they were doing.
-
-- Highlight(pink) - Location 704
-Those who got caught were called no-good shits.
-
-- Highlight(pink) - Location 705
-The term no-good shit was a deep expression of primate psychology. For instance, one wild primate (a chimpanzee) taught sign language by two domesticated primates (scientists) spontaneously put together the signs for “shit” and “scientist” to describe a scientist she didn’t like. She was calling him shit-scientist. She also put together the signs for “shit” and “chimpanzee” for another chimpanzee she didn’t like. She was calling him shit-chimpanzee.
-
-- Highlight(pink) - Location 711
-This metaphor was deep in primate psychology because primates mark their territories with excretions, and sometimes they threw excretions at each other when disputing over territories. 
-
-- Highlight(pink) - Location 713
-One primate wrote a long book describing in vivid detail how his political enemies should be punished. He imagined them in an enormous hole in the ground, with flames and smoke and rivers of shit. This primate was named Dante Alighieri.
-
-- Highlight(pink) - Location 716
-Another primate wrote that every primate infant goes through a stage of being chiefly concerned with bio-survival, i.e., food, i.e., Mommie’s Titty. He called this the Oral Stage. He said the infant next went on to a stage of learning mammalian politics, i.e., recognizing the Father (alpha-male) and his Authority and territorial demands. He called this, with an insight that few primates shared, the Anal Stage. This primate was named Freud.
-
-- Highlight(pink) - Location 721
-Among the anal insults exchanged by domesticated primates when fighting for their space were: “Up your ass,” “Go shit in your hat,” “You’re full of shit,” and many others. 
-
-- Highlight(pink) - Location 731
-When primates went to war or got violent in other ways, they always said they were about to knock the shit out of the enemy.
-
 ___
 
 - Highlight(pink) - Location 739
@@ -91,6 +52,9 @@ Persons (extreme cases) who take the heaviest imprint on this territorial-emotio
 
 ___
 
+ - Highlight(pink) - Location 777
+The second, emotional-territorial circuit, creates a two-dimensional social space in conjunction with first-circuit advance-retreat.
+
 - Highlight - Location 779
 ![[FD809675-3D27-4A03-B630-0B31F9A4FFE0.jpeg]]
 
@@ -103,10 +67,10 @@ These four quadrants have been known since the dawn of self-consciousness. For i
 - Highlight(pink) - Location 785
 ![[C20D4BDD-02BF-4320-B34E-F77EB5EC7C56.jpeg]]
 
-- Highlight(pink) - Location 786 ❗️
+- Highlight(pink) - Location 786 
 Clockwise, the Sanguinary type (friendly strength) was identified with the Lion archetype and the element, fire. The Lion, because of the dignity of these big cats, represents “good” strength, and the fire represents power. The Phlegmatic type (friendly weakness) was identified with the Angel archetype and the element water: these people are “too sensitive to fight” and “go with the flow.” The Choleric types were identified with the Bull archetype (truculent suspicion, paranoia) and the element, earth, standing for sluggish pseudo “stupidity.” (This is the traditional stance of defeated races dealing with their conquerors.) The Bilius types (hostile strength) were identified with the Eagle archetype (symbol of Imperial Rome, the German royal family, etc.) and the element air, air probably means sky, because these types seem “high and mighty.”
 
-- Highlight(pink) - Location 792
+- Highlight(pink) - Location 792 ❗️
 These symbols go back a long way; Cabalists find them in the Old Testament (where, indeed, the lion-angel-bull-eagle appear in Ezekiel). They are found constantly in Catholic art, associated with the four evangelists (Matthew-angel, Mark-lion, Luke-bull, John-eagle)* and run all through the design of Tarot card decks, medieval and modern.
 
 - Highlight(pink) - Location 801
@@ -114,15 +78,6 @@ In the clever language of the fashionable Transactional Analysis system, these f
 
 - Highlight(pink) - Location 802
 ![[655DE034-0576-4AB7-B0B8-DCE84DF9FF23.jpeg]]
-
-- Highlight(pink) - Location 803
-It is the Phlegmatic (friendly weakness; dependent neurotic) type who generally turns up in the psychotherapist’s office seeking reimprinting voluntarily. They are not-okay, but they have great faith that the therapist is okay.
-
-- Highlight(pink) - Location 805
-The Bilius (hostile strength) and Choleric (hostile weakness) arrive in therapy, if at all, only because their associates or families, or more commonly, a law court, has ordered them to try to reimprint their compulsive hostilities.
-
-- Highlight(pink) - Location 806
-The Sanguinary (friendly strength) type virtually never comes for psychotherapy. He or she is satisfied with his or her life, and so is the rest of society. Alas, they nonetheless can get to the position where they need therapy of some sort, simply because they may take on too much responsibility and carry too many burdens. They will generally arrive at the therapists only if sent there by an M.D. who has intuited where their ulcers came from.
 
 ___
 
