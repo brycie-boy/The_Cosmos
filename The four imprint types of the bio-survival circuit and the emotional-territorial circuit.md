@@ -5,7 +5,9 @@
 - [[Hostile weakness (choleric)]]
 - [[Friendly weakness (phlegmatic)]]
 - [[Hostile strength (bilius)]]
-- [[Friendly strength]]
+- [[Friendly strength (sanguinary)]]
+
+These four types are further subdivided in [[The Leary Interpersonal Grid]].
 
 These imprint types and their respective symbols go back a long way. Cabalists find them in the old testament, where the lion-angel-bull-eagle appear in Ezekiel. They are found constantly in catholic art, assosiated with the four evangelists: Mathew-angel, Mark-lion, Luke-bull, and John-eagel. They also run all through the [[Tarot]] card decks, medieval and modern. 
 
@@ -13,7 +15,7 @@ ___
 
 ##### References
 
-- Wilson, A. Robert. (1983) [[Prometheus Rising chapter 4. The Anal Emotion-Territorial Circuit]] (Location 777). Grand Junction, CO: _Hilaritas Press_.
+- Wilson, A. Robert. (1983) [[Prometheus Rising chapter 4. The Anal Emotion-Territorial Circuit]] (Location 777, 792). Grand Junction, CO: _Hilaritas Press_.
 
 ##### Metadata
 

@@ -70,7 +70,7 @@ These four quadrants have been known since the dawn of self-consciousness. For i
 - Highlight(pink) - Location 786 
 Clockwise, the Sanguinary type (friendly strength) was identified with the Lion archetype and the element, fire. The Lion, because of the dignity of these big cats, represents “good” strength, and the fire represents power. The Phlegmatic type (friendly weakness) was identified with the Angel archetype and the element water: these people are “too sensitive to fight” and “go with the flow.” The Choleric types were identified with the Bull archetype (truculent suspicion, paranoia) and the element, earth, standing for sluggish pseudo “stupidity.” (This is the traditional stance of defeated races dealing with their conquerors.) The Bilius types (hostile strength) were identified with the Eagle archetype (symbol of Imperial Rome, the German royal family, etc.) and the element air, air probably means sky, because these types seem “high and mighty.”
 
-- Highlight(pink) - Location 792 ❗️
+- Highlight(pink) - Location 792 
 These symbols go back a long way; Cabalists find them in the Old Testament (where, indeed, the lion-angel-bull-eagle appear in Ezekiel). They are found constantly in Catholic art, associated with the four evangelists (Matthew-angel, Mark-lion, Luke-bull, John-eagle)* and run all through the design of Tarot card decks, medieval and modern.
 
 - Highlight(pink) - Location 801
@@ -96,40 +96,10 @@ For instance, an influential psychological test in this country, the Leary Inter
 - Highlight(pink) - Location 816
 In the grid on which the Leary categories are drawn, the moderate imprints are in toward the center and the excessive or extreme cases are out toward the perimeter, but what is being measured is still basically the way the first two circuits (oral-bio-survival and anal-territorial) are imprinted.
 
-- Highlight(pink) - Location 819
-To clarify this a bit further, imagine that four babies were all born at the same instant
-
-- Highlight(pink) - Location 820
-We come back twenty years later and we find that each of them has a separate personality and life-style (a problem for the astrologers, but let that pass). To make things easier for us, they have actually landed in our four quadrants.
 
 ___
 
-- ighlight(pink) - Location 822
-Subject #1 is Responsible/Over-Conventional (Sanguinary). Everybody agrees that SHe (she or he) is usually a beloved community leader—helpful, considerate, friendly and solidly successful. Some may even say SHe spoils people with kindness, forgives anything, agrees with everybody and actually enjoys governing those who cannot govern themselves. The noble Lion. This person may be (and probably is) a total robot. That is, if SHe can never give orders in a strict way, is never able to doubt others, is never ego-centered, etc. then SHe has mechanically imprinted the First Quadrant, “friendly strength.” On the other hand, if SHe is able to move out of the First Quadrant in appropriate situations (exercizing hostility against the marauder or predator, admitting weakness when overwhelmed), SHe has an imprinted-conditioned predilection for “I’m okay, you’re okay,” but is not totally robotized by it.
-
-- Highlight(pink) - Location 830
-Subject #2 has, after the same twenty years of imprinting and conditioning, landed in Quadrant 2 friendly weakness (Phlegmatic). SHe is self-critical, shy, timid, easily led, “spineless,” and always looking for somebody to Take Charge and Give Orders. The unearthly Angel, or in modern symbolism, the Flower Child.
-
-- Highlight(pink) - Location 834
-Subject #3 had landed, with total robothood or with some small flexibility, in Quadrant 3, “Hostile Weakness” (Choleric). She distrusts everybody, rebels against everything, speaks constantly in sarcasms, complains chronically and is generally bitter, resentful and (to some extent) paranoid. The sullen Bull.
-
-- Highlight(pink) - Location 836
-Subject #4 has landed in Quadrant 4, “Hostile Strength” (Bilius), and is regarded as “bossy,” cold, unfeeling, dictatorial, self-important, boastful etc. but still in the judgment of most, “a good leader.” The imperial Eagle.
-
-___
-
-- Highlight(pink) - Location 838
-The irony and the tragedy of human life is that none of these subjects are aware at all of their robotry. Each will explain to you, at great length and with great conviction, why each of these robotic, endlessly-repeated reflexes are caused by the situations around them, i.e., by the “bad” behavior of other people. WHAT THE THINKER THINKS, THE PROVER PROVES.
-
-- Highlight(pink) - Location 842
-Thus, if you put these four primates on a desert island, you can predict, with virtually as much certainty as a chemist telling us what will happen if four elements are compounded, that Subject #1 and #4 (Friendly Strength and Hostile Strength) will both try to take over—#1 to help the others, #4 because SHe can’t imagine anybody else in control. #1 will submit to #4 because #1 wants things to run smoothly for the good of all, and they never will run smoothly if #4 is not TOP DOG. #2, Friendly Weakness, will not care whether #1 or #4 rules, just so long as somebody else is making the decisions. And #3 will complain (and complain, and complain), no matter who is in charge, while skillfully avoiding any action that would require taking personal responsibility.
-
-___
-
-- Highlight(pink) - Location 852
-We say merely that, whether or not you or I were born with a predisposition for one quadrant, all organisms are born with a predisposition for imprint vulnerability, and the imprint, once set in the neural circuitry, acts as robotically as any genetic hard-wiring.
-
-- Highlight(pink) - Location 855
+- Highlight(pink) - Location 855 ❗️
 The top two quadrants of the Leary grid—Friendly Strength and Hostile Strength—correspond roughly to what Nietzsche called Herrenmoral, the ethics of ruling classes. Indeed, Hostile Strength is the embodiment of Nietzsche’s “Blond Beast,” the primitive conqueror-pirate type we find at the dawn of every civilization. This is what Nietzsche also called the “animal” or “unsublimated" form of the Will to Power.
 
 - Highlight(pink) - Location 858
@@ -149,17 +119,6 @@ It is interesting, in this connection, that Nietzsche dropped “psychological�
 
 - Highlight(pink) - Location 876
 Nietzsche was on the right track, but lacking neurology he looked for the physical basis of these processes in genetics alone. Imprinting theory suggests, on the contrary, that such physiological Bottom Dog reflexes are created by specific triggers at early moments of imprint vulnerability.
-
-___
-
-- Highlight(pink) - Location 885
-Since we all contain a territorial-emotional circuit we need to exercize it daily. Playing with children is one good exercize—especially if you play with large groups, in which case you will have to referee mammalian territorial disputes. Swimming, jogging or whatever else appeals to you is good, to keep the muscles from feeling you are trying to starve them. Trying to “psych out” somebody else’s emotional state is one of the best exercizes for this circuit, and is very educational in general. It activates the old mammal centers in the thalamus where body-language communicates emotional signals.
-
--  Highlight(pink) - Location 890
-A good General uses this circuit to “psych out” what the enemy General is planning. A good mother uses it, vice versa, to figure out what baby’s howl means in each particular case.
-
-- Highlight(pink) - Location 891
-Advanced work with this circuit, involving some hazards in personal relations, would involve such games as learning to bully somebody if you’ve never been able to do that before, learning to submit docilely if you’ve never been able to do that before, and learning to express anger appropriately and letting go of it when it is no longer necessary.
 
 ___
 
