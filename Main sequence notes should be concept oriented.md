@@ -12,7 +12,7 @@ ___
 
 ##### References
 
-- [[Andy's Notes]]
+- Matuschak, Andy. [[Andy's Notes]]
 https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF
 
 ##### Metadata

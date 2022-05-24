@@ -4,7 +4,7 @@ Using [[The three standpoints]], we can see that senual pleasures only seems to 
 
 To demonstrate this, the Buddha used the example of a leper scratching his scabs and causterizing his body over a charcoal pit. if this man were to be given medicine and was healed, he would not envy another leper for having medicine because without the illness, there would be no need for medicine. Nor would the healed man envy another leper for his charcoal pit becuase he would then see the charcoal pit for what it really is, which is hot and painful. This charcoal pit was always painful, It was because the mans faculties were impared through the illness that he perecieved the charcoal pit as pleasant. So too, people who are devoured by craving have there faculties impaired and do not see senual pleasures as they really are, which is painful.
 
-If the leper were to continue to give in to his urges to scratch at his scabs and causterize his body, the worse his injuries would become, and the stonger his urge to continue would become. So too, for people dependant on sensual pleasure, the more they indulge in sensual pleasure, the more their craving increases, the stronger the withdrawal crash is, and the more they’re "burned by the fever for senual pleasure"
+If the leper were to continue to give in to his urges to scratch at his scabs and causterize his body, the worse his injuries would become, and the stonger his urge to continue would become. So too, for people dependant on sensual pleasure, the more they indulge in sensual pleasure, the more their craving increases, the stronger the withdrawal is, and the more they’re "burned by the fever for senual pleasure"
 
 ___
 

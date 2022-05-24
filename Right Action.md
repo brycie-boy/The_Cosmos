@@ -1,6 +1,6 @@
 ## Right Action  #🧠 
 
-Right Action consists of abstaining from:
+Right Action, part of [[The Nobel Eightfold Path]], consists of abstaining from:
 
 - killing
 - stealing

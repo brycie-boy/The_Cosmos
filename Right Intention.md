@@ -1,6 +1,6 @@
 ## Right Intention  #🧠 
 
-Right intention, part if [[The Nobel Eightfold Path]], consists of the intention of:
+Right intention, part of [[The Nobel Eightfold Path]], consists of the intention of:
 
 - renunciation
 - good will

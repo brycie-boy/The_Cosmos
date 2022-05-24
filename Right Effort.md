@@ -1,13 +1,13 @@
 ## Right Effort  #🧠 
 
-Through Right Effort. one generates the desire for:
+Through Right Effort, part of [[The Nobel Eightfold Path]], one generates the desire for:
 
 - the nonarising of unarisen unwholesome states
 - the abandoning of arisen unwholesome states
-   - (See [[Unwholesome kamma]])
+   - (See [[The three unwholesome roots]])
 - the arising of unarisen wholesome states
 - the continuation of arisen wholesome states
-   - (See [[Wholesome kamma]])
+   - (See [[The three wholesome roots]])
 
 ___
 
@@ -17,5 +17,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]] / [[Mindfulness]]
+Tags: [[Philosophy]] / [[Spirituality]] / [[Ethics]] 
 Status: #☀️ 

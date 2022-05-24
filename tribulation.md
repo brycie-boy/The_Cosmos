@@ -1,5 +1,5 @@
 
-## tribulation  # 
+## tribulation  #🧠 
 
 _noun_
 
