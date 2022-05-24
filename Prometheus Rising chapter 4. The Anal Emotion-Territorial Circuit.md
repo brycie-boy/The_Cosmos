@@ -143,7 +143,7 @@ Obviously, an ideally “balanced” person—that is, one not robotized and abl
 The dark inner circle would represent the adamantine individuality of this ideally detached person — detached from robot imprints. The grey circle would represent the ability to move out into each quadrant in times when that was necessary.
 
 - Highlight - Location 902
-Circles of this sort, called mandalas, are widely used for meditation in the Buddhist tradition. Often
+Circles of this sort, called mandalas, are widely used for meditation in the Buddhist tradition. Often they are cornered by four demons who evidently, like the Occidental lion, bull, angel and eagle, represent the extremes to be avoided.
 
 - Highlight - Location 903
 ![[0E184E24-89EF-4E40-BE09-BC6567643DF0.jpeg]]
