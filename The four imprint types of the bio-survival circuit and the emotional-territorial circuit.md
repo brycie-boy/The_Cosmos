@@ -1,4 +1,4 @@
-## The four imprint types of the bio-survival circuit and the emotional-territorial circuit  # 
+## The four imprint types of the bio-survival circuit and the emotional-territorial circuit  #🧠 
 
 [[The Anal Emotional-Territorial Circuit]]s domination/submission imprints create a two demensional social space in conjection with [[The Oral Bio-Survival Circuit]]s advance/retreat imprints. The grids of [[The Oral Bio-Survival Circuit]] and [[The Anal Emotional-Territorial Circuit]] thus create four quadrents. These are: 
 
@@ -21,4 +21,4 @@ ___
 
 Type: #🔵/🔵 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] 
-Status: #⛅️ 
+Status: #☀️ 

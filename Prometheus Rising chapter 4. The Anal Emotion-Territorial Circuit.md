@@ -6,9 +6,9 @@
 
 Author: Robert Anton Wilson
 Publish Date: 1983-7
-Review Date:
-Status: #💥
-Tags:
+Review Date: 2022-5-19
+Status: #☁️/📚 
+Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] 
 
 ___
 
@@ -96,11 +96,8 @@ For instance, an influential psychological test in this country, the Leary Inter
 - Highlight(pink) - Location 816
 In the grid on which the Leary categories are drawn, the moderate imprints are in toward the center and the excessive or extreme cases are out toward the perimeter, but what is being measured is still basically the way the first two circuits (oral-bio-survival and anal-territorial) are imprinted.
 
-- Highlight - Location 838 ❗️
+- Highlight - Location 838 
 The irony and the tragedy of human life is that none of these subjects are aware at all of their robotry. Each will explain to you, at great length and with great conviction, why each of these robotic, endlessly-repeated reflexes are caused by the situations around them, i.e., by the “bad” behavior of other people. WHAT THE THINKER THINKS, THE PROVER PROVES.
-
-- Highlight - Location 842 ❗️
-Thus, if you put these four primates on a desert island, you can predict, with virtually as much certainty as a chemist telling us what will happen if four elements are compounded, that Subject #1 and #4 (Friendly Strength and Hostile Strength) will both try to take over—#1 to help the others, #4 because SHe can’t imagine anybody else in control. #1 will submit to #4 because #1 wants things to run smoothly for the good of all, and they never will run smoothly if #4 is not TOP DOG. #2, Friendly Weakness, will not care whether #1 or #4 rules, just so long as somebody else is making the decisions. And #3 will complain (and complain, and complain), no matter who is in charge, while skillfully avoiding any action that would require taking personal responsibility.
 
 ___
 
