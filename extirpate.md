@@ -1,8 +1,9 @@
 
 ## extirpate  # 🧠
 
-1. a. to destroy completely
-   b. to pull up by the root
+1. to destroy completely
+
+2. to pull up by the root
 
 ___
 

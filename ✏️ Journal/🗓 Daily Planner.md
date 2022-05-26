@@ -21,7 +21,7 @@ The daily planner is like my central hub for  managing my attention. If it isn�
 
 - [ ] Look for jobs (after vacation) (day: 0)
 - [ ] Driving practice
-- [ ] Organize music library
+- [ ] Set up privacy
 
 #### Weekly tasks
 
@@ -30,7 +30,7 @@ The daily planner is like my central hub for  managing my attention. If it isn�
 ### Later
 
 - Get gym membership 
-- Set up privacy
+- Organize music library
 - Work on GED
 - Delete photos
 
@@ -47,7 +47,7 @@ ___
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
 - [x] ☁️ Stellar Nursery: ❗️
-- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
+- [ ] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion

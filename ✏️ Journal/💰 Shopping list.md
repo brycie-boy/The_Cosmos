@@ -7,10 +7,6 @@
 > - Tech: $810
 > - **Overall:** $3695
 
-
-- ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
-	Amelia bed $700 https://www.urbanoutfitters.com/shop/amelia-platform-bed
-
 - ![[904D3FF3-B54D-4FB6-9CC2-3E99022587FC.jpeg|200]]
 	Bamboo bed sheets 6 pack $35 https://www.amazon.com/LuxClub-Friendly-Hypoallergenic-Anti-Bacteria-Washable/dp/B071RVW4ZY/ref=mp_s_a_1_3?crid=21MA32RQSMR80&keywords=bamboo%2Bsheets&qid=1651905592&sprefix=bamboo%2Bsheets%2Caps%2C96&sr=8-3&th=1&psc=1
 
@@ -60,8 +56,6 @@ https://a.aliexpress.com/_mOxjlsi
 	Cross pendant and chain $25 https://www.etsy.com/listing/998352158/mens-cross-necklace-silver-cross?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cross+pendant&ref=sr_gallery-1-11&organic_search_click=1&frs=1&bes=1&variation0=1998570329&variation1=1978363982
 
 - ![[C6D13649-9AA8-4A64-A81F-D5FCC2767498.JPEG|200]]
-
-- ![[C6D13649-9AA8-4A64-A81F-D5FCC2767498.JPEG|200]]
 	Grey Nike crewneck sweatshirt around $50
 
 - ![[2FA5EA13-89E0-4859-A122-B57F3EC6A5A3.JPEG|200]]
@@ -83,6 +77,10 @@ https://m.aliexpress.com/item/1005002452910001.html?spm=a2g0n.detail.1000014.3.1
 
 - ![[F22A1488-4A38-4334-A818-7235282C7C7B.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
+
+- ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
+	Amelia bed $700 https://www.urbanoutfitters.com/shop/amelia-platform-bed
+
 
 - ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
 	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
