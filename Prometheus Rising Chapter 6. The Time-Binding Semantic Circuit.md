@@ -12,10 +12,6 @@ Tags:
 
 ___
 
-[[Inbox scrap]]
-
-___
-
 - Highlight(pink) - Location 1019
 The third semantic circuit handles artifacts and makes a “map” (reality-tunnel) which can be passed on to others, even across generations. These “maps” may be paintings, blueprints, words, concepts, tools (with instructions on use transmitted verbally), theories, music, etc.
 
@@ -125,9 +121,45 @@ As with the earlier circuits, the semantic circuit builds all of its conditionin
 - Highlight - Location 1124
 Thus, a genius is one who, by some internal process, breaks through to Circuit VII — a minor neurological miracle loosely called “intuition” — and comes back down to the third circuit with the capacity to paint a new semantic map, build a new model of experience. Needless to say, this is always a profound shock to those still trapped in the old robot-imprints, and is generally considered a threat to territory (ideological head space). The long list of martyrs to free enquiry, from Socrates onward, shows how mechanical this neophobia (fear of new
 
+___
+
 - Highlight(pink) - Location 1128
 As Thomas Kuhn showed in The Structure of Scientific Revolutions, science itself—the apotheosis of third-circuit semantic rationality—is not free of this neophobia. Kuhn demonstrated, at length, that each scientific revolution took one full generation to turn over the old world view. And Kuhn further showed that the older scientists never are converted to the new semantic paradigm. They are, in our terminology, mechanically hooked to their original imprints. The revolution is complete, as Kuhn shows, only when a second generation, not hooked to the old imprint, is able to compare the two models and decides rationally that the newer one really does make more sense.
 
+- Highlight(pink) - Location 1133
+But if science, the most self-correcting of all information processing third-circuit functions, has this one-generation time lag, what can be said of politics, religion, economics? Time-lags of centuries, or even millenniums, are common there.*
+
+- Highlight(pink) - Location 1141
+We commented earlier that in bio-survival neurology, there is no time.
+
+- Highlight(pink) - Location 1142
+Emotional-territorial circuit actions begin to include time as a factor.
+
+- Highlight(pink) - Location 1143
+Dominance signals may not “work”: the seemingly weaker mammal may offer a counter-challenge. Two dogs will walk around each other for several minutes growling and sniffing (the chemical secretions of each reveals its actual degree of fear to the other) before Top Dog and Bottom Dog becomes clear.
+
+- Highlight(pink) - Location 1145
+On the human level, we often agonize over emotional decisions, becoming acutely conscious of time as we hesitate. As every suspense writer knows, the principle way to increase emotional tension is to set a time limit on a difficult or dangerous decision.
+
+- ighlight(pink) - Location 1148
+On the third circuit, time becomes conceptualized as well as experienced. We know ourselves as creatures of time; the “tale of the tribe,” the totem pole, the Odyssey of Homer, the Old Testament, the Vedas, etc. tell us what came before and often contains prophecies of what will come later. Science expands the third circuit into contemplation of time-spans that stagger our imaginations. The very use of written languages and other symbols like mathematics creates the time-binding sense of Korzybski: we know ourselves as receivers of messages sent by sages “of olde” and as potential transmitters of messages that may be scanned ages in the future.
+
+- Highlight(pink) - Location 1153
+The fourth circuit causes us to be even more involved in, and pressured by, time.
+
+___
+
+- Highlight(pink) - Location 1155
+
+EXERCIZES 
+
+1. If you are a Liberal, subscribe to the National Review, the country’s most intelligent (and witty) conservative magazine, for a year. Each month try to enter their reality-tunnel for a few hours while reading their articles. 
+2. If you are a Conservative, subscribe to the New York Review of Books for a year and try to get into their head-space for a few hours a month. 
+3. If you are a Rationalist, subscribe to Fate magazine for a year. 
+4. If you are an occultist, join the Committee for the Scientific Investigation of Claims of the Paranormal and read their journal, The Skeptical Inquirer, for a year. 
+5. Buy a copy of the Scientific American and read any article in it. Ask the following questions: Why do they sound so sure? Does the data support dogmatism at this point, or is dogma a primate habit (defending head-space)? Will these theories still be believed in 2011? In 2593? 
+6. Get into a discussion of philosophy with an educated Marxist, an intelligent Moslem and a Japanese businessman at the first opportunity. 
+7. Buy some ZOOM or LIFT (two names for the same caffeine-high stimulant) at a Health Food Store. (This gives a close approximation of the effects of illegal cocaine.) When you are Zooming or Lifted and your mind is racing, find a victim and explain the universe to him or her, until they are able to escape you. What you experience in this “speed rap” is what the head of the compulsive Rationalist is always like. This is the verbal circuit gone wild and totally oblivious to information coming in on any other circuit. It explains why most people cannot stand Rationalists. “Speed” drugs evidently trigger neuro-transmitters characteristic of the verbal centers of the left cortex.
 
 
 
