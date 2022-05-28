@@ -47,12 +47,12 @@ ___
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
 - [x] ☁️ Stellar Nursery: ❗️
-- [ ] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
+- [x] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
 
-> - 2 Max
+- [ ] Go back through Andy’s notes first before consuming the next source
 
 - [ ] **1.** 
 
