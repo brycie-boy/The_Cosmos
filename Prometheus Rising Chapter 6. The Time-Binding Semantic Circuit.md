@@ -91,6 +91,16 @@ Aleister Crowley knew about this pragmatically, before modern neurology. He taug
 - Highlight(pink) - Location 1098
 There is thus a cross-over which makes for a left-right polarity in both brain-functioning and hand-functioning, each being a reverse mirror image of the other:
 
+- Highlight(pink) - Location 1099
+
+- Highlight(pink) - Location 1100
+This double (and reversed) right-left polarity places us neurologically in three-dimensional space. Rearranging our diagram and adding the third circuit, we can illustrate the mind-field as follows:
+
+- Highlight(pink) - Location 1102
+
+- Highlight(pink) - Location 1104
+This is “Euclidean” space. It is obvious, in this context, why Euclidean space was the first kind of space discovered by mathematicians, and by artists, and why it still seems “natural” to us; why some have great difficulty in imagining the non-Euclidean kinds of space used in modern physics.
+
 
 
 
