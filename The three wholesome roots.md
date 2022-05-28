@@ -4,6 +4,9 @@ The three wholesome roots are the three underlying motives that lead to [[Wholes
 
 - generosity
 - loving-kindness ([[The devine abodes]])
+
+Which are perpetuated by the third wholesome root
+
 - wisdom
    -  that is, knowledge of [[The four nobel truths]]. 
 
