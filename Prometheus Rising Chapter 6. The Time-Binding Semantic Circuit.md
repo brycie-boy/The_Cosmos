@@ -103,6 +103,25 @@ This double (and reversed) right-left polarity places us neurologically in three
 - Highlight(pink) - Location 1104
 This is “Euclidean” space. It is obvious, in this context, why Euclidean space was the first kind of space discovered by mathematicians, and by artists, and why it still seems “natural” to us; why some have great difficulty in imagining the non-Euclidean kinds of space used in modern physics.
 
+- Highlight(pink) - Location 1106
+Euclidean space is a projection outward of the way our nervous systems stacks information on the bio-survival, emotional and semantic circuits.
+
+- Highlight(pink) - Location 1107
+Thus, the imprint sites of this circuit are located in the left cortex and closely linked with the delicate muscles of larynx and the fine manipulations of right-handed “dexterity.” The cortex itself is so recent in evolution that it is often called “the new brain”; it is found only in the higher mammals and is most developed in humans and cetaceans (dolphins and whales).
+
+___
+
+- Highlight(pink) - Location 1110
+Those extreme cases who take their heaviest imprint on the third circuit tend to grow up cerebrotonic. They are tall and skinny, because energy is perpetually drawn upward from the body into the head. The caricatured evil genius, Dr. Syvlanus in Superman, who was virtually all head, represents the extreme toward which this type seems to be evolving. Popular speech calls them “eggheads.”
+
+- Highlight(pink) - Location 1113
+Almost always, these cerebrotonic Third-Circuit types ignore or are hostile to their first and second circuit functions. Playfulness puzzles them (appears silly or eccentric) and emotions both baffle and frighten them.
+
+___
+
+- Highlight(pink) - Location 1128
+As Thomas Kuhn showed in The Structure of Scientific Revolutions, science itself—the apotheosis of third-circuit semantic rationality—is not free of this neophobia. Kuhn demonstrated, at length, that each scientific revolution took one full generation to turn over the old world view. And Kuhn further showed that the older scientists never are converted to the new semantic paradigm. They are, in our terminology, mechanically hooked to their original imprints. The revolution is complete, as Kuhn shows, only when a second generation, not hooked to the old imprint, is able to compare the two models and decides rationally that the newer one really does make more sense.
+
 
 
 
