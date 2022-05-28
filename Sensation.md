@@ -1,6 +1,6 @@
-## Sensations #🧠 
+## Sensation #🧠 
 
-Sensations, one of the [[The five aggregates]]. is defined as the "affective tone" of experience. It consists of painful, pleasant, and neutral sensations. The cause and condition for the manifestation of sensations is the contact between the internal and external [[Six sense bases]]. 
+Sensation, one of the [[The five aggregates]]. is defined as the "affective tone" of experience. It consists of painful, pleasant, and neutral sensations. The cause and condition for the manifestation of sensation is the contact between the internal and external [[Six sense bases]]. 
 
 ___
 

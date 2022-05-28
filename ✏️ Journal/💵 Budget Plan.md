@@ -10,8 +10,9 @@
 	- without food, haircut, and hygiene: $275
 	- Keep $300 in bank
 
-- Monthly payments:
+- Subscriptions:
 	- Gitkraken pro: $5 
+	- Obsidian publish: $20 month / $192 year
 
 ## left over money
  - Savings / investments 
