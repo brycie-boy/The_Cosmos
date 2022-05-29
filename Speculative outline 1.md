@@ -8,7 +8,8 @@
 - [[The three unwholesome roots]]
 - [[Altruism is rooted in a survival instinct to protect the gene-pool]]
 - [[The three wholesome roots]]
+- [[The ten pathways of wholesome and unwholsome kamma]]
 
 ___
 
-Status: #
+Type: #📄
