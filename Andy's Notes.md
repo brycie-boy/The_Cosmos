@@ -3,7 +3,7 @@
 Author: Andy Matushak
 Publish Date: No date
 Review Date: 2022-3-23
-Status: #☁️/🌐
+Status: #💥 
 Tags: [[Learning]] / [[PKM]]
 
 ___
@@ -18,13 +18,17 @@ ___
 
 ___
 
-- Most people use notes as a bucket for storage or scratch thoughts
+❗️
+
+- Most people use notes as a bucket for storage or scratch thoughts 
 
 - People don’t want to forget an idea or a conversation or a task or quote from a book, so they write it down in Evernote or something. What’s the purpose? Probably: “To make sure I don’t forget." Maybe: “Just writing it down helps me remember.”
 
 - In this conception, notes are a way to Close open loops not to accumulate insight. The “real” work happens outside the notes; the notes are just a reference system which stores information which might help, or a write-once pile of “messy” thoughts
 
 ___
+
+❗️
 
 - That’s because these practices aren’t about writing notes; they’re about effectively developing insight: “Better note-taking” misses the point; what matters is “better thinking”
 
@@ -34,19 +38,13 @@ ___
 
 ___
 
-- Evergreen note-writing as fundamental unit of knowledge work
-
-- if you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of Evergreen notes written per day.
-
-___
-
-- Evergreen note-writing helps insight accumulate
+- Evergreen note-writing helps insight accumulate ❗️
 
 - Much of the day-to-day thinking involved in creative work is simply lost, like sand castles in the tide. Ephemerality can actually be useful in low-fidelity thought, but it’s simply an accidental property in many cases. We should do our serious thinking in the form of Evergreen notes so that the thinking accumulates.
 
 ___
 
-- Leaps of insight emerge from prior thought
+- Leaps of insight emerge from prior thought ❗️
 
 - When looking at someone else’s stroke of genius, you see only the end product. You don’t see how much kindling was burnt before that sudden realization was possible. In part, that’s because even our own epiphanies don’t feel like they emerge as a natural consequence of prior efforts—but they do!
 
@@ -58,7 +56,7 @@ ___
 
 ___
 
-- Evergreen note-writing helps reading efforts accumulate
+- Evergreen note-writing helps reading efforts accumulate ❗️
 
 - It’s important to Write about what you read to internalize texts deeply but instead of just writing about the specific book you’re reading, you can (and should) write your notes such that your reading observations accumulate over time as they interact with each other and with your own ideas
 
@@ -85,7 +83,7 @@ ___
 - I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it’s written. When a note suggests a strong title with a clear claim, that’s a good sign that it’s starting to make sense.
 
 ___
-
+❗️
 - Concept handles, after Alexander [https://slatestarcodex.com/2016/02/20/writing-advice/](https://slatestarcodex.com/2016/02/20/writing-advice/)
 - A “concept handle” is a memorable noun phrase representing a complex, often abstract topic. For example: “prisoner’s dilemma,” “Overton window,” “belief in belief,”
 
@@ -116,7 +114,7 @@ ___
 - Organizing by concept makes note-taking a little harder, but in a useful way: when writing new notes, we have to find where they fit into the whole. So we explore some part of our prior web of notes, which may lead us somewhere unexpected.
 
 ___
-
+❗️
 - Prefer associative ontologies to hierarchical taxonomies
 
 - Our file systems, organizational structures, and libraries suggest that hierarchical categories are the natural structure of the world. But often items belong in many places. And items relate to other items in very different hierarchical categories.
@@ -128,37 +126,7 @@ ___
 - once you can see the shape, then you can think about its character.
 
 ___
-
-- Write about what you read to internalize texts deeply
-
-- If you want to deeply internalize something you’re reading, the best way I know is to write about it:
-
-___
-
-- because Understanding requires effortful engagement
-
-- If you want to really understand an idea, you have to grapple with it.
-
-- You can’t just read something, listen to a lecture, or hear a notion in a conversation. You’ve got to wonder: where does this apply and where does it not? What are the implications? What are the assumptions? Whose view is represented here? What does this refute? etc.
-
-___
-
-- and in particular, Writing forces sharper understanding
-
-- Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections
-
-___
-
-- collecting material feels more useful than it usually is
-
-- Accumulating tabs, saving PDFs, and making bookmarks feels like progress, but we systematically overrate its value. Understanding requires effortful engagement you are not likely to draw much understanding from a folder of barely-skimmed PDFs.
-
-- We collect material because it’s easy, and because it quells the anxiety that we’ll never find what we’re looking at again. But really, we’re often just making things worse, burying important materials in tons of secondary matter we just “don’t want to lose
-
-- And to help steer ourselves effectively we should process collected materials in short iteration cycles, rather than letting them pile up for long periods.
-
-___
-
+❗️
 - Do your own thinking
 
 - Beware: it’s too easy to let others’ schema and ideas dominate your own.
@@ -168,7 +136,7 @@ ___
 - For deep understanding, it’s not enough to just highlight or write marginalia in books: there isn’t much pressure to synthesize, connect, or to get to the heart of things. And they don’t add up to anything over time as you read more. Instead, write Evergreen notes as you read.
 
 ___
-
+❗️
 - Close open loops
 
 - Tasks left undone, observations left unrecorded, replies yet to be written—these swirl about our minds, as if we’re rehearsing them over and over again to make sure they’re not forgotten. To get rid of this nagging and create a “mind like water” (to use the term in Allen, 2015), build systems to reliably close these open loops.
@@ -182,7 +150,7 @@ ___
 - Taken together, these properties ensure that when you record a task, _you can stop thinking about it._ Ubiquitous capture isn’t enough, as most to-do systems demonstrate. If you don’t regularly review your task list and decide to delete or re-strategize lingering tasks, you won’t be able to trust that you’ll follow up on tasks you record.
 
 ___
-
+❗️
 - Executable strategy for writing
 
 - A naive writing process begins with a rough inkling about what one wants to write and a blank page. Progress from this point requires an enormous amount of activation energy and cognitive effort: there’s nothing external, so you must juggle all of the piece-to-be in your head.
@@ -192,7 +160,7 @@ ___
 - nstead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.
 
 ___
-
+❗️
 - Create speculative outlines while you write
 
 - When you write a new note, add it to one or more outlines you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge.
@@ -202,3 +170,9 @@ ___
 - Maintaining already-written notes in an outline is comparatively easy: just look at a pair of notes and ask: which comes first? (Pirsig)
 
 ___
+
+- Executable strategy for writing
+
+- A naive writing process begins with a rough inkling about what one wants to write and a blank page. Progress from this point requires an enormous amount of activation energy and cognitive effort: there’s nothing external, so you must juggle all of the piece-to-be in your head.
+
+- By contrast, if you’ve already written lots of concept-oriented Evergreen notes the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.

@@ -77,10 +77,10 @@
 - [x] Broccoli (frozen)
 - [x] Cauliflower
 	- Riced Cauliflower
-- [x] Baby spinach or arugula 
+- [ ] Baby spinach or arugula 
 - [x] Avocado 
 	- Guacamole
-- [x] Asparagus (frozen)
+- [ ] Asparagus (frozen)
 	- Artichoke 
 - [ ] Baby kale
 - [ ] Berries
@@ -98,7 +98,7 @@
 ### Cheese/Dairy
 
 - [x] Greek or Bulgarian yogurt
-- [x] Coconut cream 
+- [ ] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
 - [x] Goat cheese
@@ -113,7 +113,7 @@
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
-- [x] Nut Butters 
+- [ ] Nut Butters 
 	- Almond butter
 	- Mac nut butter
 	- Coconut butter
