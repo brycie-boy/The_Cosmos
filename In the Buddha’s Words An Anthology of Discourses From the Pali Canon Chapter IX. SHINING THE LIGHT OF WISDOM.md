@@ -5,7 +5,7 @@
 Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-4-21
-Status: #☁️/📚 
+Status: #💥 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
 
 ___
@@ -634,3 +634,14 @@ Yet, if this simile suggests a Buddhist version of the “annihilationist” vie
 
 - Highlight(pink) - Location 5535
 Our problem in understanding the state of the Tathāgata after death is compounded by our difficulty in understanding the state of the Tathāgata even while alive. The simile of the great ocean underscores this difficulty. Since the Tathāgata no longer identifies with the five aggregates that constitute individual identity, he cannot be reckoned in terms of them, whether individually or collectively. Freed from reckoning in terms of the five aggregates, the Tathāgata transcends our understanding. Like the great ocean, he is “deep, immeasurable, and hard to fathom.”7
+
+___
+
+- Highlight - Location 5257 ❗️
+The Discourse on Right View is intended to elucidate the principles that should be comprehended by conceptual right view and penetrated by experiential right view. Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
+
+- Highlight - Location 5260
+It should be noted that from the second section to the end of the sutta, he frames all his expositions in accordance with the same pattern, a pattern that reveals the principle of conditionality to be the scaffolding for the entire teaching. Whatever phenomenon he takes up, he expounds by bringing to light its individual nature, its arising, its cessation, and the way to its cessation. Since this is the pattern that underlies the Four Noble Truths, I shall call it “the four-truth pattern.” This pattern recurs throughout the Nikāyas as one of the major templates through which phenomena are to be viewed to arrive at true wisdom.
+
+- Highlight - Location 5264
+Its application makes it clear that no entity is isolated and self-enclosed but is, rather, inherently linked to other things in a complex web of dependently originated processes. The key to liberation lies in understanding the causes that sustain this web and bringing them to an end within oneself. This is done by practicing the Noble Eightfold Path, the way to extinguish those causes.

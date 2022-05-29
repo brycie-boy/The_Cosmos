@@ -7,7 +7,7 @@
 Author: Robert Anton Wilson
 Publish Date: 1983-7
 Review Date: 2022-5-14
-Status: #☁️/📚 
+Status: #💥 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
 
 ___
@@ -65,7 +65,7 @@ All of which is robotic, until one learns how to reprogram and reimprint one’s
 
 ___
 
-- Highlight(pink) - Location 557
+- Highlight(pink) - Location 557 ❗️
 Of course, on top of the hard-wired imprinting of the biosurvival circuit comes “softer” conditioning. This allows the safe-space perimeter to be generalized outward from the mother’s body to the pack or tribe—the “extended family.”
 
 - Highlight(pink) - Location 559

@@ -47,12 +47,12 @@ ___
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
 - [x] ☁️ Stellar Nursery: ❗️
-- [x] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
+- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  
 
 ### 3. 📥 Ingestion
 
-- [ ] Go back through Andy’s notes first before consuming the next source
+- [ ] Go back through Andy’s notes, lyt kit, and Bryan jenks tag vid and write about constellations 
 
 - [ ] **1.** 
 
