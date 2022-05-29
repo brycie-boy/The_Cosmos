@@ -21,17 +21,19 @@ Any mammal hooks the bio-survival circuit to the first imprinted bio-survival ob
  - Highlight(pink) - Location 481
 How important is this oral imprinting? We read of a baby giraffe whose mother was accidentally killed by a jeep immediately after birth. The neonate, following hard-wired genetic programs, “imprinted” the first object that roughly fit the giraffe archetype—the jeep itself. He followed the machine around, vocalized to it, attempted to suckle from it, and, when adult, tried to mate with it. Similarly, Konrad Lorenz tells of a gosling who accidentally imprinted a ping-pong ball and spent his adult life, indifferent to female geese, attempting to sexually mount ping-pong balls.
 
-- Highlight(pink) - Location 497
-Freudians suggest that opiate addiction is an attempt to return to the womb. In keeping with our theory, it is more likely that opium and its derivatives return us to the “safe space” on the biosurvival circuit, the warm, snug place of bio-security; opiates may trigger neuro-transmitters* characteristic of breast-feeding.
-
-- Highlight(pink) - Location 502
-Neuro-transmitters are chemicals which alter the electro-colloidal balance of the brain and hence change the perceptual field. Brain-change agents. 
-
 - Highlight(pink) - Location 505
 In summary: the bio-survival circuit is DNA-programmed to seek a comfort-safety zone around a mothering organism. If a mother isn’t present, the closest substitute in the environment will be imprinted.
 
 - Highlight(pink) - Location 508
 The “wiring” of this circuit, in primitive form, occurred in the first organisms, between three and four billion years ago. In the modern human, this structure remains in the brain stem and in the autonomic (“involuntary”) nervous system, where it is interconnected with the endocrine and other life-support systems. This is why disturbances on this circuit act “all over the body at once” and generally take the form of physical symptoms rather than “mental” symptoms and usually get referred to the M.D. instead of the psychiatrist.
+
+___
+
+- Highlight(pink) - Location 538 
+this circuit, being the oldest in evolutionary development, is the most mechanical, and the most rapid. One is not conscious of time at all on the bio-survival circuit.
+
+- Highlight(pink) - Location 547
+The bio-survival program first attaches to the safe space around the mother (oral imprint), and then with age moves further and further out, exploring what is safe and what is not. Without hard-wired genetic programs (i.e., automatic programs) this second stage would be impossible, and no mammal would ever leave the teat. The hard-wired programs act automatically (UNCONSCIOUSLY) because if you had to stop and think out each situation, you would be eaten by the first predator.
 
 ___
 
@@ -46,14 +48,6 @@ We especially refer to adrenaline and adrenalutin, which signal the whole organi
 
 - Highlight(pink) - Location 527
 And this is why Gurdjieff said, in his own jargon, that people are asleep and having nightmares. “FAIRNESS? DECENCY? HOW CAN YOU EXPECT FAIRNESS OR DECENCY ON A PLANET OF SLEEPING PEOPLE?”—G.I. Gurdjieff This was the viewpoint of the earliest Christians, later condemned as heretics (Gnostics) by the Roman bureaucrats. The Gospel of Truth, first century, says bluntly that history is a nightmare:  . . . as if (mankind) were sunk in sleep and found themselves in disturbing dreams. Either (there is) a place to which they are fleeing . . .or they are involved in striking blows, or they are receiving blows themselves . . . sometimes it is as if people were murdering them . . . or they themselves are killing their neighbors . . . To these first Christians, as to the Buddhists, awakening literally meant coming out of this nightmare of terrifying fantasies. In our terminology, it means correcting the editing that causes us to behave and perceive like very badly (inappropriately) wired robots and suddenly seeing the unedited world.
-
-___
-
-- Highlight(pink) - Location 538 
-It must be emphasized that this circuit, being the oldest in evolutionary development, is the most mechanical, and the most rapid. One is not conscious of time at all on the bio-survival circuit.
-
-- Highlight(pink) - Location 547
-The bio-survival program first attaches to the safe space around the mother (oral imprint), and then with age moves further and further out, exploring what is safe and what is not. Without hard-wired genetic programs (i.e., automatic programs) this second stage would be impossible, and no mammal would ever leave the teat. The hard-wired programs act automatically (UNCONSCIOUSLY) because if you had to stop and think out each situation, you would be eaten by the first predator.
 
 ___
 
