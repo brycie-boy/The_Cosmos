@@ -18,9 +18,7 @@ ___
 
 ___
 
-❗️
-
-- Most people use notes as a bucket for storage or scratch thoughts 
+- Most people use notes as a bucket for storage or scratch thoughts ❗️
 
 - People don’t want to forget an idea or a conversation or a task or quote from a book, so they write it down in Evernote or something. What’s the purpose? Probably: “To make sure I don’t forget." Maybe: “Just writing it down helps me remember.”
 
@@ -28,9 +26,7 @@ ___
 
 ___
 
-❗️
-
-- That’s because these practices aren’t about writing notes; they’re about effectively developing insight: “Better note-taking” misses the point; what matters is “better thinking”
+- That’s because these practices aren’t about writing notes; they’re about effectively developing insight: “Better note-taking” misses the point; what matters is “better thinking” ❗️
 
 - Lots of people write about solutions to the problem that Note-writing practices are generally ineffective The vast majority of that writing fixates on a myopic, “lifehacking”-type frame, focused on answering questions like: “how should I organize my notes?”, “what kind of journal should I use?”, “how can I make it easy to capture snippets of things I read?”, etc.
 
@@ -157,11 +153,48 @@ ___
 
 - By contrast, if you’ve already written lots of concept-oriented Evergreen notes around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.
 
+- In fact, because you can Create speculative outlines while you write you might find that the first of these steps is already accomplished, too. And writing each note isn’t hard: Evergreen notes permit smooth incremental progress in writing (“incremental writing")
+
 - nstead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.
 
 ___
-❗️
-- Create speculative outlines while you write
+
+-  Evergreen notes permit smooth incremental progress in writing (“incremental writing”)
+
+- Evergreen notes’ atomic size (Evergreen notes should be atomic) and link structures (Evergreen notes should be densely linked) make it easy to stop and resume work. This helps us Close open loops
+
+- These small, self-contained notes represent regular checkpoints. Each note takes only a few minutes to write, but because they’re Evergreen notes, each note is solid ground to stand on—fairly complete relative to its own concept (Evergreen notes should be concept-oriented). Of course, we’ll iterate on their contents over time, but each time we do, that note will remain a mostly-complete, self-contained unit.
+
+- By contrast, when we’re working on a large work-in-progress manuscript, we’re juggling many ideas in various states of completion. Different parts of the document are at different levels of fidelity. The document is large enough that it’s easy to lose one’s place or to forget where other relevant points are when one returns. Starting and stopping work for the day feel like heavy tasks, drawing heavily on working memory.
+
+- Instead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.” Each step feels doable. This is an Executable strategy
+
+- I describe two approaches here: an **undirected** version, in which writing projects emerge organically from daily work; and a **directed** version, in which you’re trying to write about something specific.
+
+- Undirected version:
+1.  Write durable notes continuously while reading and thinking. ([Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be))
+2.  Each time you add a note, add a link to it to an outline, creating one if necessary ([Create speculative outlines while you write](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)).
+3.  Eventually, you’ll feel excited about fleshing out one of those outlines. ([Let ideas and beliefs emerge organically](https://notes.andymatuschak.org/z5uSCvx3W2GdzBVhWAAXrrCcykJ8SHimdJzg7))
+4.  Write new notes to fill in missing pieces of the outline.
+5.  Concatenate all the note texts together to get an initial manuscript
+6.  Rewrite it.
+
+- Directed version:
+1.  Review notes related to your topic (and a step or two beyond those—[Notes should surprise you](https://notes.andymatuschak.org/z4KZ9973AoHhvM9Pj5Qrds48JXNbMEwVJmVRw))
+2.  Write an outline
+3.  Attach existing notes to each point in the outline; write new notes as needed.
+4.  Concatenate all the note texts together to get an initial manuscript
+5.  Rewrite it.
+
+- Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_.: As the outcome of each task is written down and possible connections become visible, it is easy to pick up the work any time where we left it without having to keep it in mind all the time. All this enables us to later pick up a task exactly where we stopped without the need to “keep in mind” that there still was something to do. That is one of the main advantages of thinking in writing – everything is externalised anyway. Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a “mind like water” - the state where we can focus on the work right in front of us without getting distracted by competing thoughts.
+
+___
+
+- Executable strategy ❗️
+
+___
+
+- Create speculative outlines while you write ❗️
 
 - When you write a new note, add it to one or more outlines you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge.
 
@@ -169,10 +202,19 @@ ___
 
 - Maintaining already-written notes in an outline is comparatively easy: just look at a pair of notes and ask: which comes first? (Pirsig)
 
+- Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_.: Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight. Steven Johnson, who wrote an insightful book about how people in science and in general come up with genuine new ideas, calls it the “slow hunch.” As a precondition to make use of this intuition, he emphasises the importance of experimental spaces where ideas can freely mingle (Johnson 2011). A laboratory with open-minded colleagues can be such a space, much as intellectuals and artists freely discussed ideas in the cafés of old Paris. I would add the slip-box as such a space in which ideas can mingle freely, so they can give birth to new ones. “When I am stuck for one moment, I leave it and do something else.” When Luhmann asked what else he did when he was stuck, his answer was: “Well, writing other books. I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any mental blockages.”
+
 ___
 
-- Executable strategy for writing
+- Use notes to avoid preconceived conclusions ❗️
 
-- A naive writing process begins with a rough inkling about what one wants to write and a blank page. Progress from this point requires an enormous amount of activation energy and cognitive effort: there’s nothing external, so you must juggle all of the piece-to-be in your head.
+- When writing manuscripts, one often begins with a conclusion (or at least an angle) in mind, and then we write or do research with an eye to supporting that idea. If we’re not careful, those preconceptions will distort our thinking. But if we begin by writing Evergreen notes should be atomic, we can let the conclusions and topic _emerge_ from our careful thinking.
 
-- By contrast, if you’ve already written lots of concept-oriented Evergreen notes the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.
+- > The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research.
+
+- Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_.
+- The linear process promoted by most study guides, which insanely starts with the decision on the hypothesis or the topic to write about, is a sure-fire way to let confirmation bias run rampant. First, you basically fix your present understanding, as the outcome instead of using it as the starting point, priming yourself for one-sided perception. Then you artificially create a conflict of interest between getting things done (finding support for your preconceived argument) and generating insight, turning any departure from your preconceived plan into a mutiny against the success of your own project. This is a good rule of thumb: If insight becomes a threat to your academic or writing success, you are doing it wrong.
+
+___
+
+- Knowledge work should accrete ❗️

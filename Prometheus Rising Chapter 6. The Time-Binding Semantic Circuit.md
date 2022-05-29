@@ -6,7 +6,7 @@
 
 Author: Robert Anton Wilson
 Publish Date: 1983-7
-Review Date: 
+Review Date: 2022-05-29
 Status: #💥
 Tags:
 
