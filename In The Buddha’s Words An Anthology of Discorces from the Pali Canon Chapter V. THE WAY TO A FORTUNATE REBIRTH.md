@@ -13,6 +13,9 @@ ___
 - Highlight(pink) - Location 2581
 According to the Buddha’s teaching, the cosmos, with its many realms of sentient existence, is governed at all levels by immutable laws, physical, biological, psychological, and ethical. The process by which sentient beings migrate from one state of existence to another is likewise lawful.
 
+- Highlight - Location 2583
+It is regulated by a law that works in two principal ways: first, it connects our actions with a particular realm of rebirth that corresponds to our actions; and second, it determines the relations between our actions and the quality of our experience within the particular realm into which we have been reborn.
+
 - Highlight(pink) - Location 2585
 The governing factor in this process, the factor that makes the entire process a lawful one, is a force called kamma
 
