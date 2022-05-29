@@ -5,7 +5,7 @@
 Author: Bhikku Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-4-21
-Status: #💥 
+Status: #☁️/📚 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
 
 ___
@@ -637,7 +637,7 @@ Our problem in understanding the state of the Tathāgata after death is compound
 
 ___
 
-- Highlight - Location 5257 ❗️
+- Highlight - Location 5257 
 The Discourse on Right View is intended to elucidate the principles that should be comprehended by conceptual right view and penetrated by experiential right view. Sāriputta expounds these principles under sixteen headings: the wholesome and the unwholesome, the four nutriments of life, the Four Noble Truths, the twelve factors of dependent origination, and the taints.
 
 - Highlight - Location 5260

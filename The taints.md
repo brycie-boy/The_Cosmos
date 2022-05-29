@@ -5,6 +5,7 @@ The taints are a classification of defilements considered in their role in the p
 - craving for sensual pleasures
 - craving for existence  
 - ignorance
+   - that is, of [[The four nobel truths]]
 
 ___
 

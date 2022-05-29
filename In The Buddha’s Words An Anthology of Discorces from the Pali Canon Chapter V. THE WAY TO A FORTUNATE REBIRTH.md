@@ -5,7 +5,7 @@
 Author: Bhikkhu Bodhi
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
-Type: #💥
+Type: #☁️/📚 
 Tags:  [[Philosophy]] / [[Spirituality]] / [[Religion]] / [[Ethics]]
 
 ___
@@ -25,7 +25,7 @@ The word “kamma” literally means action, but technically it refers to voliti
 - Highlight(pink) - Location 2589
 Such volition may remain purely mental, generating mental kamma that occurs as thoughts, plans, and desires; or it may come to expression outwardly through manifest bodily and verbal actions.
 
-- Highlight(pink) - Location 2592 ❗️
+- Highlight(pink) - Location 2592 
 It may seem that our deeds, once performed, perish and vanish without leaving behind any traces apart from their visible impact on other people and our environment. However, according to the Buddha, all morally determinate volitional actions create a potential to bring forth results (vipāka) or fruits (phala) that correspond to the ethical quality of those actions. This capacity of our deeds to produce the morally appropriate results is what is meant by kamma. Our deeds generate kamma, a potential to produce fruits that correspond to their own intrinsic tendencies. Then, when internal and external conditions are suitable, the kamma ripens and produces the appropriate fruits.
 
 - Highlight(pink) - Location 2595
