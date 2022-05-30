@@ -1,6 +1,8 @@
 
 ## Speculative outline 1
 
+### Section 1
+
 - [[Kamma]]
 - [[Wholesome kamma]]
 - [[Unwholesome kamma]]
@@ -15,6 +17,8 @@
 - [[The most successful reimprinting techniques focus on the body first rather than the mind]]
 - [[Serenity]]
 - [[Insight]]
+
+### Section 2
 
 ___
 
