@@ -39,6 +39,9 @@ So-called “future shock” has always been with us, since the semantic circuit
 - Highlight(pink) - Location 1046
 In ordinary language, the semantic circuit is usually called “the mind.” (As psychologist Robert Ornstein said in a recent radio show, when we say someone “has a good mind,” we generally mean they have a good mouth, i.e., they use the semantic circuit well.)
 
+- Highlight - Location 1048
+In terms of Transactional Analysis, the first (oral) circuit is called the Natural Child, the second (emotional) circuit is called the Adapted Child, and the semantic circuit is called the Adult or Computer. In Jungian terms, the first circuit mediates sensation, the second circuit feeling, and the third circuit reason.
+
 - Highlight(pink) - Location 1050 
 The neurological components of the first circuit go back to the oldest parts of the brain; Carl Sagan called these functions “the reptile brain.” These neural structures are at least billions of years old. The second circuit structures appeared with the first amphibians and mammals, somewhere around 1000 million or 500 million years ago; Sagan called them “the mammalian brain.” The semantic circuit appeared perhaps 100 thousand years ago; Sagan called it “the human brain.”
 
