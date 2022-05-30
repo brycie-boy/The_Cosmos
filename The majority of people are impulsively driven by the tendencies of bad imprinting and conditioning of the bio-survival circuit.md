@@ -8,9 +8,9 @@ This is why [[George Gurdjieff]] said, in his own jargon, that people are asleep
 
 > . . . as if (mankind) were sunk in sleep and found themselves in disturbing dreams. Either (there is) a place to which they are fleeing . . .or they are involved in striking blows, or they are receiving blows themselves . . . sometimes it is as if people were murdering them . . . or they themselves are killing their neighbors . . . 
 
-Actions of this nature, that is, of a bad [[The Oral Bio-Survival Circuit]] imprint, are further enumerated by Buddhists as [[The ten pathways of wholesome and unwholsome kamma]].
+Actions derived from a bad imprint of [[The Oral Bio-Survival Circuit]] imprint, are further clarified by Buddhists as [[The ten pathways of wholesome and unwholsome kamma]].
 
-To these first Christians, as to the Buddhists, awakening literally meant coming out of this "nightmare" of delusions (ignorance of [[The four nobel truths]]) and impulsive tendencies ([[The three unwholesome roots]]). In other words, it means correcting the imprinting and conditioning that causes us to behave and perceive like inappropriately wired robots and suddenly seeing the unedited world. [[The most successful reimprinting techniques focus on the body first rather than the mind]]
+To these first Christians, as to the Buddhists, “awakening” (Bodhi) literally meant coming out of this "nightmare" of delusions (ignorance of [[The four nobel truths]]) and impulsive tendencies ([[The three unwholesome roots]]) through [[insight]]. In other words, it means correcting the editing that causes us to behave and perceive like inappropriately wired robots and suddenly seeing the unedited world. [[The most successful reimprinting techniques focus on the body first rather than the mind]]
 
 ___
 
@@ -22,4 +22,4 @@ ___
 
 Type: #🔴 
 Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
-Status: #⛅️ 
+Status: #⛅️/⛅️ 
