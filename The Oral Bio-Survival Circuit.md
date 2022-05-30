@@ -4,8 +4,6 @@ The Oral Bio-Survival Circuit, one of [[The Eight Circuits of Consciousness]], i
 
 The "wiring" of this circuit occured in the first organisms, between three and four billion years ago. In modern humans, this structure remains in [[The brain stem]] and in [[The automatic nervous system]], where it is interconnected with [[The endocrine system]] and other life support systems. This is why disturbances of this circuit act "all over the body at once" and generally take the form of physical symptoms rather than "mental" symptoms and usually get refered to a doctor instead of a psychaitrist. 
 
-Of course, the imprint is made by chance—by the circumstances one is born under. Some imprint bravery, inquisitiveness, and exploratory drive; others imprint timidity, infophobia (fear of the unpredictable), and withdrawl. All of which is robotic until one learns how to reprogram and reimprint ones mind. [[The most successful reimprinting techniques focus on the body first rather than the mind]].
-
 In pre-neurological terms, the oral bio-survival circuit is what we usually call "[[Consciousness]]". It is the sense of being here now, in this vulnerable body, subject to the raw energies and forces of the physical universe. When we are "unconscious", the circuit is turned off and doctors can cut us up without our attempting to flee or cry out.
 
 ___
