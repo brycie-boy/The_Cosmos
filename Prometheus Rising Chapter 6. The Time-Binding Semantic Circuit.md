@@ -44,11 +44,6 @@ The neurological components of the first circuit go back to the oldest parts of 
 
 ___
 
-- Highlight(pink) - Location 1027
-Since words contain both denotations (referents in the sensory-existential world) and connotations (emotional tones and poetic or rhetorical hooks), humans can be moved to action even by words which have no real meaning or reference in actuality. This is the mechanism of demagoguery, advertising and much of organized religion.
-
-___
-
 - Highlight(pink) - Location 1054
 It should be no surprise that most people, most of the time, are controlled more by the older reptilian-mammalian circuits than by the human semantic (rational) circuit, or that the semantic circuit is so easily perverted into false logics (bigotries, intolerant ideologies, fanaticisms of all sorts) when the bio-survival circuit signals threat to life or the emotional circuit flashes threat to status. Cynics, satirists and “mystics” (circuit V-VIII types) have told us over and over that “reason is a whore,” i.e., that the semantic circuit is notoriously vulnerable to manipulation by the older, more primitive circuits. However much the Rationalist may resent this, it is always true in the short run—that is, to use one of the Rationalist’s favorite words, it is always pragmatically true. Whoever can scare people enough (produce bio-survival anxiety) can sell them quickly on any verbal map that seems to give them relief, i.e., cure the anxiety. By frightening people with Hell and then offering them Salvation, the most ignorant or crooked individuals can “sell” a whole system of thought that cannot bear two minutes of rational analysis.
 
