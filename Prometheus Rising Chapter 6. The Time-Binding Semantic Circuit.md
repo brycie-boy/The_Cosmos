@@ -24,6 +24,9 @@ If Moses, Confucius, Buddha, Mohammed, Jesus and St. Paul can be considered livi
 - Highlight(pink) - Location 1024
 These systems include words, artworks, music, rituals and unrecognized rituals (“games”) through which culture is transmitted.
 
+- Highlight - Location 1027
+Since words contain both denotations (referents in the sensory-existential world) and connotations (emotional tones and poetic or rhetorical hooks), humans can be moved to action even by words which have no real meaning or reference in actuality. This is the mechanism of demagoguery, advertising and much of organized religion.
+
 - Highlight(pink) - Location 1033
 The semantic circuit allows us to sub-divide things, and reconnect things, at pleasure. There is no end to its busy-busy-busy labeling and packaging of experience. On the personal level, this is the “internal monologue” discovered by Joyce in Ulysses. On the historical level, this is the time-binding function described by Korzybski, which allows each generation to add new categories to our mental library—connecting new things, separating new things, reclassifying and reshuffling forever.
 
