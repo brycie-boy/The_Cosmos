@@ -27,21 +27,17 @@ These systems include words, artworks, music, rituals and unrecognized rituals (
 - Highlight(pink) - Location 1033
 The semantic circuit allows us to sub-divide things, and reconnect things, at pleasure. There is no end to its busy-busy-busy labeling and packaging of experience. On the personal level, this is the “internal monologue” discovered by Joyce in Ulysses. On the historical level, this is the time-binding function described by Korzybski, which allows each generation to add new categories to our mental library—connecting new things, separating new things, reclassifying and reshuffling forever.
 
-- Highlight(pink) - Location 1046
-In ordinary language, the semantic circuit is usually called “the mind.” (As psychologist Robert Ornstein said in a recent radio show, when we say someone “has a good mind,” we generally mean they have a good mouth, i.e., they use the semantic circuit well.)
-
-___
-
-- Highlight(pink) - Location 1050 
-The neurological components of the first circuit go back to the oldest parts of the brain; Carl Sagan called these functions “the reptile brain.” These neural structures are at least billions of years old. The second circuit structures appeared with the first amphibians and mammals, somewhere around 1000 million or 500 million years ago; Sagan called them “the mammalian brain.” The semantic circuit appeared perhaps 100 thousand years ago; Sagan called it “the human brain.”
-
-___
-
-- Highlight(pink) - Location 1037 ❗️
+- Highlight(pink) - Location 1037 
 In this time-binding dimension, Einstein replaced Newton before most of the world* had heard of Newton; simple arithmetic gave birth to algebra, which brought forth calculus, which produced tensor calculus, etc. Haydn and Mozart prepared the way for Beethoven, who broke into the realms that the Romantics and Wagnerians took over, which gave birth to what is called music today. ~•~ * Most of the world was illiterate until the 1970s. ~•~
 
 - Highlight(pink) - Location 1043
 So-called “future shock” has always been with us, since the semantic circuit began functioning somewhere in pre-history. In a symbolizing, calculating, abstracting species, all times are “times of change.” The process is however accelerating faster as time passes, because the symbolizing faculty is inherently self-augmenting.
+
+- Highlight(pink) - Location 1046
+In ordinary language, the semantic circuit is usually called “the mind.” (As psychologist Robert Ornstein said in a recent radio show, when we say someone “has a good mind,” we generally mean they have a good mouth, i.e., they use the semantic circuit well.)
+
+- Highlight(pink) - Location 1050 
+The neurological components of the first circuit go back to the oldest parts of the brain; Carl Sagan called these functions “the reptile brain.” These neural structures are at least billions of years old. The second circuit structures appeared with the first amphibians and mammals, somewhere around 1000 million or 500 million years ago; Sagan called them “the mammalian brain.” The semantic circuit appeared perhaps 100 thousand years ago; Sagan called it “the human brain.”
 
 ___
 
