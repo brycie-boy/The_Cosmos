@@ -1,6 +1,6 @@
 ## Hostile weakness (choleric) #🧠 
 
-The hostile weakness type (the paranoid)is one of [[The four imprint types of the bio-survival circuit and the emotional-territorial circuit]]. It is a combination of the imprints of retreat and domination. In the terminology of the medieval psychology of the four humors, this type is known as the choleric humor. The choleric humor is identified with the Bull archetype (truculent suspicion, paranoia) and [[The earth element]], standing for sluggish psuedo "stupidity" (This is the traditional stance of defeated races dealing with their conquerors). The [[Transactional Analysis]] system categorizes this type with the life script of "im not okay, you're not okay".
+The hostile weakness type (the paranoid)is one of [[The four imprint types of the bio-survival circuit and the emotional-territorial circuit]]. It is a combination of the [[imprint]]s of retreat and domination. In the terminology of the medieval psychology of the four humors, this type is known as the choleric humor. The choleric humor is identified with the Bull archetype (truculent suspicion, paranoia) and [[The earth element]], standing for sluggish psuedo "stupidity" (This is the traditional stance of defeated races dealing with their conquerors). The [[Transactional Analysis]] system categorizes this type with the life script of "im not okay, you're not okay".
 
 ___
 

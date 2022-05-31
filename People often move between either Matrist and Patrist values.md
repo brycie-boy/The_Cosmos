@@ -32,7 +32,7 @@ Patrist:
  - Asetic
  - Father god
 
-Wether or not societies wobble between these two extremes as Taylor claims, individuals certainly do. These are merely consequences of (a) having the heaviest imprint on the [[Oral Bio-Survival Circuit]] (Matrist), and (b) having the heaviest imprint on the [[Anal Emotional-Territorial Circuit]] (Patrist).
+Wether or not societies wobble between these two extremes as Taylor claims, individuals certainly do. These are merely consequences of (a) having the heaviest [[imprint]] on the [[Oral Bio-Survival Circuit]] (Matrist), and (b) having the heaviest [[imprint]] on the [[Anal Emotional-Territorial Circuit]] (Patrist).
 
 ___
 

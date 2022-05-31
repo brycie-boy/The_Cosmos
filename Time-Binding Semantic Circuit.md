@@ -16,7 +16,6 @@ ___
 
 - Wilson, A. Robert. (1983) [[Prometheus Rising Chapter 2. Hardware & Software The Brain & Its Programs]] (Location 425). Grand Junction, CO: _Hilaritas Press_.
 
-
 - Wilson, A. Robert. (1983) [[Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit]] (Location 1019). Grand Junction, CO: _Hilaritas Press_.
 
 ##### Metadata

@@ -4,12 +4,10 @@ Every computer consists of two aspects, the hardware and the software (software 
 
 Considering that [[The brain can be seen as an electro-collodial computer]], we all know where the hardware is; it is inside the skull. The software, however, seems to be anywhere and everywhere. For instance, the software "in" the brain also exists outside of it in the form of, say, a book read many years ago, as well as anyone or (to some extent) anything that has impacted upon ones own brain. Of course, if consciousness consisted of nothing but this undifferentiated tapioca of timeless, spaceless software, we would have no individuality. We want to know then, how out of this universal ocean of software, a specific person emerges. [[What the Thinker thinks, the Prover proves]]. Becuase [[The brain can be seen as an electro-collodial computer]], all brains follow the same laws, that is, the programs enter the brain, as electro-chemical bonds, in discrete quantum stages. Each set of programs has four basic parts:
 
-- Genetic imperitives: totally hardwired programs or "instincts"
-- Imprints: These are more or less hardwired programs which the brain is genetically designed to accept only at specific points of development. These points in [[ethology]] are known as imprint vulnerability
-- Conditioning: These are programs built onto the imprints, they are looser and fairly easy to change with counter conditioning
-- Learning: this is even looser and "softer" than conditioning
-
-In general, the primordial imprint can always overule any subsequent learning and conditioning. An imprint is a type of software that has become frozen into hardware, bring impressed on tender neurons as they are peculiarly open and vulnrable. Imprints are non-negotiable aspects of our individuality. Out of the infinite amount of possible programs that can exist as potential software, imprints set the limits, parameters, and perimeters with which all subsequent conditioning occurs. Each succesive imprint further complicates the software which programs what we experience as "reality". Conditioning and learning build netwroks into this bedrock of imprinted software. The total structure of this brain circuitry makes up our map of the world. It is what our Thinker thinks, and our Prover mechanically fits all incoming signals to the limitations of this map.
+- [[Genetic imperitive (hardwired program)]]s
+- [[Imprint]]s
+- [[Conditioning]]
+- [[Learning (ethology)]]
 
 ___
 

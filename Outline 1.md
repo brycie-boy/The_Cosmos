@@ -6,7 +6,7 @@ The Oral Bio-Survival Curcuit: The Derminate of Rebirth
 - [[Oral Bio-Survival Circuit]]
 - [[The three unwholesome roots]]
 - [[Kamma]]
-- [[Altruism is rooted in a survival instinct to protect the gene-pool]]
+- [[Altruism is rooted in an instinct to protect the gene-pool]]
 - [[The three wholesome roots]]
 - [[Merit]]
 - [[The Bio-Survival circuit acts entirely unconciously and automatically]]

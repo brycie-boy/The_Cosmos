@@ -60,7 +60,7 @@ The emotional-territorial or “patriotic” circuit also contains the pack’s 
 
 ___
 
-- Highlight(pink) - Location 1078 ❗️
+- Highlight(pink) - Location 1078  
 The attentive reader will remember that the grid of the first two circuits puts the pre-verbal child in a two-dimensional world,
 
 - Highlight(pink) - Location 1080
@@ -117,7 +117,7 @@ Thus, a genius is one who, by some internal process, breaks through to Circuit V
 
 ___
 
-- Highlight(pink) - Location 1128
+- Highlight(pink) - Location 1128 ❗️
 As Thomas Kuhn showed in The Structure of Scientific Revolutions, science itself—the apotheosis of third-circuit semantic rationality—is not free of this neophobia. Kuhn demonstrated, at length, that each scientific revolution took one full generation to turn over the old world view. And Kuhn further showed that the older scientists never are converted to the new semantic paradigm. They are, in our terminology, mechanically hooked to their original imprints. The revolution is complete, as Kuhn shows, only when a second generation, not hooked to the old imprint, is able to compare the two models and decides rationally that the newer one really does make more sense.
 
 - Highlight(pink) - Location 1133
