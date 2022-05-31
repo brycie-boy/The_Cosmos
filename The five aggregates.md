@@ -4,7 +4,7 @@ The five aggragates are five main categories used to analyze sentient experience
 
 - [[Form]]
 - [[Sensation]]
-- [[Perceptions]]
+- [[Perception]]
 - [[Volitional formations]]
 - [[Consciousness]]
 

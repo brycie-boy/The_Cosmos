@@ -73,6 +73,9 @@ that the world is impermanent, bound up with suffering, and subject to change, t
 - Highlight(pink) - Location 3275
 The third moment, the moment of escape,
 
+- Highlight - Location 3276
+“Escape” here is not escapism, a word that implies an anxious attempt to avoid facing one’s problems by pretending they don’t exist and losing oneself in distractions. True escape is quite the opposite:
+
 - Highlight(pink) - Location 3279
 Once we see that the objects of our attachment are flawed, beset with hidden dangers, we then realize that the way of escape lies in dropping our attachment to them.
 
