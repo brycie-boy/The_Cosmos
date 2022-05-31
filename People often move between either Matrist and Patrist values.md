@@ -1,6 +1,6 @@
 ## People often move between either Matrist and Patrist values  #🧠 
 
-It has been proposed by sociologist [[G. Rattray Taylor]] that societies swing back and forth between "matrist" periods, in which the motherly values of [[The Oral Bio-Survival Circuit]] predominate, and "patrist" periods, in which the fatherly values of [[The Anal Emotional-Territorial Circuit]] are in assendance. Taylors table of the characteristics of these "Matrist" and "Patrist" values are as follows:
+It has been proposed by sociologist [[G. Rattray Taylor]] that societies swing back and forth between "matrist" periods, in which the motherly values of the [[Oral Bio-Survival Circuit]] predominate, and "patrist" periods, in which the fatherly values of the [[Anal Emotional-Territorial Circuit]] are in assendance. Taylors table of the characteristics of these "Matrist" and "Patrist" values are as follows:
 
 Matrist: 
 
@@ -32,7 +32,7 @@ Patrist:
  - Asetic
  - Father god
 
-Wether or not societies wobble between these two extremes as Taylor claims, individuals certainly do. These are merely consequences of (a) having the heaviest imprint on [[The Oral Bio-Survival Circuit]] (Matrist), and (b) having the heaviest imprint on [[The Anal Emotional-Territorial Circuit]] (Patrist).
+Wether or not societies wobble between these two extremes as Taylor claims, individuals certainly do. These are merely consequences of (a) having the heaviest imprint on the [[Oral Bio-Survival Circuit]] (Matrist), and (b) having the heaviest imprint on the [[Anal Emotional-Territorial Circuit]] (Patrist).
 
 ___
 

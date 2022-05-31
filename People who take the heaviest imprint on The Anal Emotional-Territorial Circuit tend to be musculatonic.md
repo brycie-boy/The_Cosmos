@@ -2,7 +2,7 @@
 
 ![[2B2362A6-8A41-4719-84C5-F376037670F3.jpeg|150]]
 
-In extreme cases, people who take the heaviest imprint on [[The Anal Emotional-Territorial Circuit]] tend to be musculatonic. That is, they hold most of their attention and energy in the muscular defense-attack machanisms and grow to be medium weight-heavy enough to be hard to knock down, light enough to be quick and sinewy. Often they become athletes, bodybuilders, etc. and have an extraordinary absorption in demonstrating their strength.
+In extreme cases, people who take the heaviest imprint on the [[Anal Emotional-Territorial Circuit]] tend to be musculatonic. That is, they hold most of their attention and energy in the muscular defense-attack machanisms and grow to be medium weight-heavy enough to be hard to knock down, light enough to be quick and sinewy. Often they become athletes, bodybuilders, etc. and have an extraordinary absorption in demonstrating their strength.
 
 ___
 

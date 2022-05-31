@@ -1,5 +1,6 @@
+## Oral Bio-Survival Circuit  #🧠 
 
-The Oral Bio-Survival Circuit, one of [[The Eight Circuits of Consciousness]] is imprinted by the mother figure or object and is conditioned by subsequent nourishment or threat. It is primarily concerned with suckling, feeding, cuddling, and bodily security. It retreats mechanically from the noxious and preditory—or what is percieved as noxious or preditory (by imprinting or conditioning). Consciousness in this circuit is one dimensional. It very simply programs an either-or-choice. ADVANCE toward the nourishing, the protective. RETREAT, away from the threatning, the preditory. This circuit is represented by the Buddhists through the The three unwholesome roots. The first of which being being greed, lust, or attraction. The second being hatred, aversion, or repulsion. The two of which are perpetuated by the third wholesome root, which is delusion / ignorance. 
+The Oral Bio-Survival Circuit, one of [[The Eight Circuits of Consciousness]], is imprinted by the mother figure or object and is conditioned by subsequent nourishment or threat. It is primarily concerned with suckling, feeding, cuddling, and bodily security. It retreats mechanically from the noxious and preditory—or what is percieved as noxious or preditory (by imprinting or conditioning). Consciousness in this circuit is one dimensional. It very simply programs an either-or-choice. ADVANCE toward the nourishing, the protective. RETREAT, away from the threatning, the preditory. This circuit is represented by the Buddhists as the [[The three unwholesome roots]]. 
 
 Any mammal hooks the bio-survival circuit to the first imprinted bio-survival object: the teat. Bio-survival and orality are deeply blended in all mammals. If a mother isnt present, the closest subsitute within the enviorment will be imprinted.
 
@@ -7,17 +8,16 @@ The "wiring" of this circuit occured in the first organisms, between three and f
 
 In pre-neurological terms, the oral bio-survival circuit is what we usually call "[[Consciousness]]". It is the sense of being here now, in this vulnerable body, subject to the raw energies and forces of the physical universe. When we are "unconscious", the circuit is turned off and doctors can cut us up without our attempting to flee or cry out. [[Transactional Analysis]] calls this circuit the Natural Child. In [[Carl Jung]]'s terms, this circuit mediates [[sensation]].
 
-From the three unwholesome roots arises a variety of secondary defilements. These include:
+___
 
-- anger
-- hostility
-- envy
-- selfishness
-- arrogance
-- pride
-- presumption
-- laziness
+##### References
 
-From the root defilements and secondary defilements arise unwholesome kamma
+- Wilson, A. Robert. (1983) [[Prometheus Rising Chapter 3. The Oral Bio-Survival Circuit]] (Location 416, 648). Grand Junction, CO: _Hilaritas Press_.
 
-#⛅️ 
+- Wilson, A. Robert. (1983) [[Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit]] (Location 1050 ). Grand Junction, CO: _Hilaritas Press_.
+
+##### Metadata
+
+Type: #🔵/🔵 
+Tags: [[Psychology]] / [[sociology]] / [[ethology]] / [[Biology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] / [[Mysticism]] 
+Status: #☀️ 

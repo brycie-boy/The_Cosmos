@@ -3,7 +3,7 @@
 Name ideas: 
 The Oral Bio-Survival Curcuit: The Derminate of Rebirth 
 
-- [[The Oral Bio-Survival Circuit]]
+- [[Oral Bio-Survival Circuit]]
 - [[The three unwholesome roots]]
 - [[Kamma]]
 - [[Altruism is rooted in a survival instinct to protect the gene-pool]]

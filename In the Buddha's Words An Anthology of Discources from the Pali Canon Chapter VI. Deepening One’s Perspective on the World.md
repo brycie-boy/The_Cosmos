@@ -10,7 +10,6 @@ Tags: [[Philosophy]] / [[Spirituality]] / [[Religion]]
 
 ___
 
-
 - Highlight(pink) - Location 3211
 A blissful heavenly rebirth, however, is not the final purpose for which the Buddha taught the Dhamma. At best it is only a temporary waystation. The ultimate goal is the cessation of suffering, and the bliss of the heavens, no matter how blissful, is not the same as the cessation of suffering.
 
@@ -34,8 +33,6 @@ The realization of Nibbāna comes with the blossoming of wisdom and brings perfe
 
 - Highlight(pink) - Location 3219
 Nibbāna is the destruction of thirst, the thirst of craving. 
-
-___
 
 - Highlight(pink) - Location 3221
 To guide his spiritually mature disciples toward Nibbāna, the Buddha had to steer them beyond the blissful rewards that could be won in a future life by performing wholesome deeds. He did so through the “supramundane” facets of his teaching, those aspects designed to lead disciples beyond the “triple world” of sense-sphere existence, form-sphere existence, and formless existence.
@@ -88,8 +85,6 @@ ___
 - Highlight(pink) - Location 3286
 three major objects of attachment: sensual pleasures, bodily form, and feelings.
 
-___
-
 - Highlight(pink) - Location 3287 
 It begins with a close-up view of the tribulations that a “clansman”—a young householder pursuing the ancient Indian counterpart of a professional career—might undergo in his quest for sensual gratification.
 
@@ -124,8 +119,6 @@ the scope of the examination widens from the personal to the collective, encompa
 “Again, with sensual pleasures as the cause ... men break into houses, plunder wealth, commit burglary, ambush highways, seduce others’ wives, and when they are caught, kings have many kinds of torture inflicted on them ... whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering visible in this present life,
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90)
 
-___
-
 - Highlight(pink) - Location 3441
 “Again, with sensual pleasures as the cause ... people indulge in misconduct of body, speech, and mind. Having done so, on the breakup of the body, after death, they are reborn in a state of misery, in a bad destination, in the lower world, in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come,
 (MN 13: Mahādukkhakkhandha Sutta; I 84–90)
@@ -143,11 +136,9 @@ a number of perils posed by this type of wrong view; prominent among them is reb
 
 - Highlight(pink) - Location 3323 
 People who cling tenaciously to their own views of a particular situation often come into conflict with those who view the same situation in a different light. Views thus give rise to conflicts and disputes.
-(Ud 6:4; 67–69)
 
 - Highlight(pink) - Location 3325
 parable of the blind men and the elephant,
-(Ud 6:4; 67–69)
 
 -  Highlight(pink) - Location 3773
 Now at that time a number of ascetics and brahmins,

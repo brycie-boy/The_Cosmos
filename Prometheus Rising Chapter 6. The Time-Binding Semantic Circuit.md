@@ -60,7 +60,7 @@ The emotional-territorial or “patriotic” circuit also contains the pack’s 
 
 ___
 
-- Highlight(pink) - Location 1078
+- Highlight(pink) - Location 1078 ❗️
 The attentive reader will remember that the grid of the first two circuits puts the pre-verbal child in a two-dimensional world,
 
 - Highlight(pink) - Location 1080

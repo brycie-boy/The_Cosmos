@@ -1,6 +1,6 @@
 ## The Anal Emotional-Territorial Circuit exersizes #🧠 
 
-(see [[The Anal Emotional-Territorial Circuit]])
+(see [[Anal Emotional-Territorial Circuit]])
 
 EXERCIZES
 
