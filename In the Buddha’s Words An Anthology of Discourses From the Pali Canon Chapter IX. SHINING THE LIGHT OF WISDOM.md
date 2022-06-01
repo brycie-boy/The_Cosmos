@@ -308,6 +308,8 @@ The Nikāyas suggest an interesting difference between the treatment given to th
 - Highlight(pink) - Location 5367
 Monks and nuns in particular must be vigilant in their encounters with desirable and undesirable sense objects. When one is negligent, experience through the senses invariably becomes a trigger for craving: lust for pleasant objects, aversion toward disagreeable objects (and a craving for pleasant escape routes), and a dull attachment to neutral objects.
 
+___
+
 - Highlight(pink) - Location 5369
 In one of his earliest discourses popularly known as “The Fire Sermon”—Text IX,4(2)(b)—the Buddha declared that “all is burning.” The “all” is the six senses, their objects, the types of consciousness arisen from them, and the related contacts and feelings. The way to liberation is to see that this “all” is burning with the fires of defilements and suffering.
 
@@ -323,10 +325,10 @@ to dispel ignorance and generate true knowledge, we must contemplate all the sen
 ... “He sees the eye as suffering ... he sees as suffering whatever feeling arises with mind-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant ... “He sees the eye as nonself … he sees as nonself whatever feeling arises with mind-contact as condition, whether pleasant or painful or neither-painful-nor-pleasant.
 (Samyutta Nikaya 35:147–49, combined; IV 133–35)
 
+___
+
 - Highlight(pink) - Location 5374
 An alternative route, commended by Text IX,4(2)(d), is to see that the six senses are empty—empty of a self or of anything belonging to a self. Since consciousness arises via the six sense bases, it too is devoid of self—Text IX, 4(2)(e).
-
-___
 
 - Highlight - Location 6039
 Consciousness Too Is Nonself
