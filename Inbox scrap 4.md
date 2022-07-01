@@ -14,7 +14,7 @@ Back in the Renaissance, Francis Bacon, the father of empirical reasoning, annou
 
 Highlight(pink) - Page 8 · Location 92
 
-Indeed, fundamentally materialist science is about quantifying everything. If you can’t measure something and assign a metric, it may as well not exist. Homeopathic medicine, human rapport, and the humanities themselves would fall into this category. Their benefits, even their very existence, cannot be acknowledged because there’s no instrument capable of quantifying them. That was bad enough.
+Indeed, fundamentalist materialist science is about quantifying everything. If you can’t measure something and assign a metric, it may as well not exist. Homeopathic medicine, human rapport, and the humanities themselves would fall into this category. Their benefits, even their very existence, cannot be acknowledged because there’s no instrument capable of quantifying them. That was bad enough.
 
 Highlight(pink) - Page 8 · Location 95
 

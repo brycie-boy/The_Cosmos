@@ -8,7 +8,7 @@
 
 “As above. So below.”
 
-Eventually, my stars, that is, [[☀️ Main-Sequence Note]]s, must leave my system and burst into the minds of others. Using my output as the fertilizer, they too will create there own stars, and the cycle repeats.
+Eventually, my stars, or [[☀️ Main-Sequence Note]]s, must leave my system and burst into the universe of others. Using my output as the fertilizer, they too will create there own stars, and the cycle repeats.
 
 Rather than using zettelkasten exclusively as a writing tool. I use it as a tool to express my thoughts through any medium. In this way, it can be seen that the ideas leave my mind the same ways they came in. 
 

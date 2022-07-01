@@ -1,6 +1,6 @@
 ## The nine charnel ground contemplations  #🧠 
 
-The nine charnel ground contemplations are one of the meditation subjects of the [[Contemplation of body]]. The exercise involves the contemplation of  corpses in different stages of decomposition. This exercise is explained below per [[the Buddha]]:
+The nine charnel ground contemplations are one of the meditation subjects of the [[Contemplation of body]]. The exercise involves the contemplation of corpses in different stages of decomposition. This exercise is explained below per [[the Buddha]]:
 
 > “Again, monks, as though he were to see a corpse thrown aside in a charnel ground, one, two, or three days dead, bloated, livid, and oozing matter, a monk compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.''"
 > 
