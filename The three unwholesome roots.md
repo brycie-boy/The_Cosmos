@@ -2,13 +2,15 @@
 
 The three unwholesome roots consist of:
 
-- greed / attraction
-- hatred / repulsion
+- greed / attraction 
+- hatred / repulsion 
 
-which are perpetuated by the third unwholesome root
+The first two unwholesome roots are perpetuated by the third unwholesome root
 
 - delusion / ignorance
    - that is, ignorance of [[The four nobel truths]]. 
+
+Which, Inturn, they reinforce. The three unwholesome roots are what constitute craving.
 
 From the three unwholesome roots arises a variety of secondary defilements. These include:
 
@@ -21,7 +23,7 @@ From the three unwholesome roots arises a variety of secondary defilements. Thes
 - presumption
 - laziness
 
-From the root defilements and secondary defilements arise unwholesome actions. as seen in [[The ten pathways of wholesome and unwholsome kamma]].
+From the root defilements and secondary defilements arise unwholesome actions. 
 
 Related: [[The three wholesome roots]]
 

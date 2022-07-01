@@ -19,20 +19,18 @@ The daily planner is like my central hub for  managing my attention. If it isn�
 > - 2 day limit
 > - 1 day break 
 
-- [ ] Look for jobs (after vacation) (day: 0)
-- [ ] Driving practice
-- [ ] Set up privacy
+- [ ] Work on GED
 
 #### Weekly tasks
 
-- [ ] Grocery Shopping
+- [x] Grocery Shopping
 
 ### Later
 
+- Look for jobs
 - Get gym membership 
-- Organize music library
-- Work on GED
 - Delete photos
+- Organize music library
 
 ##
 ___
@@ -46,28 +44,21 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [x] ☁️ Stellar Nursery: ❗️
-- [ ] 💬 Words (10 max):  -> [[📝 Note Pad]]
-- [ ] 🌐 Small Source Inbox (5 max):  
+- [ ] ☁️ Stellar Nursery: ❗️
+- [ ] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
+- [ ] 🌐 Small Source Inbox (5 max):  ❗️
 
 ### 3. 📥 Ingestion
 
-- [ ] Go back through Andy’s notes, lyt kit, and Bryan jenks tag vid and write about constellations 
+- [x] **1.** 
 
-- [ ] **1.** 
+![[D87BB710-DA73-4607-9BBD-8C19045537FB.jpeg|80]]
 
-![[57FA6290-2198-49A2-8D00-A1AE108797FC.jpeg|80]]
-- Source: The millionaire fastlane
-- Author: MJ Demarco
-- Tags: Self improvement, Finance 
+- Source: Manufacturing Consent
+- Author: Noam Chompsy
 
 >
 - [ ] **2.**
-
-![[1AC1F492-22D4-4A30-9FCE-D259E0485DE5.jpeg|80]]
-- Source: Prometheus rising
-- Author: Robert Anton Wilson
-- Tags: Spirituality, Occult, Psychology
 
 ### Continue Creating?
 
@@ -84,8 +75,6 @@ ___
 - [ ] Draw
 
 ### 🎮 Consume
-
-(Restricted until 90 dopamine detox is complete)
 
 #### TV:
 

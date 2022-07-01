@@ -8,7 +8,7 @@
 - Haircut: $30
 - **Total:** $483
 	- without food, haircut, and hygiene: $275
-	- Keep $300 in bank
+	- Without haircut: $458
 
 - Subscriptions:
 	- Gitkraken pro: $5 

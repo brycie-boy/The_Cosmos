@@ -1,6 +1,6 @@
-## Form #🧠 
+## Conceptualization #🧠 
 
-Form, one of [[The five aggregates]], is defined as the physical component of sentient experience. The cause and condition for the manifestation of form is [[The four nutriments of life]].
+Conceptualization, one of [[The five aggregates]], is defined as the identification and labeling of things by their distictive marks and features. The cause and condition for the manifastation of conceptualization is contact between the internal and external [[Six sense bases]]. 
 
 ___
 
@@ -15,6 +15,7 @@ ___
 - Majjhima Nikaya 109, abridged; III 15–19
 
 ##### Metadata
+
 Type: #🔵/🔵 
 Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
 Status: #☀️ 

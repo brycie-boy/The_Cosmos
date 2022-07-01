@@ -60,11 +60,11 @@
 - [x] Lean Chicken 
 - [x] Ground beef
 	- Steak
-- [ ] Samon
+- [x] Samon
 	- Shellfish
 	- Shrimp
 - [x] Eggs 
-- [x] Bacon
+- [x] Bacon 
 - [ ] Canned fish: S.M.A.S.H
 	- Sardines
 	- Mackerel
@@ -77,10 +77,10 @@
 - [x] Broccoli (frozen)
 - [x] Cauliflower
 	- Riced Cauliflower
-- [ ] Baby spinach or arugula 
+- [x] Baby spinach or arugula 
 - [x] Avocado 
 	- Guacamole
-- [ ] Asparagus (frozen)
+- [x] Asparagus (frozen)
 	- Artichoke 
 - [ ] Baby kale
 - [ ] Berries
@@ -98,7 +98,7 @@
 ### Cheese/Dairy
 
 - [x] Greek or Bulgarian yogurt
-- [ ] Coconut cream 
+- [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
 - [x] Goat cheese
@@ -109,7 +109,7 @@
 
 ### Nuts and Seeds
 
-- [x] Pili nuts 
+- [ ] Pili nuts 
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
@@ -169,5 +169,5 @@ ___
 - [x] Harry’s aftershave: $8
 - [x] Purpose face cleanser 6 oz: $10
 - [x] Ceave facial moisturizer spf 30 3 oz: $13
-- [ ] First bounty Himalayan sea salt exfoliating scrub 11 oz: $12.30
+- [x] First bounty Himalayan sea salt exfoliating scrub 11 oz: $12.30
 

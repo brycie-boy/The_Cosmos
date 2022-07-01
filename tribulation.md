@@ -5,7 +5,7 @@ _noun_
 
 1. distress or suffering resulting from oppression or persecution
 
-2. A trying experience
+2. a trying experience
 
 ___
 
