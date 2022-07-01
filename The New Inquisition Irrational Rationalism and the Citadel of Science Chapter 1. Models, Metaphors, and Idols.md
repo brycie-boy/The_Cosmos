@@ -14,6 +14,15 @@ ___
 
 ___
 
+- Highlight - Page 10
+By the New Inquisition I mean to designate certain habits of repression and intimidation that are becoming increasingly commonplace in the scientific community today.
+
+- Highlight - Page 10 
+By New Idol I mean to designate the rigid beliefs that form the ideological superstructure of the New Inquisition.
+
+- Highlight - Page 10
+By the New Agnosticism I mean to designate an attitude of mind which has elsewhere been called "model agnosticism" and which applies the agnostic principle not just to the "God" concept but to ideas of all sorts in all areas of thoughts and ideology.
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
