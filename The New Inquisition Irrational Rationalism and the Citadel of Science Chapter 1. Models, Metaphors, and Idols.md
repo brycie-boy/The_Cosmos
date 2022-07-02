@@ -23,6 +23,20 @@ By New Idol I mean to designate the rigid beliefs that form the ideological supe
 - Highlight - Page 10
 By the New Agnosticism I mean to designate an attitude of mind which has elsewhere been called "model agnosticism" and which applies the agnostic principle not just to the "God" concept but to ideas of all sorts in all areas of thoughts and ideology.
 
+- Highlight(pink) - Page 10 · Location 122
+The agnostic principle refuses total belief or total denial and regards models as tools to be used only and always where appropriate and replaced (by other models) only and always where not appropriate. It does not regard any models, or any class of models, as more "profound" than any other models, or any class of models but asks only how a model serves, or fails to serve, those who use it. The agnostic principle is intended here in a broad "humanistic" or "existential" sense, and is not intended to be narrowly technical or philosophical only.
+
+___
+
+- Highlight(pink) - Page 11 · Location 137
+Some terms which may be unfamiliar to certain readers are used frequently in this book. They are defined briefly here, and will be explained further, by context and example, as the argument unfolds.
+
+- Highlight(pink) - Page 11 · Location 139
+EMIC REALITY: the unified field made up of thoughts, feelings and apparent sense impressions that organizes our inchoate experience into meaningful patterns; the paradigm or model that people create by talking to each other, or by communicating in any symbolism; the culture of a time and place; the semantic environment. Every emic reality has its own structure, which imposes structure upon raw experience.
+
+- Highlight(pink) - Page 11 · Location 143
+ETIC REALITY: the hypothetical actuality that has not been filtered through the emic reality of a human nervous system or linguistic grid.
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
