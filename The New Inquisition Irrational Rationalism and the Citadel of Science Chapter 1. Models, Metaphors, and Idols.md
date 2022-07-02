@@ -148,6 +148,21 @@ ___
 - Highlight(pink) - Page 20 · Location 286
 All thought consists of manipulations of symbols according to Game Rules. The combination of symbols and rules (for manipulating the symbols) makes up a system. When stripped down to their bare mathematico-logical bones, all systems appear to be either trivial or dubious. If trivial, they are certain, but we cannot learn much from them because they "refer" to very little. As soon as a system becomes less than totally trivial, and "refers" to more and more, a species of infinite regress enters it and it becomes increasingly uncertain: we have to prove, as it were, an endless series of steps between Step A and Step B before we can go on to Step C.
 
+- Highlight(pink) - Page 20 · Location 293=
+There is a hilarious example of this regress, from Lewis Carroll, in Hofstadter's book mentioned above. A simplified analogy is this, which I once heard: "I never eat animals because they are our brothers," said an American student of Buddhism, to a Zen roshi. "Why shouldn't we eat our brothers?" asked the roshi. The student had a simple system which can be abbreviated: Animals are our brothers. We should not eat our brothers. Therefore, we should not eat animals.
+
+- Highlight(pink) - Page 21 · Location 301
+Once any step of this is analyzed critically, a new argument begins; and that argument in turn can be analyzed at any point, and so the infinite regress is created.
+
+- Highlight(pink) - Page 21 · Location 302
+In "common sense" or in the context of probability, many such challenges appear absurd and can be disregarded, but any system that claims certainty must answer all challenges. Since this would take an infinite amount of time, it has not yet been performed, and the foundations of every mathematical-logical system are increasingly regarded as formal—Game Rules—and not as eternal “laws of thought" as they seemed to be to philosophers from Aristotle to about the time of Kant.
+
+- Highlight(pink) - Page 21 · Location 310
+we can only judge which system of PR should be combined with SD by scrutinizing the results of further SD (by experiment), which gives us high probabilities but still no certainties. Any system of PR/ SD which has worked in the past may be replaced if new SD no longer fits its grid, or if a different system of PR gives a new “perspective" which seems more useful operationally or practically.
+
+- Highlight(pink) - Page 21 · Location 316
+In daily life and in "common sense," we use this agnostic caution most of the time and "expect the unexpected" and "keep our eyes and ears open," etc. We only rush to judgment when we are under time-pressure to make a quick decision or when our prejudices are involved, as in political and religious controversy. When there is no existential pressure for quick decisions, only prejudice asserts certitude.
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
