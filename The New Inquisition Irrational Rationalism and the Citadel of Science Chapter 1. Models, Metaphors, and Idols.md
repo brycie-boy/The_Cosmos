@@ -60,6 +60,9 @@ ___
 - Highlight(pink) - Page 13 · Location 182
 The late R. Buckminster Fuller—architect, engineer, poet, mathematician and gadfly—used to astonish audiences by remarking casually in the middle of a lecture that everything we see is inside our heads. If the consternation of the audience was voluble. Fuller would stop and explain, by drawing on the blackboard the diagram encountered in the elementary optics part of any first year physics course:
 
+- Highlight - page 7 Location 186
+![[540009B7-8C29-41C9-87D7-8F473F13F516.jpeg]]
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
