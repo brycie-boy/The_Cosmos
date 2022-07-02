@@ -92,6 +92,37 @@ ___
 Again: consider this well-known illustration, to be found in most general psychology texts:
 ![[C00E0B17-362F-4305-A18F-E1A885569606.jpeg]]
 
+- Highlight(pink) - Page 15 · Location 220
+If you see the line on the bottom as longer than the line on the top, your brain, working on habitual programs, has deceived you. The V and reverse-V decorations seduce the eye-brain system into seeing inaccurately. You have just had a mild hallucination.
+
+- Highlight(pink) - Page 15 · Location 223
+The processes (optical and neurological) by which "miracles" and "UFOs" are created and by which you "create" the chair across the room from you right now, are fundamentally similar to what just happened when you looked at those lines.
+
+- Highlight(pink) - Page 15 · Location 225
+If you think the chair is somehow more "objective" than a poem by Dylan Thomas or those pixillated lines, you might try the expensive experiment of hiring three painters and three photographers to come in and make you a "realistic portrait" of the chair. You will find that, in the photos as much as in the paintings, a personality has somehow given a meaning or a richness to the "object."
+
+- Highlight(pink) - Page 16 · Location 233
+"The" Greeks as we say, or "the" ancient Greeks—the handful of ancient Greeks whose ideas we encounter in University, actually—were well aware of this fallibility of perception, and an illustration well-known in Athens in its Golden Age went like this: take three bowls of water. Make one of them quite hot, one medium-temperatured, and the third quite cold. Put your right hand in the hot bowl for a while and your left hand in the cold bowl. Then put both hands in the medium bowl. The same water will feel "cold" to your right hand and "hot" to your left hand. (Again, doing the experiment teaches more, neurosemantically, than merely reading about it.)
+
+___
+
+- Highlight(pink) - Page 17 · Location 254
+all the other methods of seeking certitude have a concealed "leap of faith" in them, which their devotees conveniently "forget" or overlook. So Kierkegaard asks: why not admit frankly that we are taking a "leap of faith"?
+
+- Highlight(pink) - Page 17 · Location 257
+My answer to that is that there is an alternative which appears more reasonable to some of us; namely to avoid the "leap of faith" and remain agnostic about all methods, although willing to learn from them in an open-minded way.
+
+- Highlight(pink) - Page 17 · Location 268
+Certitude is seized by some minds, not because there is any philosophical justification for it, but because such minds have an emotional need for certitude.
+
+- Highlight(pink) - Page 20 · Location 279
+What I call Idols are projections of these inner compulsions of human psychology. When an Idol "speaks" (through its priests) it only says what the Faithful want to hear.
+
+___
+
+- Highlight(pink) - Page 20 · Location 286
+All thought consists of manipulations of symbols according to Game Rules. The combination of symbols and rules (for manipulating the symbols) makes up a system. When stripped down to their bare mathematico-logical bones, all systems appear to be either trivial or dubious. If trivial, they are certain, but we cannot learn much from them because they "refer" to very little. As soon as a system becomes less than totally trivial, and "refers" to more and more, a species of infinite regress enters it and it becomes increasingly uncertain: we have to prove, as it were, an endless series of steps between Step A and Step B before we can go on to Step C.
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
