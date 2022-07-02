@@ -101,13 +101,26 @@ The processes (optical and neurological) by which "miracles" and "UFOs" are crea
 - Highlight(pink) - Page 15 · Location 225
 If you think the chair is somehow more "objective" than a poem by Dylan Thomas or those pixillated lines, you might try the expensive experiment of hiring three painters and three photographers to come in and make you a "realistic portrait" of the chair. You will find that, in the photos as much as in the paintings, a personality has somehow given a meaning or a richness to the "object."
 
+___
+
 - Highlight(pink) - Page 16 · Location 233
 "The" Greeks as we say, or "the" ancient Greeks—the handful of ancient Greeks whose ideas we encounter in University, actually—were well aware of this fallibility of perception, and an illustration well-known in Athens in its Golden Age went like this: take three bowls of water. Make one of them quite hot, one medium-temperatured, and the third quite cold. Put your right hand in the hot bowl for a while and your left hand in the cold bowl. Then put both hands in the medium bowl. The same water will feel "cold" to your right hand and "hot" to your left hand. (Again, doing the experiment teaches more, neurosemantically, than merely reading about it.)
 
 ___
 
+- Highlight - Page 16
+Nonetheless, the Greek philosophers, or some of them, still thought there was a path to certitude. They called it the path of Pure Reason. The argument for PR goes that, even if sense data is fallible, we have a higher faculty which is not fallible and which knows truths a priori. This has collapsed over the centuries for a variety of reasons, but chiefly because the things philosophers thought they knew this way have often turned out to be simply not true. For instance, even as late as the age of libertarian free thought in the 18th Century, Kant still thought PR "knew" intuitively that Euclidean geometry was the true and only geometry. Nowadays, mathematicians have several varieties of non-Euclidean geometry, all of which are equally valid (consistent) and all of which are as useful as Euclidean geometry, although in different areas.
+
+- Highlight - Location 16
+In the 13th Century, Thomas Aquinas thought he had the infallible method of arriving at certitude — a combination of PR and Holy Writ. This is still believed in backward countries like Ireland or Portugal, but is not generally accepted in civilized nations because PR itself has been proven fallible, as noted, and because there are many varieties of HW around — Buddhist, Hindu, Taoist, Jewish, etc. as well as such modern products as Oahspe and the Urantia book — and there is no known empirical test to determine which HW is the "real" HW.
+
+___
+
+- Highlight - Page 17
+In the 19th Century, Kierkegaard circled back to the pre-Aquinas era of Christianity and suggested, again, that the way out of this perpetual relapse into uncertainty is a "leap of faith."
+
 - Highlight(pink) - Page 17 · Location 254
-all the other methods of seeking certitude have a concealed "leap of faith" in them, which their devotees conveniently "forget" or overlook. So Kierkegaard asks: why not admit frankly that we are taking a "leap of faith"?
+his argument is something like that of the present book (and of Nietzsche), which is that all the other methods of seeking certitude have a concealed "leap of faith" in them, which their devotees conveniently "forget" or overlook. So Kierkegaard asks: why not admit frankly that we are taking a "leap of faith"?
 
 - Highlight(pink) - Page 17 · Location 257
 My answer to that is that there is an alternative which appears more reasonable to some of us; namely to avoid the "leap of faith" and remain agnostic about all methods, although willing to learn from them in an open-minded way.
@@ -117,6 +130,11 @@ Certitude is seized by some minds, not because there is any philosophical justif
 
 - Highlight(pink) - Page 20 · Location 279
 What I call Idols are projections of these inner compulsions of human psychology. When an Idol "speaks" (through its priests) it only says what the Faithful want to hear.
+
+___
+
+- Highlight - Page 17
+There remains, of course, Scientific Method (SM), the alleged source of the certitude of those I call the New Idolators. SM is a mixture of SD (sense data: usually aided by instruments to refine the senses) with the old Greek PR. Unfortunately, while SM is powerfully effective, and seems to most of us the best method yet devised by mankind, it is made up of two elements which we have already seen are fallible—SD (sense data) and PR (pure reason) can both deceive us. Again: two fallibilities do not add up to one infallibility. Scientific generalizations which have lasted a long time have high probability, perhaps the highest probability of any generalizations, but it is only Idolatry which claims none of them will ever again have to be revised or rejected. Too many have been revised or rejected in this century alone.
 
 ___
 
