@@ -169,7 +169,38 @@ ___
 The following diagram is adopted from Professor O.R. Bontrager of University of Pennsylvania Department of Psychology and from the general principles in Blake's anthology, Perception, University of Texas, 1952.
 ![[EFBEBC62-C8A5-4EA8-BC94-BBC49FDCDF98.jpeg]]
 
+- Highlight(pink) - Page 22 · Location 324
+Stage I represents an energy-event in the space-time continuum, in the Einsteinian sense. This can be a sub-atomic process, a horse running in a field, a Laurel and Hardy movie projected on a screen, the nuclear engine called "the sun" transmitting light and heat to us across 93,000,000 miles, or any other kind of event possible in space-time. This is often called Etic Reality, or non-verbal Reality.
 
+- Highlight(pink) - Page 22 · Location 328
+The first arrow represents part (not all) of the energy in the original energy-event traveling toward some perceptor organ belonging to you or me or some critter like us.
+
+- Highlight(pink) - Page 22 · Location 330
+Stage II represents the activity of the perceptor organ after being "hit" or tickled or somehow excited by the part of the energy that reaches said organ. Please note that all of the energy is not absorbed by the organ even in extreme cases—e.g. when we are hit by a hammer, we still do not absorb all the energy in the hammer.\
+
+- Highlight(pink) - Page 22 · Location 335
+Even at this stage—even if nothing further was required for perception—we would still be dealing with part, not all; we would be dealing with abstraction, uncertainty, fallibility.
+
+- Highlight(pink) - Page 22 · Location 338
+The second arrow indicates part of what happens after the perceptor organ is stimulated, by part of the energy flowing to us from the space-time event. In this arrow we are representing very, very many signals traveling to many parts of our organism.
+
+- Highlight(pink) - Page 22 · Location 341
+Stage III represents this organismic reaction, which can be quite complex. For instance, if the energy-packet happens to be the signal, "Your mother has been raped and murdered by terrorists," the stomach and tear-ducts and heart at least will be involved in processing the signal, as well as the neural and neuro-endocrine systems.
+
+- Highlight(pink) - Page 23 · Location 349
+It is obvious that along with subtraction (or abstraction: receiving part not all of the external energy), perception also involves a kind of addition of pre-existing emotions, which is what Freud meant by "projection."
+
+- Highlight(pink) - Page 23 · Location 352
+The next arrow indicates the transmission of all this to the brain. Obviously, what the brain receives is already highly colored by the subtractions and additions we have indicated; but the brain itself, except perhaps in the newborn infant, already has a set of programs, or a "filing system" for classifying such incoming signals.
+
+- Highlight(pink) - Page 23 · Location 356
+Stage IV indicates the "percept" as it is usually called, the mental "image" or "idea" that emerges after the brain has processed the original energy plus additions and minus subtractions.
+
+- Highlight(pink) - Page 23 · Location 358
+The final, two-way arrow indicates the most subtle and nefarious stage of this neurological programming, the feedback between the incoming energy (plus additions and minus subtractions) and the language system (including symbolic, abstract languages like mathematics) which the brain happens to use habitually.
+
+- Highlight(pink) - Page 23 · Location 361
+The final precept in humans is always verbal or symbolic and hence coded into the pre-existing structure of whatever languages or systems the brain has been taught. The process is not one of linear reaction but of synergetic transaction. This finished product is thus a neurosemantic construct, a kind of metaphor.
 
 ___
 
