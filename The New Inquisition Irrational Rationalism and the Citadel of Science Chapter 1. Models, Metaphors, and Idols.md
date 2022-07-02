@@ -59,8 +59,6 @@ ___
 
 - Highlight(pink) - Page 13 · Location 182
 The late R. Buckminster Fuller—architect, engineer, poet, mathematician and gadfly—used to astonish audiences by remarking casually in the middle of a lecture that everything we see is inside our heads. If the consternation of the audience was voluble. Fuller would stop and explain, by drawing on the blackboard the diagram encountered in the elementary optics part of any first year physics course:
-
-- Highlight - page 7 Location 186
 ![[540009B7-8C29-41C9-87D7-8F473F13F516.jpeg]]
 
 - Highlight(pink) - Page 13 · Location 186
@@ -92,6 +90,7 @@ ___
 
 - Highlight(pink) - Page 15 · Location 219
 Again: consider this well-known illustration, to be found in most general psychology texts:
+![[C00E0B17-362F-4305-A18F-E1A885569606.jpeg]]
 
 ___
 
