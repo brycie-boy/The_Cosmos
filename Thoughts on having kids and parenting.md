@@ -22,4 +22,4 @@ ___
 
 Type: 
 Tags:
-Status: 
+Status: #⛅️/⏳ 

@@ -1,6 +1,5 @@
 ## Thoughts on external validation and self reliance  # 
 
-
 - befriending yourself
 - Keeping yourself company
 
@@ -32,6 +31,12 @@ To befriend yourself takes self exploitation, a task which one must do alone. On
 
 ___
 
+It started with the adults In my life never taking what I had to say about things seriously. A lack of my input being listened to, acknowledged, considered, etc. everytime I have an outside of the box idea, It would get discarded as childish. It was this kids are dumb adults are smart mentality. 
+
+As time went on, the unreasonableness and ruthlessness of the adults in my life increased. The lack of acknowledgment started to lead to harm and became warped into a paranoia of sorts. Over time, i became more and more desperate for someone to understand me. Being alienated in such an environment was scary, and having someone on my side sounded very relieving. I started talking about things other people may have not cared about just to maybe achieve some sort of acknowledgment 
+
+___
+
 ##### References
 
 
@@ -40,4 +45,4 @@ ___
 
 Type: 
 Tags:
-Status: 
+Status: #⛅️/⏳ 

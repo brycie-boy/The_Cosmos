@@ -44,18 +44,15 @@ ___
 ### 2. 📝 Digestion
 
 - [ ] 💭 Ideas:  -> [[📝 Note Pad]]
-- [ ] ☁️ Stellar Nursery: ❗️
+- [x] ☁️ Stellar Nursery: ❗️
 - [ ] 💬 Words (10 max): ❗️ -> [[📝 Note Pad]]
 - [ ] 🌐 Small Source Inbox (5 max):  ❗️
 
 ### 3. 📥 Ingestion
 
-- [x] **1.** 
+- [ ] **1.** 
 
-![[D87BB710-DA73-4607-9BBD-8C19045537FB.jpeg|80]]
-
-- Source: Manufacturing Consent
-- Author: Noam Chompsy
+![[BC1F4CD5-F7E0-4EB0-B6D2-1CB87A9700B7.jpeg|80]]
 
 >
 - [ ] **2.**
