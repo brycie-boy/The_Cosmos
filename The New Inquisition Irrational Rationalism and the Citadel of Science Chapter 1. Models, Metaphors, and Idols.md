@@ -63,6 +63,36 @@ The late R. Buckminster Fuller—architect, engineer, poet, mathematician and ga
 - Highlight - page 7 Location 186
 ![[540009B7-8C29-41C9-87D7-8F473F13F516.jpeg]]
 
+- Highlight(pink) - Page 13 · Location 186
+The upward arrow on the reader's left represents an "object" or, in more precise terms, a space-time event. The light rays from this existential knot or energy cluster travel to the lens of the eye which, like all lenses, reverses them and the retina then registers the reversed "image." We do not see things upside down because the retina is part of the synergetic eye-brain system and before we have a conscious perception of the energy-knot the brain has already interpreted and edited the signal into its system of classification, which includes turning it around to mesh with the general geometrical coordinate system the brain uses to "file" data.
+
+- Highlight(pink) - Page 14 · Location 192
+Some people think they understand this the first time it is explained to them. Others, around the hundredth time it is explained, suddenly cry "Eureka!" and think they really understand it at last. In my experience teaching seminars on this area, nobody gets the full meaning of it until some experiments are performed which make it a vivid experience. Here is one such experiment which the reader is urgently implored to duplicate:
+
+- Highlight(pink) - Page 14 · Location 196
+Ask a friend to cooperate and then obtain a newspaper you have not already glanced over. Sit in a chair and have the friend, holding the newspaper so that you can read the front-page headlines, walk slowly away, across the room, until the headlines are blurry for you. Have the friend turn a page to ensure that you cannot read the headlines. Then have him, holding the newspaper in the same position, read a headline out loud. You will then "see" the headline clearly.
+
+- Note: Similar experiements include hearing unintelligable speech, and when its played for a second time, it is supplemented with subtitles, allowing you to "hear" waht is being said
+
+- Highlight(pink) - Page 14 · Location 202
+Aristotle, without knowing the modern laws of optics, understood this general principle well enough to point out once that "I see" is an incorrect expression and really should be "I have seen." There is always time, however small, between the impact of a signal on our eye and the "perception" or "image" in our brains. In that interval the brain imposes form, meaning, color and a great deal else.
+
+- Highlight(pink) - Page 14 · Location 207
+What is true of the eye is true of the ear and of other senses.
+
+___
+
+- Highlight(pink) - Page 14 · Location 208
+On the face of it, once this has been pointed out, there seems no escape from an at least partial agnosticism—i.e. from recognition that all ideas are somewhat conjectural and inferential. Aristotle escaped that conclusion, and until recently most philosophers and scientists have escaped it, by asserting or assuming or hoping that a method exists whereby the uncertainty of perceptions can be transcended and we can arrive at certitude about general principles.
+
+- Highlight(pink) - Page 15 · Location 216
+If perception is not absolute, no deduction from perception can be absolute. No matter how ingeniously one juggles with approximations, they do not magically turn into certainties; at best, they become the most accurate possible approximations.
+
+___
+
+- Highlight(pink) - Page 15 · Location 219
+Again: consider this well-known illustration, to be found in most general psychology texts:
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
