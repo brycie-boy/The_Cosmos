@@ -165,6 +165,14 @@ In daily life and in "common sense," we use this agnostic caution most of the ti
 
 ___
 
+- Highlight - Page 22
+The following diagram is adopted from Professor O.R. Bontrager of University of Pennsylvania Department of Psychology and from the general principles in Blake's anthology, Perception, University of Texas, 1952.
+![[EFBEBC62-C8A5-4EA8-BC94-BBC49FDCDF98.jpeg]]
+
+
+
+___
+
 - Highlight(pink) - Page 7 · Location 88
 Back in the Renaissance, Francis Bacon, the father of empirical reasoning, announced that materialist science would allow man to “take nature by the forelock, hold her down, and submit her to our will.” He used a rape metaphor to describe the benefits of rational thinking. This is not a way of understanding nature, but forcing nature to conform to the model. As Korzybski and Wilson both liked to remind us, “the map is not the territory.” For Bacon, this means changing the territory to become more like the map.
 
