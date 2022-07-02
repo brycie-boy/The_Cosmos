@@ -37,6 +37,29 @@ EMIC REALITY: the unified field made up of thoughts, feelings and apparent sense
 - Highlight(pink) - Page 11 · Location 143
 ETIC REALITY: the hypothetical actuality that has not been filtered through the emic reality of a human nervous system or linguistic grid.
 
+- Highlight(pink) - Page 11 · Location 146 
+INFORMATION: as used in mathematical information theory, this denotes the amount of unpredictability in a message; information is, roughly, what you do not expect to hear. In this sense, information may be "true" or "false," but is always a small surprise. Resistance to new information measures the degree of Fundamentalism in a culture, a sub-culture, or an individual.
+
+- Highlight(pink) - Page 11 · Location 151
+NEUROSEMANTICS: the study of how symbolism influences the human nervous system; how the local reality-tunnel programs our thoughts, feelings and apparent sense impressions.
+
+- Highlight(pink) - Page 11 · Location 153
+REALITY-LABYRINTH: existence regarded as a multiple-choice intelligence test; the sum total of reality-tunnels available to an open-minded or non-Fundamentalistic human at a given time and place.
+
+- Highlight(pink) - Page 11 · Location 155
+REALITY-TUNNEL: An emic reality established by a system of coding, or a structure of metaphors, and transmitted by language, art, mathematics or other symbolism.
+
+- Highlight(pink) - Page 12 · Location 157
+SYNERGY: those behaviors of whole systems which cannot be predicted by analysis of parts or sub-systems. A term popularized by Buckminster Fuller and roughly equivalent to Holism. Cf. Gestalt in psychology and transaction immediately following:
+
+- Highlight(pink) - Page 12 · Location 160
+TRANSACTION: used here in the sense of Transactional Psychology, which holds that perception is not passive re-action but active, creative trans-action, and that the "observer" and the "observed" must be considered a synergetic whole.
+
+___
+
+- Highlight(pink) - Page 13 · Location 182
+The late R. Buckminster Fuller—architect, engineer, poet, mathematician and gadfly—used to astonish audiences by remarking casually in the middle of a lecture that everything we see is inside our heads. If the consternation of the audience was voluble. Fuller would stop and explain, by drawing on the blackboard the diagram encountered in the elementary optics part of any first year physics course:
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
