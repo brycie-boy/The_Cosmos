@@ -431,6 +431,7 @@ This is the case: inside the atom, or below the atomic level, are various thinga
 
 - Highlight(pink) - Page 37 · Location 676
 If we want to know what one of the sub-atomic thingamajigs is doing or where it is going, we find "the" answer in one of the equations for which Dr. Schrödinger won the Nobel prize. The equation—and the nonmathematical reader need not be alarmed at this point—happens to look like this:
+![[4E23EB5D-B010-4CD1-9C46-95969E74F19B.jpeg]]
 
 - Highlight(pink) - Page 38 · Location 679
 The first side of the equation ￼ means the rate of change in time (t) of ￼, we will explain ￼, sort of, in a moment. The other part of the equation tells what that rate of change is. We need not, in this book, concern ourselves about all of the symbols. The x, y and z are merely the spatial coordinates which even the most nonmathematical may remember vaguely from analytical geometry classes in secondary school, while ￼ would require a lengthy essay on quantum mechanics to be explained fully. For the purposes of ordinary understanding (if we are not to embark on careers as quantum physicists) it is enough to note that all the symbols on the right denote properties of the subatomic system in question, and then to note that they are all multiplied by the mysterious ￼.

@@ -9,6 +9,7 @@
 - **Total:** $483
 	- without food, haircut, and hygiene: $275
 	- Without haircut: $458
+	- Without food: $388
 
 - Subscriptions:
 	- Gitkraken pro: $5 
