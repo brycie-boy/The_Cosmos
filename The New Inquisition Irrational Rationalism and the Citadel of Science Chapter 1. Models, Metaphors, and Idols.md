@@ -204,6 +204,236 @@ The final precept in humans is always verbal or symbolic and hence coded into th
 
 ___
 
+- Highlight(pink) - Page 24 · Location 364
+This discovery that language is basically metaphoric, which emerged gradually in the early 19th Century, inspired Emerson's famous dictum that we speak to each other in "fossil poems." Thus, to want something is to be empty—want and vacant come from the same root. Speaking of all desires as "appetites" brings us back to the same metaphor.
+
+- Highlight(pink) - Page 24 · Location 369
+Even "to be"—the most abstract word in normal use—comes from an Indo-European root which evidently meant becoming lost in the woods. That was as abstract, I guess, as an early human could feel; when no longer lost, when other people were found again, he or she would no longer simply "be" abstractly but become embroiled again in a more complex state, namely social existence and its Game Rules.
+
+- Highlight(pink) - Page 24 · Location 373
+A villain is a person without property (and Marxists should have given us many more exegeses on the class-bias in our languages).
+
+- Highlight(pink) - Page 24 · Location 375
+Man is the general human being, as Feminists keep telling us, because of the gender-bias in our language.
+
+- Highlight(pink) - Page 24 · Location 375
+A humorous story of sexual nature is a "dirty joke" because ascetics and puritans have left their own programs embedded in our speech; but Saxon words for body functions are "dirtier" than Norman words because of a plurality of puritan-economic-racial prejudices.
+
+- Highlight(pink) - Page 24 · Location 378
+Even “the" is a metaphor—it assumes the world is divided the same way our minds divide it—and seems to have been a very hypnotic metaphor indeed. In terms of human tragedy and suffering, think of what has been provoked by generalizations about "the Jews" and "the blacks."
+
+- Highlight(pink) - Page 24 · Location 382
+More subtly, remember that "the length of the rod" seemed to be a perfectly meaningful and "objective" phrase until Einstein demonstrated that a rod has various lengths—length1, length2, etc.—depending on its velocity and depending also on the relative velocity of the galoot who is trying to measure it.
+
+- Highlight(pink) - Page 24 · Location 392
+To reflect the currently acceptable principles of neurology, such statements should be a bit more complicated—e.g. "This seems like a great work of art to me," "This seems like meaningless drivel to me," "This seems like Communism to me," "This seems like sexism to me," "This seems like fascism to me."
+
+- Highlight(pink) - Page 25 · Location 395
+Of course, if some pedantic bastard like me points this out, people will say that the latter formulations are what they really mean and that the Aristotelian "is" was used only for convenience or brevity. But if you observe people carefully, you will note that language does indeed have hypnotic effects, and that one who has said "This is Sacred" will treat the non-verbal event as if it really is Sacred, and those who say "This is Crap" will act as if the event really is Crap.
+
+___
+
+- Highlight(pink) - Page 25 · Location 401
+Roger Jones's Physics as Metaphor spends most of its time trying to make clear to the reader the transactional or poetic element in so seemingly factual a statement as This table is three meters long.
+
+- Highlight(pink) - Page 25 · Location 404
+In case Dr. Jones's point still seems obscure or excessive, consider the celebrated "cock-eyed room" designed by Dr. Albert Ames. This is discussed in Blake's Perception mentioned above and has often been shown on educational television. This room is designed so that the brain, using its ordinary programs and metaphors, will classify it as an ordinary room. It is not ordinary, however: it has walls and ceiling and floor designed at odd angles which optically produce in educated humans the same signals as a "normal" room. (Some evidence suggests that children under 5 years of age are not taken in by this illusion.)
+
+- Highlight(pink) - Page 25 · Location 409
+Something very amusing and instructive happens—something which may relate, I think, to UFOlogy and other "crazy" topics—if two men of the same size enter the cockeyed room and walk to opposite walls. What the brain "sees" is that one man "miraculously" grows taller, becomes a virtual giant, while the other man "shrinks" down to a dwarf.
+
+- Highlight(pink) - Page 25 · Location 412
+The brain, it seems, having classified the room as normal, stubbornly clings to that program, even at the cost of having to classify new signals into a virtually supernatural event.
+
+___
+
+- Highlight(pink) - Page 26 · Location 416
+More subtle and alarming issues arise when we consider the structure of a system of metaphors interlinked into a code or language. Descartes, who tried, or says he tried, to doubt everything, found that he could not doubt the proposition "I think, therefore I am." That was because he lived before the discoveries of 19th Century linguists. Nietzsche, who was trained in that field before becoming a philosopher or a social menace or whatever he became, noted that Descartes couldn't doubt that proposition because he only knew Indo-European languages. It is an Indo-European coding convention that a verb must have a substantive noun before it—that an action must be attributed to some alegedly isolated and allegedly reified Actor.
+
+- Highlight(pink) - Page 26 · Location 423
+It is this convention which still makes us say "It is raining," even though we no longer believe in Zeus or any other rain-god and would be hard put to say what else the "it" might refer to.
+
+- Highlight(pink) - Page 26 · Location 425
+These linguistic structural factors explain the notorious inability of even genius to translate a poem from one language to another, except very approximately. They may also explain some of the great conflicts in the history of philosophy—Prof. Hugh Kenner has wittily argued that Descartes, thinking in a French even more latinate than today's, would perceive un pomme grosse et rouge and conclude that the mind starts from general ideas and then discovers particulars, whereas Locke, thinking in English, would perceive the same sort of space-time event as a big red apple and decide that the mind starts from particulars and then assembles general ideas.
+
+- Highlight(pink) - Page 27 · Location 432
+In Chinese, the characters which literally translated into English would be jade/ sun + moon comes over to us, once we know that sun + moon means among other things brightness, as "the jade is bright" or more elegantly "the jade shines." And student/ sun + moon becomes a surprisingly familiar metaphor—"the student is bright." But heart + liver/ sun + moon has baffled every translator of Confucius.
+
+___
+
+- Highlight(pink) - Page 27 · Location 442
+And what about "matter," the Idol of the Fundamentalist Materialists? This is a metaphor, too, a petrified poem, and is related to meter and measure (and, oddly enough, to mother also). Somewhere, somehow, out of the organismic (holistic) activity of metering and measuring, somebody invented the metaphor, the substantive noun, of that-which-is-measured.
+
+- Highlight(pink) - Page 27 · Location 446
+In the same way, out of the experiences which Nietzsche once called "this leaf" and "that leaf" and "the next leaf"—which semanticists call leaf1, leaf2, leaf3 etc.—the substantive noun, or poem, of "leaf" or "the leaf" was created.
+
+- Highlight(pink) - Page 27 · Location 448
+That the process was very poetic indeed and even metaphysical is indicated by the fact that Plato either believed, or has been understood to have believed, that "the leaf" really exists somewhere.
+
+- Highlight(pink) - Page 27 · Location 450
+Most Materialists, similarly, either believe, or are very easily misunderstood as believing, that "matter" exists somewhere. But nobody has ever experienced this poem or abstraction "matter," any more than anybody has ever experienced "the leaf." Human experience remains limited to measurement1, measurement2, measurement3 etc. and leaf1, leaf2, leaf3 etc.
+
+___
+
+- Highlight(pink) - Page 27 · Location 454
+Specific space-time events are encountered (and usually endured); substantive nouns are conventions of coding, or metaphors.
+
+- Highlight(pink) - Page 28 · Location 455
+If "matter" is a metaphor, what of the "space" and "time" in which it is conventionally assumed either to move or stand still?
+
+- Highlight(pink) - Page 28 · Location 457
+That these are also metaphors is easily seen from the fact that modern physics, since Einstein, has found it profitable to replace them with the more elegant metaphor of "space-time"; and that, using this more modern metaphor throughout this chapter, I am yet comprehensible even to those who are more accustomed to the pre-Einsteinian metaphors of "space" and "time" as separate substantives.
+
+___
+
+- Highlight(pink) - Page 28 · Location 460
+The conventions of coding or systems of metaphor that make us human are known as "culture" or "cultural configuration" in anthropology. The systems used in science at a given date are known as the models of that period, or sometimes all the models are lumped together into one super-model which is then called "the" paradigm. The general case—the class of all classes of metaphors—is called a group's emic reality (by Dr. Harold Garfinkle who has built a meta-system called ethnomethodology out of the sub-systems of anthropology and social psychology) or its existential reality (by the Existentialists) or its reality-tunnel (by Dr. Timothy Leary, psychologist, philosopher and designer of computer software).
+
+- Highlight(pink) - Page 28 · Location 469
+That these terms are sometimes overlapping and sometimes distinct can be illustrated with a few real and hypothetical examples.
+
+- Highlight(pink) - Page 28 · Location 470
+To cite Bucky Fuller again. Mission Control at Houston is often heard asking astronauts "How are things going up there?"—even when the astronauts are below Houston at the time. The technicians at Houston have a post-Copernican model most of the time, but their emic reality or reality-tunnel retains pre-Copernican metaphors implying both Earth's flatness and its centrality.
+
+- Highlight(pink) - Page 28 · Location 475
+According to Fuller, who may sound excessive at this point, this neurosemantic dissonance between model and metaphor could some day lead to a serious blunder.
+
+- Highlight(pink) - Page 28 · Location 477
+Fuller, from 1928 on, always wrote and said "Universe" instead of "the" Universe. When questioned about this, he would explain that it is consistent with modern scientific models to regard Universe as process and “the" implies medieval notions of stasis and thing-ification.
+
+___
+
+- Highlight(pink) - Page 29 · Location 485
+In terms of one kind of sociological model, a common event in any large city can be described as follows: A group of people agree to meet at a certain hour on a certain day to make noise. Other people arrange to be there, to listen to the noise. The meeting happens as scheduled, the noise continues for over an hour, and everybody exhibits behavior indicating that the ritual was satisfactory to them. According to another type of sociological model, favored by phenomenologists and ethnomethodologists, we need to know that the noise was called Symphony No. 9 in D by Beethoven before we can begin to understand what has happened, which is that in the emic reality or existential reality of these people something has occurred which contains meaning, beauty, grandeur and affirmation of life.
+
+___
+
+- Highlight(pink) - Page 30 · Location 504
+It begins to seem that no one "reality-tunnel" is adequate for the description of all human experience, although some reality-tunnels are better for some purposes than others are.
+
+___
+
+- Highlight(pink) - Page 30 · Location 507
+I have spoken of Fundamentalism and Idolatry several times; now I may define these terms.
+
+- Highlight(pink) - Page 30 · Location 508
+Idolatry is my label for that stage of semantic innocence in which the inferential and metaphoric nature of models and reality-tunnels is forgotten or repressed or has not yet been learned;
+
+- Highlight(pink) - Page 30 · Location 509
+the stage of innocence or arrogance in which Stage V on our perception diagram, somebody's edited final version of a perception (" Emic Reality"), is confused with Stage 1, the energy-event or Etic Reality "out there" in what is traditionally assumed to be a more-or-less Euclidean space.
+
+- Highlight(pink) - Page 30 · Location 512
+To the Idolator, events "really are" what they appear to be as coded into his or her favorite reality-tunnel. Any other reality-tunnel, however useful it may appear to others with different purposes and different interests, must then be "mad" or "bad"—delusory or fraudulent. Anybody who disagrees with such an Idolator must be, by definition, a loony or a liar. This mentality underlies all Inquisitions, and I call it Fundamentalism when it appears as an active social ideology.
+
+___
+
+- Highlight(pink) - Page 31 · Location 528
+Of course, this position "is" relative relativism, not absolute relativism. We say again that some reality-tunnels seem better, in some ways, than others.
+
+- Highlight(pink) - Page 31 · Location 529
+One would not wish to live in a nation dominated by the Nazi reality-tunnel, for instance; and that is called a moral choice.
+
+- Highlight(pink) - Page 31 · Location 530
+The Einsteinian reality-tunnel "is" better, in the dimension of predicting more accurately, than the Newtonian reality-tunnel; and that is called a scientific choice.
+
+- Highlight(pink) - Page 31 · Location 532
+James Joyce seems to "be" a greater writer to me than Harold Robbins; and this is called an esthetic choice.
+
+- Highlight(pink) - Page 31 · Location 534
+In every case, however, a human organism, and specifically a human nervous system—in the biological model, a specialized kind of primate nervous system—has made the choice. The scientific, the esthetic and the moral are not always distinct, either—as can be seen by studying the arguments, anywhere, for and against building a new nuclear power plant.
+
+- Highlight(pink) - Page 31 · Location 538
+Even in the scientific area, no choice is purely "objective" anymore, if it ever was, because—as we shall soon see—there are a variety of alternative models available these days in the advanced fields, and the choice between them always includes such factors as "simplicity" and "elegance": two very subjective factors, indeed.
+
+- Highlight(pink) - Page 31 · Location 541
+And, of course, in historical perspective, any choice between reality-tunnels is always made on the basis of insufficient data, because we have no way of knowing what new data will be discovered the next day, the next decade or the next century.
+
+___
+
+- Highlight(pink) - Page 31 · Location 544
+As Persinger and Lafreniere write in Space-Time Transients and Unusual Events, Nelson-Hall, 1977, page 3: We, as a species, exist in a world in which exist a myriad of data points. Upon these matrices of points we superimpose a structure and the world makes sense to us. The pattern of the structure originates within our biological and sociological properties.
+
+- Highlight(pink) - Page 31 · Location 548
+To the extent that we remain conscious of this process of superimposing structure (programming our emic reality) we will behave liberally and will continue learning throughout life.
+
+- Highlight(pink) - Page 32 · Location 550
+To the extent that we become unconscious of this process, we will behave Fundamentalistically or Idolatrously and will never again learn anything after the hour at which we (usually unconsciously) elevate a generalization into a dogma and stop thinking.
+
+- Highlight(pink) - Page 32 · Location 552
+If we are fully hypnotized by a reality-tunnel, we may even become, in conventional terms, a bit mad. In such a state of mania, we might even burn books that contain heresy against our Idols, or fake the data to support our prejudices, or find ourselves compelled to explain increasing amounts of discordant data by accusing vast amorphous conspiracies of having "cooked" the data, or we might even become sincerely convinced that anybody who sees or hears or smells or tastes or otherwise senses anything inconsistent with our Idol must be hallucinating.
+
+- Highlight(pink) - Page 32 · Location 558
+In such a state, we appear "beyond reason"—i.e. beyond the normal parameters of social discourse. The only places for us, then, are in a quiet and restful home in the country, surrounded by kindly doctors, or in the Vatican, or in the Committee for Scientific Investigation of Claims of the Paranormal
+
+___
+
+- Highlight(pink) - Page 32 · Location 562
+Human beings appear, in the biological model, as very unique primates, but primates nonetheless. Specifically, the usual primate program about territory and property can be seen mirrored in any domesticated primate* (human) community in the plethora of "NO TRESPASSING" signs.
+
+- Highlight(pink) - Page 33 · Location 581
+Due to the unique capacity of domesticated primates (evidently including chimpanzees, according to some recent reports) to learn neurosemantic systems (codes: languages), it becomes possible for these unique mammals to "own" (or think they "own") symbolic territories as well as physical territories. These symbolic territories are usually called "ideologies" or "belief systems"—in our preferred terminology, reality-tunnels.
+
+- Highlight(pink) - Page 33 · Location 585
+Domesticated primates battle not only over physical territories but over these "mental" or neurosemantic territories:
+
+- Highlight(pink) - Page 33 · Location 588
+If a donkey kicks a donkey, as some cynic once remarked, that is a matter between two donkeys, but if a Spaniard kicks the King of France, all the citizens of those nations may become involved in the kind of territorial frenzy known as "war." This will be preceded by a great deal of what an extraterrestrial would call "noise"–those who have entered the Western Linguistic reality-tunnel will recognize the "noise" as including signals concerning "national honor," "an unforgivable outrage," "our duty to our nation," "cowardly appeasers who would crawl on their bellies," etc. etc. These "noises" are as real and meaningful, to those in that existential reality, as the "noises" of Beethoven's Ninth are to those in the Classical Music reality-tunnel.
+
+___
+
+- Highlight(pink) - Page 34 · Location 595
+Mark Twain once remarked that anti-semitism reminded him of a cat he once knew who sat on a hot stove once and never sat on a hot stove again. "What's wrong with that?" asked an anti-semite, falling into Twain's trap. "The stupid cat never sat on a cold stove either," Twain replied.
+
+- Highlight(pink) - Page 34 · Location 597
+This illustrates the generalization that mammals seem incapable of criticizing or examining their neural programs. To a dog or a cat or a monkey, some act or event or thing that seemed "bad" once will always seem "bad" and it, or anything that looks like it, will be attacked or fled.
+
+- Highlight(pink) - Page 34 · Location 602
+Domesticated primates (humans) seem also to function largely on imprinting and conditioning, and mostly they share the mammalian inability to criticize or examine these neurological programs. These mechanical reactions interact with a linguistic (emic) reality-tunnel to produce a characteristic vocabulary, from which behavior can often be predicted mechanically.
+
+- Highlight(pink) - Page 34 · Location 606
+If one hears the metaphors and/ or cuss-words of the Ku Klux Klan, one can guess how a Black human will be treated in that group. If one hears the language system of Radical Feminism, one knows how a male human will be regarded. If one hears the noises of Fundamentalist Materialism, one knows how an allegation of "ESP” will be received. Etc.
+
+- Highlight(pink) - Page 34 · Location 609
+It appears that some domesticated primates, over the aeons, have not precisely evolved but have learned how to criticize and examine their own neurological programs. Members of this group cannot be mechanically predicted. They exhibit, at times at least, what looks like "growth" or "creativity,"
+
+- Highlight(pink) - Page 34 · Location 616
+it appears that most of what I have been calling Idolatry and Fundamentalism can be biologically described as normal primate behavior—mechanical imprinting and conditioning combined with normal territorial pugnacity.
+
+- Highlight(pink) - Page 35 · Location 618
+And in that case—unless some real possibility of creative thought exists—only mechanical primate programs will determine how we evaluate any incident or event, from the chair across the room to yarns about bleeding Catholic statues or charmed quarks or UFOs.
+
+___
+
+- Highlight(pink) - Page 35 · Location 622
+we follow conditioned programs so much that we do not stop to exercise our potential creativity. The artist tries to jar us out of this conditioned or hypnotic state by showing us a normal thing in a new way. The mystic tries to jar us by telling us to sit and look at a wall or an apple or something until—through the stress of social and sensory deprivation—we stop "seeing" what we always saw and start "seeing" in a new way.
+
+- Highlight(pink) - Page 35 · Location 626
+We are using neither the artistic nor the mystic method here but are trying to look at those things which are normally ignored or dismissed—to look at them without first placing one of our habitual Idols in the way of our vision—And then, when we look back at the normal world again, at that chair across the room, will it still be quite normal for us?
+
+___
+
+- Highlight(pink) - Page 35 · Location 630
+The late J.B. Priestley often animadverted upon what he called the Citadel—the scientific-technological elite which both supports and is supported by our military-industrial alpha males. The Citadel, in most countries, gets millions of pounds for every twopence doled out to the humanities, the social studies or the arts; it devotes most of its time and intellect to the task, as Bucky Fuller used to say, of delivering more and more explosive power over greater and greater distances in shorter and shorter times to kill more and more people.
+
+- Highlight(pink) - Page 35 · Location 634
+For this reason, the Citadel increasingly frightens most of us and there is a vast, somewhat incoherent rebellion against it all around the world. This rebellion takes the form, most of the time, of return to some earlier philosophy or reality-tunnel, although within the scientific community there is also a rebellion which is seeking a new reality-tunnel, which is usually called the New Paradigm.
+
+- Highlight(pink) - Page 36 · Location 652
+Of course, "the Citadel" is a metaphor, a rhetorical convenience. Many of the most creative scientists of the past half-century have dissented vehemently from official Citadel dogma and even engaged in Heresy*; and a surprising number of "Scientific" Materialists are not scientists at all but cranky Village Atheists left over from horse-and-buggy days.
+
+___
+
+- Highlight(pink) - Page 37 · Location 664
+We will now consider the rather peculiar case of a cat who is dead and alive at the same time. This flexible feline first appeared in Volume 23 of Der Naturwissenschaft (1935) and is the progeny of Dr. Erwin Schrödinger, Nobel laureate in physics.
+
+- Highlight(pink) - Page 37 · Location 673
+This is the case: inside the atom, or below the atomic level, are various thingamajigs—we cannot be more specific—which are sometimes called waves and sometimes called particles. If the reader has digested the earlier part of this chapter, that can be translated: the thingamajigs can be usefully described in a wave model part of the time and in a particle model the other part of the time.
+
+- Highlight(pink) - Page 37 · Location 676
+If we want to know what one of the sub-atomic thingamajigs is doing or where it is going, we find "the" answer in one of the equations for which Dr. Schrödinger won the Nobel prize. The equation—and the nonmathematical reader need not be alarmed at this point—happens to look like this:
+
+___
+
 - Highlight(pink) - Page 7 · Location 88
 Back in the Renaissance, Francis Bacon, the father of empirical reasoning, announced that materialist science would allow man to “take nature by the forelock, hold her down, and submit her to our will.” He used a rape metaphor to describe the benefits of rational thinking. This is not a way of understanding nature, but forcing nature to conform to the model. As Korzybski and Wilson both liked to remind us, “the map is not the territory.” For Bacon, this means changing the territory to become more like the map.
 
