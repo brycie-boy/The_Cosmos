@@ -550,11 +550,11 @@ Highlight(pink) - Page 39 · Location 713
 
 Of course, common sense "knows" that this cannot be true—if we open the box, we will find either a dead cat or a living cat, not some monster in a mixed dead-and-alive state—But mathematical quantum physics does not "know" this—it only "knows" that the state vector is in "a mixed state" (the expression is actually used) and therefore it predicts that the cat is in a mixed state, too—So: do we believe mathematical physics or do we believe common sense? Readers familiar only with one form or another of Fundamentalism will assume I am about to answer that question. I am not. As I said, Schrödinger first published the problem fifty years ago. That's half a century. In that time, the majority of physicists have arrived at no consensus about it. They are still arguing.
 
-Highlight(pink) - Page 39 · Location 721
+Highlight(pink) - Page 39 · Location 721 ❗️
 
 The argument for trusting common sense in this case sounds much of a muchness with the epistemology of the present chapter. The models of physics are abstractions from experience. They are coded into symbolisms, here technically called formalisms, which are useful at a time and in a given area of investigation. When formalisms is generalized—when the model is extended—and the results are "obviously" absurd, as in the Schrödinger's cat example, then we need to remember that the model is only a human invention or emic tool and not identical with etic (non-verbal) actuality.
 
-Highlight(pink) - Page 40 · Location 727
+Highlight(pink) - Page 40 · Location 727 
 
 You might say that those who hold this view are close to my position that if we believe a model in all cases we have become Idolators of the model. The opposite position—and there are intermediate positions, too, as we shall see—starts by reminding us that that which is "obvious to common sense" is not always true. It adds that most great scientific breakthroughs were profound shocks to common sense at first—Copernicus was unbelievable to those who "knew" and felt deeply that they were standing on an Earth that did not move; Darwin was equally stunning to those who knew they were not primates; Einstein was almost incomprehensible at first to those who knew that a rod has only one length which is "objective"—
 

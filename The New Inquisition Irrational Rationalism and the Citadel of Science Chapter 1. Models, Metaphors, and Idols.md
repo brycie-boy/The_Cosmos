@@ -444,6 +444,15 @@ So what is ￼? ￼ is the symbol for the components of the "state vector." Note
 - Highlight(pink) - Page 38 · Location 700
 The important part of that definition is the part Sirag italicized. Any state vector, ￼, has two or more components. This underlies the one generalization about quantum mechanics that every layperson has heard of by now—their indeterminacy. Physicists cannot predict what a quantum system will do; they can only calculate the probability that it will arrive at each of two or more possible states. This equation is used in calculating such probabilities. It gives us probabilities, not certainties, because ￼ is itself uncertain, or has more than one possible value.
 
+- Highlight(pink) - Page 39 · Location 705
+This indeterminacy was a hard pill for physicists to swallow; it was even hard for Dr. Schrödinger, who worked out the mathematics of it. This is where the two-valued cat comes in. Schrödinger invented the cat problem as a way of bringing to the forefront of debate and philosophical analysis among physicists the question of what this quantum indeterminacy means to our ideas of actuality.
+
+- Highlight(pink) - Page 39 · Location 709
+The case assumes a cat in a box, together with some sort of lethal device, such as a pistol or a poison-gas pellet, which may discharge and kill the cat. The device will discharge and kill the cat at some stage of a quantum decay process. We want to know, at a given second, t, if the device has gone off and killed the cat yet. We solve the equation—and we find, in the "best possible case," where all the other functions are known, that that damned ￼ function, the state vector, is still in two states. The answer is then that the cat is both dead and alive at that moment.
+
+- Highlight(pink) - Page 39 · Location 713
+Of course, common sense "knows" that this cannot be true—if we open the box, we will find either a dead cat or a living cat, not some monster in a mixed dead-and-alive state—But mathematical quantum physics does not "know" this—it only "knows" that the state vector is in "a mixed state" (the expression is actually used) and therefore it predicts that the cat is in a mixed state, too—So: do we believe mathematical physics or do we believe common sense? Readers familiar only with one form or another of Fundamentalism will assume I am about to answer that question. I am not. As I said, Schrödinger first published the problem fifty years ago. That's half a century. In that time, the majority of physicists have arrived at no consensus about it. They are still arguing.
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
