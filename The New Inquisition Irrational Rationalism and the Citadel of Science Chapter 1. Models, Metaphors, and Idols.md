@@ -106,8 +106,6 @@ ___
 - Highlight(pink) - Page 16 · Location 233
 "The" Greeks as we say, or "the" ancient Greeks—the handful of ancient Greeks whose ideas we encounter in University, actually—were well aware of this fallibility of perception, and an illustration well-known in Athens in its Golden Age went like this: take three bowls of water. Make one of them quite hot, one medium-temperatured, and the third quite cold. Put your right hand in the hot bowl for a while and your left hand in the cold bowl. Then put both hands in the medium bowl. The same water will feel "cold" to your right hand and "hot" to your left hand. (Again, doing the experiment teaches more, neurosemantically, than merely reading about it.)
 
-___
-
 - Highlight - Page 16
 Nonetheless, the Greek philosophers, or some of them, still thought there was a path to certitude. They called it the path of Pure Reason. The argument for PR goes that, even if sense data is fallible, we have a higher faculty which is not fallible and which knows truths a priori. This has collapsed over the centuries for a variety of reasons, but chiefly because the things philosophers thought they knew this way have often turned out to be simply not true. For instance, even as late as the age of libertarian free thought in the 18th Century, Kant still thought PR "knew" intuitively that Euclidean geometry was the true and only geometry. Nowadays, mathematicians have several varieties of non-Euclidean geometry, all of which are equally valid (consistent) and all of which are as useful as Euclidean geometry, although in different areas.
 
@@ -125,16 +123,25 @@ his argument is something like that of the present book (and of Nietzsche), whic
 - Highlight(pink) - Page 17 · Location 257
 My answer to that is that there is an alternative which appears more reasonable to some of us; namely to avoid the "leap of faith" and remain agnostic about all methods, although willing to learn from them in an open-minded way.
 
-- Highlight(pink) - Page 17 · Location 268
-Certitude is seized by some minds, not because there is any philosophical justification for it, but because such minds have an emotional need for certitude.
-
-- Highlight(pink) - Page 20 · Location 279
-What I call Idols are projections of these inner compulsions of human psychology. When an Idol "speaks" (through its priests) it only says what the Faithful want to hear.
-
 ___
 
 - Highlight - Page 17
 There remains, of course, Scientific Method (SM), the alleged source of the certitude of those I call the New Idolators. SM is a mixture of SD (sense data: usually aided by instruments to refine the senses) with the old Greek PR. Unfortunately, while SM is powerfully effective, and seems to most of us the best method yet devised by mankind, it is made up of two elements which we have already seen are fallible—SD (sense data) and PR (pure reason) can both deceive us. Again: two fallibilities do not add up to one infallibility. Scientific generalizations which have lasted a long time have high probability, perhaps the highest probability of any generalizations, but it is only Idolatry which claims none of them will ever again have to be revised or rejected. Too many have been revised or rejected in this century alone.
+
+___
+
+- Highlight(pink) - Page 17 · Location 268
+Certitude is seized by some minds, not because there is any philosophical justification for it, but because such minds have an emotional need for certitude.
+
+- Highlight - Page 19
+For instance, run your eyes down the following list of propositions and play the Aristotelian either/ or game with them: mark each one "true" or "false" (since no" maybes" are allowed in the strict Aristotelian game): 
+![[39C9B3D8-D508-4AE1-9D74-68AB0E78166F.jpeg]]
+
+- Highlight - Page 20
+notice that emotional preferences and fixed ideas did become somewhat perceptible in a few cases, for almost every reader, even when, or especially when, the evidence for or against the proposition is dubious or controversial. It is amusing to reflect that other readers no doubt experienced a similar insight into their own bias but on entirely different items on the list.
+
+- Highlight(pink) - Page 20 · Location 279
+What I call Idols are projections of these inner compulsions of human psychology. When an Idol "speaks" (through its priests) it only says what the Faithful want to hear.
 
 ___
 
