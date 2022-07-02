@@ -432,6 +432,18 @@ This is the case: inside the atom, or below the atomic level, are various thinga
 - Highlight(pink) - Page 37 · Location 676
 If we want to know what one of the sub-atomic thingamajigs is doing or where it is going, we find "the" answer in one of the equations for which Dr. Schrödinger won the Nobel prize. The equation—and the nonmathematical reader need not be alarmed at this point—happens to look like this:
 
+- Highlight(pink) - Page 38 · Location 679
+The first side of the equation ￼ means the rate of change in time (t) of ￼, we will explain ￼, sort of, in a moment. The other part of the equation tells what that rate of change is. We need not, in this book, concern ourselves about all of the symbols. The x, y and z are merely the spatial coordinates which even the most nonmathematical may remember vaguely from analytical geometry classes in secondary school, while ￼ would require a lengthy essay on quantum mechanics to be explained fully. For the purposes of ordinary understanding (if we are not to embark on careers as quantum physicists) it is enough to note that all the symbols on the right denote properties of the subatomic system in question, and then to note that they are all multiplied by the mysterious ￼.
+
+- Highlight(pink) - Page 38 · Location 687
+For the sake of ordinary simplicity in the lay sense (not mathematical simplicity) we can regard the right-hand side of the equation as A ￼ + B ￼—which is to indicate, more clearly, that all the symbols in the first half of the expression are multiplied by ￼ and so are all the symbols on the left half.
+
+- Highlight(pink) - Page 38 · Location 692
+So what is ￼? ￼ is the symbol for the components of the "state vector." Note that the word "components" is plural. When I asked a friendly physicist, Saul Paul Sirag, for a definition of the state vector that would be accurate but also comprehensible to non-physicists, I got the following from him: The state vector is the mathematical expression describing one of two or more states that a quantum system can be in; for instance, an electron can be in either of two spin states, called "spin up" and "spin down." The amusing thing about quantum mechanics is that each state vector can be regarded as the superposition of other state vectors.
+
+- Highlight(pink) - Page 38 · Location 700
+The important part of that definition is the part Sirag italicized. Any state vector, ￼, has two or more components. This underlies the one generalization about quantum mechanics that every layperson has heard of by now—their indeterminacy. Physicists cannot predict what a quantum system will do; they can only calculate the probability that it will arrive at each of two or more possible states. This equation is used in calculating such probabilities. It gives us probabilities, not certainties, because ￼ is itself uncertain, or has more than one possible value.
+
 ___
 
 - Highlight(pink) - Page 7 · Location 88
