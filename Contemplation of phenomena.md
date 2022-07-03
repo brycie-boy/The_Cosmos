@@ -1,10 +1,10 @@
 ## Contemplation of phenomena  #🧠 
 
-The contemplation of phenomena, a division of [[The four establishments of mindfulness]], is subdivided into five categories, these are:
+The contemplation of phenomena is one of the main sections of [[The four establishments of mindfulness]]. It is subdivided into five categories:
 
 - [[The five hinderances]] 
 - [[The five aggregates]]
-- [[Six sense bases]]
+- The [[Six sense bases]]
 - [[The seven factors of enlightenment]]
 - [[The four nobel truths]]
 

@@ -97,7 +97,7 @@
 
 ### Cheese/Dairy
 
-- [x] Greek or Bulgarian yogurt
+- [ ] Greek or Bulgarian yogurt
 - [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
@@ -109,11 +109,11 @@
 
 ### Nuts and Seeds
 
-- [ ] Pili nuts 
+- [x] Pili nuts 
 	- Mac nuts 
 	- Pecans
 - [x] Walnuts 
-- [ ] Nut Butters 
+- [x] Nut Butters 
 	- Almond butter
 	- Mac nut butter
 	- Coconut butter
