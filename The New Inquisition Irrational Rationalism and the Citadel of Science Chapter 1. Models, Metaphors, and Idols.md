@@ -10,10 +10,6 @@ Tags:
 
 ___
 
-[[Inbox scrap 4]]
-
-___
-
 - Highlight - Page 10
 By the New Inquisition I mean to designate certain habits of repression and intimidation that are becoming increasingly commonplace in the scientific community today.
 
@@ -451,8 +447,78 @@ This indeterminacy was a hard pill for physicists to swallow; it was even hard f
 - Highlight(pink) - Page 39 · Location 709
 The case assumes a cat in a box, together with some sort of lethal device, such as a pistol or a poison-gas pellet, which may discharge and kill the cat. The device will discharge and kill the cat at some stage of a quantum decay process. We want to know, at a given second, t, if the device has gone off and killed the cat yet. We solve the equation—and we find, in the "best possible case," where all the other functions are known, that that damned ￼ function, the state vector, is still in two states. The answer is then that the cat is both dead and alive at that moment.
 
+___
+
 - Highlight(pink) - Page 39 · Location 713
-Of course, common sense "knows" that this cannot be true—if we open the box, we will find either a dead cat or a living cat, not some monster in a mixed dead-and-alive state—But mathematical quantum physics does not "know" this—it only "knows" that the state vector is in "a mixed state" (the expression is actually used) and therefore it predicts that the cat is in a mixed state, too—So: do we believe mathematical physics or do we believe common sense? Readers familiar only with one form or another of Fundamentalism will assume I am about to answer that question. I am not. As I said, Schrödinger first published the problem fifty years ago. That's half a century. In that time, the majority of physicists have arrived at no consensus about it. They are still arguing.
+Of course, common sense "knows" that this cannot be true—if we open the box, we will find either a dead cat or a living cat, not some monster in a mixed dead-and-alive state—But mathematical quantum physics does not "know" this—it only "knows" that the state vector is in "a mixed state" (the expression is actually used) and therefore it predicts that the cat is in a mixed state, too—So: do we believe mathematical physics or do we believe common sense? Readers familiar only with one form or another of Fundamentalism will assume I am about to answer that question. I am not. As I said, Schrödinger first published the problem fifty years ago. That's half a century. In that time, the majority of physicists have arrived at no consensus about it. They are still arguing. 
+
+- Highlight(pink) - Page 39 · Location 721 
+The argument for trusting common sense in this case sounds much of a muchness with the epistemology of the present chapter. The models of physics are abstractions from experience. They are coded into symbolisms, here technically called formalisms, which are useful at a time and in a given area of investigation. When formalisms is generalized—when the model is extended—and the results are "obviously" absurd, as in the Schrödinger's cat example, then we need to remember that the model is only a human invention or emic tool and not identical with etic (non-verbal) actuality.
+
+- Highlight(pink) - Page 40 · Location 727 
+You might say that those who hold this view are close to my position that if we believe a model in all cases we have become Idolators of the model. The opposite position—and there are intermediate positions, too, as we shall see—starts by reminding us that that which is "obvious to common sense" is not always true. It adds that most great scientific breakthroughs were profound shocks to common sense at first—Copernicus was unbelievable to those who "knew" and felt deeply that they were standing on an Earth that did not move; Darwin was equally stunning to those who knew they were not primates; Einstein was almost incomprehensible at first to those who knew that a rod has only one length which is "objective"—
+
+- Highlight(pink) - Page 40 · Location 734 
+The proponents of this view usually add also that quantum mechanics has been one of the most fruitful areas in modern science; it underlies not only about half of modern physics (including the nuclear weapons that terrify us) but is crucial to many other fields, including television and computers and molecular biology.
+
+- Highlight(pink) - Page 40 · Location 736
+Those who argue this way say that we should dare, at least as an exercise, to think about the possibility that what the quantum model seems to imply may indeed be the case. If the quantum equations mean nothing, why does the technology based on them work?
+
+___
+
+- Highlight(pink) - Page 40 · Location 739
+The development of this view is known as the multiple-universe theory, or the EWG Model—named after Everett, Wheeler and Graham, who first proposed it—and says that each state vector does produce two or more results. Since these cannot all be in one universe, there are then many universes. In effect, anything that can happen, does happen—somewhere or other in some space-time continuum. The latest spokesperson for this view is John Gribbin, physics editor of New Scientist, who writes forthrightly enough in his In Search of Schrödinger's Cat, Bantam, New York, 1984, p. 238: There is a live cat, and there is a dead cat; but they are located in different worlds . . . Faced with a decision, the whole world—the universe—split into two versions of itself . . . (This theory) sounds like science fiction, but it goes far deeper than any science fiction, and it is based on impeccable mathematical equations, a consistent and logical consequence of taking quantum mechanics literally.
+
+- Highlight(pink) - Page 41 · Location 750
+John Archibald Wheeler, one of the greatest living quantum physicists, helped create this model, but now says he no longer believes it. Dr. Bryce de Witt, who has written that he could not take this theory seriously when he first encountered it, has now become one of its leading advocates. Other physicists, whom we will discuss when we return to this topic in more detail, have found other ways around or under or over that damned dead-and-alive cat.
+
+- Highlight(pink) - Page 41 · Location 753
+When our knowledge of the mathematical basis of physical structures is in this state—when physicists cannot agree with each other about what is a real possibility and what is a flight of fantasy—any Fundamentalism seems a bit premature.
+
+___
+
+- Highlight(pink) - Page 41 · Location 756
+SOMBUNALL . . . Is this a new wonder-drug? The latest computer from Japan? The Swahili word for water-closet? Another borrowing from Finnegans Wake? Sombunall is, I think, a word we badly need. It means some-but-not-all. We have already pointed out that perception involves abstraction (or subtraction)—When we look at an apple we do not see all the apple but only part of the surface of the apple—And our generalizations or models or reality-tunnels are made up of coordinations or orchestrations of these abstractions—We never know "all"; we know, at best, sombunall.
+
+- Highlight(pink) - Page 41 · Location 764
+Now, to return to my frequent occupation of writing science fiction, imagine a world in which German did not contain the word "alles" or any of its derivatives, but did include some form of sombunall. Adolph Hitler would never have been able to say, or even think, most of his generalizations about all Jews. At most, he would have been talking and thinking about sombunall Jews. I don't claim this alone would necessarily have prevented the Holocaust—I am not about to offer some form of linguistic determinism to rival Marx's economic determinism or Hitler's own racial determinism, but—Holocaust mentalities are encouraged by all-ness statements. They are discouraged by sombunall statements.
+
+- Highlight(pink) - Page 42 · Location 773
+Imagine Arthur Schopenhauer with a sombunall instead of all in his vocabulary. He could still have generalized about sombunall women, but not about all women; and a major source of literary misogyny would have vanished from our culture. Imagine the Feminists writing about sombunall men, but not about all men. Imagine a debate about UFOs in which both sides could generalize as much as they wished about sombunall sightings but there was no linguistic form to generalize about all such sightings.
+
+___
+
+- Highlight(pink) - Page 42 · Location 778
+Imagine what would happen if, along with this semantic hygiene, the Aristotelian “is” were replaced by the neurologically-accurate "seems to me."
+
+- Highlight(pink) - Page 42 · Location 781
+"All modern music is junk" would become "sombunall modern music seems like junk to me." Other dogmatic statements would become, e.g. "Sombunall scientists seem to me ignorant of art and culture," "Sombunall artists seem to me ignorant of science," "Sombunall Englishmen seem to me a bit pompous," "Sombunall Irishmen seem to me to drink a lot" . . .
+
+- Highlight(pink) - Page 42 · Location 784
+Idols would suddenly shrink back into models or reality-tunnels; we would remember that we created them, or that our ancestors did. We might become suddenly startlingly sane.
+
+___
+
+- Highlight(pink) - Page 42 · Location 786
+Medieval Idolatry consisted of metaphors that were called Revealed Truth. Modern Idolatry consists of metaphors that are called Objective Truth. In both cases human linguistic structures—complicated primate chatterings—have, in effect, become Gods, and whoever questions them is considered a blasphemer and the priests seek to destroy the impiety. That's how books get burned, in Florence in 1300 (or in New York in 1956, as we shall see).
+
+___
+
+- Highlight(pink) - Page 43 · Location 804
+Due to the territorial imperatives of primate neurology, some information is not only ignored but actively resisted. Denial, anger or even desire to punish the messenger who brings "bad news" are well-known traits of our species.
+
+- Highlight(pink) - Page 43 · Location 805
+To the extent that we are aware of this tendency, and try to combat it in ourselves, we will make efforts to seek unwelcome signals—e.g. by reading periodicals of the groups whose reality-tunnels oppose our own, as Bertrand Russell often recommended. To the extent that we ignore or forget this primate tendency in ourselves, we will lapse into Fundamentalism, Idolatry and the Inquisitorial mode of behavior.
+
+___
+
+- Highlight(pink) - Page 43 · Location 809
+Civil liberties are profoundly counter-intuitive. It takes an effort of imagination and good will to remember that those we despise deserve the same legal rights as those who agree with us. At least a partial agnosticism is necessary before we can sincerely and consistently pursue the goal of "equal justice for all."
+
+___
+
+- Highlight(pink) - Page 44 · Location 813
+You have a new dog and you wish the dog to treat you (rather than another member of your family) as "Master." The first rule is to feed the dog regularly, and, if possible, in early months, make sure no other member of the family ever feeds the dog. In ethological jargon, the dog will imprint you as the equivalent of Top Dog in a wild dog pack, or the closest analog to that Top Dog in a domesticated canine-primate ambience. Similarly, all brainwashers use this principle—usually unconsciously—by feeding their victims. This is necessary to keep the victims alive until their minds have been re-conditioned, of course, but it may also be a re-imprinting technique. We are mammals, too, and we tend to imprint as Top Dog those who feed us when we are helpless. The "paradoxical" sympathy for terrorists often reported by those who are held captive may also grow out of this neurological tendency to make a Top Dog out of whoever feeds us. It is shocking, to some, to think that this may also be the origin of the infant's love for its mother. One cannot help wondering how much of the reality-tunnel of the Military-Industrial Empire gets imprinted or conditioned upon the Scientific Citadel which is fed by it.
 
 ___
 
