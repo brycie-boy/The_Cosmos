@@ -1,10 +1,10 @@
 ## The five aggregates  #🧠 
 
-The five aggragates are five main categories used to analyze sentient experience. These five catagories are:
+The five aggragates are five main categories that construct sentient experience. These five catagories are:
 
 - [[Form]]
 - [[Sensation]]
-- [[Conceptualization]]
+- [[Perception]]
 - [[Volitional formations]]
 - [[Consciousness]]
 
