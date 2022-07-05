@@ -1,6 +1,6 @@
 ## Contemplation of phenomena  #🧠 
 
-The contemplation of phenomena is one of the main sections of [[The four establishments of mindfulness]]. It is subdivided into five categories:
+The contemplation of phenomena is one of [[The four establishments of mindfulness]]. It is subdivided into five categories:
 
 - [[The five hinderances]] 
 - [[The five aggregates]]

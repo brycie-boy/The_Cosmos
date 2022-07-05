@@ -1,6 +1,6 @@
 ## Right Speech  #🧠 
 
-Right Speech, part of [[The Nobel Eightfold Path]], consists of abstaining from:
+Right Speech is a division of [[The Nobel Eightfold Path]]. It consists of abstaining from:
 
 - lying
 - malicous speech

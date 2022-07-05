@@ -43,8 +43,24 @@ Sweatsuits $200
 https://a.aliexpress.com/_mO2I7o2 and 
 https://a.aliexpress.com/_mOxjlsi
 
-- ![[3B1E1BB4-C85F-477F-804B-3FEBD368AFAE.webp|200]]
-	Yeezy slides $12 each https://m.aliexpress.com/item/1005003777589907.html?spm=a2g0n.productlist.0.0.42e8VF2OVF2Olj&browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=0011809b7e3dba11b07b0c72457f41c61d4906d9e1&gclid=&pdp_npi=1%40dis%7CUSD%7C%7C11.99%7C%7C%7C%7C%7C%402101e9d016518761836374824e3db7%7C%7Csea&algo_pvid=4f928cbc-a401-4758-9b4d-db9d03dd3613
+
+- ![[0E247092-FBB4-4054-A412-BB8172091150.webp|200]]
+![[36D1499E-E833-4667-A123-C55DFBAF5A0F.webp|200]]
+	![[FFD791BC-4AD0-4517-9CE8-0C2CF305628F.webp|200]]
+	Black, Charcoal and grey tank top $48 https://m.aliexpress.com/item/1005002081647422.html?spm=a2g0n.wishlist-amp.item.1005002081647422&aff_trace_key=&aff_platform=msite&m_page_id=9522amp-SCDjq3cy6awRNLagYU6AuQ1645923449113&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y 
+
+
+
+- ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
+	Amelia bed $700 https://www.urbanoutfitters.com/shop/amelia-platform-bed
+
+
+- ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
+	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
+
+- ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
+	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
+
 
 - ![[E6532DCB-81B5-4771-9886-A491751DD653.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
@@ -67,23 +83,12 @@ https://m.aliexpress.com/item/1005002452910001.html?spm=a2g0n.detail.1000014.3.1
 - ![[A585734B-7D4D-46EC-9F8C-2496FF4B8FB5.jpeg|200]]
 	Grey sweatshorts $45 https://rueporter.com/collections/consumer-sample-store/products/french-terry-shorts-heather-grey
 
-- ![[0E247092-FBB4-4054-A412-BB8172091150.webp|200]]
-![[36D1499E-E833-4667-A123-C55DFBAF5A0F.webp|200]]
-	![[FFD791BC-4AD0-4517-9CE8-0C2CF305628F.webp|200]]
-	Black, Charcoal and grey tank top $48 https://m.aliexpress.com/item/1005002081647422.html?spm=a2g0n.wishlist-amp.item.1005002081647422&aff_trace_key=&aff_platform=msite&m_page_id=9522amp-SCDjq3cy6awRNLagYU6AuQ1645923449113&browser_id=41d9ab361d594a1686081b72428c09ba&is_c=Y 
-
 - ![[F22A1488-4A38-4334-A818-7235282C7C7B.webp|200]]
 	baggy ripped jeans $51 https://www.etsy.com/listing/887463568/destroyed-ripped-baggy-denim-pants?ref=user_profile&frs=1
 
-- ![[0277D2B8-E49C-42A2-817B-114DD2C7DDA5.webp|200]]
-	Amelia bed $700 https://www.urbanoutfitters.com/shop/amelia-platform-bed
 
-
-- ![[CB445A31-A808-4037-827F-28D6CE56427E.webp|200]]
-	Amelia Dresser $849 https://www.urbanoutfitters.com/shop/amelia-6-drawer-dresser?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520dresser
-
-- ![[09697A7C-6E3E-4DB3-AB7F-0591DF495725.webp|200]]
-	Amelia night stand $259 https://www.urbanoutfitters.com/shop/amelia-nightstand?category=SEARCHRESULTS&color=020&searchparams=q%3Damelia%2520
+- ![[3B1E1BB4-C85F-477F-804B-3FEBD368AFAE.webp|200]]
+	Yeezy slides $12 each https://m.aliexpress.com/item/1005003777589907.html?spm=a2g0n.productlist.0.0.42e8VF2OVF2Olj&browser_id=a5b93ec866a24f9892f603903bcb524d&aff_trace_key=&aff_platform=msite&m_page_id=0011809b7e3dba11b07b0c72457f41c61d4906d9e1&gclid=&pdp_npi=1%40dis%7CUSD%7C%7C11.99%7C%7C%7C%7C%7C%402101e9d016518761836374824e3db7%7C%7Csea&algo_pvid=4f928cbc-a401-4758-9b4d-db9d03dd3613
 
 - From here just get whatever 🤷‍♂️ That may be the rest of what’s in the list or other things. But be sure to get this stuff first
 

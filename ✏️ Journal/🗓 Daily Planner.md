@@ -23,7 +23,7 @@ The daily planner is like my central hub for  managing my attention. If it isnâ€
 
 #### Weekly tasks
 
-- [x] Grocery Shopping
+- [ ] Grocery Shopping
 
 ### Later
 
