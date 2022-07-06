@@ -88,7 +88,7 @@ ___
 Again: consider this well-known illustration, to be found in most general psychology texts:
 ![[C00E0B17-362F-4305-A18F-E1A885569606.jpeg]]
 
-- Highlight(pink) - Page 15 · Location 220
+- Highlight(pink) - Page 15 · Location 220 ❗️
 If you see the line on the bottom as longer than the line on the top, your brain, working on habitual programs, has deceived you. The V and reverse-V decorations seduce the eye-brain system into seeing inaccurately. You have just had a mild hallucination.
 
 - Highlight(pink) - Page 15 · Location 223

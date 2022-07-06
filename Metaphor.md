@@ -7,6 +7,11 @@
 
 ___
 
+##### Etymology
+
+- Meta (Greek): over, across 
+- Pherein (Greek): to carry, bear
+
 ##### References 
 
 - https://www.merriam-webster.com/dictionary/metaphor
@@ -16,4 +21,4 @@ ___
 ##### Metadata
 
 Type: #🔵/💬 
-Status: #⛅️/⛅️ 
+ #⛅️/⛅️ 

@@ -6,7 +6,7 @@ ___
 
 ##### References
 
-- Wilson, A., Robert (1986). [[The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 1. Models, Metaphors, and Idols]] (Page 11 · Location 157). Grand Junction, Colorado: _Hilaritas Press_
+- Wilson, A., Robert (1986). [[The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 1. Models, Metaphors, and Idols]] (Page 12 · Location 157). Grand Junction, Colorado: _Hilaritas Press_
 
 ##### Metadata
 
