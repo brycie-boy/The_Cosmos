@@ -33,10 +33,10 @@ EMIC REALITY: the unified field made up of thoughts, feelings and apparent sense
 - Highlight(pink) - Page 11 · Location 143
 ETIC REALITY: the hypothetical actuality that has not been filtered through the emic reality of a human nervous system or linguistic grid.
 
-- Highlight(pink) - Page 11 · Location 146 ❗️
+- Highlight(pink) - Page 11 · Location 146 
 INFORMATION: as used in mathematical information theory, this denotes the amount of unpredictability in a message; information is, roughly, what you do not expect to hear. In this sense, information may be "true" or "false," but is always a small surprise. Resistance to new information measures the degree of Fundamentalism in a culture, a sub-culture, or an individual.
 
-- Highlight(pink) - Page 11 · Location 151
+- Highlight(pink) - Page 11 · Location 151 ❗️
 NEUROSEMANTICS: the study of how symbolism influences the human nervous system; how the local reality-tunnel programs our thoughts, feelings and apparent sense impressions.
 
 - Highlight(pink) - Page 11 · Location 153
