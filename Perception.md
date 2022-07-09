@@ -1,6 +1,6 @@
 ## Perception #🧠 
 
-Perception is the third of [[The five aggregates]]. It is defined as the identification, interpretation, classification of perceived objects based on a grasping at their distictive marks and features. Its function is in recognizing a reaccurance of what has previously percieved and to distinguish meaningful patterns. The cause and condition for the manifastation of perception is impression between the internal and external [[Six sense bases]]. 
+Perception is the third of [[The five aggregates]]. It is defined as the identification, interpretation, classification of perceived objects based on a grasping at their distictive features or charcteristics. Its function is in recognizing a reaccurance of what has been previously percieved and to distinguish meaningful patterns. The cause and condition for the manifastation of perception is impression between the internal and external [[Six sense bases]]. 
 
 ___
 
@@ -13,8 +13,6 @@ ___
 - Samyutta Nikaya 22: 82, abridged; 100–103 
 
 - Majjhima Nikaya 109, abridged; III 15–19
-
-- https://www.dictionary.com/browse/perceive
 
 ##### Metadata
 

@@ -1,4 +1,4 @@
-## Heading  # 
+## The Scientific Method  # 
 
 
 
@@ -12,4 +12,4 @@ ___
 
 Type: 
 Tags:
-Status: 
+Status: #⛅️/⛅️ 

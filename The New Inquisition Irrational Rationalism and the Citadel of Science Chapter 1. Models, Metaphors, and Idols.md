@@ -88,7 +88,7 @@ ___
 Again: consider this well-known illustration, to be found in most general psychology texts:
 ![[C00E0B17-362F-4305-A18F-E1A885569606.jpeg]]
 
-- Highlight(pink) - Page 15 · Location 220 ❗️
+- Highlight(pink) - Page 15 · Location 220 
 If you see the line on the bottom as longer than the line on the top, your brain, working on habitual programs, has deceived you. The V and reverse-V decorations seduce the eye-brain system into seeing inaccurately. You have just had a mild hallucination.
 
 - Highlight(pink) - Page 15 · Location 223
@@ -102,8 +102,12 @@ ___
 - Highlight(pink) - Page 16 · Location 233
 "The" Greeks as we say, or "the" ancient Greeks—the handful of ancient Greeks whose ideas we encounter in University, actually—were well aware of this fallibility of perception, and an illustration well-known in Athens in its Golden Age went like this: take three bowls of water. Make one of them quite hot, one medium-temperatured, and the third quite cold. Put your right hand in the hot bowl for a while and your left hand in the cold bowl. Then put both hands in the medium bowl. The same water will feel "cold" to your right hand and "hot" to your left hand. (Again, doing the experiment teaches more, neurosemantically, than merely reading about it.)
 
+___
+
 - Highlight - Page 16
 Nonetheless, the Greek philosophers, or some of them, still thought there was a path to certitude. They called it the path of Pure Reason. The argument for PR goes that, even if sense data is fallible, we have a higher faculty which is not fallible and which knows truths a priori. This has collapsed over the centuries for a variety of reasons, but chiefly because the things philosophers thought they knew this way have often turned out to be simply not true. For instance, even as late as the age of libertarian free thought in the 18th Century, Kant still thought PR "knew" intuitively that Euclidean geometry was the true and only geometry. Nowadays, mathematicians have several varieties of non-Euclidean geometry, all of which are equally valid (consistent) and all of which are as useful as Euclidean geometry, although in different areas.
+
+___
 
 - Highlight - Location 16
 In the 13th Century, Thomas Aquinas thought he had the infallible method of arriving at certitude — a combination of PR and Holy Writ. This is still believed in backward countries like Ireland or Portugal, but is not generally accepted in civilized nations because PR itself has been proven fallible, as noted, and because there are many varieties of HW around — Buddhist, Hindu, Taoist, Jewish, etc. as well as such modern products as Oahspe and the Urantia book — and there is no known empirical test to determine which HW is the "real" HW.
@@ -126,7 +130,7 @@ There remains, of course, Scientific Method (SM), the alleged source of the cert
 
 ___
 
-- Highlight(pink) - Page 17 · Location 268
+- Highlight(pink) - Page 17 · Location 268 ❗️
 Certitude is seized by some minds, not because there is any philosophical justification for it, but because such minds have an emotional need for certitude.
 
 - Highlight - Page 19
@@ -144,13 +148,12 @@ ___
 - Highlight(pink) - Page 20 · Location 286
 All thought consists of manipulations of symbols according to Game Rules. The combination of symbols and rules (for manipulating the symbols) makes up a system. When stripped down to their bare mathematico-logical bones, all systems appear to be either trivial or dubious. If trivial, they are certain, but we cannot learn much from them because they "refer" to very little. As soon as a system becomes less than totally trivial, and "refers" to more and more, a species of infinite regress enters it and it becomes increasingly uncertain: we have to prove, as it were, an endless series of steps between Step A and Step B before we can go on to Step C.
 
-- Highlight(pink) - Page 20 · Location 293=
-There is a hilarious example of this regress, from Lewis Carroll, in Hofstadter's book mentioned above. A simplified analogy is this, which I once heard: "I never eat animals because they are our brothers," said an American student of Buddhism, to a Zen roshi. "Why shouldn't we eat our brothers?" asked the roshi. The student had a simple system which can be abbreviated: Animals are our brothers. We should not eat our brothers. Therefore, we should not eat animals.
+- Highlight(pink) - Page 20 · Location 293
+There is a hilarious example of this regress, from Lewis Carroll, in Hofstadter's book mentioned above. A simplified analogy is this, which I once heard: "I never eat animals because they are our brothers," said an American student of Buddhism, to a Zen roshi. "Why shouldn't we eat our brothers?" asked the roshi. The student had a simple system which can be abbreviated: Animals are our brothers. We should not eat our brothers. Therefore, we should not eat animals. Once any step of this is analyzed critically, a new argument begins; and that argument in turn can be analyzed at any point, and so the infinite regress is created.
 
-- Highlight(pink) - Page 21 · Location 301
-Once any step of this is analyzed critically, a new argument begins; and that argument in turn can be analyzed at any point, and so the infinite regress is created.
+___
 
-- Highlight(pink) - Page 21 · Location 302
+- Highlight(pink) - Page 21 · Location 302 ❗️
 In "common sense" or in the context of probability, many such challenges appear absurd and can be disregarded, but any system that claims certainty must answer all challenges. Since this would take an infinite amount of time, it has not yet been performed, and the foundations of every mathematical-logical system are increasingly regarded as formal—Game Rules—and not as eternal “laws of thought" as they seemed to be to philosophers from Aristotle to about the time of Kant.
 
 - Highlight(pink) - Page 21 · Location 310

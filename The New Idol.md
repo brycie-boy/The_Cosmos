@@ -1,6 +1,6 @@
 ## The New Idol  # 
 
-The New Idol is a term coined by [[Robert Anton Wilson]] which refers to the rigid beliefs that form the ideological superstructure of [[The New Inquisition]]
+The New Idol is a term coined by [[Robert Anton Wilson]] which refers to the rigid beliefs that form the ideological superstructure of [[The New Inquisition]]. 
 
 ___
 
