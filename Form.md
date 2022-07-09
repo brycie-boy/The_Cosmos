@@ -1,6 +1,6 @@
 ## Form #🧠 
 
-Form, one of [[The five aggregates]], is defined as the physical component of sentient experience. The cause and condition for the manifestation of form is [[The four nutriments of life]].
+Form is the first of [[The five aggregates]]. is defined as the physical component of sentient experience. The cause and condition for the manifestation of form are [[The four nutriments of life]].
 
 ___
 
