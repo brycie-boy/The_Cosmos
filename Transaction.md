@@ -1,6 +1,6 @@
 ## Transaction  # 
 
-Transaction is a concept in  [[Transactional Psychology]] that holds that [[Perception]] is not passive re-action but active, creative trans-action shaped by the individuals learning, memory, expectation and attention, and, that the "observer" and "observed" must be considered a synergetic whole ([[synergy]]).
+Transaction is a concept in  [[Transactional Psychology]] that holds that [[Perception]] is not passive re-action but active, creative trans-action shaped by the individuals learning, memory, expectation and attention, and that the "observer" and "observed" must be considered a synergetic whole.
 
 ___
 

@@ -153,7 +153,7 @@ There is a hilarious example of this regress, from Lewis Carroll, in Hofstadter'
 
 ___
 
-- Highlight(pink) - Page 21 · Location 302 ❗️
+- Highlight(pink) - Page 21 · Location 302 
 In "common sense" or in the context of probability, many such challenges appear absurd and can be disregarded, but any system that claims certainty must answer all challenges. Since this would take an infinite amount of time, it has not yet been performed, and the foundations of every mathematical-logical system are increasingly regarded as formal—Game Rules—and not as eternal “laws of thought" as they seemed to be to philosophers from Aristotle to about the time of Kant.
 
 - Highlight(pink) - Page 21 · Location 310
@@ -163,10 +163,6 @@ This applies to the structure of systems of PR in itself. When we combine PR wit
 In daily life and in "common sense," we use this agnostic caution most of the time and "expect the unexpected" and "keep our eyes and ears open," etc. We only rush to judgment when we are under time-pressure to make a quick decision or when our prejudices are involved, as in political and religious controversy. When there is no existential pressure for quick decisions, only prejudice asserts certitude.
 
 ___
-
-- Highlight - Page 22
-The following diagram is adopted from Professor O.R. Bontrager of University of Pennsylvania Department of Psychology and from the general principles in Blake's anthology, Perception, University of Texas, 1952.
-![[EFBEBC62-C8A5-4EA8-BC94-BBC49FDCDF98.jpeg]]
 
 - Highlight(pink) - Page 22 · Location 324
 Stage I represents an energy-event in the space-time continuum, in the Einsteinian sense. This can be a sub-atomic process, a horse running in a field, a Laurel and Hardy movie projected on a screen, the nuclear engine called "the sun" transmitting light and heat to us across 93,000,000 miles, or any other kind of event possible in space-time. This is often called Etic Reality, or non-verbal Reality.
@@ -218,7 +214,7 @@ Man is the general human being, as Feminists keep telling us, because of the gen
 - Highlight(pink) - Page 24 · Location 375
 A humorous story of sexual nature is a "dirty joke" because ascetics and puritans have left their own programs embedded in our speech; but Saxon words for body functions are "dirtier" than Norman words because of a plurality of puritan-economic-racial prejudices.
 
-- Highlight(pink) - Page 24 · Location 378
+- Highlight(pink) - Page 24 · Location 378 ❗️
 Even “the" is a metaphor—it assumes the world is divided the same way our minds divide it—and seems to have been a very hypnotic metaphor indeed. In terms of human tragedy and suffering, think of what has been provoked by generalizations about "the Jews" and "the blacks."
 
 - Highlight(pink) - Page 24 · Location 382
@@ -230,10 +226,10 @@ To reflect the currently acceptable principles of neurology, such statements sho
 - Highlight(pink) - Page 25 · Location 395
 Of course, if some pedantic bastard like me points this out, people will say that the latter formulations are what they really mean and that the Aristotelian "is" was used only for convenience or brevity. But if you observe people carefully, you will note that language does indeed have hypnotic effects, and that one who has said "This is Sacred" will treat the non-verbal event as if it really is Sacred, and those who say "This is Crap" will act as if the event really is Crap.
 
-___
-
 - Highlight(pink) - Page 25 · Location 401
 Roger Jones's Physics as Metaphor spends most of its time trying to make clear to the reader the transactional or poetic element in so seemingly factual a statement as This table is three meters long.
+
+___
 
 - Highlight(pink) - Page 25 · Location 404
 In case Dr. Jones's point still seems obscure or excessive, consider the celebrated "cock-eyed room" designed by Dr. Albert Ames. This is discussed in Blake's Perception mentioned above and has often been shown on educational television. This room is designed so that the brain, using its ordinary programs and metaphors, will classify it as an ordinary room. It is not ordinary, however: it has walls and ceiling and floor designed at odd angles which optically produce in educated humans the same signals as a "normal" room. (Some evidence suggests that children under 5 years of age are not taken in by this illusion.)

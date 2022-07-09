@@ -1,6 +1,6 @@
 ## Neurosemantics  # 
 
-Neurosemantics is the study of how symboiism infulences the human nervous system; how the local [[Reality tunnel]] programs our thoughts, [[Sensation]]s, and apparent impressions upon the internal [[Six sense bases]].
+Neurosemantics is the study of how symboiism influences the [[Nervous System]]; how the local [[reality tunnel]] programs our thoughts, [[sensation]]s, and apparent impressions upon the internal [[six sense bases]].
 
 ___
 

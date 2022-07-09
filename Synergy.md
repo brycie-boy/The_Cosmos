@@ -1,6 +1,6 @@
 ## Synergy  # 
 
-Synergy refers to the behaviors of wholistic systems which cannot be predicted by  analysis of its parts or sub-systems. The term was popularized by [[R. Buckminster Fuller]] and is roughly equivalent to Holism; Gestalt in psychology and [[Transaction]].
+Synergy refers to the behaviors of holistic systems which cannot be predicted by  analysis of its parts or sub-systems. The term was popularized by [[R. Buckminster Fuller]] and is roughly equivalent to Holism; Gestalt in psychology and [[Transaction]] in [[Transactional Psychology]].
 
 ___
 

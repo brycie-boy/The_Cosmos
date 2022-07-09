@@ -1,6 +1,6 @@
 ## The water bowls experiment  # 
 
-Ancient Greek philospers were actually well aware that [[Hallucinations derive from the brains deceptive habitual programs of perception]], and an illustration well-known in Athens during its Golden Age went like this: take three bowls of water. Make one of them hot, another cold, one medium-tempatured, and the third cold. Put your right hand into the hot bowl, and your left hand into the cold bowl. Then put  both hands into the medium-tempatured bowl. The water will feel "cold" to your right hand and "hot" to your left. This is a great exercise for the contemplation of [[The fire element]]. 
+Ancient Greek philospers were actually well aware that [[Hallucinations are rooted in deceptive habitual programs of perception within the brain]], and an illustration well-known in Athens during its Golden Age went like this: take three bowls of water. Make one of them hot, another cold, one medium-tempatured, and the third cold. Put your right hand into the hot bowl, and your left hand into the cold bowl. Then put  both hands into the medium-tempatured bowl. The water will feel "cold" to your right hand and "hot" to your left. This is a great exercise for the contemplation of [[The fire element]]. 
 
 ___
 
