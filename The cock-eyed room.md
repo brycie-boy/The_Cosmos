@@ -1,5 +1,7 @@
 ## The cock-eyed room  # 
 
+![[7E716B29-84F5-450C-B9C7-ADD8214B18EB.jpeg]]
+
 The cock-eyed room was an illusionary room designed by [[Dr. Albert Ames]] designed to demonstate that [[hallucinations are rooted in deceptive habitual programs of perception within the brain]]. The brain, using its habitual programs of [[perception]], will interpret it as an oridianry room. The room, however, is far from ordinary: it has walls, a cealing and a floor designed at odd angles which optically trigger in educated individuals the same perceptual ideas as an "ordinary" room. Some evidence suggests that children under five years of age are not taken by this illusion. If two people walk to opposite sides of the room, the brain "sees" that one person "muraculously" grows taller, while the other person "shrinks" down to a dwarf.
 
 ___
