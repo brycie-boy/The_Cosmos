@@ -130,7 +130,7 @@ There remains, of course, Scientific Method (SM), the alleged source of the cert
 
 ___
 
-- Highlight(pink) - Page 17 · Location 268 ❗️
+- Highlight(pink) - Page 17 · Location 268 
 Certitude is seized by some minds, not because there is any philosophical justification for it, but because such minds have an emotional need for certitude.
 
 - Highlight - Page 19
