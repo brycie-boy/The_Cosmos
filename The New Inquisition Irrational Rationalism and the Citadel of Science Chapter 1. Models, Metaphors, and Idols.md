@@ -214,11 +214,15 @@ Man is the general human being, as Feminists keep telling us, because of the gen
 - Highlight(pink) - Page 24 · Location 375
 A humorous story of sexual nature is a "dirty joke" because ascetics and puritans have left their own programs embedded in our speech; but Saxon words for body functions are "dirtier" than Norman words because of a plurality of puritan-economic-racial prejudices.
 
+___
+
 - Highlight(pink) - Page 24 · Location 378 ❗️
 Even “the" is a metaphor—it assumes the world is divided the same way our minds divide it—and seems to have been a very hypnotic metaphor indeed. In terms of human tragedy and suffering, think of what has been provoked by generalizations about "the Jews" and "the blacks."
 
 - Highlight(pink) - Page 24 · Location 382
 More subtly, remember that "the length of the rod" seemed to be a perfectly meaningful and "objective" phrase until Einstein demonstrated that a rod has various lengths—length1, length2, etc.—depending on its velocity and depending also on the relative velocity of the galoot who is trying to measure it.
+
+___
 
 - Highlight(pink) - Page 24 · Location 392
 And what about "is" in the sense of Aristotelian identification — as in A is a B? This appears very useful mathematically, because the members of a mathematical set exist abstractly, i.e. by definition, but what happens when we apply it to non-mathematical, sensory-sensual events? Consider such pronouncements as "This is a great work of art," "This is meaningless drivel," "This is Communism," "This is sexism," "This is fascism." To reflect the currently acceptable principles of neurology, such statements should be a bit more complicated—e.g. "This seems like a great work of art to me," "This seems like meaningless drivel to me," "This seems like Communism to me," "This seems like sexism to me," "This seems like fascism to me."
