@@ -6,14 +6,16 @@ _noun_
 
 ___
 
-##### Similar
+##### Synonyms
+
 -   [[prelude]]
 -   [[prologue]]
 -   [[warm-up]]
 
 ##### References 
+
 - https://www.merriam-webster.com/dictionary/preliminary
 
 ##### Metadata
-Status: #☀️ 
+
 Type: #🔵/💬 

@@ -1,13 +1,14 @@
 ## [Title](link/file)
 
+
 Author:
 Publish Date:
 Review Date:
-Status: # 💥
+Status: #💥
 Tags:
 
 ___
 
-[[Inbox scrap 15]]
+[[Inbox scrap 14]]
 
 
