@@ -312,7 +312,7 @@ To the Idolator, events "really are" what they appear to be as coded into his or
 
 ___
 
-- Highlight(pink) - Page 31 · Location 528
+- Highlight(pink) - Page 31 · Location 528 ❗️
 Of course, this position "is" relative relativism, not absolute relativism. We say again that some reality-tunnels seem better, in some ways, than others.
 
 - Highlight(pink) - Page 31 · Location 529
