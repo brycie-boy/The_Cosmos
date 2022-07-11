@@ -1,10 +1,12 @@
-## The stages of the perception process  # 
+## The five stages of the perception process  # 
 
-The process of [[Perception]] consists of five stages. The first stage involves an object or event within the space-time continuum. In the Einsteinien sense, this can be a sub-atomic process, a horse running on a field, a movie projected onto a screen, the nuclear engine called "the sun" transmitting light and heat to us from 93,000,000 miles away, any other kind of event possible in space-time. This is often called [[Etic Reality]].
+The five stages of [[Perception]] are meant to elaborate upon the process in which [[the external world that we percieve is a only the product of what the brain receives, edits, and classifies]]. 
+
+The first stage involves an object or event within the space-time continuum. In the Einsteinien sense, this can be a sub-atomic process, a horse running on a field, a movie projected onto a screen, the nuclear engine called "the sun" transmitting light and heat to us from 93,000,000 miles away, any other kind of event possible in space-time. This is often called [[Etic Reality]].
 
 The transition from stage one to stage two involves part (not all) of the original energy from the object or event traveling toward one of the internal [[Six sense bases]]. 
 
-The second stage involves the activity of the sense organ after impressed by part of the energy that reaches said organ. Note that not all of the energy is absorbed by the sense organ even in extreme cases, like when we are hit by a hammer, we still do not absorb all of the energy of the hammer. Even at this stage—even if nothing was required for further [[Perception]]—we we would still be dealing with part, not all; we would be dealing with absraction, uncertainty, fallibility.
+The second stage involves the activity of the sense organ after being impressed by part of the energy that reaches said organ. Note that not all of the energy is absorbed by the sense organ even in extreme cases, like when we are hit by a hammer, we still do not absorb all of the energy of the hammer. Even at this stage—even if nothing was required for further [[Perception]]—we we would still be dealing with part, not all; we would be dealing with absraction, uncertainty, fallibility.
 
 The transition from stage two to stage three involves part of what happens after the sense organ is stimulated, by part of the energy flowing to us from the object or event. This period consists of very, very many signals traveling to many parts of our organism. 
 
@@ -16,7 +18,7 @@ The fourth stage involves the "percept", the mental "image" or "idea" that emerg
 
 the transition between stage four and stage five invovles the most subtle and nefarious stage of all, the feedback between the incoming energy (plus additions and minus subtractions) and the language system which the brain happens to use habitually (including symbolic, abstract languages like mathematics). 
 
-The fifth and final stage is always verbal or symbolic and hence is coded into pre-existing structure of languages systems the brain has been previously taught. This process is not one of linear reaction but of synergetric [[transaction]]. The finished product is a neurosemantic constuct and thus it can be said that [[Language can be seen as a kind of metaphor]]. 
+The fifth and final stage is always verbal or symbolic and hence is coded into pre-existing structure of languages systems the brain has been previously taught. This is a persons [[Emic Reality]]. This process is not one of linear reaction but of synergetric [[transaction]]. The finished product is a neurosemantic constuct and thus it can be said that [[Language can be seen as a kind of metaphor]]. 
 
 ___
 

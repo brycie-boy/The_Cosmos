@@ -272,18 +272,11 @@ That the process was very poetic indeed and even metaphysical is indicated by th
 - Highlight(pink) - Page 27 · Location 450
 Most Materialists, similarly, either believe, or are very easily misunderstood as believing, that "matter" exists somewhere. But nobody has ever experienced this poem or abstraction "matter," any more than anybody has ever experienced "the leaf." Human experience remains limited to measurement1, measurement2, measurement3 etc. and leaf1, leaf2, leaf3 etc.
 
-___
-
-- Highlight(pink) - Page 27 · Location 454
-Specific space-time events are encountered (and usually endured); substantive nouns are conventions of coding, or metaphors.
-
-- Highlight(pink) - Page 28 · Location 455
-If "matter" is a metaphor, what of the "space" and "time" in which it is conventionally assumed either to move or stand still?
-
-- Highlight(pink) - Page 28 · Location 457
-That these are also metaphors is easily seen from the fact that modern physics, since Einstein, has found it profitable to replace them with the more elegant metaphor of "space-time"; and that, using this more modern metaphor throughout this chapter, I am yet comprehensible even to those who are more accustomed to the pre-Einsteinian metaphors of "space" and "time" as separate substantives.
 
 ___
+
+- Highlight(pink) - Page 30 · Location 504
+It begins to seem that no one "reality-tunnel" is adequate for the description of all human experience, although some reality-tunnels are better for some purposes than others are.
 
 - Highlight(pink) - Page 28 · Location 460
 The conventions of coding or systems of metaphor that make us human are known as "culture" or "cultural configuration" in anthropology. The systems used in science at a given date are known as the models of that period, or sometimes all the models are lumped together into one super-model which is then called "the" paradigm. The general case—the class of all classes of metaphors—is called a group's emic reality (by Dr. Harold Garfinkle who has built a meta-system called ethnomethodology out of the sub-systems of anthropology and social psychology) or its existential reality (by the Existentialists) or its reality-tunnel (by Dr. Timothy Leary, psychologist, philosopher and designer of computer software).
@@ -300,15 +293,8 @@ According to Fuller, who may sound excessive at this point, this neurosemantic d
 - Highlight(pink) - Page 28 · Location 477
 Fuller, from 1928 on, always wrote and said "Universe" instead of "the" Universe. When questioned about this, he would explain that it is consistent with modern scientific models to regard Universe as process and “the" implies medieval notions of stasis and thing-ification.
 
-___
-
 - Highlight(pink) - Page 29 · Location 485
 In terms of one kind of sociological model, a common event in any large city can be described as follows: A group of people agree to meet at a certain hour on a certain day to make noise. Other people arrange to be there, to listen to the noise. The meeting happens as scheduled, the noise continues for over an hour, and everybody exhibits behavior indicating that the ritual was satisfactory to them. According to another type of sociological model, favored by phenomenologists and ethnomethodologists, we need to know that the noise was called Symphony No. 9 in D by Beethoven before we can begin to understand what has happened, which is that in the emic reality or existential reality of these people something has occurred which contains meaning, beauty, grandeur and affirmation of life.
-
-___
-
-- Highlight(pink) - Page 30 · Location 504
-It begins to seem that no one "reality-tunnel" is adequate for the description of all human experience, although some reality-tunnels are better for some purposes than others are.
 
 ___
 
