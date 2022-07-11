@@ -216,7 +216,7 @@ A humorous story of sexual nature is a "dirty joke" because ascetics and puritan
 
 ___
 
-- Highlight(pink) - Page 24 · Location 378 ❗️
+- Highlight(pink) - Page 24 · Location 378 
 Even “the" is a metaphor—it assumes the world is divided the same way our minds divide it—and seems to have been a very hypnotic metaphor indeed. In terms of human tragedy and suffering, think of what has been provoked by generalizations about "the Jews" and "the blacks."
 
 - Highlight(pink) - Page 24 · Location 382
@@ -246,7 +246,7 @@ The brain, it seems, having classified the room as normal, stubbornly clings to 
 
 ___
 
-- Highlight(pink) - Page 26 · Location 416
+- Highlight(pink) - Page 26 · Location 416 ❗️
 More subtle and alarming issues arise when we consider the structure of a system of metaphors interlinked into a code or language. Descartes, who tried, or says he tried, to doubt everything, found that he could not doubt the proposition "I think, therefore I am." That was because he lived before the discoveries of 19th Century linguists. Nietzsche, who was trained in that field before becoming a philosopher or a social menace or whatever he became, noted that Descartes couldn't doubt that proposition because he only knew Indo-European languages. It is an Indo-European coding convention that a verb must have a substantive noun before it—that an action must be attributed to some alegedly isolated and allegedly reified Actor.
 
 - Highlight(pink) - Page 26 · Location 423
