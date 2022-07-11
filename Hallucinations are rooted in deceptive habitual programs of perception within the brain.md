@@ -1,6 +1,6 @@
 ## Hallucinations are rooted in deceptive habitual programs of perception within the brain  # 
 
-Although many people traditionally view the internal [[six sense bases]] as passive receptors of objective phenomena, the study of illusions and ambiguous images has demonstated that the process of [[perception]] is not passive reaction but creative [[transaction]] and that [[The external world that we percieve is a only the product of the brains interperting, editing, and classifying of it]]. For instance, take the famous Muller-Lyer Illusion as an example. The illusion consists of two parellel lines, the one on top accompanied with two arrows on each side while the one one the bottom is accompanied with two inverse arrows on its sides. 
+Although many people traditionally view the internal [[six sense bases]] as passive receptors of objective phenomena, the study of illusions and ambiguous images has demonstated that the process of [[perception]] is not passive reaction but creative [[transaction]] and that [[The external world that we percieve is a only the product of what the brain receives, edits, and classifies]]. For instance, take the famous Muller-Lyer Illusion as an example. The illusion consists of two parellel lines, the one on top accompanied with two arrows on each side while the one one the bottom is accompanied with two inverse arrows on its sides. 
 
 ![[C00E0B17-362F-4305-A18F-E1A885569606.jpeg|500]]
 

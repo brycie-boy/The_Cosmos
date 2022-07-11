@@ -1,6 +1,6 @@
 ## Small Sources 
 
-Small sources are for obtaining smaller bits of insight on a broader topic. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing that I feel the  [[broad sources]] didnt elabortate well on. Or they can be added to an inbox where i can manage them at a later time. These can also be used as short introductions to get a feel for a new topic, but shouldn’t be studied until [[Broad Sources]] have been consumed.
+Small sources are for obtaining smaller bits of insight on a broader topic. Small sources can be deliberately sought out and studied immediatly in order to expand upon a specific thing that I feel the  [[broad sources]] didnt elabortate well on. Or potentially insightful small sources can be added to an inbox where i can manage them at a later time. These can also be used as short introductions to get a feel for a new topic, but shouldn’t be studied until after [[Broad Sources]] on that topic have been consumed.
 
 There are 4 types of small sources that The Cosmos consumes. Included are their respective workflows:
 

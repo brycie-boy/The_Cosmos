@@ -97,7 +97,7 @@
 
 ### Cheese/Dairy
 
-- [ ] Greek or Bulgarian yogurt
+- [x] Greek or Bulgarian yogurt
 - [x] Coconut cream 
 	- Heavy cream
 - [x] Almond milk
@@ -143,6 +143,7 @@
 - [ ] Protein
 - [x] Lions mane 
 - [x] Ginko
+- [x] L-theanine
 
 Cost to maintain: $225
 
