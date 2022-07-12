@@ -1,4 +1,4 @@
-## Clinging to our personal perceptions of reality gives rise to conflict and disputes  #🧠 
+## Clinging to our personal views of reality gives rise to conflict and disputes  #🧠 
 
 Clinging to sensual pleasure and material comfort is one trap that keeps beings bound to [[Samsara]]. Another trap is attatchment to views. [[We ordinarily percieve reality through subjective biases shaped by our craving and attachments]] . Attachment to these [[Perception]]s lead to one-sided, biased interpertations of reality that we cling to as accurate and complete. People who cling tenaciously to their own views of a particular situation often come into conflict with those who view the same situation in a different light. Views thus give rise to conflicts and disputes. 
 

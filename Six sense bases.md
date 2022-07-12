@@ -1,6 +1,6 @@
 ## Six sense bases  #🧠 
 
-The six internal and external sense bases provide a perspective on the totality of experience different from, but complementary to [[The five aggregates]]. The six pairs of sense bases are the six sense faculties and their corresponding objects, which support the arising of the respective type of [[consciousness]]. Becuase they mediate between [[consciousness]] and its objects, the internal sense bases are refered to as “the six bases of impression", impression being the converging of sense faculty, object, and [[consciousness]]. The six sense bases and there respective types of [[consciousness]] consist of:
+The six internal and external sense bases provide a perspective on the totality of experience different from, but complementary to [[The five aggregates]]. The six pairs of sense bases are the six sense faculties and their corresponding objects, which support the arising of the respective type of [[consciousness]]. Becuase the internal sense bases mediate between [[consciousness]] and its objects, they are refered to as “the six bases of impression", impression being the converging of sense faculty, object, and [[consciousness]]. The six sense bases and there respective types of [[consciousness]] consist of:
 
 - eye, forms, and visual-[[consciousness]] (seeing)
 - ear, sounds, and auditory-[[consciousness]] (hearing)
@@ -15,9 +15,9 @@ ___
 
 ##### References
 
-- Bodhi, Bhikkhu. (2005). [[In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM]] (Location 5989). Somerville, MA: _Wisdom Publications_.
+- Bodhi, Bhikkhu. (2005). [[In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM]] (Location 5345). Somerville, MA: _Wisdom Publications_.
 
-- Samyutta Nikaya 35:26; IV 17–18
+- Samyutta Nikaya 35:26; IV 17–18, Bodhi, Bhikkhu. (2005). [[In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM]] (Location 5992). Somerville, MA: _Wisdom Publications_.
 
 - Samyutta Nikaya 35:28; IV 19–20
 
@@ -25,5 +25,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
+Tags: [[Psychology]] / [[Biology]] / [[Physiology]] / [[Neuroscience]] / [[Philosophy]] / [[Spirituality]] 
 Status: #☀️ 

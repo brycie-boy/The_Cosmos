@@ -1,6 +1,6 @@
 ## The New Inquisition  # 
 
-The New inqiusition is a term coined by [[Robert Anton Wilson]] which refers certain habits of repression and intimidation that are becoming increasingly commonplace in the scientific community as well as other intitutional structures in modern times.
+The New inqiusition is a term coined by [[Robert Anton Wilson]] which refers certain habits of repression and intimidation that are becoming increasingly commonplace in the scientific community and other institutional structures in modern times.
 
 ___
 

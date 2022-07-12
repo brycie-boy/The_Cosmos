@@ -312,7 +312,7 @@ To the Idolator, events "really are" what they appear to be as coded into his or
 
 ___
 
-- Highlight(pink) - Page 31 · Location 528 ❗️
+- Highlight(pink) - Page 31 · Location 528 
 Of course, this position "is" relative relativism, not absolute relativism. We say again that some reality-tunnels seem better, in some ways, than others.
 
 - Highlight(pink) - Page 31 · Location 529
@@ -378,6 +378,8 @@ Domesticated primates (humans) seem also to function largely on imprinting and c
 - Highlight(pink) - Page 34 · Location 606
 If one hears the metaphors and/ or cuss-words of the Ku Klux Klan, one can guess how a Black human will be treated in that group. If one hears the language system of Radical Feminism, one knows how a male human will be regarded. If one hears the noises of Fundamentalist Materialism, one knows how an allegation of "ESP” will be received. Etc.
 
+___
+
 - Highlight(pink) - Page 34 · Location 609
 It appears that some domesticated primates, over the aeons, have not precisely evolved but have learned how to criticize and examine their own neurological programs. Members of this group cannot be mechanically predicted. They exhibit, at times at least, what looks like "growth" or "creativity,"
 
@@ -387,9 +389,7 @@ it appears that most of what I have been calling Idolatry and Fundamentalism can
 - Highlight(pink) - Page 35 · Location 618
 And in that case—unless some real possibility of creative thought exists—only mechanical primate programs will determine how we evaluate any incident or event, from the chair across the room to yarns about bleeding Catholic statues or charmed quarks or UFOs.
 
-___
-
-- Highlight(pink) - Page 35 · Location 622
+- Highlight(pink) - Page 35 · Location 622 
 we follow conditioned programs so much that we do not stop to exercise our potential creativity. The artist tries to jar us out of this conditioned or hypnotic state by showing us a normal thing in a new way. The mystic tries to jar us by telling us to sit and look at a wall or an apple or something until—through the stress of social and sensory deprivation—we stop "seeing" what we always saw and start "seeing" in a new way.
 
 - Highlight(pink) - Page 35 · Location 626
@@ -397,7 +397,7 @@ We are using neither the artistic nor the mystic method here but are trying to l
 
 ___
 
-- Highlight(pink) - Page 35 · Location 630
+- Highlight(pink) - Page 35 · Location 630 
 The late J.B. Priestley often animadverted upon what he called the Citadel—the scientific-technological elite which both supports and is supported by our military-industrial alpha males. The Citadel, in most countries, gets millions of pounds for every twopence doled out to the humanities, the social studies or the arts; it devotes most of its time and intellect to the task, as Bucky Fuller used to say, of delivering more and more explosive power over greater and greater distances in shorter and shorter times to kill more and more people.
 
 - Highlight(pink) - Page 35 · Location 634
@@ -408,7 +408,35 @@ Of course, "the Citadel" is a metaphor, a rhetorical convenience. Many of the mo
 
 ___
 
-- Highlight(pink) - Page 37 · Location 664
+- Highlight(pink) - Page 41 · Location 756
+SOMBUNALL . . . Is this a new wonder-drug? The latest computer from Japan? The Swahili word for water-closet? Another borrowing from Finnegans Wake? Sombunall is, I think, a word we badly need. It means some-but-not-all. We have already pointed out that perception involves abstraction (or subtraction)—When we look at an apple we do not see all the apple but only part of the surface of the apple—And our generalizations or models or reality-tunnels are made up of coordinations or orchestrations of these abstractions—We never know "all"; we know, at best, sombunall.
+
+- Highlight(pink) - Page 41 · Location 764
+Now, to return to my frequent occupation of writing science fiction, imagine a world in which German did not contain the word "alles" or any of its derivatives, but did include some form of sombunall. Adolph Hitler would never have been able to say, or even think, most of his generalizations about all Jews. At most, he would have been talking and thinking about sombunall Jews. I don't claim this alone would necessarily have prevented the Holocaust—I am not about to offer some form of linguistic determinism to rival Marx's economic determinism or Hitler's own racial determinism, but—Holocaust mentalities are encouraged by all-ness statements. They are discouraged by sombunall statements.
+
+- Highlight(pink) - Page 42 · Location 773
+Imagine Arthur Schopenhauer with a sombunall instead of all in his vocabulary. He could still have generalized about sombunall women, but not about all women; and a major source of literary misogyny would have vanished from our culture. Imagine the Feminists writing about sombunall men, but not about all men. Imagine a debate about UFOs in which both sides could generalize as much as they wished about sombunall sightings but there was no linguistic form to generalize about all such sightings.
+
+- Highlight(pink) - Page 42 · Location 778
+Imagine what would happen if, along with this semantic hygiene, the Aristotelian “is” were replaced by the neurologically-accurate "seems to me."
+
+- Highlight(pink) - Page 42 · Location 781
+"All modern music is junk" would become "sombunall modern music seems like junk to me." Other dogmatic statements would become, e.g. "Sombunall scientists seem to me ignorant of art and culture," "Sombunall artists seem to me ignorant of science," "Sombunall Englishmen seem to me a bit pompous," "Sombunall Irishmen seem to me to drink a lot" . . .
+
+- Highlight(pink) - Page 42 · Location 784
+Idols would suddenly shrink back into models or reality-tunnels; we would remember that we created them, or that our ancestors did. We might become suddenly startlingly sane.
+
+___
+
+- Highlight(pink) - Page 43 · Location 804
+Due to the territorial imperatives of primate neurology, some information is not only ignored but actively resisted. Denial, anger or even desire to punish the messenger who brings "bad news" are well-known traits of our species.
+
+- Highlight(pink) - Page 43 · Location 805
+To the extent that we are aware of this tendency, and try to combat it in ourselves, we will make efforts to seek unwelcome signals—e.g. by reading periodicals of the groups whose reality-tunnels oppose our own, as Bertrand Russell often recommended. To the extent that we ignore or forget this primate tendency in ourselves, we will lapse into Fundamentalism, Idolatry and the Inquisitorial mode of behavior.
+
+___
+
+- Highlight(pink) - Page 37 · Location 664 ❗️
 We will now consider the rather peculiar case of a cat who is dead and alive at the same time. This flexible feline first appeared in Volume 23 of Der Naturwissenschaft (1935) and is the progeny of Dr. Erwin Schrödinger, Nobel laureate in physics.
 
 - Highlight(pink) - Page 37 · Location 673
@@ -466,51 +494,6 @@ When our knowledge of the mathematical basis of physical structures is in this s
 
 ___
 
-- Highlight(pink) - Page 41 · Location 756
-SOMBUNALL . . . Is this a new wonder-drug? The latest computer from Japan? The Swahili word for water-closet? Another borrowing from Finnegans Wake? Sombunall is, I think, a word we badly need. It means some-but-not-all. We have already pointed out that perception involves abstraction (or subtraction)—When we look at an apple we do not see all the apple but only part of the surface of the apple—And our generalizations or models or reality-tunnels are made up of coordinations or orchestrations of these abstractions—We never know "all"; we know, at best, sombunall.
-
-- Highlight(pink) - Page 41 · Location 764
-Now, to return to my frequent occupation of writing science fiction, imagine a world in which German did not contain the word "alles" or any of its derivatives, but did include some form of sombunall. Adolph Hitler would never have been able to say, or even think, most of his generalizations about all Jews. At most, he would have been talking and thinking about sombunall Jews. I don't claim this alone would necessarily have prevented the Holocaust—I am not about to offer some form of linguistic determinism to rival Marx's economic determinism or Hitler's own racial determinism, but—Holocaust mentalities are encouraged by all-ness statements. They are discouraged by sombunall statements.
-
-- Highlight(pink) - Page 42 · Location 773
-Imagine Arthur Schopenhauer with a sombunall instead of all in his vocabulary. He could still have generalized about sombunall women, but not about all women; and a major source of literary misogyny would have vanished from our culture. Imagine the Feminists writing about sombunall men, but not about all men. Imagine a debate about UFOs in which both sides could generalize as much as they wished about sombunall sightings but there was no linguistic form to generalize about all such sightings.
-
-___
-
-- Highlight(pink) - Page 42 · Location 778
-Imagine what would happen if, along with this semantic hygiene, the Aristotelian “is” were replaced by the neurologically-accurate "seems to me."
-
-- Highlight(pink) - Page 42 · Location 781
-"All modern music is junk" would become "sombunall modern music seems like junk to me." Other dogmatic statements would become, e.g. "Sombunall scientists seem to me ignorant of art and culture," "Sombunall artists seem to me ignorant of science," "Sombunall Englishmen seem to me a bit pompous," "Sombunall Irishmen seem to me to drink a lot" . . .
-
-- Highlight(pink) - Page 42 · Location 784
-Idols would suddenly shrink back into models or reality-tunnels; we would remember that we created them, or that our ancestors did. We might become suddenly startlingly sane.
-
-___
-
-- Highlight(pink) - Page 42 · Location 786
-Medieval Idolatry consisted of metaphors that were called Revealed Truth. Modern Idolatry consists of metaphors that are called Objective Truth. In both cases human linguistic structures—complicated primate chatterings—have, in effect, become Gods, and whoever questions them is considered a blasphemer and the priests seek to destroy the impiety. That's how books get burned, in Florence in 1300 (or in New York in 1956, as we shall see).
-
-___
-
-- Highlight(pink) - Page 43 · Location 804
-Due to the territorial imperatives of primate neurology, some information is not only ignored but actively resisted. Denial, anger or even desire to punish the messenger who brings "bad news" are well-known traits of our species.
-
-- Highlight(pink) - Page 43 · Location 805
-To the extent that we are aware of this tendency, and try to combat it in ourselves, we will make efforts to seek unwelcome signals—e.g. by reading periodicals of the groups whose reality-tunnels oppose our own, as Bertrand Russell often recommended. To the extent that we ignore or forget this primate tendency in ourselves, we will lapse into Fundamentalism, Idolatry and the Inquisitorial mode of behavior.
-
-___
-
-- Highlight(pink) - Page 43 · Location 809
-Civil liberties are profoundly counter-intuitive. It takes an effort of imagination and good will to remember that those we despise deserve the same legal rights as those who agree with us. At least a partial agnosticism is necessary before we can sincerely and consistently pursue the goal of "equal justice for all."
-
-___
-
-- Highlight(pink) - Page 44 · Location 813
-You have a new dog and you wish the dog to treat you (rather than another member of your family) as "Master." The first rule is to feed the dog regularly, and, if possible, in early months, make sure no other member of the family ever feeds the dog. In ethological jargon, the dog will imprint you as the equivalent of Top Dog in a wild dog pack, or the closest analog to that Top Dog in a domesticated canine-primate ambience. Similarly, all brainwashers use this principle—usually unconsciously—by feeding their victims. This is necessary to keep the victims alive until their minds have been re-conditioned, of course, but it may also be a re-imprinting technique. We are mammals, too, and we tend to imprint as Top Dog those who feed us when we are helpless. The "paradoxical" sympathy for terrorists often reported by those who are held captive may also grow out of this neurological tendency to make a Top Dog out of whoever feeds us. It is shocking, to some, to think that this may also be the origin of the infant's love for its mother. One cannot help wondering how much of the reality-tunnel of the Military-Industrial Empire gets imprinted or conditioned upon the Scientific Citadel which is fed by it.
-
-___
-
 - Highlight(pink) - Page 7 · Location 88
 Back in the Renaissance, Francis Bacon, the father of empirical reasoning, announced that materialist science would allow man to “take nature by the forelock, hold her down, and submit her to our will.” He used a rape metaphor to describe the benefits of rational thinking. This is not a way of understanding nature, but forcing nature to conform to the model. As Korzybski and Wilson both liked to remind us, “the map is not the territory.” For Bacon, this means changing the territory to become more like the map.
 
@@ -525,7 +508,3 @@ Reality is weirder than this. All you need to do is walk in nature, have sex, ta
 
 - Highlight(pink) - Page 8 · Location 103
 Bob’s message is more important right now than it was when he wrote it. Our digital fundamentalists see human beings as an engineering problem to be solved. Behaviors and thoughts that do not conform to our algorithmically generated profiles are to be eliminated, and humans shepherded into the reality tunnels that obey the laws of rationality alone.
-
-
-
-
