@@ -1,6 +1,6 @@
 ## Perception #🧠 
 
-Perception is the third of [[The five aggregates]]. It is defined as the interpretation, identification, classification of objects or events by a grasping of their distictive features or charcteristics. Its function is in recognizing and distiguishing meaningful patterns out of what has been previously percieved and creating a label as a condition for percieving again that "this is the same" in order to make sense of the presented information or environment. For example, as [[Fredrich Neitzsche]] puts it, despite there individual differences, in seeing "this leaf" and "that leaf" and "the next leaf", the concept "leaf" is created. The cause and condition for the manifastation of perception is impression between the internal and external [[Six sense bases]]. 
+Perception is the third of [[The five aggregates]]. It is defined as the interpretation, identification, classification of objects or events by a grasping of their distictive features or charcteristics. Its function is in recognizing and distiguishing out of our inchoate experience meaningful patterns in order to make sense of the presented information or environment and in creating a label as a condition for percieving again that "this is the same". For example, as [[Fredrich Neitzsche]] puts it, despite there individual differences, out of "this leaf" and "that leaf" and "the next leaf", the concept "leaf" is created. The cause and condition for the manifastation of perception is impression between the internal and external [[Six sense bases]]. 
 
 ___
 
@@ -13,6 +13,8 @@ ___
 - Samyutta Nikaya 22: 82, abridged; 100–103 
 
 - Majjhima Nikaya 109, abridged; III 15–19
+
+- Wilson, A., Robert (1986). [[The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 1. Models, Metaphors, and Idols]] (Page 27 · Location 446). Grand Junction, Colorado: _Hilaritas Press_
 
 ##### Metadata
 

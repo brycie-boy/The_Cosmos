@@ -8,10 +8,10 @@ ___
 
 ##### References
 
-
+- Wilson, A., Robert (1986). [[The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 1. Models, Metaphors, and Idols]] (Page 27 · Location 442). Grand Junction, Colorado: _Hilaritas Press_
 
 ##### Metadata
 
-Type: 
-Tags:
-Status: 
+Type: #🔴 
+Tags: [[Psychology]] / [[Linguistics]] / [[Etymology]] / [[Semantics]] / [[Neurosemantics]] / [[Philosophy]] / [[Epistemology]]
+Status: #⛅️/⛅️ 
