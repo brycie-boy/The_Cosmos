@@ -8,7 +8,7 @@ The six internal and external sense bases provide a perspective on the totality 
 - tongue, tastes, and gustatory-[[consciousness]] (tasting)
 - body, tactile objects, and tactile-[[consciousness]] (touching)
 - Mind, phenomena, and mental-[[consciousness]] (cognizing)
-- mind ([[The mind base]]), phenomena, and mental-[[consciousness]] (cognizing)
+- [[mind]], phenomena, and mental-[[consciousness]] (cognizing)
 
 [[The Nikayas]] suggest an interesting difference between the treatment of [[The five aggregates]] and the six sense bases. They both serve as the soil where clinging takes root and grows, but while [[the five aggregates]] are primarily the soil for [[Identity view]], the six sense bases are primarily the soil for craving. A necessary step in the conquest of craving is the restraint of the senses. Practitioners must be vigilant  in their encounters with pleasant and painful sense objects. When one is negligent, experience through the senses invariably becomes a trigger for craving; greed for pleasant objects, aversion from painful objects (and craving for pleasant escape routes), and dull attachment to neutral objects.
 
