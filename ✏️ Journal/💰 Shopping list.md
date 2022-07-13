@@ -7,22 +7,14 @@
 > - Tech: $810
 > - **Overall:** $3695
 
-- ![[904D3FF3-B54D-4FB6-9CC2-3E99022587FC.jpeg|200]]
-	Bamboo bed sheets 6 pack $35 https://www.amazon.com/LuxClub-Friendly-Hypoallergenic-Anti-Bacteria-Washable/dp/B071RVW4ZY/ref=mp_s_a_1_3?crid=21MA32RQSMR80&keywords=bamboo%2Bsheets&qid=1651905592&sprefix=bamboo%2Bsheets%2Caps%2C96&sr=8-3&th=1&psc=1
-
 - ![[FA8760C4-DE62-4DE0-B2D4-662AD019AE6B.jpeg|200]]
 	Bamboo pillow cases 2 pack $18 https://www.amazon.com/Bedsure-Cooling-Pillowcases-Breathable-Moisture/dp/B07JPYCH7F/ref=mp_s_a_1_3?crid=1A20NBKUGK4T0&keywords=bamboo%2Bpillow%2Bcases%2Bstandard%2Bsize&qid=1647046211&sprefix=bamboo%2Bpillow%2Bc%2Caps%2C91&sr=8-3&th=1&psc=1
 
 - ![[7445976F-3774-4A30-8B08-2A4ED602BB05.jpeg|200]]
 	weighted blanket $78 https://www.amazon.com/dp/B08QDLWKV2/?coliid=IDL51O85MCKBA&colid=1AGZ6JIRYXHZ4&psc=1&ref_=lv_ov_lig_dp_it
 
-
-- ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
-	Framework Laptop DIY Edition $749.00
-	https://frame.work/products/laptop-diy-edition
-
-- ![[0817D88E-A246-414E-9DA5-AA527785B652.jpeg|200]]
-	Ledger namo crypto wallet $60 https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=mp_s_a_1_4?crid=2VLC0MY3RPMK6&keywords=bitcoin+wallet&qid=1651272172&sprefix=bitcoin+wallet%2Caps%2C93&sr=8-4&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
+- ![[904D3FF3-B54D-4FB6-9CC2-3E99022587FC.jpeg|200]]
+	Bamboo bed sheets 6 pack $35 https://www.amazon.com/LuxClub-Friendly-Hypoallergenic-Anti-Bacteria-Washable/dp/B071RVW4ZY/ref=mp_s_a_1_3?crid=21MA32RQSMR80&keywords=bamboo%2Bsheets&qid=1651905592&sprefix=bamboo%2Bsheets%2Caps%2C96&sr=8-3&th=1&psc=1
 
 - ![[90BBB219-D1E7-437F-ADA9-915E1979953F.webp|200]]
 	![[45955F0E-BB0D-4275-A475-FAF770759D40.webp|200]]
@@ -43,6 +35,14 @@ Sweatsuits $200
 https://a.aliexpress.com/_mO2I7o2 and 
 https://a.aliexpress.com/_mOxjlsi
 
+
+
+- ![[F77C465E-E93D-4EB7-AEDC-F0769BD884FA.webp|200]]
+	Framework Laptop DIY Edition $749.00
+	https://frame.work/products/laptop-diy-edition
+
+- ![[0817D88E-A246-414E-9DA5-AA527785B652.jpeg|200]]
+	Ledger namo crypto wallet $60 https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=mp_s_a_1_4?crid=2VLC0MY3RPMK6&keywords=bitcoin+wallet&qid=1651272172&sprefix=bitcoin+wallet%2Caps%2C93&sr=8-4&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
 
 - ![[0E247092-FBB4-4054-A412-BB8172091150.webp|200]]
 ![[36D1499E-E833-4667-A123-C55DFBAF5A0F.webp|200]]

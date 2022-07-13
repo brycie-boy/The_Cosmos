@@ -1,6 +1,6 @@
 ## Stream-entry #🧠 
 
-Stream-entry is the first of [[The four stages toward enlightenment]]. The stream-entered abandons the first three fetters: [[Identity view]], doubt, and the  belief that mere external observances, paticularly religious rituals and ascetic practices, can lead to liberation. The stream enterer is assured of attianing [[Nibbana]] in atmost seven more existances, which may take place in [[The sense-sphere realm]]s.
+Stream-entry is the first stage of [[The four stages toward enlightenment]].  This stage involves the eradication of the first three fetters: [[Identity view]], doubt, and the  belief that mere external observances, paticularly religious rituals and ascetic practices, can lead to liberation. The stream enterer is assured of attaining [[Nibbana]] in atmost seven more existences, which may take place in [[The sense-sphere realm]]s.
 
 ___
 

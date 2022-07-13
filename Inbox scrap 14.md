@@ -1,6 +1,6 @@
 Notebook Export
 
-Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling
+Dumbing Us Down The Hidden Curriculum of Compulsory Schooling
 
 John Taylor Gatto
 

@@ -8,9 +8,7 @@ _Verb_
 
 2. to become aware of
 
-3. to anticipate especially with anxiety, dread, or fear
-
-4. to grasp with the understanding **:** recognize the meaning of
+3. to grasp the understanding **:** recognize the meaning of
 
 ___
 
