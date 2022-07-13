@@ -1,15 +1,17 @@
-## [Dumbing Us Down The Hidden Curriculum of Compulsory Schooling Chapter 1. The Seven-Lesson Schoolteacher](https://www.amazon.com/gp/aw/d/B072F9VRZP/ref=tmm_kin_swatch_0?ie=UTF8&qid=1657672291&sr=8-1)
+## Heading  # 
 
-![[B32A7616-BA5E-4FEC-9877-5E4CB8758E1D.jpeg|150]]
+One of the most distressing predicaments the knowledge seeker may encounter is the sheer difficulty among choosing out of the bewildering diversity of doctrines and disiplines. Many schools of thought make claims on our alliegence that are absolute and all-encompassing. Adhrents of a paticular creed are prone to assert that their ideas alone are the "one true way;" they boldly propose that their path alone offers the remedy to all of the worlds problems. 
 
-Author: [[John Taylor Gatto]]
-Publish Date: 1992
-Review Date:
-Status: #💥
-Tags:
+If we could suspened all belief commitments and compare the competing doctrines impartially, submitting them to imperical tests, then we would have a sure-fire method of deciding betweem, and then our whole ordeal would be over with. But it isnt that simple. Many doctrines propose—or presuppose—ideas that we cannot validate by personal experience; they advocate for tenets that require some degree of trust. 
 
 ___
 
-[[Inbox scrap 14]]
+##### References
 
 
+
+##### Metadata
+
+Type: 
+Tags:
+Status: 

@@ -1,6 +1,6 @@
 ## The three standpoints  # 🧠
 
-[[We ordinarily percieve reality through subjective biases shaped by our craving and attachments]]. To help us transform our understanding and deepen our perspective on the world, [[The Buddha]] offers three standpoints from which we can appraise the values by which we order our lives. These three standpoints can also represent three moments or steps in an unfolding process of [[Insight]] that starts from our common sense attitudes and moves toward higher wisdom, enlightenment, and [[Nibbana]]. These three moments are: 
+[[We ordinarily percieve reality through subjective biases shaped by our craving and attachments]], so help us transform our understanding and deepen our perspective on the world, [[The Buddha]] offers three standpoints from which we can appraise the values by which we order our lives. These three standpoints can also represent three moments or steps in an unfolding process of [[Insight]] that starts from our common sense attitudes and moves toward higher wisdom, enlightenment, and [[Nibbana]]. These three moments are: 
 
 - gratification
 - danger

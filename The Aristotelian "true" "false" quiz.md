@@ -1,6 +1,6 @@
 ## The Aristotelian "true" "false" quiz  # 
 
-To demonstate that [[We ordinarily percieve reality through subjective biases shaped by our craving and attachments]], author [[Robert Anton Wilson]] provides a list of 21 propositions and asks us to try and answer them in a strictly Aristotelian "true" / "false" manner without deciding upon any "maybes". These propositions include: 
+To demonstate how [[we ordinarily percieve reality through subjective biases shaped by our craving and attachments]], [[Robert Anton Wilson]] provides a list of 21 propositions and asks us to try and answer them in a strictly Aristotelian "true" / "false" manner without deciding upon any "maybes". These propositions include: 
 
 1. Water boils at 100 Degrees Celsius.
 2. pq equals qp.
