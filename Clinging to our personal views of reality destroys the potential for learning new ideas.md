@@ -14,7 +14,7 @@ To the extent that we become unconscious of this, we will behave Fundamentalisti
 
 If we become fully hypnotized by a [[reality tunnel]] we may even become, in conventional terms, a bit mad. In such a state of mania, we might even burn books, that contain heresy against our idols, or fake data to support our predjudices, or find ourselves compelled to explain increasing amounts of discordant data by accusing vast amorphous conspiracies of having "cooked the data". Or we may even become sincerly convinced that any one who senses inconsistent with out idol must be hallucinating. In such a state, we appear "beyond reasoning," i. e. beyond the normal parameters of social discorse. 
 
-[[Clinging to our personal views of reality gives rise to conflict and disputes]]
+[[Clinging to our personal beliefs gives rise to conflict and disputes]]
 
 ___
 

@@ -10,7 +10,7 @@ Tags:
 
 ___
 
-- Highlight(pink) - Location 1500 ❗️
+- Highlight(pink) - Location 1500 
 One of the most distressing predicaments any earnest, open-minded spiritual seeker might face is the sheer difficulty of choosing from among the bewildering diversity of religious and spiritual teachings available.
 
 - Highlight(pink) - Location 1501
@@ -21,68 +21,11 @@ If we could suspend all belief commitments and compare the competing doctrines i
 
 ___
 
-- Highlight(pink) - Location 1508
-One solution to this problem is to deny that there is any real conflict between alternative belief systems. The adherents of this approach, which we might call religious universalism, say that at their core all spiritual traditions teach essentially the same thing. Their formulations may differ but their inner core is the same, expressed differently merely to accord with different sensibilities.
-
-- Highlight(pink) - Location 1510
-What we need to do, the universalist says, when faced with different spiritual traditions, is to extract the kernel of inner truth from the pods of their exoteric creeds. From ground level our goals look different, but from the heights we will find the goal is the same; it is like the view of the moon from different mountain peaks.
-
-___
-
-- Highlight(pink) - Location 1513
-Universalists in matters of doctrine often endorse eclecticism in practice, holding that we can select whatever practices we prefer and combine them like dishes at a buffet.
-
-- Highlight(pink) - Location 1514
-This solution to the problem of religious diversity has an immediate appeal to those disillusioned with the exclusive claims of dogmatic religion.
-
-- Highlight(pink) - Location 1515
-Honest critical reflection, however, would show that on the most vital issues the different religions and spiritual traditions take different standpoints. They give us very different answers to our questions concerning the basic grounds and goals of the spiritual quest and often these differences are not merely verbal.
-
-- Highlight(pink) - Location 1517
-To sweep them away as being merely verbal may be an effective way of achieving harmony between followers of different belief systems, but it cannot withstand close examination.
-
-- Highlight(pink) - Location 1518
-In the end, it is as little tenable as saying that, because they have beaks and wings, eagles, sparrows, and chickens are essentially the same type of creature, the differences between them being merely verbal.
-
-___
-
-- Highlight(pink) - Location 1622
-NOT A SECRET DOCTRINE
-
-- Highlight(pink) - Location 1530
-The texts of Early Buddhism do not teach a secret doctrine, nor do they leave scope for anything like an esoteric path reserved for an élite of initiates and withheld from others. According to Text III,1, secrecy in a religious teaching is the hallmark of wrong views and confused thinking. The teaching of the Buddha shines openly, as radiant and brilliant as the light of the sun and moon.
-
-- Highlight(pink) - Location 1623
-“These three things, monks, are conducted in secret, not openly. What three? Affairs with women, the mantras of the brahmins, and wrong view. “But these three things, monks, shine openly, not in secret. What three? The moon, the sun, and the Dhamma and Discipline proclaimed by the Tathāgata.”
-(Anguttara Nikaya 3:129; I 282–83)
-
-- Highlight(pink) - Location 1533
-Freedom from the cloak of secrecy is integral to a teaching that gives primacy to direct experience, inviting each individual to test its principles in the crucible of his or her own experience.
-
-___
-
-- Highlight(pink) - Location 1626
+- Highlight(pink) - Location 1626 
 NO DOGMAS OR BLIND BELIEF
 
 - Highlight(pink) - Location 1537
-However, in sharp contrast to revealed religion, the Buddha does not demand that we begin our spiritual quest by placing faith in doctrines that lie beyond the range of our immediate experience. Rather than ask us to wrestle with issues that, for us in our present condition , no amount of experience can decide, he instead asks us to consider a few simple questions pertaining to our immediate welfare and happiness, questions that we can answer on the basis of personal experience.
-
-- Highlight(pink) - Location 1540
-I highlight the expression “for us in our present condition,” because the fact that we cannot presently validate such matters does not constitute grounds for rejecting them as invalid or even as irrelevant. It only means that we should put them aside for the time being and concern ourselves with issues that come within the range of direct experience.
-
-- Highlight(pink) - Location 1543
-The Buddha says that his teaching is about suffering and the cessation of suffering. This statement does not mean that the Dhamma is concerned only with our experience of suffering in the present life, but it does imply that we can use our present experience, backed by intelligent observation, as a criterion for determining what is beneficial and what is detrimental to our spiritual progress.
-
-- Highlight(pink) - Location 1546
-Our most insistent existential demand, springing up deep within us, is the need for freedom from harm, sorrow, and distress; or, positively stated, the need to achieve well-being and happiness.
-
-- Highlight(pink) - Location 1547
-However, to avoid harm and to secure our well-being, it is not sufficient for us merely to hope. We first have to understand the conditions on which they depend.
-
-- Highlight(pink) - Location 1548
-According to the Buddha, whatever arises, arises through appropriate causes and conditions, and this applies with equal force to suffering and happiness. Thus we must ascertain the causes and conditions that lead to harm and suffering, and likewise the causes and conditions that lead to well-being and happiness. Once we have extracted these two principles—the conditions leading to harm and suffering, and the conditions leading to well-being and happiness—we have at our disposal an outline of the entire process that leads to the ultimate goal, final liberation from suffering.
-
-____
+However, in sharp contrast to revealed religion, the Buddha does not demand that we begin our spiritual quest by placing faith in doctrines that lie beyond the range of our immediate experience. Rather than ask us to wrestle with issues that, _for us in our present condition_, no amount of experience can decide, he instead asks us to consider a few simple questions pertaining to our immediate welfare and happiness, questions that we can answer on the basis of personal experience.
 
 - Highlight(pink) - Location 1552
 One text offering an excellent example of this approach is a short discourse in the Aṅguttara Nikāya popularly known as the Kālāma Sutta,
@@ -105,6 +48,18 @@ Do not go by oral tradition, by lineage of teaching, by hearsay, by a collection
 This advice is sometimes quoted to prove that the Buddha rejected all external authorities and invited each individual to fashion his or her own personal path to truth. Read in context, however, the message of the Kālāma Sutta is quite different. The Buddha is not advising the Kālāmas—who, it must be stressed, had at this point not yet become his own disciples—to reject all authoritative guides to spiritual understanding and fall back solely on their personal intuition. Rather, he is offering them a simple and pragmatic outlet from the morass of doubt and perplexity in which they are immersed. By the use of skillful methods of inquiry, he leads them to understand a number of basic principles that they can verify by their own experience and thereby acquire a sure starting point for further spiritual development.
 
 ___
+
+- Highlight(pink) - Location 1543
+The Buddha says that his teaching is about suffering and the cessation of suffering. This statement does not mean that the Dhamma is concerned only with our experience of suffering in the present life, but it does imply that we can use our present experience, backed by intelligent observation, as a criterion for determining what is beneficial and what is detrimental to our spiritual progress.
+
+- Highlight(pink) - Location 1546
+Our most insistent existential demand, springing up deep within us, is the need for freedom from harm, sorrow, and distress; or, positively stated, the need to achieve well-being and happiness.
+
+- Highlight(pink) - Location 1547
+However, to avoid harm and to secure our well-being, it is not sufficient for us merely to hope. We first have to understand the conditions on which they depend.
+
+- Highlight(pink) - Location 1548
+According to the Buddha, whatever arises, arises through appropriate causes and conditions, and this applies with equal force to suffering and happiness. Thus we must ascertain the causes and conditions that lead to harm and suffering, and likewise the causes and conditions that lead to well-being and happiness. Once we have extracted these two principles—the conditions leading to harm and suffering, and the conditions leading to well-being and happiness—we have at our disposal an outline of the entire process that leads to the ultimate goal, final liberation from suffering.
 
 - Highlight(pink) - Location 1568
 Always underlying the Buddha’s questions and their replies is the tacit premise that people are primarily motivated to act by a concern for their own welfare and happiness. In asking this particular set of questions, the Buddha’s purpose is to lead the Kālāmas to see that, even when we suspend all concern with future lives, unwholesome mental states such as greed, hatred, and delusion, and unwholesome actions such as killing and stealing, eventually redound to one’s own harm and suffering right here and now.
