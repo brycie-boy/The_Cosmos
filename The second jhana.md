@@ -1,6 +1,6 @@
 ## The second jhana  #🧠 
 
-The second of [[The jhanas]], consists of internal confidence and unification of mind, is without thought and examination of [[The first jhana]], and has rapture and happiness born of concentration.
+The second of [[The jhanas]], consists of internal confidence and unification of mind, is without thought and examination of [[The first jhana]], and has [[Piti]] born of concentration.
 
 ___
 
