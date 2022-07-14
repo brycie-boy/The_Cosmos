@@ -8,7 +8,7 @@ _Verb_
 
 2. to become aware of
 
-3. to grasp the understanding **:** recognize the meaning of
+3. to grasp the understanding or recognize the meaning of
 
 ___
 
@@ -17,7 +17,6 @@ ___
 -   [[catch]]
 -   [[catch on]]
 -   [[cognize]]
--   [[compass]]
 -   [[comprehend]]
 -   [[conceive]]
 -   [[decipher]]
@@ -38,8 +37,8 @@ ___
 
 ##### References 
 
-https://www.merriam-webster.com/dictionary/apprehend
+- https://www.merriam-webster.com/dictionary/apprehend
 
 ##### Metadata
+
 Type: #🔵/💬 
-Status: #☀️ 

@@ -7,7 +7,9 @@ The practice of meditation is not only the heart of the path to [[Nibbana]] but 
 - altruistic joy: The feeling of happiness for the success and good fortune of others
 - equanimity: a balanced reaction to joy and misery which protects one from agitation
 
-The most fruitful being loving-kindness. These meditations are said to bring rebirth in the [[Brahma World]]. While the Brahmins regarded the [[Brahma World]] as the highest attainment, for [[the Buddha]] it was just one exhalted sphere of rebirth.
+The most fruitful being loving-kindness. 
+
+These meditations are said to bring rebirth in the [[Brahma World]]. While the Brahmins regarded the [[Brahma World]] as the highest attainment, for [[the Buddha]] it was just one exhalted sphere of rebirth.
 
 ___
 
