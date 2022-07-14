@@ -1,12 +1,11 @@
 ## [In the Buddha's Words An Anthology of Discources from the Pali Canon](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1650578812&sr=8-1)
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
-
-Author: Bhikku Bodhi
+![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
+Author: [[Bhikku Bodhi]]
+Publisher: _Wisdom Publications_. Somerville, MA.
 Publish Date: 2005-6-28
 Review Date: 2022-5-12
 Status: #☁️/📚 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]]
 
 ___
 
@@ -19,3 +18,19 @@ ___
 - [[In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM]]
 - [[In the Buddha's Words An Anthology of Discources from the Pali Canon Chapter 10. The Planes of Realization]]
 
+### Notes
+
+- [[Kamma]]
+- [[Merit]]
+- [[Mundane and supramundane wholesome kamma]] 
+- [[The devine abodes]] 
+- [[The environment that we live in is an external reflection of the internal processes of the mind]]
+- [[The five precepts]]
+- [[The ten pathways of wholesome and unwholsome kamma]]
+- [[The three unwholesome roots]]
+- [[The three wholesome roots]]
+- [[Unwholesome kamma]]
+- [[Wholesome kamma]]
+- [[Uposatha Observance]]
+
+Total: 13

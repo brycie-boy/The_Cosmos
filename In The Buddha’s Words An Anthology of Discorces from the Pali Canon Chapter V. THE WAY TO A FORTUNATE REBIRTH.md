@@ -1,14 +1,17 @@
+
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
 ## [In The Buddha’s Words: An Anthology of Discorces from the Pali Canon Chapter V. THE WAY TO A FORTUNATE REBIRTH](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
-
-Author: Bhikkhu Bodhi
+![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
+Author: [[Bhikkhu Bodhi]]
+Publisher: _Wisdom Publications_. Somerville, MA.
 Publish Date: 2005-6-28
 Review Date: 2022-2-9
 Type: #☁️/📚 
-Tags:  [[Philosophy]] / [[Spirituality]] / [[Religion]] / [[Ethics]]
 
 ___
+
+### Annotations
 
 - Highlight(pink) - Location 2581
 According to the Buddha’s teaching, the cosmos, with its many realms of sentient existence, is governed at all levels by immutable laws, physical, biological, psychological, and ethical. The process by which sentient beings migrate from one state of existence to another is likewise lawful.
@@ -382,5 +385,21 @@ In the third realm of existence, material form is nonexistent and bare mental pr
 - Highlight(blue) - Location 2669
 This realm consists of four planes, which are the objective counterparts of the four formless meditative attainments, after which they are named: the base of the infinity of space, the base of the infinity of consciousness, the base of nothingness, and the base of neither-perception-nor-nonperception.
 
-##### Cited Refrences
+### Notes
+
+- [[Kamma]]
+- [[Merit]]
+- [[Mundane and supramundane wholesome kamma]] 
+- [[The devine abodes]] 
+- [[The environment that we live in is an external reflection of the internal processes of the mind]]
+- [[The five precepts]]
+- [[The ten pathways of wholesome and unwholsome kamma]]
+- [[The three unwholesome roots]]
+- [[The three wholesome roots]]
+- [[Unwholesome kamma]]
+- [[Wholesome kamma]]
+- [[Uposatha Observance]]
+
+Total: 13
+
 

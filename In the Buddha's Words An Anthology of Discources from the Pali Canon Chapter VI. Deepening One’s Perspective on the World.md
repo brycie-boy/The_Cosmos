@@ -1,12 +1,13 @@
+
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
 ## [In the Buddha's Words An Anthology of Discources from the Pali Canon Chapter VI. Deepening One’s Perspective on the World](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
-
-Author: Bhikku Bodhi
+![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
+Author: [[Bhikku Bodhi]]
+Publisher: _Wisdom Publications_. Somerville, MA.
 Publish Date: 2005-6-28
 Review Date: 2022-3-11
 Status: #☁️/📚 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Religion]]
 
 ___
 
@@ -341,3 +342,17 @@ beings roaming and wandering on hindered by ignorance and fettered by craving.
 - Highlight(pink) - Location 3852
 It is enough to experience revulsion toward all formations,
 (SN 15:3; II 179–80)
+
+___
+
+### Notes
+
+- [[Annihilationism]]
+- [[Clinging to our personal beliefs gives rise to conflict and disputes]]
+- [[Eternalism]] 
+- [[Sensual pleasure is only seems pleasurable through the distortion of perception]]
+- [[Supramundane Dhamma]]
+- [[The three standpoints]]
+- [[We ordinarily percieve reality through subjective biases shaped by our craving and attachments]]
+
+Total
