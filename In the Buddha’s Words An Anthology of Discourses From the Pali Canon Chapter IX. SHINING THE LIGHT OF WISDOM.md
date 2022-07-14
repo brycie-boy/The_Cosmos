@@ -3,10 +3,10 @@
 ![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
 
 Author: Bhikku Bodhi
+Publisher: _Wisdom Publications_. Somerville, MA.
 Publish Date: 2005-6-28
 Review Date: 2022-4-21
 Status: #☁️/📚 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] 
 
 ___
 

@@ -2,9 +2,9 @@
 
 
 
-Author: Bhikku Bodhi
+Author: [[Bhikku Bodhi]]
 Publish Date: 2005-6-28
-Review Date:
+Review Date: 2022-7-13
 Status: #💥 
 Tags:
 
@@ -104,7 +104,6 @@ Then, whether or not there is a life after death, one has adequate reasons in th
 
 - Highlight(pink) - Location 1681
 “The fourth assurance he has won is this: ‘Suppose evil does not befall the evil-doer. Then right here I see myself purified in both respects.’
-
 
 ___
 
