@@ -11,6 +11,8 @@ Status: #☁️/📚
 
 ___
 
+### Annotations
+
 - Highlight(pink) - Location 3211
 A blissful heavenly rebirth, however, is not the final purpose for which the Buddha taught the Dhamma. At best it is only a temporary waystation. The ultimate goal is the cessation of suffering, and the bliss of the heavens, no matter how blissful, is not the same as the cessation of suffering.
 

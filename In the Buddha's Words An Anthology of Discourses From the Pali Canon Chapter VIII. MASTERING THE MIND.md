@@ -1,14 +1,18 @@
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
+
 ## [In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VIII. MASTERING THE MIND](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
+![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
 
-Author: Bhikkhu Bodhi
+Author: [[Bhikku Bodhi]]
+Publisher: _Wisdom Publications_. Somerville, MA.
 Publish Date: 2005-6-28
 Review Date: 2022-4-8
 Status: #☁️/📚 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]]
 
 ___
+
+### Annotations 
 
 - Highlight(pink) - Location 4459
 Development of the mind, for the Nikāyas, means the development of serenity (samatha) and insight (vipassanā).
@@ -410,3 +414,13 @@ ever, Ānanda, a monk dwells contemplating feelings in feelings … mind in mind
 
 - Highlight(pink) - Location 5140
 Whenever, Ānanda, a monk becomes one who closely looks on with equanimity at the mind thus concentrated, on that occasion the enlightenment factor of equanimity is aroused by the monk
+
+___
+
+### Notes
+
+- [[Serenity]]
+- [[Insight]]
+- [[Mindfulness]]
+- [[The four establishments of mindfulness]]
+- 

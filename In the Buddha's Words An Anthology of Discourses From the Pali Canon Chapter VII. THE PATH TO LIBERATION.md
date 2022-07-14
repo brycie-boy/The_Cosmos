@@ -1,12 +1,11 @@
 ## [In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VII. THE PATH TO LIBERATION](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
-![[FB4978D7-AF0F-47AA-9ABC-82A3906C6645.jpeg|150]]
-
-Author: Bhikku Bodhi
+![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
+Author: [[Bhikku Bodhi]]
+Publisher: _Wisdom Publications_. Somerville, MA.
 Publish Date: 2005-6-28
 Review Date: 2022-3-28
 Status: #☁️/📚 
-Tags: [[Philosophy]] / [[Spirituality]] 
 
 ___
 
@@ -455,3 +454,15 @@ When a monk has a good friend, a good companion, a good comrade, it is to be exp
 (Saṃyutta Nikāya 45:2; V 2–3)
 
 ___
+
+### Notes
+
+- [[Speculative philosophical questions lead the practitioner away from liberation]]
+- [[The five hinderances]]
+- [[Supernormal Powers]]
+- [[The Nobel Eightfold Path]]
+- [[The Nobel Eightfold Path factors should be practiced simultaneously]]
+- [[The taints]]
+
+Total: 6
+

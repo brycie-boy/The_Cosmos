@@ -1,4 +1,6 @@
-## The Library  # 
+## 📚 The Library  # 
+
+![](https://w0.peakpx.com/wallpaper/534/8/HD-wallpaper-archivist-art-luminos-book-yellow-fantasy-girl-library-julie-dillon-blue.jpg)
 
 - Favorite books
 

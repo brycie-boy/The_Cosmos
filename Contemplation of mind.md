@@ -8,9 +8,11 @@ ___
 
 ##### References
 
+- Bodhi, Bhikkhu. (2005). [[In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VIII. MASTERING THE MIND]] (Location )
+
 - Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Yoga]]
 Status: #☀️ 

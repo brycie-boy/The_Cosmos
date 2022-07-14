@@ -11,7 +11,7 @@ According to the standard formula that accompanies each exercise, an establishme
 
 These means may be used to develop [[Serenity]], but the establishments of [[Mindfulness]] system as a whole seems especially designed for the development of [[Insight]]. 
 
-Each exercise contains an auxillary section with four subdivisions. The first states that the meditator contemplates the object internally (within their own experience), then externally (refrectivley considering it as occuring within the experience of others), and then both, ensuring that the meditator develops a balanced view of the object. The second portion states that the meditator contemplates the object as subject to origination, vanishing, and both origination and vanishing. This brings light to the characteristic of transience and thus leads to [[Insight]] into [[The three characteristics]]. 
+Each exercise contains an auxillary section with four subdivisions. The first states that the meditator contemplates the object internally (within their own experience), then externally (refrectivley considering it as occuring within the experience of others), and then both, ensuring that the meditator develops a balanced view of the object. The second portion states that the meditator contemplates the object as subject to origination, vanishing, and both origination and vanishing. This brings light to the characteristic of transience and thus leads to [[Insight]] into [[The three characteristics]]. And the fourth describes the meditator as dwelling in a state of complete detachment, not clinging to anything in the world.
 
 ___
 
