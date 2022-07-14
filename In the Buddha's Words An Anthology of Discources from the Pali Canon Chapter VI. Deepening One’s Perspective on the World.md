@@ -355,4 +355,4 @@ ___
 - [[The three standpoints]]
 - [[We ordinarily percieve reality through subjective biases shaped by our craving and attachments]]
 
-Total
+Total: 7
