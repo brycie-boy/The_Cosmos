@@ -1,6 +1,6 @@
 ## Emic Reality  # 
 
-Emic reality is a term which refers to the unified field made up thoughts, [[Sensation]]s and apparent sense impressions that organizes our inchoate experience into meaningful patterns. It is the paradigm or model that people create by talking to each other, or by communicating in any symbolism; the culture of a time or place; the semantic enviroment. Every emic reality has its own structure, and imposes structure on raw experience.
+Emic reality is a term which refers to the unified field made up thoughts, [[Sensation]]s, [[Perception]]s, and apparent [[sense impression]]s that organizes our inchoate experience into meaningful patterns. It is the paradigm or model that people create by talking to each other, or by communicating in any symbolism; the culture of a time or place; the semantic enviroment. Every emic reality has its own structure, and imposes structure on raw experience.
 
 ___
 

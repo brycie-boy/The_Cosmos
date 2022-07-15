@@ -3,10 +3,10 @@
 ![[6E52A22F-79AB-4F12-87E8-8A725621C626.jpeg|150]]
 
 Author: [[Robert Anton Wilson]]
+Publisher:
 Publish Date: 1983
 Review Date:
 Status: #💥
-Tags:
 
 ___
 
