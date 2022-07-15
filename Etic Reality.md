@@ -1,6 +1,6 @@
 ## Etic Reality  # 
 
-Etic reality is the hypothetical non-verbal actuality that has not been filtered through the [[Emic Reality]] of the [[Nervous System]] and is beyond dualism of any kind. In Mahayana Buddhism, it can be called [[Emptiness]] or interdependence. In Vajrayana Buddhism, it is also referred to as space, complete openness, or primordial purity.
+Etic reality is the hypothetical non-verbal actuality that has not been filtered through the [[Emic Reality]] of the [[Nervous System]]. 
 
 ___
 

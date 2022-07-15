@@ -28,7 +28,7 @@ ___
 Some terms which may be unfamiliar to certain readers are used frequently in this book. They are defined briefly here, and will be explained further, by context and example, as the argument unfolds.
 
 - Highlight(pink) - Page 11 · Location 139
-EMIC REALITY: the unified field made up of thoughts, feelings and apparent sense impressions that organizes our inchoate experience into meaningful patterns; the paradigm or model that people create by talking to each other, or by communicating in any symbolism; the culture of a time and place; the semantic environment. Every emic reality has its own structure, which imposes structure upon raw experience.
+EMIC REALITY: the unified field made up of thoughts, feelings and apparent sense impressions that organizes our inchoate experience into meaningful patterns ; the paradigm or model that people create by talking to each other, or by communicating in any symbolism; the culture of a time and place; the semantic environment. Every emic reality has its own structure, which imposes structure upon raw experience.
 
 - Highlight(pink) - Page 11 · Location 143
 ETIC REALITY: the hypothetical actuality that has not been filtered through the emic reality of a human nervous system or linguistic grid.
