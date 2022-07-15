@@ -18,6 +18,6 @@ ___
 
 ##### Metadata
 
-Type: 
+Type: #🔴 
 Tags:
-Status: 
+Status: #⛅️/⛅️ 
