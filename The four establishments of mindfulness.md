@@ -21,5 +21,5 @@ ___
 
 ##### Metadata
 Type: #🔵/🔵 
-Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Mindfulness]] 
+Tags: [[Philosophy]] / [[Spirituality]] / [[Psychology]] / [[Yoga]]
 Status: #☀️ 

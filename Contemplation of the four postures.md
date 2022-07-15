@@ -8,6 +8,8 @@ ___
 
 ##### References
 
+- Bodhi, Bhikkhu. (2005). [[In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VIII. MASTERING THE MIND]] (Location 4896). Somerville, MA: _Wisdom Publications_.
+
 - Majjhima Nikaya 10: Satipaṭṭhāna Sutta; I 55–63
 
 ##### Metadata

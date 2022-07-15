@@ -1,5 +1,5 @@
 
-<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon Book Summary, Notes and Highlights.]]
 ## [In the Buddha's Words An Anthology of Discources from the Pali Canon Chapter VI. Deepening One’s Perspective on the World](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
 ![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]

@@ -1,5 +1,5 @@
 
-<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon Book Summary, Notes and Highlights.]]
 ## [In The Buddha’s Words: An Anthology of Discorces from the Pali Canon Chapter V. THE WAY TO A FORTUNATE REBIRTH](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
 ![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
@@ -393,7 +393,7 @@ This realm consists of four planes, which are the objective counterparts of the 
 - [[The devine abodes]] 
 - [[The environment that we live in is an external reflection of the internal processes of the mind]]
 - [[The five precepts]]
-- [[The ten pathways of wholesome and unwholsome kamma]]
+- [[The three doors of action]]
 - [[The three unwholesome roots]]
 - [[The three wholesome roots]]
 - [[Unwholesome kamma]]

@@ -7,11 +7,14 @@ The Core is the heart of [[🔮 The Cosmos]]. Where all streams flow. It is from
 
 ___
 
-##### The Cosmos Lore 
+#### The Cosmos Lore 
 
--  The first note of The Cosmos: [[👁 The Monad]]
+-  The first note of The Cosmos!: [[👁 The Monad]]
+-  A list of my favorite sources: [[📚 The Library]]
 
 ## The Index
+
+These are the topics that i am most interested in, that is, according to my constellations.
 
 
 

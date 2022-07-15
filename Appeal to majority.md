@@ -1,8 +1,6 @@
 ## Appeal to majority  # 
 
-Appeal to majority is a [[Fallacy]] which is based on claiming a truth because the majority thinks so. 
-
-It uses an appeal to the beliefs, tastes, or values of a group of people, stating that because a certain opinion or attitude is held by a majority, it must be correct. 
+Appeal to majority is a [[Fallacy]] which is based on claiming a truth because the majority thinks so. It uses an appeal to the beliefs, tastes, or values of a group of people, stating that because a certain opinion or attitude is held by a majority, it must be correct. 
 
 ___
 
@@ -12,6 +10,6 @@ ___
 
 ##### Metadata
 
-Type: 
-Tags:
-Status: 
+Type: #🔵/🔵 
+Tags: [[Philosophy]] 
+Status: #⛅️/⛅️ 

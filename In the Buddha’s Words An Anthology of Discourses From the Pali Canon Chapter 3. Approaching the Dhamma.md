@@ -6,7 +6,6 @@ Author: [[Bhikku Bodhi]]
 Publish Date: 2005-6-28
 Review Date: 2022-7-13
 Status: #💥 
-Tags:
 
 ___
 

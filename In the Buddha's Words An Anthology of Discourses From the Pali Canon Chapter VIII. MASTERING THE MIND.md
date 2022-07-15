@@ -1,4 +1,4 @@
-<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon Book Summary, Notes and Highlights.]]
 
 ## [In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VIII. MASTERING THE MIND](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
@@ -423,4 +423,15 @@ ___
 - [[Insight]]
 - [[Mindfulness]]
 - [[The four establishments of mindfulness]]
-- 
+- [[Contemplation of body]]
+- [[Contemplation of feeling]]
+- [[Contemplation of mind]]
+- [[Contemplation of phenomena]]
+- [[Mindfulness of breathing]]
+- [[Contemplation of the four postures]]
+- [[Clear comprehension of activities]]
+- [[Attention to the unattractive nature of the body]]
+- [[Attention to the great elementss]]
+- [[The nine charnel ground contemplations]]
+
+Total: 14

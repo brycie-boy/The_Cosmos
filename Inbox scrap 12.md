@@ -60,7 +60,7 @@ Highlight(pink) - Location 426
 
 He cumbers himself never about consequences, about interests; he gives an independent, genuine verdict. You must court him: he does not court you. But the man is, as it were, clapped into jail by his consciousness. As soon as he has once acted or spoken with eclat, he is a committed person, watched by the sympathy or the hatred of hundreds, whose affections must now enter into his account.
 
-Highlight(pink) - Location 429
+Highlight(pink) - Location 429 ❗️
 
 There is no Lethe for this. Ah, that he could pass again into his neutrality! Who can thus avoid all pledges, and having observed, observe again from the same unaffected, unbiased, unbribable, unaffrighted innocence, must always be formidable.
 

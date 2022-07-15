@@ -1,5 +1,5 @@
 
-<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon]]
+<- [[In the Buddha's Words An Anthology of Discources from the Pali Canon Book Summary, Notes and Highlights.]]
 ## [In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1650578812&sr=8-1)
 
 ![[EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg|150]]
@@ -11,6 +11,8 @@ Review Date: 2022-4-21
 Status: #☁️/📚 
 
 ___
+
+### Annotations
 
 - Highlight(pink) - Location 5196
 The still mind, calm and collected, is the foundation for insight. The still mind observes phenomena as they arise and pass away, and from sustained observation and probing exploration arises “the higher wisdom of insight into phenomena” (adhipaññādhammavipassanā ).
@@ -649,3 +651,38 @@ It should be noted that from the second section to the end of the sutta, he fram
 
 - Highlight - Location 5264
 Its application makes it clear that no entity is isolated and self-enclosed but is, rather, inherently linked to other things in a complex web of dependently originated processes. The key to liberation lies in understanding the causes that sustain this web and bringing them to an end within oneself. This is done by practicing the Noble Eightfold Path, the way to extinguish those causes.
+
+___
+
+### Notes
+
+Total: 27
+
+- [[Nibbana]]
+- [[Dependant Origination]]
+- [[The three characteristics]]
+- [[The five aggregates]]
+- [[Six sense bases]]
+- [[The four nobel truths]]
+- [[The great elements]]
+- [[Paññā]]
+- [[Conceptual understanding]]
+- [[Experiental understanding]]
+- [[Form]]
+- [[Volitional formations]]
+- [[Mind-and-form]]
+- [[Identity view]]
+- [[The water element]]
+- [[The air element]] 
+- [[The fire element]]
+- [[The earth element]]
+- [[The space element]]
+- [[The consciousness element]]
+- [[Consciousness]]
+- [[The two elements of nibbana]]
+- [[Sensation]]
+- [[No entity is isolated and self-enclosed but is inherently linked to other things in a complex web of dependently originated processes]]
+- [[The contemplation the senses and the sensations that arise them from through the three characteristics leads to nibbana]]
+- [[Perception]]
+- [[Mind]]
+
