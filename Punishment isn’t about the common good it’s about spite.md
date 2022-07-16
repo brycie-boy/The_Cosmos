@@ -1,4 +1,4 @@
-## [Punishment isn’t about the common good: it’s about spite](link/file)
+## [Punishment isn’t about the common good it’s about spite](https://aeon.co/ideas/punishment-isnt-about-the-common-good-its-about-spite)
 
 Author: [[Patrick Forber]]
 Publisher: Aeon
